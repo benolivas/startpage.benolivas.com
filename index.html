@@ -17,7 +17,7 @@
   --accent:#B8912A;--link:#3E3D38;
 }
 html{background:var(--bg);}
-body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);font-size:13px;min-height:100vh;display:flex;flex-direction:column;}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);font-size:13px;height:100vh;display:flex;flex-direction:column;overflow:hidden;}
 
 /* ── NAV ── */
 .sp-nav{display:flex;justify-content:space-between;align-items:center;padding:0 1.5rem;height:34px;border-bottom:0.5px solid var(--rule);flex-shrink:0;}
@@ -29,9 +29,9 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .sp-dot{width:5px;height:5px;border-radius:50%;background:var(--accent);display:inline-block;}
 
 /* ── DESKTOP BODY ── */
-.sp-body{display:flex;flex:1;}
-.sp-main{flex:1;display:flex;flex-direction:column;padding:1.5rem 1.5rem 0;border-right:0.5px solid var(--rule);overflow:auto;min-width:0;container-type:inline-size;container-name:main;}
-.sp-sidebar{width:192px;flex-shrink:0;overflow:auto;}
+.sp-body{display:flex;flex:1;min-height:0;}
+.sp-main{flex:1;display:flex;flex-direction:column;padding:1.5rem 1.5rem 0;border-right:0.5px solid var(--rule);overflow:hidden;min-width:0;container-type:inline-size;container-name:main;}
+.sp-sidebar{width:192px;flex-shrink:0;overflow-y:auto;}
 
 /* ── DRAG DIVIDER + RESIZABLE SIDEBAR — desktop only ── */
 @media(min-width:701px){
@@ -77,11 +77,11 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .sp-pblock a{display:block;font-size:12px;font-weight:300;color:var(--link);text-decoration:none;line-height:1.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .1s;}
 .sp-pblock a:hover{color:var(--accent);}
 
-/* ── SECONDARY — desktop: soft fade + hidden scrollbar ── */
+/* ── SECONDARY — true inset scroll panel on desktop ── */
 .sp-secondary-wrap{position:relative;flex:1;min-height:0;}
 .sp-secondary{display:grid;grid-template-columns:repeat(4,1fr);gap:0 1.5rem;padding-bottom:2rem;}
-.sp-scat-lbl{font-size:8px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:.25rem;margin-top:.75rem;}
-.sp-scat a{display:block;font-size:11.5px;font-weight:300;color:var(--muted);text-decoration:none;line-height:1.9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .1s;}
+.sp-scat-lbl{font-size:8px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:500;margin-bottom:.25rem;margin-top:.6rem;}
+.sp-scat a{display:block;font-size:11.5px;font-weight:300;color:var(--muted);text-decoration:none;line-height:1.75;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .1s;}
 .sp-scat a:hover{color:var(--accent);}
 
 /* ── STRIP ── */
@@ -129,32 +129,41 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 
 /* ── DESKTOP SOFT SCROLL — Everything Else ── */
 @media(min-width:701px){
-  .sp-main{display:flex;flex-direction:column;}
   .sp-secondary-wrap{
-    flex:1;
-    min-height:0;
-    overflow:hidden;
-    position:relative;
+    overflow-y:auto;
+    scrollbar-width:thin;
+    scrollbar-color:var(--muted) transparent;
   }
-  .sp-secondary-wrap::after{
+  .sp-secondary-wrap::-webkit-scrollbar{width:3px;}
+  .sp-secondary-wrap::-webkit-scrollbar-track{background:transparent;}
+  .sp-secondary-wrap::-webkit-scrollbar-thumb{background:var(--muted);border-radius:2px;}
+  /* Top fade */
+  .sp-secondary-wrap::before{
     content:'';
-    position:absolute;
-    left:0;right:0;bottom:0;
-    height:48px;
-    background:linear-gradient(transparent,var(--bg));
+    position:sticky;
+    top:0;
+    display:block;
+    height:32px;
+    margin-bottom:-32px;
+    background:linear-gradient(var(--bg),transparent);
     pointer-events:none;
     z-index:2;
   }
-  body.dark .sp-secondary-wrap::after{
-    background:linear-gradient(transparent,var(--bg));
-  }
+  /* Bottom fade — on the secondary grid itself so it scrolls with content */
   .sp-secondary{
-    height:100%;
-    overflow-y:auto;
-    scrollbar-width:none;
     padding-bottom:3rem;
+    position:relative;
   }
-  .sp-secondary::-webkit-scrollbar{display:none;}
+  .sp-secondary::after{
+    content:'';
+    position:sticky;
+    bottom:0;
+    display:block;
+    height:40px;
+    margin-top:-40px;
+    background:linear-gradient(transparent,var(--bg));
+    pointer-events:none;
+  }
 }
 
 /* ── SIDEBAR PANELS ── */
@@ -235,16 +244,15 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 
 /* ════════════════════════════════
    MOBILE  ≤ 700px
-   Order: sidebar (time/wx/inspo/tools) → main (search/greeting/links)
-   Sidebar panels: 2-col grid, tools full-width
+   Body reverts to natural scroll — 100vh constraint is desktop only
    ════════════════════════════════ */
 @media(max-width:700px){
-  body{overflow:auto;}
+  body{height:auto;overflow:auto;}
   .sp-nav-pill{display:none;}
   .sp-body{flex-direction:column;}
 
   /* Sidebar floats above main */
-  .sp-sidebar{width:100%;order:-1;}
+  .sp-sidebar{width:100%;order:-1;overflow-y:visible;}
   .sp-main{padding:1.25rem 1.1rem 0;border-right:none;overflow:visible;}
 
   /* Sidebar: flush, no extra border needed — nav already separates */
@@ -311,11 +319,11 @@ body.dark{
 /* ── CONTAINER QUERIES — column reflow based on main content width ──
    Responds to sidebar drag AND window resize automatically.
    4 cols (default) → 2 cols → 1 col as main area narrows.          */
-@container main (max-width: 599px){
+@container main (max-width: 480px){
   .sp-primary{grid-template-columns:repeat(2,1fr);}
   .sp-secondary{grid-template-columns:repeat(2,1fr);}
 }
-@container main (max-width: 399px){
+@container main (max-width: 360px){
   .sp-primary{grid-template-columns:1fr;}
   .sp-secondary{grid-template-columns:1fr;}
 }
@@ -516,7 +524,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><span class="sp-stat-val" id="stat-visit">v10.1</span><span class="sp-stat-lbl">Version</span></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.2</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -698,7 +706,7 @@ sbTime.addEventListener('click',function(){
 
 /* ══ VERSION & LAST UPDATED ══ */
 const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 10:30 pm';
+const LAST_UPDATED_FULL='Mar 21, 2026 · 11:30 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
@@ -1060,7 +1068,7 @@ async function loadArt(){
     const linkEl=document.createElement('a');
     linkEl.className='sp-inspo-art-link';
     linkEl.textContent='r/museum';
-    linkEl.href='https://reddit.com'+d.permalink;
+    linkEl.href='https://old.reddit.com'+d.permalink;
     linkEl.target='_blank';
     linkEl.rel='noopener';
     linkEl.onclick=function(e){e.stopPropagation();};
