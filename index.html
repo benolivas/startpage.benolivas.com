@@ -31,7 +31,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 /* ── DESKTOP BODY ── */
 .sp-body{display:flex;flex:1;min-height:0;}
 .sp-main{flex:1;display:flex;flex-direction:column;padding:1.5rem 1.5rem 0;border-right:0.5px solid var(--rule);overflow:hidden;min-width:0;container-type:inline-size;container-name:main;}
-.sp-sidebar{width:192px;flex-shrink:0;overflow-y:auto;}
+.sp-sidebar{width:192px;flex-shrink:0;overflow-y:auto;container-type:inline-size;container-name:sidebar;}
 
 /* ── DRAG DIVIDER + RESIZABLE SIDEBAR — desktop only ── */
 @media(min-width:701px){
@@ -195,6 +195,18 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 .sp-inspo-art-img{display:block;width:100%;max-height:200px;object-fit:contain;background:var(--bg2);margin-bottom:.35rem;border:0.5px solid var(--rule);cursor:pointer;}
 @media(max-width:700px){.sp-inspo-art-img{max-height:260px;}}
 
+/* Sidebar container queries — quote + fact scale fluidly with sidebar width */
+@container sidebar (max-width: 170px){
+  .sp-inspo-val{font-size:11px;}
+  .sp-inspo-val.quote{font-size:14px;}
+  .sp-inspo-meta{font-size:8.5px;}
+}
+@container sidebar (max-width: 155px){
+  .sp-inspo-val{font-size:10.5px;line-height:1.5;}
+  .sp-inspo-val.quote{font-size:13px;line-height:1.45;}
+  .sp-inspo-meta{font-size:8px;}
+}
+
 /* Skeleton shimmer */
 @keyframes sp-shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
 .sp-skel{
@@ -291,7 +303,10 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 
   .sp-display{font-size:28px;margin-bottom:1.1rem;}
   .sp-primary{grid-template-columns:repeat(2,1fr);}
-  .sp-secondary{grid-template-columns:repeat(2,1fr);gap:0 1.25rem;}
+  /* Everything Else: single column on mobile — avoids uneven gap distribution */
+  .sp-secondary{grid-template-columns:1fr;gap:0;}
+  /* No interior scroll on mobile — page scrolls naturally */
+  .sp-secondary-wrap{overflow-y:visible;max-height:none;}
   .sp-strip{gap:1.25rem;}
   .sp-new-btn{margin-left:0;}
   .sp-hint-key{display:none;}
@@ -524,7 +539,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.2</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.3</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -706,7 +721,7 @@ sbTime.addEventListener('click',function(){
 
 /* ══ VERSION & LAST UPDATED ══ */
 const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 11:30 pm';
+const LAST_UPDATED_FULL='Mar 21, 2026 · 11:55 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
