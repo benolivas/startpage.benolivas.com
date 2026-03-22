@@ -306,10 +306,43 @@ body.dark{
   --text:#E8E4DC;--muted:#7A7975;--faint:#4A4A4A;
   --accent:#D4A93A;--link:#C8C4BB;
 }
-/* Ensure footer background updates with dark mode (uses var(--bg) already) */
+
+/* ── SIDEBAR COLLAPSE — 701px–860px ── */
+/* Between mobile breakpoint and full desktop, sidebar hides.
+   Nav clock carries time. Main content gets full width.
+   Drag divider and dark dot also hide at this range.         */
+@media(min-width:701px) and (max-width:860px){
+  .sp-sidebar{display:none;}
+  #drag-divider{display:none;}
+  .sp-main{border-right:none;padding:1.25rem 1.5rem 0;}
+  /* Search becomes more prominent */
+  .sp-search-input{font-size:18px;}
+  .sp-search-wrap{margin-bottom:clamp(.8rem,2vh,1.6rem);}
+  /* Primary grid drops to 2 cols to breathe */
+  .sp-primary{grid-template-columns:repeat(2,1fr);}
+  /* Secondary drops to 2 cols */
+  .sp-secondary{grid-template-columns:repeat(2,1fr);gap:0 1.5rem;}
+  /* Reset btn stays, dark dot hides (use footer on mobile-ish sizes) */
+  #dark-dot{display:none;}
+  .sp-dark-mobile{display:block !important;margin-left:auto;}
+  .sp-reset-btn{display:none !important;}
+}
+
+/* ── SECONDARY TOP+BOTTOM FADE — desktop only ── */
+/* Override base — add ::before for top fade */
+@media(min-width:701px){
+  .sp-secondary-wrap::before{
+    content:'';
+    position:absolute;
+    left:0;right:0;top:0;
+    height:32px;
+    background:linear-gradient(var(--bg),transparent);
+    pointer-events:none;
+    z-index:2;
+  }
+}
 
 /* ── FLUID VERTICAL SCALING — clamp replaces hard breakpoints ── */
-/* tier and primary spacing shrink smoothly as viewport height shrinks */
 .sp-tier{margin-bottom:clamp(.3rem,.9vh,.75rem);}
 .sp-primary{margin-bottom:clamp(.5rem,1.4vh,1.4rem);}
 .sp-pblock{padding:clamp(.35rem,.7vh,.7rem) .85rem clamp(.4rem,.8vh,.8rem);}
@@ -318,7 +351,7 @@ body.dark{
 .sp-search-wrap{margin-bottom:clamp(.6rem,1.4vh,1.4rem);}
 
 /* Sidebar vertical clamp */
-@media(min-width:701px){
+@media(min-width:861px){
   .sp-sb{padding:clamp(.6rem,1.2vh,1.25rem) 1.1rem clamp(.8rem,1.5vh,1.5rem);}
   .sp-clock-big{font-size:clamp(18px,2.8vh,28px);}
   .sp-wx-temp{font-size:clamp(14px,2vh,20px);}
@@ -481,7 +514,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip">
-      <div><span class="sp-stat-val" id="stat-visit">v9.7</span><span class="sp-stat-lbl">Version</span></div>
+      <div><span class="sp-stat-val" id="stat-visit">v9.8</span><span class="sp-stat-lbl">Version</span></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -663,7 +696,7 @@ sbTime.addEventListener('click',function(){
 
 /* ══ VERSION & LAST UPDATED ══ */
 const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 5:30 pm';
+const LAST_UPDATED_FULL='Mar 21, 2026 · 8:00 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
@@ -772,7 +805,7 @@ document.getElementById('notepad').addEventListener('input',function(){try{local
    Temp: Open-Meteo (no key, reliable)
    Location: browser geolocation → Nominatim reverse geocode, cached in localStorage
    Coord fallback: ipapi.co → freeipapi.com
-   Location label never cleared on weather failure.             */
+   Location label and coords cached — never clears on weather failure.          */
 const WMO_CODES={
   0:'Clear',1:'Mainly clear',2:'Partly cloudy',3:'Overcast',
   45:'Foggy',48:'Icy fog',
@@ -788,7 +821,6 @@ function setWeatherDisplay(tempC,code){
   const tempF=Math.round(tempC*9/5+32);
   const desc=WMO_CODES[code]||'Clear';
   const unitEl=document.getElementById('wx-unit');
-  // Clone to wipe old hover listeners
   const old=document.getElementById('wx-temp');
   const fresh=old.cloneNode(false);
   fresh.textContent=tempF;
@@ -809,12 +841,30 @@ function fetchWeatherAt(lat,lon){
     .catch(()=>{document.getElementById('wx-desc').textContent='unavailable';});
 }
 
-function setLocLabel(city,region){
-  const label=[city,region].filter(Boolean).join(', ');
-  if(label){
-    document.getElementById('wx-loc').textContent=label;
-    try{localStorage.setItem('sp5loc',label);}catch(e){}
-  }
+function setLocLabel(label){
+  if(!label)return;
+  document.getElementById('wx-loc').textContent=label;
+  try{localStorage.setItem('sp5loc',label);}catch(e){}
+}
+
+function resolveLocation(lat,lon){
+  // Nominatim: prefer municipality > city > town > village > county
+  // Use zoom=10 (city level) to avoid hyper-local neighborhood names
+  fetch('https://nominatim.openstreetmap.org/reverse?lat='+lat+'&lon='+lon
+    +'&format=json&zoom=10&addressdetails=1')
+    .then(r=>r.json())
+    .then(d=>{
+      const a=d.address||{};
+      // Priority: municipality → city → town → village → county
+      const city=a.municipality||a.city||a.town||a.village||a.county||'';
+      // For state use abbreviation if US, otherwise full name
+      const state=a.state||'';
+      setLocLabel([city,state].filter(Boolean).join(', '));
+    })
+    .catch(()=>{
+      // Location resolve failed — keep cached label, still fetch weather
+    })
+    .finally(()=>fetchWeatherAt(lat,lon));
 }
 
 function tryIpGeo(){
@@ -822,7 +872,7 @@ function tryIpGeo(){
     .then(r=>r.json())
     .then(d=>{
       if(!d.latitude)throw new Error('no coords');
-      setLocLabel(d.city||'',d.region||'');
+      setLocLabel([d.city,d.region].filter(Boolean).join(', '));
       fetchWeatherAt(d.latitude,d.longitude);
     })
     .catch(()=>{
@@ -830,14 +880,14 @@ function tryIpGeo(){
         .then(r=>r.json())
         .then(d=>{
           if(!d.latitude)throw new Error('no coords');
-          setLocLabel(d.cityName||'',d.regionName||'');
+          setLocLabel([d.cityName,d.regionName].filter(Boolean).join(', '));
           fetchWeatherAt(d.latitude,d.longitude);
         })
         .catch(()=>{document.getElementById('wx-desc').textContent='unavailable';});
     });
 }
 
-// Restore cached location immediately
+// Restore cached location immediately — shows before async resolves
 (function(){
   try{const c=localStorage.getItem('sp5loc');if(c)document.getElementById('wx-loc').textContent=c;}catch(e){}
   document.getElementById('wx-desc').textContent='fetching…';
@@ -845,14 +895,7 @@ function tryIpGeo(){
 
 if(navigator.geolocation){
   navigator.geolocation.getCurrentPosition(
-    pos=>{
-      const{latitude:lat,longitude:lon}=pos.coords;
-      fetch('https://nominatim.openstreetmap.org/reverse?lat='+lat+'&lon='+lon+'&format=json')
-        .then(r=>r.json())
-        .then(d=>{const a=d.address||{};setLocLabel(a.city||a.town||a.village||a.county||'',a.state||'');})
-        .catch(()=>{})
-        .finally(()=>fetchWeatherAt(lat,lon));
-    },
+    pos=>resolveLocation(pos.coords.latitude,pos.coords.longitude),
     ()=>tryIpGeo(),
     {timeout:6000,maximumAge:300000}
   );
