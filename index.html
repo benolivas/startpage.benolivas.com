@@ -453,9 +453,9 @@ body.dark{
       <div class="sp-pblock">
         <div class="sp-pblock-lbl">Sites Admin</div>
         <a href="https://github.com/">GitHub</a>
-        <a href="https://fox-guava-lryk.squarespace.com/config/pages">Squarespace</a>
         <a href="https://panel.dreamhost.com/">Dreamhost</a>
         <a href="https://claude.ai">Claude</a>
+        <a href="https://fox-guava-lryk.squarespace.com/config/pages">Squarespace</a>
       </div>
       <div class="sp-pblock">
         <div class="sp-pblock-lbl">News &amp; Feed</div>
@@ -471,22 +471,20 @@ body.dark{
     <div class="sp-secondary-wrap">
     <div class="sp-secondary">
       <div class="sp-scat">
-        <div class="sp-scat-lbl">Finance &amp; Shopping</div>
+        <div class="sp-scat-lbl">Finance</div>
         <a href="https://www.wellsfargo.com/" target="_blank" rel="noopener">Wells Fargo</a>
         <a href="https://mykplan.adp.com/" target="_blank" rel="noopener">401K</a>
         <a href="https://mygreatlakes.org/" target="_blank" rel="noopener">Great Lakes</a>
         <a href="https://www.indeed.com/jobs?q=creative&l=Los+Angeles%2C+CA" target="_blank" rel="noopener">Indeed</a>
+        <div class="sp-scat-lbl" style="margin-top:.65rem;">Shopping</div>
         <a href="https://smile.amazon.com/" target="_blank" rel="noopener">Amazon</a>
         <a href="https://www.etsy.com/" target="_blank" rel="noopener">Etsy</a>
         <a href="https://offerup.com/" target="_blank" rel="noopener">OfferUp</a>
-        <a href="https://www.fiverr.com/" target="_blank" rel="noopener">Fiverr</a>
         <div class="sp-scat-lbl" style="margin-top:.65rem;">Creative Ref</div>
+        <a href="https://www.pinterest.com/" target="_blank" rel="noopener">Pinterest</a>
         <a href="https://www.awwwards.com/" target="_blank" rel="noopener">Awwwards</a>
         <a href="https://www.behance.net/" target="_blank" rel="noopener">Behance</a>
-        <a href="https://brutalistwebsites.com/" target="_blank" rel="noopener">Brutalist Websites</a>
         <a href="https://elements.envato.com/" target="_blank" rel="noopener">Envato</a>
-        <a href="https://graphicburger.com/" target="_blank" rel="noopener">Graphic Burger</a>
-        <a href="https://www.dafont.com/" target="_blank" rel="noopener">dafont</a>
         <a href="https://ezgif.com/" target="_blank" rel="noopener">EZgif</a>
         <a href="https://cloudconvert.com/webm-converter" target="_blank" rel="noopener">WebM Creator</a>
         <div class="sp-scat-lbl" style="margin-top:.65rem;">Dev &amp; Creative</div>
@@ -521,7 +519,6 @@ body.dark{
         <a href="https://www.spotify.com" target="_blank" rel="noopener">Spotify</a>
         <a href="https://bandcamp.com/" target="_blank" rel="noopener">Bandcamp</a>
         <a href="https://www.audible.com/" target="_blank" rel="noopener">Audible</a>
-        <a href="https://www.musicforprogramming.net/" target="_blank" rel="noopener">Music for Programming</a>
       </div>
       <div class="sp-scat">
         <div class="sp-scat-lbl">Reference</div>
@@ -529,9 +526,6 @@ body.dark{
         <a href="https://archive.org/" target="_blank" rel="noopener">Internet Archive</a>
         <a href="https://www.imdb.com/" target="_blank" rel="noopener">IMDb</a>
         <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3Schools</a>
-        <a href="https://www.atlasobscura.com/" target="_blank" rel="noopener">Atlas Obscura</a>
-        <a href="https://jamesyu.org/hyperliterature/" target="_blank" rel="noopener">Hyperliterature</a>
-        <a href="https://www.brainpickings.org/" target="_blank" rel="noopener">Brainpickings</a>
         <div class="sp-scat-lbl" style="margin-top:.65rem;">Games</div>
         <a href="https://www.chess.com/home" target="_blank" rel="noopener">Chess.com</a>
         <a href="https://lichess.org/" target="_blank" rel="noopener">Lichess</a>
@@ -542,7 +536,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.6.1</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.7</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
       <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
@@ -722,19 +716,58 @@ sbTime.addEventListener('click',function(){
   clockRevertTimer=setTimeout(function(){clockShow24=false;tick();clockRevertTimer=null;},5000);
 });
 
-/* ══ VERSION & LAST UPDATED ══ */
-const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 9:05 pm';
-const dateEl=document.getElementById('stat-date');
-dateEl.textContent=LAST_UPDATED_SHORT;
-dateEl.title=LAST_UPDATED_FULL;
-// Hover/click to reveal full date+time
-dateEl.addEventListener('mouseenter',function(){this.textContent=LAST_UPDATED_FULL;});
-dateEl.addEventListener('mouseleave',function(){this.textContent=LAST_UPDATED_SHORT;});
-dateEl.addEventListener('click',function(){
-  this.textContent=LAST_UPDATED_FULL;
-  setTimeout(()=>{this.textContent=LAST_UPDATED_SHORT;},3000);
-});
+/* ══ VERSION & LAST UPDATED — pulled from GitHub API ══
+   Fetches latest commit from public repo. Falls back to hardcoded values
+   if offline or rate-limited (60 req/hr unauthenticated).              */
+const FALLBACK_VERSION='v10.7';
+const FALLBACK_DATE_SHORT='Mar 21';
+const FALLBACK_DATE_FULL='Mar 21, 2026 · 9:05 pm';
+
+function setDateDisplay(shortStr,fullStr){
+  const dateEl=document.getElementById('stat-date');
+  if(!dateEl)return;
+  dateEl.textContent=shortStr;
+  dateEl.title=fullStr;
+  dateEl.addEventListener('mouseenter',function(){this.textContent=fullStr;});
+  dateEl.addEventListener('mouseleave',function(){this.textContent=shortStr;});
+  dateEl.addEventListener('click',function(){
+    this.textContent=fullStr;
+    setTimeout(()=>{this.textContent=shortStr;},3000);
+  });
+}
+
+function setVersionDisplay(versionStr){
+  const el=document.getElementById('stat-visit');
+  if(el)el.textContent=versionStr;
+}
+
+// Set fallbacks immediately so something shows while fetching
+setVersionDisplay(FALLBACK_VERSION);
+setDateDisplay(FALLBACK_DATE_SHORT,FALLBACK_DATE_FULL);
+
+// Fetch live from GitHub
+(function(){
+  fetch('https://api.github.com/repos/benolivas/startpage.benolivas.com/commits?per_page=1')
+    .then(r=>{if(!r.ok)throw new Error('GitHub API '+r.status);return r.json();})
+    .then(data=>{
+      if(!data||!data[0])throw new Error('no commits');
+      const commit=data[0];
+      // Version: first word of commit message if it starts with v
+      const msg=commit.commit.message||'';
+      const vMatch=msg.match(/^(v[\d.]+)/);
+      const version=vMatch?vMatch[1]:FALLBACK_VERSION;
+      setVersionDisplay(version);
+      // Date: commit author date
+      const raw=commit.commit.author.date; // ISO 8601
+      const d=new Date(raw);
+      const months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      const shortStr=months[d.getMonth()]+' '+d.getDate();
+      const fullStr=months[d.getMonth()]+' '+d.getDate()+', '+d.getFullYear()
+        +' · '+d.toLocaleTimeString([],{hour:'numeric',minute:'2-digit'}).toLowerCase();
+      setDateDisplay(shortStr,fullStr);
+    })
+    .catch(()=>{}); // silently keep fallback values on any error
+})();
 
 /* ══ DARK MODE ══ */
 function applyDark(on){
