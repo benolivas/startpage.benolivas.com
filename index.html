@@ -130,15 +130,21 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 /* ── DESKTOP SOFT SCROLL — Everything Else ── */
 @media(min-width:701px){
   .sp-secondary-wrap{
-    overflow-y:scroll;
-    scrollbar-width:none; /* Firefox — hide, we draw our own via webkit */
+    overflow-y:auto;
+    /* Auto-hide scrollbar — visible when scrolling, hidden at rest */
+    scrollbar-width:thin;
+    scrollbar-color:var(--muted) transparent;
   }
-  .sp-secondary-wrap::-webkit-scrollbar{width:3px;height:3px;}
+  .sp-secondary-wrap::-webkit-scrollbar{width:3px;}
   .sp-secondary-wrap::-webkit-scrollbar-track{background:transparent;}
-  .sp-secondary-wrap::-webkit-scrollbar-thumb{background:var(--muted);border-radius:2px;}
-  .sp-secondary-wrap::-webkit-scrollbar-thumb:hover{background:var(--text);}
+  .sp-secondary-wrap::-webkit-scrollbar-thumb{
+    background:transparent; /* hidden at rest */
+    border-radius:2px;
+    transition:background .3s;
+  }
+  .sp-secondary-wrap:hover::-webkit-scrollbar-thumb{background:var(--muted);}
   .sp-secondary-wrap::-webkit-scrollbar-button{display:none;}
-  /* Top fade — absolutely positioned overlay, always visible */
+  /* Top fade — absolute, always anchored to top of wrapper */
   .sp-secondary-wrap::before{
     content:'';
     position:absolute;
@@ -148,7 +154,7 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
     pointer-events:none;
     z-index:3;
   }
-  /* Bottom fade — absolutely positioned overlay, always visible */
+  /* Bottom fade — absolute, always anchored to bottom of wrapper */
   .sp-secondary-wrap::after{
     content:'';
     position:absolute;
@@ -160,30 +166,6 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
   }
   .sp-secondary{padding-bottom:2.5rem;}
 }
-
-/* ── ROW DRAG HANDLES — desktop only ── */
-.sp-row-drag{
-  height:8px;
-  cursor:row-resize;
-  position:relative;
-  flex-shrink:0;
-  margin:0 -1.5rem; /* extend to edges of padding */
-  z-index:5;
-}
-.sp-row-drag::after{
-  content:'';
-  position:absolute;
-  left:1.5rem;right:1.5rem;
-  top:50%;
-  height:1px;
-  background:transparent;
-  transition:background .2s;
-  transform:translateY(-50%);
-}
-.sp-row-drag:hover::after,
-.sp-row-drag.dragging::after{background:var(--accent);}
-/* Hide row drags on mobile */
-@media(max-width:700px){.sp-row-drag{display:none;}}
 
 /* ── SIDEBAR PANELS ── */
 .sp-sb{padding:1.25rem 1.1rem 1.5rem;display:flex;flex-direction:column;}
@@ -322,7 +304,7 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 
   .sp-display{font-size:28px;margin-bottom:1.1rem;}
   .sp-primary{grid-template-columns:repeat(2,1fr);}
-  /* Everything Else: force single column — container query must not override */
+  /* Everything Else: force 1 column — !important overrides container query */
   .sp-secondary{grid-template-columns:1fr !important;gap:0;}
   /* No interior scroll on mobile — page scrolls naturally */
   .sp-secondary-wrap{overflow-y:visible !important;max-height:none !important;}
@@ -453,7 +435,7 @@ body.dark{
 
     <!-- Daily -->
     <div class="sp-tier">Daily</div>
-    <div class="sp-primary" id="sp-primary">
+    <div class="sp-primary">
       <div class="sp-pblock">
         <div class="sp-pblock-lbl">Email &amp; Comms</div>
         <a href="https://mail.google.com/mail/u/0/">Gmail</a>
@@ -484,12 +466,9 @@ body.dark{
       </div>
     </div>
 
-    <!-- Row drag handle — desktop only -->
-    <div class="sp-row-drag" id="row-drag" title="Drag to resize · Double-click to reset"></div>
-
     <!-- Everything else -->
     <div class="sp-tier">Everything else</div>
-    <div class="sp-secondary-wrap" id="sp-secondary-wrap">
+    <div class="sp-secondary-wrap">
     <div class="sp-secondary">
       <div class="sp-scat">
         <div class="sp-scat-lbl">Finance &amp; Shopping</div>
@@ -563,7 +542,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.4</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.5</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -744,8 +723,8 @@ sbTime.addEventListener('click',function(){
 });
 
 /* ══ VERSION & LAST UPDATED ══ */
-const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 22, 2026 · 12:30 am';
+const LAST_UPDATED_SHORT='Mar 22';
+const LAST_UPDATED_FULL='Mar 22, 2026 · 12:00 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
@@ -791,7 +770,6 @@ function applySidebarW(w){
 function resetLayout(){
   applySidebarW(DEFAULT_SB_W);
   try{localStorage.removeItem('sp5sbw');}catch(e){}
-  resetRowHeights();
 }
 
 // Restore saved width
@@ -822,6 +800,7 @@ function resetLayout(){
 
   document.addEventListener('mousemove',function(e){
     if(!dragging)return;
+    // dragging left = wider sidebar, right = narrower
     const delta=startX-e.clientX;
     const newW=applySidebarW(startW+delta);
     try{localStorage.setItem('sp5sbw',newW);}catch(err){}
@@ -835,83 +814,10 @@ function resetLayout(){
     document.body.style.userSelect='';
   });
 
-  divider.addEventListener('dblclick',function(){resetLayout();});
-})();
-
-/* ══ ROW DRAG RESIZE ══
-   Drag the handle between Daily and Everything Else to redistribute
-   vertical space. Primary grid gets a flex-basis; secondary-wrap takes
-   the rest. Double-click or Reset layout restores defaults.           */
-const DEFAULT_PRIMARY_H=null; // null = natural height
-const MIN_PRIMARY_H=60;
-const MAX_PRIMARY_H=400;
-
-function applyPrimaryH(h){
-  const primary=document.getElementById('sp-primary');
-  if(!primary)return h;
-  if(h===null){
-    primary.style.flexShrink='';
-    primary.style.flexGrow='';
-    primary.style.flexBasis='';
-    primary.style.minHeight='';
-  } else {
-    h=Math.max(MIN_PRIMARY_H,Math.min(MAX_PRIMARY_H,h));
-    primary.style.flexShrink='0';
-    primary.style.flexGrow='0';
-    primary.style.flexBasis=h+'px';
-    primary.style.overflow='hidden';
-  }
-  return h;
-}
-
-function resetRowHeights(){
-  applyPrimaryH(null);
-  try{localStorage.removeItem('sp5rowh');}catch(e){}
-}
-
-// Restore saved row height
-(function(){
-  try{
-    const saved=parseInt(localStorage.getItem('sp5rowh'));
-    if(saved&&saved>=MIN_PRIMARY_H&&saved<=MAX_PRIMARY_H)applyPrimaryH(saved);
-  }catch(e){}
-})();
-
-// Row drag logic — desktop only
-(function(){
-  const handle=document.getElementById('row-drag');
-  if(!handle)return;
-  let dragging=false,startY=0,startH=0;
-
-  handle.addEventListener('mousedown',function(e){
-    if(e.button!==0)return;
-    e.preventDefault();
-    const primary=document.getElementById('sp-primary');
-    if(!primary)return;
-    dragging=true;
-    startY=e.clientY;
-    startH=primary.offsetHeight;
-    handle.classList.add('dragging');
-    document.body.style.cursor='row-resize';
-    document.body.style.userSelect='none';
+  // Double-click to reset
+  divider.addEventListener('dblclick',function(){
+    resetLayout();
   });
-
-  document.addEventListener('mousemove',function(e){
-    if(!dragging)return;
-    const delta=e.clientY-startY;
-    const newH=applyPrimaryH(startH+delta);
-    try{localStorage.setItem('sp5rowh',newH);}catch(err){}
-  });
-
-  document.addEventListener('mouseup',function(){
-    if(!dragging)return;
-    dragging=false;
-    handle.classList.remove('dragging');
-    document.body.style.cursor='';
-    document.body.style.userSelect='';
-  });
-
-  handle.addEventListener('dblclick',function(){resetRowHeights();});
 })();
 
 /* ══ AUTOFOCUS SEARCH ══ */
