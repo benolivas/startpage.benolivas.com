@@ -538,7 +538,7 @@ body.dark{
     </div><!-- /sp-secondary-outer -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.8</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.8.1</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
       <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
@@ -719,7 +719,7 @@ sbTime.addEventListener('click',function(){
 });
 
 /* ══ VERSION & LAST UPDATED — live from GitHub API ══ */
-const FALLBACK_VERSION='v10.8';
+const FALLBACK_VERSION='v10.8.1';
 const FALLBACK_DATE_SHORT='Mar 21';
 const FALLBACK_DATE_FULL='Mar 21, 2026';
 
@@ -1011,7 +1011,7 @@ async function loadQuote(){
     const q=quotes[Math.floor(Math.random()*Math.min(quotes.length,12))];
     el.textContent='\u201C'+q+'\u201D';
     const wqUrl='https://en.wikiquote.org/wiki/'+encodeURIComponent(subject);
-    meta.innerHTML='— <a href="'+wqUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'">'+subject+'</a>';
+    meta.innerHTML='<a href="'+wqUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+subject+'</a>';
   }catch(e){
     const fallback=[
       ['"The only way to do great work is to love what you do."','Steve Jobs','https://en.wikiquote.org/wiki/Steve_Jobs'],
@@ -1023,7 +1023,7 @@ async function loadQuote(){
     ];
     const f=fallback[Math.floor(Math.random()*fallback.length)];
     el.textContent=f[0];
-    meta.innerHTML='— <a href="'+f[2]+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'">'+f[1]+'</a>';
+    meta.innerHTML='<a href="'+f[2]+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+f[1]+'</a>';
   }
 }
 
@@ -1054,7 +1054,7 @@ async function loadFact(){
     const articleUrl=pages.length
       ?'https://en.wikipedia.org/wiki/'+encodeURIComponent(pages[0].title)
       :'https://en.wikipedia.org/wiki/'+MONTHS[mo-1]+'_'+day;
-    meta.innerHTML='<a href="'+articleUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'">'+ev.year+'</a>';
+    meta.innerHTML='<a href="'+articleUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+ev.year+'</a>';
   }catch(e){
     el.textContent='Wikipedia historical events unavailable.';
     meta.textContent='';
