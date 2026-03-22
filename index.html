@@ -30,7 +30,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 
 /* ── DESKTOP BODY ── */
 .sp-body{display:flex;flex:1;}
-.sp-main{flex:1;display:flex;flex-direction:column;padding:1.5rem 1.5rem 0;border-right:0.5px solid var(--rule);overflow:auto;min-width:0;}
+.sp-main{flex:1;display:flex;flex-direction:column;padding:1.5rem 1.5rem 0;border-right:0.5px solid var(--rule);overflow:auto;min-width:0;container-type:inline-size;container-name:main;}
 .sp-sidebar{width:192px;flex-shrink:0;overflow:auto;}
 
 /* ── DRAG DIVIDER + RESIZABLE SIDEBAR — desktop only ── */
@@ -85,10 +85,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .sp-scat a:hover{color:var(--accent);}
 
 /* ── STRIP ── */
-/* position:sticky removed — JS inertia handles pinning on desktop.
-   Mobile keeps sticky via .sp-strip-sticky class added by JS when needed. */
-.sp-strip{display:flex;align-items:center;gap:2rem;padding:.7rem 0;border-top:0.5px solid var(--rule);margin-top:auto;flex-shrink:0;flex-wrap:wrap;background:var(--bg);z-index:10;will-change:transform;}
-.sp-strip.is-sticky{position:sticky;bottom:0;}
+.sp-strip{display:flex;align-items:center;gap:2rem;padding:.7rem 0;border-top:0.5px solid var(--rule);margin-top:auto;flex-shrink:0;flex-wrap:wrap;position:sticky;bottom:0;background:var(--bg);z-index:10;}
 .sp-stat-val{font-size:12px;font-weight:400;font-variant-numeric:tabular-nums;display:block;}
 .sp-stat-lbl{font-size:8px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);}
 .sp-new-btn{font-family:'DM Sans',sans-serif;font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);background:transparent;border:0.5px solid var(--rule);padding:5px 12px;cursor:pointer;transition:color .1s,border-color .1s;}
@@ -311,6 +308,18 @@ body.dark{
   --accent:#D4A93A;--link:#C8C4BB;
 }
 
+/* ── CONTAINER QUERIES — column reflow based on main content width ──
+   Responds to sidebar drag AND window resize automatically.
+   4 cols (default) → 2 cols → 1 col as main area narrows.          */
+@container main (max-width: 599px){
+  .sp-primary{grid-template-columns:repeat(2,1fr);}
+  .sp-secondary{grid-template-columns:repeat(2,1fr);}
+}
+@container main (max-width: 399px){
+  .sp-primary{grid-template-columns:1fr;}
+  .sp-secondary{grid-template-columns:1fr;}
+}
+
 /* ── FLUID SIDEBAR — compresses but never disappears on desktop ── */
 /* Width driven by JS drag (--sb-w var), but also clamps with viewport width */
 @media(min-width:701px){
@@ -507,7 +516,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><span class="sp-stat-val" id="stat-visit">v10.0</span><span class="sp-stat-lbl">Version</span></div>
+      <div><span class="sp-stat-val" id="stat-visit">v10.1</span><span class="sp-stat-lbl">Version</span></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -689,7 +698,7 @@ sbTime.addEventListener('click',function(){
 
 /* ══ VERSION & LAST UPDATED ══ */
 const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 9:45 pm';
+const LAST_UPDATED_FULL='Mar 21, 2026 · 10:30 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
@@ -785,76 +794,7 @@ function resetLayout(){
   });
 })();
 
-/* ══ FOOTER INERTIA ══
-   On desktop: footer tracks scroll position with a weighted lag.
-   Uses requestAnimationFrame + lerp for smooth ease-out settle.
-   On mobile: plain sticky — inertia would fight touch momentum.
-   To revert entirely: delete this block, add position:sticky;bottom:0 to .sp-strip */
-(function(){
-  const strip=document.getElementById('sp-strip');
-  const main=document.querySelector('.sp-main');
-  if(!strip||!main)return;
-
-  // Mobile gets plain sticky — skip inertia
-  if(window.innerWidth<=700){
-    strip.classList.add('is-sticky');
-    return;
-  }
-
-  let currentY=0;      // current rendered translateY offset
-  let targetY=0;       // where we want to be
-  let lastScrollTop=0;
-  let rafId=null;
-  let isSettled=true;
-
-  const LERP_FACTOR=0.12;   // lower = more lag/inertia, higher = snappier
-  const MAX_OFFSET=8;       // max px the footer can lag behind (keeps it subtle)
-
-  function lerp(a,b,t){return a+(b-a)*t;}
-
-  function animate(){
-    currentY=lerp(currentY,targetY,LERP_FACTOR);
-    // Snap to rest when close enough
-    if(Math.abs(currentY-targetY)<0.05){
-      currentY=targetY;
-      isSettled=true;
-      strip.style.transform=currentY===0?'':'translateY('+currentY.toFixed(2)+'px)';
-      rafId=null;
-      return;
-    }
-    strip.style.transform='translateY('+currentY.toFixed(2)+'px)';
-    rafId=requestAnimationFrame(animate);
-  }
-
-  main.addEventListener('scroll',function(){
-    const st=main.scrollTop;
-    const delta=st-lastScrollTop;
-    lastScrollTop=st;
-
-    // Scroll down → footer lags slightly behind (positive Y = moves down)
-    // Scroll up → footer leads slightly ahead (negative Y = moves up)
-    targetY=Math.max(-MAX_OFFSET,Math.min(MAX_OFFSET,targetY+delta*0.4));
-
-    // Decay target back toward 0 over time
-    targetY=targetY*0.85;
-
-    if(isSettled){
-      isSettled=false;
-      rafId=requestAnimationFrame(animate);
-    }
-  },{ passive:true });
-
-  // Resize: re-check mobile threshold
-  window.addEventListener('resize',function(){
-    if(window.innerWidth<=700){
-      strip.classList.add('is-sticky');
-      strip.style.transform='';
-      if(rafId){cancelAnimationFrame(rafId);rafId=null;}
-    } else {
-      strip.classList.remove('is-sticky');
-    }
-  });
-})();
+/* ══ AUTOFOCUS SEARCH ══ */
 window.addEventListener('load',function(){
   try{document.getElementById('search').focus();}catch(e){}
 });

@@ -9,13 +9,28 @@ A personal browser startpage. Single HTML file — no build step, no dependencie
 ## Features
 
 - **Search** — DDG / Google / Bing cycle; `@mail`, `@cal`, `@drive` commands via Anthropic API + MCP
-- **Daily links** — primary grid of most-used sites
-- **Everything else** — secondary categorized link library
-- **Sidebar** — live clock (12h/24h hover), weather (°F/°C hover), quote, today in history, artwork from r/museum
+- **Daily links** — primary grid of most-used sites, opens in same tab
+- **Everything else** — secondary categorized link library, opens in new tab, soft-scroll inset with fade top and bottom
+- **Sidebar** — live clock (12h/24h hover), weather (°F/°C hover, cached location), quote, today in history, artwork from r/museum; draggable width
 - **Tools** — Pomodoro timer, scratchpad (persisted), color picker + eyedropper
-- **Dark mode** — nav dot (desktop) or footer toggle (mobile); preference persisted
+- **Dark mode** — nav dot (desktop) or footer toggle (mobile); preference persisted to localStorage
 - **Resizable layout** — drag the divider between main and sidebar; double-click or "Reset layout" to restore default
-- **Responsive** — fluid scaling on desktop; dedicated mobile layout ≤700px
+- **Responsive** — fluid scaling via `clamp()`; container queries reflow columns based on actual main content width; dedicated mobile layout ≤700px
+
+---
+
+## Deploy pipeline
+
+Push to `main` on GitHub → GitHub Action SSHs into Dreamhost → `git pull` → live in ~15 seconds.
+
+```
+VSCode → git push → GitHub Actions → Dreamhost → startpage.benolivas.com
+```
+
+Secrets required in GitHub repo settings:
+- `SSH_HOST` — `iad1-shared-b7-41.dreamhost.com`
+- `SSH_USERNAME` — `benoli7`
+- `SSH_PRIVATE_KEY` — private SSH key authorized on Dreamhost
 
 ---
 
@@ -29,60 +44,64 @@ No build step. Drop `index.html` anywhere and open it.
 
 **To enable `@mail` / `@cal` / `@drive` AI search:**
 1. Get an Anthropic API key from [console.anthropic.com](https://console.anthropic.com)
-2. Set `ANTHROPIC_API_KEY` in the config block at the top of the `<script>` section
-3. For production: proxy requests through a serverless function rather than exposing the key in the browser
+2. For production: proxy through a serverless function — never expose the key in the browser
+3. Set `ANTHROPIC_API_KEY` in the config block at the top of the script for local/dev use only
 
 ---
 
-## Version History
+## Version history
+
+### v10.1 — 2026-03-21
+- Container queries on `.sp-main` — columns reflow based on actual main content width, not window width; responds to both window resize and sidebar drag automatically
+- 4 columns → 2 columns at 599px main width → 1 column at 399px
+- Footer reverted to plain CSS `position: sticky` — clean and reliable on both desktop and mobile
+- Inertia JS block removed entirely
+
+### v10.0 — 2026-03-21
+- Sidebar compresses fluidly (min 150px, max 360px) — never disappears on desktop
+- Removed sidebar collapse breakpoint — no more jarring hide/show
+- Everything Else: top AND bottom fade using `var(--bg)` — works in light and dark mode
+- Scrollbar thumb color fixed — reads correctly on both themes
+- Weather location accuracy improved: Nominatim zoom=10, municipality field priority
+- Triple weather fallback: browser geolocation → ipapi.co → freeipapi.com
+
+### v9.8 — 2026-03-21
+- Weather rebuilt: Open-Meteo replaces wttr.in
+- Location cached in localStorage — never disappears on weather failure
+
+### v9.7 — 2026-03-21
+- GitHub added to Sites Admin daily grid
+- Everything Else links open in new tab; Daily links stay same tab
+- Last Updated: short date by default, hover/click reveals full date + time
 
 ### v9.6 — 2026-03-21
-- Desktop: drag divider to resize main/sidebar columns; persists to localStorage
-- Desktop: double-click divider or "Reset layout →" footer button to restore default width
-- Desktop: dark mode moved to nav dot (filled circle = on); hidden on mobile
-- Mobile: dark mode footer toggle unchanged (○/●)
-- Fluid `clamp()` scaling on greeting, spacing, and link sizes — smooth resize, no hard breakpoints
-- "Everything else" section: soft fade + hidden scrollbar on desktop
-- Footer buttons split cleanly by viewport: Reset layout (desktop) / Dark mode (mobile)
+- Drag divider to resize main/sidebar; double-click or Reset layout to restore
+- Dark mode nav dot (desktop); footer toggle (mobile)
+- Fluid clamp() scaling; Everything Else soft scroll with fade
 
 ### v9.5 — 2026-03-21
-- Mobile artwork skeleton height increased to better match average loaded size
-- Mobile time tap: extended revert delay from 3s to 5s
-- Daily section: Sites Admin promoted to primary grid; Claude kept; Dev & Creative moved to Everything Else
-- Everything Else: Finance & Shopping moved to first (left) column
-- Sidebar: temperature shows °C on hover, reverts to °F on mouse-out
-- Footer: visit counter replaced with version number
-- Footer: date changed to "Last Updated"
-- Footer: Refresh greeting replaced with Dark mode toggle (○/●); preference persisted
-- Footer: sticky — always visible, never overlapping content
-- Search: auto-focuses on page load (new tab behavior)
-- Responsive: max-height breakpoints added to retain content at small window heights
+- Sites Admin in Daily grid; Finance & Shopping moved left in Everything Else
+- Temperature °C on hover; footer dark mode toggle; footer sticky
+- Search autofocuses on page load
 
 ### v9.4 — prior
-- Initial documented version
-- Search with engine cycling (DDG / Google / Bing)
-- `@mail` / `@cal` / `@drive` command integration via Anthropic API
-- Sidebar: clock, weather, quote, today in history, r/museum artwork
-- Tools: Pomodoro, scratchpad, color picker + eyedropper
-- Dark mode foundation
-- Mobile layout (≤700px): sidebar above main, 2-column grid
+- Foundation: search, @mail/@cal/@drive, Daily grid, Everything Else, sidebar panels, tools, mobile layout
 
 ---
 
-## Roadmap
+## Roadmap — v10.2+
 
-- **Built-in editor** — edit links, categories, and layout without touching the HTML
-- **Column drag** — resize primary grid column widths
-- **API integration** — calendar view, task runner, auto-email
-- **AI tools** — scheduler, prioritizer, graphic generation
-- **Profile** — localStorage-based preferences (name, location, timezone)
-- **Public deployment** — config-driven version for others to self-host
+- **API proxy** — Cloudflare Worker / Netlify Function; @mail, @cal, @drive working
+- **Sidebar productivity mode** — narrow desktop: search dominant, sidebar hidden with toggle
+- **Built-in editor** — add/remove/reorder links without touching HTML
+- **Profile preferences** — name, location override, timezone
+- **Public deployment config** — easy self-host, no server storage
 
 ---
 
-## Security note
+## Security
 
-The `ANTHROPIC_API_KEY` in the script config is intentionally left blank in this repo. Never commit a real key. For production use, proxy API calls through a serverless function (Cloudflare Workers, Netlify Functions, etc.) so the key never reaches the browser.
+`ANTHROPIC_API_KEY` is intentionally blank in this repo. Never commit a real key. Proxy API calls server-side for production.
 
 ---
 
