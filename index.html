@@ -130,22 +130,21 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 /* ── DESKTOP SOFT SCROLL — Everything Else ── */
 @media(min-width:701px){
   .sp-secondary-wrap{
-    overflow-y:scroll;
-    /* Firefox — hide default scrollbar entirely (overlay scrollbars on FF anyway) */
-    scrollbar-width:none;
+    overflow-y:auto; /* auto = no track shown when content fits */
+    scrollbar-width:none; /* Firefox — hide entirely, clean look */
   }
-  /* Webkit — 3px, no arrows, matches global scrollbar exactly */
-  .sp-secondary-wrap::-webkit-scrollbar{width:3px;height:3px;}
-  .sp-secondary-wrap::-webkit-scrollbar-track{background:transparent;}
-  .sp-secondary-wrap::-webkit-scrollbar-button{display:none;height:0;width:0;}
-  /* Thumb hidden at rest, shown when .is-scrolling class active (set by JS) */
+  /* Webkit — explicit override of global rule, 3px, no arrows */
+  .sp-secondary-wrap::-webkit-scrollbar{width:3px !important;height:3px !important;}
+  .sp-secondary-wrap::-webkit-scrollbar-track{background:transparent !important;}
+  .sp-secondary-wrap::-webkit-scrollbar-button{display:none !important;height:0;width:0;}
   .sp-secondary-wrap::-webkit-scrollbar-thumb{
-    background:transparent;
+    background:transparent !important;
     border-radius:2px;
-    transition:background .15s;
+    transition:background .2s;
   }
-  .sp-secondary-wrap.is-scrolling::-webkit-scrollbar-thumb{background:var(--muted);}
-  /* Top fade — absolute, always anchored to top of wrapper */
+  /* JS adds .is-scrolling while user is scrolling, removes after 800ms idle */
+  .sp-secondary-wrap.is-scrolling::-webkit-scrollbar-thumb{background:var(--muted) !important;}
+  /* Top fade */
   .sp-secondary-wrap::before{
     content:'';
     position:absolute;
@@ -155,7 +154,7 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
     pointer-events:none;
     z-index:3;
   }
-  /* Bottom fade — absolute, always anchored to bottom of wrapper */
+  /* Bottom fade */
   .sp-secondary-wrap::after{
     content:'';
     position:absolute;
@@ -543,10 +542,10 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.5.1</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.6</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
-      <!-- Desktop only: reset layout -->
-      <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
+      <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
+      <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
       <!-- Mobile only: dark mode toggle -->
       <button class="sp-new-btn sp-dark-mobile" id="dark-toggle" onclick="toggleDark()">Dark mode ○</button>
     </div>
@@ -743,6 +742,9 @@ function applyDark(on){
   // mobile footer button
   const tog=document.getElementById('dark-toggle');
   if(tog)tog.textContent=on?'Dark mode ●':'Dark mode ○';
+  // desktop footer button
+  const togD=document.getElementById('dark-toggle-desktop');
+  if(togD)togD.textContent=on?'Dark mode ●':'Dark mode ○';
   // desktop nav dot
   const dot=document.getElementById('dark-dot');
   if(dot)dot.classList.toggle('on',on);
@@ -983,19 +985,20 @@ async function loadQuote(){
     if(!quotes.length)throw new Error('no quotes parsed');
     const q=quotes[Math.floor(Math.random()*Math.min(quotes.length,12))];
     el.textContent='\u201C'+q+'\u201D';
-    meta.textContent='— '+subject;
+    const wqUrl='https://en.wikiquote.org/wiki/'+encodeURIComponent(subject);
+    meta.innerHTML='— <a href="'+wqUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;border-bottom:0.5px solid var(--faint);">'+subject+'</a>';
   }catch(e){
-    // Fallback pool
     const fallback=[
-      ['"The only way to do great work is to love what you do."','— Steve Jobs'],
-      ['"We are what we repeatedly do."','— Aristotle'],
-      ['"Simplicity is the ultimate sophistication."','— Leonardo da Vinci'],
-      ['"In the middle of difficulty lies opportunity."','— Albert Einstein'],
-      ['"The future belongs to those who believe in their dreams."','— Eleanor Roosevelt'],
-      ['"Not all those who wander are lost."','— J.R.R. Tolkien'],
+      ['"The only way to do great work is to love what you do."','Steve Jobs','https://en.wikiquote.org/wiki/Steve_Jobs'],
+      ['"We are what we repeatedly do."','Aristotle','https://en.wikiquote.org/wiki/Aristotle'],
+      ['"Simplicity is the ultimate sophistication."','Leonardo da Vinci','https://en.wikiquote.org/wiki/Leonardo_da_Vinci'],
+      ['"In the middle of difficulty lies opportunity."','Albert Einstein','https://en.wikiquote.org/wiki/Albert_Einstein'],
+      ['"The future belongs to those who believe in their dreams."','Eleanor Roosevelt','https://en.wikiquote.org/wiki/Eleanor_Roosevelt'],
+      ['"Not all those who wander are lost."','J.R.R. Tolkien','https://en.wikiquote.org/wiki/J._R._R._Tolkien'],
     ];
     const f=fallback[Math.floor(Math.random()*fallback.length)];
-    el.textContent=f[0];meta.textContent=f[1];
+    el.textContent=f[0];
+    meta.innerHTML='— <a href="'+f[2]+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;border-bottom:0.5px solid var(--faint);">'+f[1]+'</a>';
   }
 }
 
@@ -1021,7 +1024,9 @@ async function loadFact(){
     let text=ev.text.replace(/<[^>]+>/g,'').trim();
     if(text.length>160)text=text.slice(0,157)+'…';
     el.textContent=text;
-    meta.textContent=ev.year;
+    // Year links to Wikipedia On This Day page
+    const wikiDayUrl='https://en.wikipedia.org/wiki/'+MONTHS[mo-1]+'_'+day;
+    meta.innerHTML='<a href="'+wikiDayUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;border-bottom:0.5px solid var(--faint);">'+ev.year+'</a>';
   }catch(e){
     el.textContent='Wikipedia historical events unavailable.';
     meta.textContent='';
