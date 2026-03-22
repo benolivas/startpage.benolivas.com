@@ -130,20 +130,21 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 /* ── DESKTOP SOFT SCROLL — Everything Else ── */
 @media(min-width:701px){
   .sp-secondary-wrap{
-    overflow-y:auto;
-    /* Auto-hide scrollbar — visible when scrolling, hidden at rest */
-    scrollbar-width:thin;
-    scrollbar-color:var(--muted) transparent;
+    overflow-y:scroll;
+    /* Firefox — hide default scrollbar entirely (overlay scrollbars on FF anyway) */
+    scrollbar-width:none;
   }
-  .sp-secondary-wrap::-webkit-scrollbar{width:3px;}
+  /* Webkit — 3px, no arrows, matches global scrollbar exactly */
+  .sp-secondary-wrap::-webkit-scrollbar{width:3px;height:3px;}
   .sp-secondary-wrap::-webkit-scrollbar-track{background:transparent;}
+  .sp-secondary-wrap::-webkit-scrollbar-button{display:none;height:0;width:0;}
+  /* Thumb hidden at rest, shown when .is-scrolling class active (set by JS) */
   .sp-secondary-wrap::-webkit-scrollbar-thumb{
-    background:transparent; /* hidden at rest */
+    background:transparent;
     border-radius:2px;
-    transition:background .3s;
+    transition:background .15s;
   }
-  .sp-secondary-wrap:hover::-webkit-scrollbar-thumb{background:var(--muted);}
-  .sp-secondary-wrap::-webkit-scrollbar-button{display:none;}
+  .sp-secondary-wrap.is-scrolling::-webkit-scrollbar-thumb{background:var(--muted);}
   /* Top fade — absolute, always anchored to top of wrapper */
   .sp-secondary-wrap::before{
     content:'';
@@ -542,7 +543,7 @@ body.dark{
     </div><!-- /sp-secondary-wrap -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.5</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.5.1</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -824,6 +825,20 @@ function resetLayout(){
 window.addEventListener('load',function(){
   try{document.getElementById('search').focus();}catch(e){}
 });
+
+/* ══ SECONDARY SCROLLBAR VISIBILITY ══
+   Adds .is-scrolling to wrapper while scrolling, removes after idle.
+   Webkit scrollbar thumb transitions transparent → --muted on this class. */
+(function(){
+  const wrap=document.querySelector('.sp-secondary-wrap');
+  if(!wrap)return;
+  let t=null;
+  wrap.addEventListener('scroll',function(){
+    wrap.classList.add('is-scrolling');
+    clearTimeout(t);
+    t=setTimeout(function(){wrap.classList.remove('is-scrolling');},800);
+  },{passive:true});
+})();
 
 /* ══ NOTEPAD ══ */
 try{const n=localStorage.getItem('sp5note');if(n)document.getElementById('notepad').value=n;}catch(e){}
