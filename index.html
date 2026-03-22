@@ -85,13 +85,16 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .sp-scat a:hover{color:var(--accent);}
 
 /* ── STRIP ── */
-.sp-strip{display:flex;align-items:center;gap:2rem;padding:.7rem 0;border-top:0.5px solid var(--rule);margin-top:auto;flex-shrink:0;flex-wrap:wrap;position:sticky;bottom:0;background:var(--bg);z-index:10;}
+/* position:sticky removed — JS inertia handles pinning on desktop.
+   Mobile keeps sticky via .sp-strip-sticky class added by JS when needed. */
+.sp-strip{display:flex;align-items:center;gap:2rem;padding:.7rem 0;border-top:0.5px solid var(--rule);margin-top:auto;flex-shrink:0;flex-wrap:wrap;background:var(--bg);z-index:10;will-change:transform;}
+.sp-strip.is-sticky{position:sticky;bottom:0;}
 .sp-stat-val{font-size:12px;font-weight:400;font-variant-numeric:tabular-nums;display:block;}
 .sp-stat-lbl{font-size:8px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);}
 .sp-new-btn{font-family:'DM Sans',sans-serif;font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);background:transparent;border:0.5px solid var(--rule);padding:5px 12px;cursor:pointer;transition:color .1s,border-color .1s;}
 .sp-new-btn:hover{color:var(--text);border-color:var(--muted);}
-.sp-reset-btn{margin-left:auto;}   /* desktop only — pushes right */
-.sp-dark-mobile{display:none;}     /* hidden desktop, shown mobile */
+.sp-reset-btn{margin-left:auto;}
+.sp-dark-mobile{display:none;}
 
 /* ── NAV DARK DOT — desktop only ── */
 #dark-dot{
@@ -230,7 +233,8 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 
 ::-webkit-scrollbar{width:3px;height:3px;}
 ::-webkit-scrollbar-track{background:transparent;}
-::-webkit-scrollbar-thumb{background:var(--rule);}
+::-webkit-scrollbar-thumb{background:var(--muted);border-radius:2px;}
+::-webkit-scrollbar-thumb:hover{background:var(--text);}
 
 /* ════════════════════════════════
    MOBILE  ≤ 700px
@@ -307,29 +311,18 @@ body.dark{
   --accent:#D4A93A;--link:#C8C4BB;
 }
 
-/* ── SIDEBAR COLLAPSE — 701px–860px ── */
-/* Between mobile breakpoint and full desktop, sidebar hides.
-   Nav clock carries time. Main content gets full width.
-   Drag divider and dark dot also hide at this range.         */
-@media(min-width:701px) and (max-width:860px){
-  .sp-sidebar{display:none;}
-  #drag-divider{display:none;}
-  .sp-main{border-right:none;padding:1.25rem 1.5rem 0;}
-  /* Search becomes more prominent */
-  .sp-search-input{font-size:18px;}
-  .sp-search-wrap{margin-bottom:clamp(.8rem,2vh,1.6rem);}
-  /* Primary grid drops to 2 cols to breathe */
-  .sp-primary{grid-template-columns:repeat(2,1fr);}
-  /* Secondary drops to 2 cols */
-  .sp-secondary{grid-template-columns:repeat(2,1fr);gap:0 1.5rem;}
-  /* Reset btn stays, dark dot hides (use footer on mobile-ish sizes) */
-  #dark-dot{display:none;}
-  .sp-dark-mobile{display:block !important;margin-left:auto;}
-  .sp-reset-btn{display:none !important;}
+/* ── FLUID SIDEBAR — compresses but never disappears on desktop ── */
+/* Width driven by JS drag (--sb-w var), but also clamps with viewport width */
+@media(min-width:701px){
+  .sp-sidebar{
+    width:var(--sb-w,192px);
+    min-width:150px;
+    max-width:360px;
+    transition:none;
+  }
 }
 
 /* ── SECONDARY TOP+BOTTOM FADE — desktop only ── */
-/* Override base — add ::before for top fade */
 @media(min-width:701px){
   .sp-secondary-wrap::before{
     content:'';
@@ -350,8 +343,8 @@ body.dark{
 .sp-pblock a{line-height:clamp(1.5,1.85vh,1.85);}
 .sp-search-wrap{margin-bottom:clamp(.6rem,1.4vh,1.4rem);}
 
-/* Sidebar vertical clamp */
-@media(min-width:861px){
+/* Sidebar vertical clamp — applies at all desktop widths */
+@media(min-width:701px){
   .sp-sb{padding:clamp(.6rem,1.2vh,1.25rem) 1.1rem clamp(.8rem,1.5vh,1.5rem);}
   .sp-clock-big{font-size:clamp(18px,2.8vh,28px);}
   .sp-wx-temp{font-size:clamp(14px,2vh,20px);}
@@ -513,8 +506,8 @@ body.dark{
     </div><!-- /sp-secondary -->
     </div><!-- /sp-secondary-wrap -->
 
-    <div class="sp-strip">
-      <div><span class="sp-stat-val" id="stat-visit">v9.8</span><span class="sp-stat-lbl">Version</span></div>
+    <div class="sp-strip" id="sp-strip">
+      <div><span class="sp-stat-val" id="stat-visit">v10.0</span><span class="sp-stat-lbl">Version</span></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop only: reset layout -->
       <button class="sp-new-btn sp-reset-btn" onclick="resetLayout()">Reset layout →</button>
@@ -696,7 +689,7 @@ sbTime.addEventListener('click',function(){
 
 /* ══ VERSION & LAST UPDATED ══ */
 const LAST_UPDATED_SHORT='Mar 21';
-const LAST_UPDATED_FULL='Mar 21, 2026 · 8:00 pm';
+const LAST_UPDATED_FULL='Mar 21, 2026 · 9:45 pm';
 const dateEl=document.getElementById('stat-date');
 dateEl.textContent=LAST_UPDATED_SHORT;
 dateEl.title=LAST_UPDATED_FULL;
@@ -727,7 +720,7 @@ try{const d=localStorage.getItem('sp5dark');if(d==='1')applyDark(true);}catch(e)
 
 /* ══ SIDEBAR DRAG RESIZE ══ */
 const DEFAULT_SB_W=192;
-const MIN_SB_W=120;
+const MIN_SB_W=150;
 const MAX_SB_W=360;
 
 function applySidebarW(w){
@@ -792,7 +785,76 @@ function resetLayout(){
   });
 })();
 
-/* ══ AUTOFOCUS SEARCH ══ */
+/* ══ FOOTER INERTIA ══
+   On desktop: footer tracks scroll position with a weighted lag.
+   Uses requestAnimationFrame + lerp for smooth ease-out settle.
+   On mobile: plain sticky — inertia would fight touch momentum.
+   To revert entirely: delete this block, add position:sticky;bottom:0 to .sp-strip */
+(function(){
+  const strip=document.getElementById('sp-strip');
+  const main=document.querySelector('.sp-main');
+  if(!strip||!main)return;
+
+  // Mobile gets plain sticky — skip inertia
+  if(window.innerWidth<=700){
+    strip.classList.add('is-sticky');
+    return;
+  }
+
+  let currentY=0;      // current rendered translateY offset
+  let targetY=0;       // where we want to be
+  let lastScrollTop=0;
+  let rafId=null;
+  let isSettled=true;
+
+  const LERP_FACTOR=0.12;   // lower = more lag/inertia, higher = snappier
+  const MAX_OFFSET=8;       // max px the footer can lag behind (keeps it subtle)
+
+  function lerp(a,b,t){return a+(b-a)*t;}
+
+  function animate(){
+    currentY=lerp(currentY,targetY,LERP_FACTOR);
+    // Snap to rest when close enough
+    if(Math.abs(currentY-targetY)<0.05){
+      currentY=targetY;
+      isSettled=true;
+      strip.style.transform=currentY===0?'':'translateY('+currentY.toFixed(2)+'px)';
+      rafId=null;
+      return;
+    }
+    strip.style.transform='translateY('+currentY.toFixed(2)+'px)';
+    rafId=requestAnimationFrame(animate);
+  }
+
+  main.addEventListener('scroll',function(){
+    const st=main.scrollTop;
+    const delta=st-lastScrollTop;
+    lastScrollTop=st;
+
+    // Scroll down → footer lags slightly behind (positive Y = moves down)
+    // Scroll up → footer leads slightly ahead (negative Y = moves up)
+    targetY=Math.max(-MAX_OFFSET,Math.min(MAX_OFFSET,targetY+delta*0.4));
+
+    // Decay target back toward 0 over time
+    targetY=targetY*0.85;
+
+    if(isSettled){
+      isSettled=false;
+      rafId=requestAnimationFrame(animate);
+    }
+  },{ passive:true });
+
+  // Resize: re-check mobile threshold
+  window.addEventListener('resize',function(){
+    if(window.innerWidth<=700){
+      strip.classList.add('is-sticky');
+      strip.style.transform='';
+      if(rafId){cancelAnimationFrame(rafId);rafId=null;}
+    } else {
+      strip.classList.remove('is-sticky');
+    }
+  });
+})();
 window.addEventListener('load',function(){
   try{document.getElementById('search').focus();}catch(e){}
 });
