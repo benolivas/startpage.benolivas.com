@@ -538,7 +538,7 @@ body.dark{
     </div><!-- /sp-secondary-outer -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.8.1</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.8.2</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
       <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
@@ -719,9 +719,9 @@ sbTime.addEventListener('click',function(){
 });
 
 /* ══ VERSION & LAST UPDATED — live from GitHub API ══ */
-const FALLBACK_VERSION='v10.8.1';
-const FALLBACK_DATE_SHORT='Mar 21';
-const FALLBACK_DATE_FULL='Mar 21, 2026';
+const FALLBACK_VERSION='v10.8.2';
+const FALLBACK_DATE_SHORT='Mar 22';
+const FALLBACK_DATE_FULL='Mar 22, 2026';
 
 function setDateDisplay(shortStr,fullStr){
   const dateEl=document.getElementById('stat-date');
@@ -918,22 +918,16 @@ function setLocLabel(label){
 }
 
 function resolveLocation(lat,lon){
-  // Nominatim: prefer municipality > city > town > village > county
-  // Use zoom=10 (city level) to avoid hyper-local neighborhood names
   fetch('https://nominatim.openstreetmap.org/reverse?lat='+lat+'&lon='+lon
     +'&format=json&zoom=10&addressdetails=1')
     .then(r=>r.json())
     .then(d=>{
       const a=d.address||{};
-      // Priority: municipality → city → town → village → county
       const city=a.municipality||a.city||a.town||a.village||a.county||'';
-      // For state use abbreviation if US, otherwise full name
       const state=a.state||'';
       setLocLabel([city,state].filter(Boolean).join(', '));
     })
-    .catch(()=>{
-      // Location resolve failed — keep cached label, still fetch weather
-    })
+    .catch(()=>{})
     .finally(()=>fetchWeatherAt(lat,lon));
 }
 
@@ -973,10 +967,108 @@ if(navigator.geolocation){
   tryIpGeo();
 }
 
-/* ══ INSPO ══ */
+/* ══ INSPO ══
+   v10.8.2: Expanded quote pool (90+ subjects), ±1 day fact window,
+   multi-subreddit artwork rotation, seen-history via sp5seen localStorage.
+   Seen history: hard-exclude items seen within 14 days, deprioritize within 60 days.
+   Storage key: sp5seen = { quote:{subject:timestamp}, fact:{key:timestamp}, art:{id:timestamp} }
+*/
 
-/* --- Quote: Wikiquote via Wikipedia API (random famous person) --- */
-const QUOTE_SUBJECTS=['Albert Einstein','Marcus Aurelius','Oscar Wilde','Ursula K. Le Guin','James Baldwin','Virginia Woolf','Richard Feynman','Susan Sontag','Jorge Luis Borges','Simone de Beauvoir','Bertrand Russell','Octavia Butler','Nikola Tesla','Hannah Arendt','David Foster Wallace'];
+/* ── Seen-history helpers ── */
+const SEEN_HARD_MS  = 14 * 24 * 60 * 60 * 1000; // 14 days: hard exclude
+const SEEN_SOFT_MS  = 60 * 24 * 60 * 60 * 1000; // 60 days: deprioritize
+
+function seenLoad(){
+  try{
+    const raw=localStorage.getItem('sp5seen');
+    if(raw){const p=JSON.parse(raw);if(p&&typeof p==='object')return p;}
+  }catch(e){}
+  return {quote:{},fact:{},art:{}};
+}
+
+function seenSave(db){
+  try{localStorage.setItem('sp5seen',JSON.stringify(db));}catch(e){}
+}
+
+function seenMark(type,key){
+  const db=seenLoad();
+  if(!db[type])db[type]={};
+  db[type][key]=Date.now();
+  // Prune entries older than 90 days to keep storage tidy
+  const cutoff=Date.now()-(90*24*60*60*1000);
+  Object.keys(db[type]).forEach(k=>{if(db[type][k]<cutoff)delete db[type][k];});
+  seenSave(db);
+}
+
+function seenFilter(type,candidates,keyFn){
+  /* Returns [preferred, deprioritized] arrays based on seen timestamps.
+     keyFn(item) should return a stable string key for that item. */
+  const db=seenLoad();
+  const seen=db[type]||{};
+  const now=Date.now();
+  const preferred=[],deprioritized=[];
+  for(const item of candidates){
+    const k=keyFn(item);
+    const ts=seen[k]||0;
+    const age=now-ts;
+    if(age<SEEN_HARD_MS)continue; // hard exclude
+    if(age<SEEN_SOFT_MS)deprioritized.push(item);
+    else preferred.push(item);
+  }
+  return [preferred,deprioritized];
+}
+
+function seenPick(type,candidates,keyFn){
+  /* Pick one item from candidates, preferring unseen/old. Falls back to
+     deprioritized pool, then ignores history entirely if all exhausted. */
+  const [preferred,deprioritized]=seenFilter(type,candidates,keyFn);
+  const pool=preferred.length?preferred:deprioritized.length?deprioritized:candidates;
+  if(!pool.length)return null;
+  return pool[Math.floor(Math.random()*pool.length)];
+}
+
+/* ── Quote pool — 90+ subjects across wide categories ── */
+const QUOTE_SUBJECTS=[
+  // Philosophy & thought
+  'Marcus Aurelius','Bertrand Russell','Hannah Arendt','Simone de Beauvoir',
+  'Friedrich Nietzsche','Albert Camus','Søren Kierkegaard','Epictetus',
+  'Seneca','Blaise Pascal','Voltaire','Michel de Montaigne','Baruch Spinoza',
+  // Literature — classic
+  'Oscar Wilde','Virginia Woolf','James Baldwin','Jorge Luis Borges',
+  'Ursula K. Le Guin','Octavia Butler','Susan Sontag','David Foster Wallace',
+  'Flannery O\'Connor','Toni Morrison','Sylvia Plath','Raymond Carver',
+  'Joan Didion','Cormac McCarthy','Don DeLillo','Thomas Pynchon',
+  // Literature — modern & international
+  'Haruki Murakami','Italo Calvino','Gabriel García Márquez','Clarice Lispector',
+  'Roberto Bolaño','Milan Kundera','Kazuo Ishiguro','Elena Ferrante',
+  'W.G. Sebald','Jhumpa Lahiri','Salman Rushdie','Paul Auster',
+  'Zadie Smith','Denis Johnson','Annie Dillard',
+  // Science & ideas
+  'Richard Feynman','Nikola Tesla','Carl Sagan','Stephen Hawking',
+  'Marie Curie','Albert Einstein','Werner Heisenberg','Alan Turing',
+  'Oliver Sacks','E.O. Wilson','Buckminster Fuller',
+  // Film & cinema
+  'Andrei Tarkovsky','Ingmar Bergman','Stanley Kubrick','Akira Kurosawa',
+  'Werner Herzog','Jean-Luc Godard','Federico Fellini','Orson Welles',
+  'Billy Wilder','Agnes Varda','Agnès Varda','François Truffaut',
+  // Music
+  'John Cage','Miles Davis','Glenn Gould','Leonard Bernstein',
+  'Brian Eno','Nick Cave','David Bowie','Tom Waits',
+  'Igor Stravinsky','Claude Debussy',
+  // Architecture & design
+  'Le Corbusier','Ludwig Mies van der Rohe','Frank Lloyd Wright',
+  'Rem Koolhaas','Dieter Rams','Paul Rand','Charles Eames','Massimo Vignelli',
+  // Chess
+  'Bobby Fischer','Garry Kasparov','Magnus Carlsen','Mikhail Tal',
+  'Emanuel Lasker','José Capablanca',
+  // Art & visual
+  'Pablo Picasso','Henri Matisse','Francis Bacon','Louise Bourgeois',
+  'Agnes Martin','Donald Judd','Sol LeWitt','Marina Abramović',
+  'William Blake','Wassily Kandinsky',
+  // Misc thinkers
+  'Marshall McLuhan','Susan Sontag','Roland Barthes','Walter Benjamin',
+  'Umberto Eco','George Orwell','Christopher Hitchens','James Baldwin',
+];
 
 async function loadQuote(){
   const el=document.getElementById('inspo-quote-val');
@@ -984,19 +1076,21 @@ async function loadQuote(){
   el.innerHTML='<span class="sp-skel sp-skel-quote"></span>';
   meta.innerHTML='<span class="sp-skel sp-skel-meta"></span>';
   try{
-    const subject=QUOTE_SUBJECTS[Math.floor(Math.random()*QUOTE_SUBJECTS.length)];
+    // Pick subject using seen-history
+    const subject=seenPick('quote',QUOTE_SUBJECTS,s=>s);
+    if(!subject)throw new Error('no subjects');
+
     const url='https://en.wikiquote.org/w/api.php?action=parse&page='+encodeURIComponent(subject)+'&prop=wikitext&format=json&origin=*';
     const res=await fetch(url);
     const data=await res.json();
     const wikitext=data.parse&&data.parse.wikitext&&data.parse.wikitext['*'];
     if(!wikitext)throw new Error('no content');
-    // Extract quoted lines: lines starting with * that are not sub-bullets or headers
+
     const lines=wikitext.split('\n');
     const quotes=[];
     for(const line of lines){
       const m=line.match(/^\*\s+([^*:].{20,200}?)(?:\s*<ref|$)/);
       if(m){
-        // Strip wiki markup
         let q=m[1]
           .replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g,'$1')
           .replace(/\{\{[^}]*\}\}/g,'')
@@ -1008,6 +1102,10 @@ async function loadQuote(){
       }
     }
     if(!quotes.length)throw new Error('no quotes parsed');
+
+    // Mark subject as seen
+    seenMark('quote',subject);
+
     const q=quotes[Math.floor(Math.random()*Math.min(quotes.length,12))];
     el.textContent='\u201C'+q+'\u201D';
     const wqUrl='https://en.wikiquote.org/wiki/'+encodeURIComponent(subject);
@@ -1018,7 +1116,6 @@ async function loadQuote(){
       ['"We are what we repeatedly do."','Aristotle','https://en.wikiquote.org/wiki/Aristotle'],
       ['"Simplicity is the ultimate sophistication."','Leonardo da Vinci','https://en.wikiquote.org/wiki/Leonardo_da_Vinci'],
       ['"In the middle of difficulty lies opportunity."','Albert Einstein','https://en.wikiquote.org/wiki/Albert_Einstein'],
-      ['"The future belongs to those who believe in their dreams."','Eleanor Roosevelt','https://en.wikiquote.org/wiki/Eleanor_Roosevelt'],
       ['"Not all those who wander are lost."','J.R.R. Tolkien','https://en.wikiquote.org/wiki/J._R._R._Tolkien'],
     ];
     const f=fallback[Math.floor(Math.random()*fallback.length)];
@@ -1027,7 +1124,7 @@ async function loadQuote(){
   }
 }
 
-/* --- Today in history: Wikipedia On This Day --- */
+/* ── Today in History — fetch ±1 day, merge, deduplicate ── */
 async function loadFact(){
   const el=document.getElementById('inspo-fact-val');
   const meta=document.getElementById('inspo-fact-meta');
@@ -1035,25 +1132,54 @@ async function loadFact(){
   meta.innerHTML='<span class="sp-skel sp-skel-meta"></span>';
   try{
     const now=new Date();
-    const mo=now.getMonth()+1,day=now.getDate();
-    const url='https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/'+mo+'/'+day;
-    const res=await fetch(url);
-    const data=await res.json();
-    const events=data.events||[];
-    if(!events.length)throw new Error('no events');
-    // Pick a random interesting one (not too old, not too recent)
-    const filtered=events.filter(e=>e.year&&e.year>1800&&e.year<2000);
-    const pool=filtered.length?filtered:events;
-    const ev=pool[Math.floor(Math.random()*Math.min(pool.length,15))];
-    // Clean text
-    let text=ev.text.replace(/<[^>]+>/g,'').trim();
+    // Build array of [month, day] for yesterday, today, tomorrow
+    const dates=[-1,0,1].map(offset=>{
+      const d=new Date(now);
+      d.setDate(d.getDate()+offset);
+      return [d.getMonth()+1,d.getDate()];
+    });
+
+    // Fetch all three in parallel, ignore failures gracefully
+    const results=await Promise.allSettled(
+      dates.map(([mo,day])=>
+        fetch('https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/'+mo+'/'+day)
+          .then(r=>r.ok?r.json():Promise.reject())
+      )
+    );
+
+    // Merge all events, deduplicate by year+first 40 chars of text
+    const seen=new Set();
+    let allEvents=[];
+    for(const r of results){
+      if(r.status==='fulfilled'&&r.value.events){
+        for(const ev of r.value.events){
+          const key=ev.year+'|'+(ev.text||'').slice(0,40);
+          if(!seen.has(key)){seen.add(key);allEvents.push(ev);}
+        }
+      }
+    }
+
+    if(!allEvents.length)throw new Error('no events');
+
+    // Filter interesting range
+    const filtered=allEvents.filter(e=>e.year&&e.year>1800&&e.year<2000);
+    const pool=filtered.length?filtered:allEvents;
+
+    // Pick using seen-history, keyed by year+text snippet
+    const ev=seenPick('fact',pool,e=>e.year+'|'+(e.text||'').slice(0,40));
+    if(!ev)throw new Error('no event picked');
+
+    // Mark as seen
+    seenMark('fact',ev.year+'|'+(ev.text||'').slice(0,40));
+
+    let text=(ev.text||'').replace(/<[^>]+>/g,'').trim();
     if(text.length>160)text=text.slice(0,157)+'…';
     el.textContent=text;
-    // Link year to the most relevant Wikipedia article for this event
+
     const pages=ev.pages||[];
     const articleUrl=pages.length
       ?'https://en.wikipedia.org/wiki/'+encodeURIComponent(pages[0].title)
-      :'https://en.wikipedia.org/wiki/'+MONTHS[mo-1]+'_'+day;
+      :'https://en.wikipedia.org/wiki/'+MONTHS[(now.getMonth())]+'_'+now.getDate();
     meta.innerHTML='<a href="'+articleUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+ev.year+'</a>';
   }catch(e){
     el.textContent='Wikipedia historical events unavailable.';
@@ -1061,19 +1187,33 @@ async function loadFact(){
   }
 }
 
-/* --- Artwork: Reddit r/museum via JSON feed --- */
+/* ── Artwork — rotate subreddits + top/hot/new, seen-history by post ID ── */
+const ART_SOURCES=[
+  {sub:'museum',    sort:'top', t:'week'},
+  {sub:'museum',    sort:'hot', t:''},
+  {sub:'museum',    sort:'new', t:''},
+  {sub:'ArtefactPorn', sort:'top', t:'week'},
+  {sub:'ArtefactPorn', sort:'hot', t:''},
+  {sub:'AlbumArtPorn',  sort:'top', t:'week'},
+  {sub:'AlbumArtPorn',  sort:'hot', t:''},
+];
+
 async function loadArt(){
   const el=document.getElementById('inspo-art-val');
   const meta=document.getElementById('inspo-art-meta');
   el.innerHTML='<span class="sp-skel sp-skel-art-img"></span><span class="sp-skel sp-skel-art-title"></span>';
   meta.innerHTML='';
   try{
-    const url='https://www.reddit.com/r/museum/top.json?limit=50&t=week';
+    // Pick a random source
+    const src=ART_SOURCES[Math.floor(Math.random()*ART_SOURCES.length)];
+    let url='https://www.reddit.com/r/'+src.sub+'/'+src.sort+'.json?limit=100';
+    if(src.t)url+='&t='+src.t;
+
     const res=await fetch(url,{headers:{'Accept':'application/json'}});
     const data=await res.json();
     const posts=(data.data&&data.data.children)||[];
 
-    // Filter for image posts with a preview image
+    // Filter for image posts
     const artPosts=posts.filter(p=>{
       const d=p.data;
       return !d.stickied&&d.title&&d.title.length>5&&
@@ -1081,19 +1221,22 @@ async function loadArt(){
     });
     if(!artPosts.length)throw new Error('no posts');
 
+    // Apply seen-history filter
+    const [preferred,deprioritized]=seenFilter('art',artPosts,p=>p.data.id);
+    const pool=preferred.length?preferred:deprioritized.length?deprioritized:artPosts;
+
     // Shuffle pool and find first post with acceptable aspect ratio
-    const pool=artPosts.slice(0,25).sort(()=>Math.random()-.5);
+    const shuffled=pool.slice(0,80).sort(()=>Math.random()-.5);
     let chosen=null,imgUrl=null;
-    for(const post of pool){
+    for(const post of shuffled){
       const d=post.data;
       if(d.preview&&d.preview.images&&d.preview.images[0]){
-        const src=d.preview.images[0].source;
-        const ratio=(src.height||1)/(src.width||1);
-        // Accept landscape through ~5:4 portrait (ratio up to 1.4), reject very tall or panoramic
+        const src2=d.preview.images[0].source;
+        const ratio=(src2.height||1)/(src2.width||1);
         if(ratio>1.45||ratio<0.3)continue;
         const resolutions=d.preview.images[0].resolutions;
         const suitable=resolutions.filter(i=>i.width<=960);
-        const best=suitable.length?suitable[suitable.length-1]:src;
+        const best=suitable.length?suitable[suitable.length-1]:src2;
         imgUrl=best.url.replace(/&amp;/g,'&');
         chosen=post;
         break;
@@ -1103,11 +1246,13 @@ async function loadArt(){
     }
     if(!chosen)throw new Error('no suitable post found');
 
+    // Mark as seen
+    seenMark('art',chosen.data.id);
+
     const d=chosen.data;
     let title=d.title.replace(/\[.*?\]/g,'').replace(/\s+/g,' ').trim();
 
     el.innerHTML='';
-    // Remove outer onclick — we'll handle clicks explicitly
     el.onclick=null;
 
     if(imgUrl){
@@ -1118,22 +1263,19 @@ async function loadArt(){
       img.loading='lazy';
       img.title='Click for a new artwork';
       img.onerror=function(){this.style.display='none';};
-      img.onload=function(){};
-      // Image click = refresh to new artwork
       img.onclick=function(e){e.stopPropagation();loadArt();};
       el.appendChild(img);
     }
 
-    // Title — plain text, not a link
     const titleEl=document.createElement('span');
     titleEl.className='sp-inspo-art-title';
     titleEl.textContent=title;
     el.appendChild(titleEl);
 
-    // r/museum source link
+    // Source link — show which subreddit it came from
     const linkEl=document.createElement('a');
     linkEl.className='sp-inspo-art-link';
-    linkEl.textContent='r/museum';
+    linkEl.textContent='r/'+d.subreddit;
     linkEl.href='https://old.reddit.com'+d.permalink;
     linkEl.target='_blank';
     linkEl.rel='noopener';
@@ -1141,12 +1283,10 @@ async function loadArt(){
     meta.innerHTML='';
     meta.appendChild(linkEl);
   }catch(e){
-    el.textContent='r/museum unavailable.';
+    el.textContent='Artwork unavailable.';
     meta.textContent='';
   }
 }
-
-function escHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 
 function refreshInspo(type){
   if(type==='quote')loadQuote();
@@ -1273,9 +1413,7 @@ async function launchEyedropper(){
     const result=await dropper.open();
     const hex=result.sRGBHex.toUpperCase();
     document.getElementById('cpick').value=hex;
-    // Trigger the input event to update the vals display
     document.getElementById('cpick').dispatchEvent(new Event('input'));
-    // Also auto-copy
     try{navigator.clipboard.writeText(hex);}catch(e){}
     const btn=document.getElementById('ccopy-btn');
     btn.textContent='copied';btn.classList.add('sp-copied');
