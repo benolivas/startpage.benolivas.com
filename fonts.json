@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T04:00:31.962Z",
+ "updated": "2026-10-16T13:12:42.078Z",
  "day": {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "picks": [
-   "242221",
-   "116909",
-   "250451",
-   "3482",
-   "250167",
-   "100785",
-   "250335",
-   "113113",
-   "246704"
+   "74361",
+   "111484",
+   "76",
+   "233568",
+   "13630",
+   "159384",
+   "75762",
+   "249633",
+   "1143"
   ]
  },
  "history": [
@@ -28,9 +28,354 @@
     "113113",
     "246704"
    ]
+  },
+  {
+   "date": "2026-10-16",
+   "picks": [
+    "74361",
+    "111484",
+    "76",
+    "233568",
+    "13630",
+    "159384",
+    "75762",
+    "249633",
+    "1143"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "78391",
+   "title": "Later",
+   "url": "https://fontsinuse.com/uses/78391/later",
+   "date": "2026-10-16T09:05:06.000Z",
+   "author": "NaN",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245652",
+     "name": "Nan Superx Sans",
+     "url": "https://fontsinuse.com/typefaces/245652/nan-superx-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16786/440/4/68ee5c5a/nan-superx-sans.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/296/295251/upto-700xauto/6a33c477/1773669234059.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295254/upto-700xauto/6ad1e8d9/1773669251841.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295255/upto-700xauto/6ab3bd9f/1773669254519.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295237/upto-700xauto/6ab3bd9f/product-influencer-marketing-software-img.png",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295253/upto-700xauto/6ab3bda7/1773669251824.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304739/upto-700xauto/6ab3bdbc/Screenshot%202026-06-19%20at%2011-49-44%20Later%20Influencer%20Marketing%20and%20Social%20Media%20Management.png"
+   ],
+   "excerpt": "Later Media is a company specialising in social media marketing and the creator economy, offering tools that enable brands, creators and agencies to manage their online presence. Its platform allows users to plan, schedule, publish, and analyse content…"
+  },
+  {
+   "id": "80139",
+   "title": "Overplay card game",
+   "url": "https://fontsinuse.com/uses/80139/overplay-card-game",
+   "date": "2026-10-16T08:59:52.000Z",
+   "author": "Costantino Cherubini",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217267",
+     "name": "Baustraße",
+     "url": "https://fontsinuse.com/typefaces/217267/baustrasse",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11039/440/4/63bddd29/baustrasse.png"
+    },
+    {
+     "id": "45671",
+     "name": "Halyard",
+     "url": "https://fontsinuse.com/typefaces/45671/halyard-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3407/440/4/59233e03/halyard-display.png"
+    },
+    {
+     "id": "46366",
+     "name": "Halyard Text",
+     "url": "https://fontsinuse.com/typefaces/46366/halyard-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3612/440/4/59233df3/halyard-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304763/upto-700xauto/6ad1e795/DSC_3515%20copia.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304764/upto-700xauto/6ab3e0e8/DSC_3529%20copia.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304770/upto-700xauto/6ab3e0ea/DSC_3669%20copia.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304769/upto-700xauto/6ab3e939/DSC_3531%20copia.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304766/upto-700xauto/6ab3e939/DSC_3618%20copia.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304771/upto-700xauto/6ab3eaa1/DSC_3631%20copia.jpeg"
+   ],
+   "excerpt": "Overplay is a card game focused on mixed-media cinema, exploring the history and visual language where live-action footage and real-world backgrounds coexist on screen with hand-drawn animation or CGI elements. Developed during the Digital Aesthetics…"
+  },
+  {
+   "id": "80292",
+   "title": "ORO",
+   "url": "https://fontsinuse.com/uses/80292/oro",
+   "date": "2026-10-16T08:50:11.000Z",
+   "author": "EDITO",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "219881",
+     "name": "Katalog",
+     "url": "https://fontsinuse.com/typefaces/219881/katalog",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11784/440/4/64886263/katalog.png"
+    },
+    {
+     "id": "233306",
+     "name": "KMR Melange Grotesk",
+     "url": "https://fontsinuse.com/typefaces/233306/kmr-melange-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13077/440/4/65eaa85c/kmr-melange-grotesk.png"
+    },
+    {
+     "id": "240579",
+     "name": "General Grotesque Mono",
+     "url": "https://fontsinuse.com/typefaces/240579/general-grotesque-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14370/440/4/6746d81d/general-grotesque-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304712/upto-700xauto/6ad1e6e3/76d2b294dc87bcf9d3af2f85ac811e684a030c87-4428x7205.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304711/upto-700xauto/6ab3acec/IMG_2797.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304720/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758126955515701_2369029.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304714/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758111270476550_2369029.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304715/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758106564418285_2369029.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304717/upto-700xauto/6ab3ad88/twotimeselliott_1789240270_3984758103703921290_2369029.jpeg"
+   ],
+   "excerpt": "ORO is a Jordanian water brand built around precision and consistency. Unlike natural water, whose mineral composition varies depending on geology, season and weather, ORO draws water from an aquifer around 400 metres underground, purifies it to a neutral…"
+  },
+  {
+   "id": "77649",
+   "title": "Casa website",
+   "url": "https://fontsinuse.com/uses/77649/casa-website",
+   "date": "2026-10-16T08:47:17.000Z",
+   "author": "Store Norske Skriftkompani",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245411",
+     "name": "Store Norske Litteratur",
+     "url": "https://fontsinuse.com/typefaces/245411/store-norske-litteratur",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16652/440/4/68e679ed/store-norske-litteratur.png"
+    },
+    {
+     "id": "79460",
+     "name": "ABC Diatype",
+     "url": "https://fontsinuse.com/typefaces/79460/abc-diatype",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4584/440/4/5ee9bf2f/abc-diatype.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/299/298657/upto-700xauto/6a69b608/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298658/upto-700xauto/6ab3bb6a/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298659/upto-700xauto/6a61d27b/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298660/upto-700xauto/6a61d27c/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298661/upto-700xauto/6a61d27e/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298662/upto-700xauto/6a61d27f/6.jpeg"
+   ],
+   "excerpt": "Casa is a membership service for homeowners, built around the idea of putting everyday home care on autopilot. The website presents a broad set of services, from concierge support and in-house handymen to care plans, home inventory, package pickups,…"
+  },
+  {
+   "id": "80274",
+   "title": "Questbean coffee packaging",
+   "url": "https://fontsinuse.com/uses/80274/questbean-coffee-packaging",
+   "date": "2026-10-16T08:46:40.000Z",
+   "author": "Alex Slobzheninov",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "242867",
+     "name": "Onlysans",
+     "url": "https://fontsinuse.com/typefaces/242867/onlysans",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14919/440/4/67d85507/onlysans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304562/upto-700xauto/6ad13423/__-24.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304565/upto-700xauto/6ac64bcb/v_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304567/upto-700xauto/6ac64bcb/d_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304569/upto-700xauto/6ac64bcb/m_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304571/upto-700xauto/6ac64bcb/a_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304573/upto-700xauto/6ac64bcb/f_1.jpeg"
+   ],
+   "excerpt": "Roadside Picnic redesigned the packaging for Questbean ’s Blend and Instant Coffee product lines:"
+  },
+  {
+   "id": "79695",
+   "title": "Alternative Layout Systems",
+   "url": "https://fontsinuse.com/uses/79695/alternative-layout-systems",
+   "date": "2026-10-16T08:39:56.000Z",
+   "author": "ToSupply",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "160549",
+     "name": "To Process",
+     "url": "https://fontsinuse.com/typefaces/160549/to-process",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8334/440/4/671ba879/to-process.png"
+    },
+    {
+     "id": "237392",
+     "name": "To Alter",
+     "url": "https://fontsinuse.com/typefaces/237392/to-alter",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14222/440/4/671ba89b/to-alter.png"
+    },
+    {
+     "id": "98247",
+     "name": "To Blend",
+     "url": "https://fontsinuse.com/typefaces/98247/to-blend",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5583/440/4/671b93cb/to-blend.png"
+    },
+    {
+     "id": "160550",
+     "name": "To Record",
+     "url": "https://fontsinuse.com/typefaces/160550/to-record",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8333/440/4/671ba883/to-record.png"
+    },
+    {
+     "id": "38634",
+     "name": "Ll Unica77",
+     "url": "https://fontsinuse.com/typefaces/38634/ll-unica77",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5056/440/4/5bd035c6/ll-unica77.png"
+    },
+    {
+     "id": "218335",
+     "name": "Ll Geigy",
+     "url": "https://fontsinuse.com/typefaces/218335/ll-geigy",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11445/440/4/642e8b84/ll-geigy.png"
+    },
+    {
+     "id": "191904",
+     "name": "Rapid St",
+     "url": "https://fontsinuse.com/typefaces/191904/rapid-st",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9848/440/4/646e63dc/rapid-st.png"
+    },
+    {
+     "id": "217860",
+     "name": "Store Norske Skandia",
+     "url": "https://fontsinuse.com/typefaces/217860/store-norske-skandia",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11235/440/4/640076d4/store-norske-skandia.png"
+    },
+    {
+     "id": "230901",
+     "name": "Ll Home",
+     "url": "https://fontsinuse.com/typefaces/230901/ll-home",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12435/440/4/6526c352/ll-home.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304337/upto-700xauto/6ad1e2f8/Alternative_Layout_System-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304342/upto-700xauto/6ab17e69/Alternative_Layout_System-a.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304343/upto-700xauto/6ab17e6e/Alternative_Layout_System-b.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304339/upto-700xauto/6ab17e6e/Alternative_Layout_System-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304340/upto-700xauto/6ab17e6e/Alternative_Layout_System-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304341/upto-700xauto/6ab17e6e/Alternative_Layout_System-4.jpeg"
+   ],
+   "excerpt": "Alternative Layout Systems is a graphic research project lead by Giliane Cachin that rethinks paragraph formatting, inspired by techniques from Hebrew and Arabic manuscripts to challenge conventional layouts. Created with Adobe’s plugin tools, the project…"
+  },
+  {
+   "id": "80297",
+   "title": "Crumbling Land",
+   "url": "https://fontsinuse.com/uses/80297/crumbling-land",
+   "date": "2026-10-16T08:37:49.000Z",
+   "author": "Murathan Biliktü",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250295",
+     "name": "Bm Survey",
+     "url": "https://fontsinuse.com/typefaces/250295/bm-survey",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19198/440/4/6ab48c6d/bm-survey.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304786/upto-700xauto/6ab49ada/DSC08514%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304795/upto-700xauto/6ab49abf/crumbling-land-stills.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304798/upto-700xauto/6ab49ac5/crumbling-land-booklet-16x9.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304790/upto-700xauto/6ab49adf/%20.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304806/upto-700xauto/6ab49fa0/169_entrance_vinyl.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304794/upto-700xauto/6ad1e31e/crumbling-land-phone-wide.png"
+   ],
+   "excerpt": "Crumbling Land is a project studying climate migration’s impact on property and sovereignty in North America. Noah Gotlib is using BM Survey drawn by Biliktü Foundry for the project. Noah asked for a typeface that looked like government forms, close to…"
+  },
+  {
+   "id": "80268",
+   "title": "Cherub Tricho",
+   "url": "https://fontsinuse.com/uses/80268/cherub-tricho",
+   "date": "2026-10-16T08:35:09.000Z",
+   "author": "Atin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "148015",
+     "name": "Tenor Sans",
+     "url": "https://fontsinuse.com/typefaces/148015/tenor-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7634/440/4/5fe79a48/tenor-sans.png"
+    },
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6ad1e1be/neue-haas-grotesk.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    },
+    {
+     "id": "42363",
+     "name": "Canela",
+     "url": "https://fontsinuse.com/typefaces/42363/canela",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2874/440/4/57793bfa/canela.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304514/upto-700xauto/6ad1e16c/IMG_9718.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304512/upto-700xauto/6ad1e34f/Artboard%2026.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304513/upto-700xauto/6ad1e187/Artboard%2027.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304519/upto-700xauto/6ab2a7bd/Cherub%20Tricho@300x.jpeg"
+   ],
+   "excerpt": "Cherub Tricho is a premier trichology clinic located in Canary Wharf, London. Strategic branding agency Atin was commissioned to undertake a complete visual evolution, establishing a “Minimalist Physician” persona that balances scientific authority with a…"
+  },
+  {
+   "id": "80227",
+   "title": "Fusion Festivalguide",
+   "url": "https://fontsinuse.com/uses/80227/fusion-festivalguide",
+   "date": "2026-10-16T08:31:49.000Z",
+   "author": "Andreas Seidel",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "41793",
+     "name": "Vtg Stencil DIN",
+     "url": "https://fontsinuse.com/typefaces/41793/vtg-stencil-din",
+     "sample": "https://assets.fontsinuse.com/static/renders/44/41793/400/4/6ad1e0f6/vtg-stencil-din.png"
+    },
+    {
+     "id": "83243",
+     "name": "Massimo Grafia",
+     "url": "https://fontsinuse.com/typefaces/83243/massimo-grafia",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4809/440/4/5b69b229/massimo-grafia.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304330/upto-700xauto/6ab17d24/fusion-festival-guide-2026-cover.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304331/upto-700xauto/6ab17d03/fusion-festival-guide-2026-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304332/upto-700xauto/6ab17d05/fusion-festival-guide-2026-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304333/upto-700xauto/6ab17d09/fusion-festival-guide-2026-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304334/upto-700xauto/6ac2982e/fusion-festival-guide-2026-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304335/upto-700xauto/6ac29831/fusion-festival-guide-2026-05.jpeg"
+   ],
+   "excerpt": "Held annually at a former military airfield in Lärz, Germany, Fusion Festival is one of Europe’s most iconic counter-culture gatherings. Known for its blend of electronic music, performative arts, and non-commercial ethos, the festival creates a temporary…"
+  },
   {
    "id": "79713",
    "title": "localhost:2026",
