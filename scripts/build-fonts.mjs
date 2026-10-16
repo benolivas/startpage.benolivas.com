@@ -54,9 +54,10 @@ export function parseItem(xml, staffPick) {
     typefaces.push({ id, name: names[id] || titleCase(slug), url, sample: decode(sample) });
   }
 
-  // Example images from embedded use items
+  // Example images: any use photo (static/use-media-items/), whatever wraps it —
+  // some posts use <div class="embedded-use-item">, most a bare <a><img></a>
   const images = [];
-  for (const m of html.matchAll(/class="embedded-use-item"[\s\S]*?<img\b[^>]*src="([^"]+)"/gi)) {
+  for (const m of html.matchAll(/<img\b[^>]*src="([^"]*\/static\/use-media-items\/[^"]+)"/gi)) {
     const src = decode(m[1]);
     if (!images.includes(src)) images.push(src);
     if (images.length >= 6) break;
