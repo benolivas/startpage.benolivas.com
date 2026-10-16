@@ -64,12 +64,11 @@ export function parseItem(xml, staffPick) {
   }
 
   // Short excerpt: body text without the credit line and footer
-  let text = stripTags(
-    html
-      .replace(/Contributed by[\s\S]*?<\/a>/i, '')
-      .replace(/This post was originally published at[\s\S]*$/i, '')
-      .replace(/<div class="embedded-use-item"[\s\S]*?<\/div>/gi, ''),
-  );
+  // Prefer the first real prose paragraph; skip credit lines and font metadata
+  const paras = [...html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((m) => stripTags(m[1]))
+    .filter((p) => p.length > 40 && !/^Contributed by|License:|originally published at/i.test(p));
+  let text = paras[0] || '';
   if (text.length > 260) text = text.slice(0, 257).replace(/\s+\S*$/, '') + '…';
 
   return {
@@ -119,8 +118,66 @@ async function main() {
     return;
   }
   const uses = [...byId.values()].sort((a, b) => b.date.localeCompare(a.date)).slice(0, MAX_USES);
-  writeFileSync(OUT, JSON.stringify({ updated: new Date().toISOString(), uses }, null, 1) + '\n');
-  console.log(`fonts.json: ${uses.length} uses (${fetched} from feeds)`);
+  const { day, history } = pickDay(uses, archive.day, archive.history || []);
+  writeFileSync(OUT, JSON.stringify({ updated: new Date().toISOString(), day, history, uses }, null, 1) + '\n');
+  console.log(`fonts.json: ${uses.length} uses (${fetched} from feeds); ${day.date}: ${day.picks.length} picks`);
+}
+
+/* ── Daily picks ──
+   One font of the day + ALTERNATES, identical for every visitor because they
+   live in fonts.json. Chosen once per Pacific calendar day: re-running the
+   workflow on the same day keeps the same picks. Fonts picked in the last
+   NO_REPEAT_DAYS are skipped; staff-pick typefaces are preferred.            */
+const ALTERNATES = 8;
+const NO_REPEAT_DAYS = 30;
+
+const laDate = (d = new Date()) => d.toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
+
+// Small deterministic PRNG seeded from the date, so a given day always shuffles the same way
+function seeded(str) {
+  let h = 2166136261;
+  for (const c of str) h = Math.imul(h ^ c.charCodeAt(0), 16777619);
+  return () => {
+    h = Math.imul(h ^ (h >>> 15), 2246822507);
+    h = Math.imul(h ^ (h >>> 13), 3266489909);
+    return ((h ^= h >>> 16) >>> 0) / 4294967296;
+  };
+}
+
+export function pickDay(uses, prevDay, prevHistory, date = laDate()) {
+  // Typefaces that can show at least one example image
+  const eligible = new Map();
+  for (const u of uses) {
+    if (!u.images || !u.images.length) continue;
+    for (const t of u.typefaces) {
+      const e = eligible.get(t.id) || { id: t.id, staff: false };
+      e.staff = e.staff || u.staffPick;
+      eligible.set(t.id, e);
+    }
+  }
+
+  // Same day and picks still valid → keep them stable
+  if (prevDay && prevDay.date === date && prevDay.picks.length && prevDay.picks.every((id) => eligible.has(id))) {
+    return { day: prevDay, history: prevHistory };
+  }
+
+  const cutoff = laDate(new Date(Date.now() - NO_REPEAT_DAYS * 864e5));
+  const recent = new Set(prevHistory.filter((h) => h.date >= cutoff && h.date !== date).flatMap((h) => h.picks));
+  const rand = seeded(date);
+  const shuffle = (a) => {
+    a = a.slice();
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rand() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+  };
+  const all = [...eligible.values()];
+  const fresh = all.filter((e) => !recent.has(e.id));
+  const pool = fresh.length >= ALTERNATES + 1 ? fresh : all; // small archive: allow repeats
+  // Staff picks first, then the rest, each group shuffled by the day's seed
+  const ordered = [...shuffle(pool.filter((e) => e.staff)), ...shuffle(pool.filter((e) => !e.staff))];
+  const picks = ordered.slice(0, ALTERNATES + 1).map((e) => e.id);
+
+  const history = [...prevHistory.filter((h) => h.date >= cutoff && h.date !== date), { date, picks }];
+  return { day: { date, picks }, history };
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) main();
