@@ -66,6 +66,39 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);fon
 .sp-display{font-family:'Cormorant Garamond',serif;font-size:clamp(18px,3.8vw,40px);font-weight:700;line-height:1.07;letter-spacing:-.015em;margin-bottom:clamp(.5rem,1.8vh,1.6rem);cursor:default;}
 .sp-display em{color:var(--muted);font-style:normal;font-weight:600;}
 
+/* ── FONT OF THE DAY ── */
+.sp-fotd{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.35fr);gap:1px;background:var(--rule);border:0.5px solid var(--rule);margin-bottom:clamp(.5rem,1.4vh,1.4rem);flex-shrink:0;}
+.sp-fotd>div{background:var(--bg);min-width:0;}
+.sp-fotd-info{padding:clamp(.5rem,1vh,.85rem) .85rem;display:flex;flex-direction:column;gap:.3rem;}
+.sp-fotd-sample-link{display:block;line-height:0;}
+.sp-fotd-sample{display:block;max-width:100%;height:clamp(28px,5.5vh,52px);width:auto;object-fit:contain;object-position:left center;mix-blend-mode:multiply;}
+body.dark .sp-fotd-sample{filter:invert(1);mix-blend-mode:screen;}
+.sp-fotd-name{font-family:'Cormorant Garamond',serif;font-size:clamp(18px,2.4vw,26px);font-weight:700;line-height:1.1;color:var(--text);text-decoration:none;transition:color .1s;}
+.sp-fotd-name:hover{color:var(--accent);}
+.sp-fotd-meta{font-size:9px;letter-spacing:.06em;color:var(--muted);font-weight:300;line-height:1.6;}
+.sp-fotd-meta a{color:var(--muted);text-decoration:none;transition:color .1s;}
+.sp-fotd-meta a:hover{color:var(--accent);}
+.sp-fotd-pick{color:var(--accent);}
+.sp-fotd-excerpt{font-size:11px;font-weight:300;color:var(--muted);line-height:1.55;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;}
+.sp-fotd-actions{display:flex;gap:.9rem;margin-top:auto;padding-top:.2rem;font-size:9px;letter-spacing:.12em;text-transform:uppercase;}
+.sp-fotd-actions a,.sp-fotd-actions button{font-family:'DM Sans',sans-serif;font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);background:none;border:none;padding:0;cursor:pointer;text-decoration:none;transition:color .1s;}
+.sp-fotd-actions a:hover,.sp-fotd-actions button:hover{color:var(--accent);}
+.sp-fotd-uses{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;background:var(--rule);}
+.sp-fotd-use{background:var(--bg);display:flex;flex-direction:column;text-decoration:none;min-width:0;}
+.sp-fotd-use img{display:block;width:100%;height:clamp(64px,13vh,150px);object-fit:cover;background:var(--bg2);transition:opacity .15s;}
+.sp-fotd-use:hover img{opacity:.85;}
+.sp-fotd-use span{font-size:9.5px;font-weight:300;color:var(--muted);padding:.3rem .5rem .4rem;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:color .1s;}
+.sp-fotd-use:hover span{color:var(--accent);}
+.sp-fotd-empty{grid-column:1/-1;padding:.7rem .85rem;font-size:11px;font-weight:300;color:var(--muted);}
+.sp-fotd-empty a{color:var(--muted);}
+@container main (max-width: 560px){
+  .sp-fotd{grid-template-columns:1fr;}
+}
+@media(max-width:700px){
+  .sp-fotd{grid-template-columns:1fr;}
+  .sp-fotd-use img{height:96px;}
+}
+
 /* ── TIER ── */
 .sp-tier{font-size:8.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--muted);font-weight:500;display:flex;align-items:center;gap:.6rem;margin-bottom:.75rem;}
 .sp-tier::after{content:'';flex:1;height:0.5px;background:var(--rule);}
@@ -196,6 +229,7 @@ body.dark #dark-dot.on{background:var(--text);border-color:var(--muted);}
 .sp-inspo-type{font-size:8px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:500;margin-bottom:2px;}
 .sp-inspo-val{font-size:12px;font-weight:300;color:var(--text);line-height:1.6;transition:color .1s;}
 .sp-inspo-val.quote{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:16px;font-weight:600;color:var(--text);line-height:1.55;}
+.sp-inspo-val.muted{color:var(--muted);}
 .sp-inspo-meta{font-size:9px;color:var(--faint);margin-top:3px;min-height:13px;}
 .sp-inspo-art-title{font-size:11px;font-weight:300;color:var(--muted);display:block;margin-bottom:1px;}
 .sp-inspo-art-link{font-size:9px;color:var(--faint);text-decoration:none;transition:color .1s;}
@@ -427,6 +461,21 @@ body.dark{
     <!-- Greeting -->
     <div class="sp-display" id="display">—</div>
 
+    <!-- Font of the day — from fonts.json (built daily from Fonts In Use RSS) -->
+    <div class="sp-tier">Font of the day</div>
+    <div class="sp-fotd" id="fotd">
+      <div class="sp-fotd-info">
+        <span class="sp-skel" style="height:40px;width:70%;"></span>
+        <span class="sp-skel" style="height:11px;width:50%;"></span>
+        <span class="sp-skel" style="height:11px;width:90%;"></span>
+      </div>
+      <div class="sp-fotd-uses">
+        <div class="sp-fotd-use"><span class="sp-skel" style="height:clamp(64px,13vh,150px);width:100%;"></span></div>
+        <div class="sp-fotd-use"><span class="sp-skel" style="height:clamp(64px,13vh,150px);width:100%;"></span></div>
+        <div class="sp-fotd-use"><span class="sp-skel" style="height:clamp(64px,13vh,150px);width:100%;"></span></div>
+      </div>
+    </div>
+
     <!-- Daily -->
     <div class="sp-tier">Daily</div>
     <div class="sp-primary">
@@ -476,6 +525,7 @@ body.dark{
         <a href="https://offerup.com/" target="_blank" rel="noopener">OfferUp</a>
         <a href="https://www.fiverr.com/" target="_blank" rel="noopener">Fiverr</a>
         <div class="sp-scat-lbl" style="margin-top:.65rem;">Creative Ref</div>
+        <a href="https://fontsinuse.com/" target="_blank" rel="noopener">Fonts In Use</a>
         <a href="https://www.awwwards.com/" target="_blank" rel="noopener">Awwwards</a>
         <a href="https://www.behance.net/" target="_blank" rel="noopener">Behance</a>
         <a href="https://brutalistwebsites.com/" target="_blank" rel="noopener">Brutalist Websites</a>
@@ -538,7 +588,7 @@ body.dark{
     </div><!-- /sp-secondary-outer -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.8.2</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.14.0</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
       <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
@@ -648,6 +698,19 @@ body.dark{
    Leave empty to show a helpful message instead of a network error.           */
 const ANTHROPIC_API_KEY = '';  /* e.g. 'sk-ant-...' */
 
+/* Museum API keys for the Inspo → Artwork pool.
+   Museums with an empty key are skipped (Brooklyn tries without one).
+   Note: keys in client-side code are visible to anyone who views source.
+   These are free, read-only keys, so that's an accepted trade-off here.
+     Harvard     — https://harvardartmuseums.org/collections/api
+     Smithsonian — https://api.data.gov/signup/
+     Brooklyn    — https://www.brooklynmuseum.org/opencollection/api/register */
+const MUSEUM_KEYS = {
+  harvard: '02269fea-83d1-45ab-a772-2f9ed261aa6a',
+  smithsonian: 'HyUCamX1vvALyqf1eTuRUQl0JbPekV9WtJXA9Dzs',
+  brooklyn: '',
+};
+
 /* ══ ENGINES ══ */
 const ENGINES=[{l:'DDG',u:'https://duckduckgo.com/?q='},{l:'Google',u:'https://google.com/search?q='},{l:'Bing',u:'https://bing.com/search?q='}];
 let eIdx=0;
@@ -719,9 +782,9 @@ sbTime.addEventListener('click',function(){
 });
 
 /* ══ VERSION & LAST UPDATED — live from GitHub API ══ */
-const FALLBACK_VERSION='v10.8.2';
-const FALLBACK_DATE_SHORT='Mar 22';
-const FALLBACK_DATE_FULL='Mar 22, 2026';
+const FALLBACK_VERSION='v10.14.0';
+const FALLBACK_DATE_SHORT='Oct 8';
+const FALLBACK_DATE_FULL='Oct 8, 2026';
 
 function setDateDisplay(shortStr,fullStr){
   const dateEl=document.getElementById('stat-date');
@@ -968,8 +1031,19 @@ if(navigator.geolocation){
 }
 
 /* ══ INSPO ══
-   v10.8.2: Expanded quote pool (90+ subjects), ±1 day fact window,
-   multi-subreddit artwork rotation, seen-history via sp5seen localStorage.
+   v10.14.0:
+   - Artwork: Reddit JSON is blocked for browser requests, so artwork now comes
+     from a pool of keyless museum APIs — Art Institute of Chicago, The Met,
+     V&A, SMK Copenhagen, Cleveland Museum of Art, Wellcome Collection,
+     Rijksmuseum, Brooklyn Museum; Harvard + Smithsonian once keys are set
+     in MUSEUM_KEYS.
+     Each load picks a random museum and falls through the others on failure.
+     Image is preloaded before swapping in, so no blank flash or broken box.
+   - Quote: follows Wikiquote redirects, retries up to 4 subjects before
+     falling back, and stops parsing at "Misattributed" / "Disputed" /
+     "Quotes about" sections so quotes BY others aren't credited to the subject.
+   - Fact: ±1 day window kept, but the meta now shows the actual date when the
+     event isn't from today.
    Seen history: hard-exclude items seen within 14 days, deprioritize within 60 days.
    Storage key: sp5seen = { quote:{subject:timestamp}, fact:{key:timestamp}, art:{id:timestamp} }
 */
@@ -1027,30 +1101,44 @@ function seenPick(type,candidates,keyFn){
   return pool[Math.floor(Math.random()*pool.length)];
 }
 
+function shuffle(arr){
+  const a=arr.slice();
+  for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
+  return a;
+}
+
+function metaLink(href,text){
+  const a=document.createElement('a');
+  a.href=href;a.target='_blank';a.rel='noopener';a.textContent=text;
+  a.className='sp-inspo-art-link';
+  a.onclick=function(e){e.stopPropagation();};
+  return a;
+}
+
 /* ── Quote pool — 90+ subjects across wide categories ── */
 const QUOTE_SUBJECTS=[
   // Philosophy & thought
   'Marcus Aurelius','Bertrand Russell','Hannah Arendt','Simone de Beauvoir',
   'Friedrich Nietzsche','Albert Camus','Søren Kierkegaard','Epictetus',
-  'Seneca','Blaise Pascal','Voltaire','Michel de Montaigne','Baruch Spinoza',
+  'Seneca the Younger','Blaise Pascal','Voltaire','Michel de Montaigne','Baruch Spinoza',
   // Literature — classic
   'Oscar Wilde','Virginia Woolf','James Baldwin','Jorge Luis Borges',
-  'Ursula K. Le Guin','Octavia Butler','Susan Sontag','David Foster Wallace',
+  'Ursula K. Le Guin','Octavia E. Butler','Susan Sontag','David Foster Wallace',
   'Flannery O\'Connor','Toni Morrison','Sylvia Plath','Raymond Carver',
   'Joan Didion','Cormac McCarthy','Don DeLillo','Thomas Pynchon',
   // Literature — modern & international
   'Haruki Murakami','Italo Calvino','Gabriel García Márquez','Clarice Lispector',
   'Roberto Bolaño','Milan Kundera','Kazuo Ishiguro','Elena Ferrante',
-  'W.G. Sebald','Jhumpa Lahiri','Salman Rushdie','Paul Auster',
+  'W. G. Sebald','Jhumpa Lahiri','Salman Rushdie','Paul Auster',
   'Zadie Smith','Denis Johnson','Annie Dillard',
   // Science & ideas
   'Richard Feynman','Nikola Tesla','Carl Sagan','Stephen Hawking',
   'Marie Curie','Albert Einstein','Werner Heisenberg','Alan Turing',
-  'Oliver Sacks','E.O. Wilson','Buckminster Fuller',
+  'Oliver Sacks','E. O. Wilson','Buckminster Fuller',
   // Film & cinema
   'Andrei Tarkovsky','Ingmar Bergman','Stanley Kubrick','Akira Kurosawa',
   'Werner Herzog','Jean-Luc Godard','Federico Fellini','Orson Welles',
-  'Billy Wilder','Agnes Varda','Agnès Varda','François Truffaut',
+  'Billy Wilder','Agnès Varda','François Truffaut',
   // Music
   'John Cage','Miles Davis','Glenn Gould','Leonard Bernstein',
   'Brian Eno','Nick Cave','David Bowie','Tom Waits',
@@ -1060,68 +1148,83 @@ const QUOTE_SUBJECTS=[
   'Rem Koolhaas','Dieter Rams','Paul Rand','Charles Eames','Massimo Vignelli',
   // Chess
   'Bobby Fischer','Garry Kasparov','Magnus Carlsen','Mikhail Tal',
-  'Emanuel Lasker','José Capablanca',
+  'Emanuel Lasker','José Raúl Capablanca',
   // Art & visual
-  'Pablo Picasso','Henri Matisse','Francis Bacon','Louise Bourgeois',
+  'Pablo Picasso','Henri Matisse','Francis Bacon (artist)','Louise Bourgeois',
   'Agnes Martin','Donald Judd','Sol LeWitt','Marina Abramović',
   'William Blake','Wassily Kandinsky',
   // Misc thinkers
-  'Marshall McLuhan','Susan Sontag','Roland Barthes','Walter Benjamin',
-  'Umberto Eco','George Orwell','Christopher Hitchens','James Baldwin',
+  'Marshall McLuhan','Roland Barthes','Walter Benjamin',
+  'Umberto Eco','George Orwell','Christopher Hitchens',
 ];
+
+/* Stop parsing at sections whose quotes aren't by the subject */
+const WQ_STOP=/^==+\s*(Misattributed|Disputed|Quotes about|About |Sayings about|Quotes from others|See also|External links)/im;
+
+async function fetchQuotesFor(subject){
+  const url='https://en.wikiquote.org/w/api.php?action=parse&page='+encodeURIComponent(subject)
+    +'&prop=wikitext&redirects=1&format=json&formatversion=2&origin=*';
+  const res=await fetch(url);
+  if(!res.ok)throw new Error(res.status);
+  const data=await res.json();
+  let wt=data.parse&&data.parse.wikitext;
+  if(!wt)return [];
+  const cut=wt.search(WQ_STOP);
+  if(cut>0)wt=wt.slice(0,cut);
+  const quotes=[];
+  for(const line of wt.split('\n')){
+    if(!/^\*\s/.test(line))continue; // top-level bullets only; "**" lines are sources
+    const q=line.replace(/^\*\s+/,'')
+      .replace(/<ref[^>]*\/>/g,'')
+      .replace(/<ref[\s\S]*?<\/ref>/g,'')
+      .replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g,'$1')
+      .replace(/\[https?:\/\/\S+\s([^\]]*)\]/g,'$1')
+      .replace(/\{\{[^}]*\}\}/g,'')
+      .replace(/<br\s*\/?>/gi,' ')
+      .replace(/<[^>]+>/g,'')
+      .replace(/'{2,}/g,'')
+      .replace(/\s+/g,' ')
+      .trim()
+      .replace(/^["“]|["”]$/g,'');
+    if(q.length>30&&q.length<220&&!q.startsWith('(')&&!/[{}\[\]|]/.test(q))quotes.push(q);
+  }
+  return quotes;
+}
 
 async function loadQuote(){
   const el=document.getElementById('inspo-quote-val');
   const meta=document.getElementById('inspo-quote-meta');
   el.innerHTML='<span class="sp-skel sp-skel-quote"></span>';
   meta.innerHTML='<span class="sp-skel sp-skel-meta"></span>';
-  try{
-    // Pick subject using seen-history
+
+  // Try up to 4 subjects before giving up. Each tried subject is marked seen,
+  // so pages that parse poorly get skipped for two weeks.
+  for(let attempt=0;attempt<4;attempt++){
     const subject=seenPick('quote',QUOTE_SUBJECTS,s=>s);
-    if(!subject)throw new Error('no subjects');
-
-    const url='https://en.wikiquote.org/w/api.php?action=parse&page='+encodeURIComponent(subject)+'&prop=wikitext&format=json&origin=*';
-    const res=await fetch(url);
-    const data=await res.json();
-    const wikitext=data.parse&&data.parse.wikitext&&data.parse.wikitext['*'];
-    if(!wikitext)throw new Error('no content');
-
-    const lines=wikitext.split('\n');
-    const quotes=[];
-    for(const line of lines){
-      const m=line.match(/^\*\s+([^*:].{20,200}?)(?:\s*<ref|$)/);
-      if(m){
-        let q=m[1]
-          .replace(/\[\[(?:[^\]|]*\|)?([^\]]*)\]\]/g,'$1')
-          .replace(/\{\{[^}]*\}\}/g,'')
-          .replace(/<[^>]+>/g,'')
-          .replace(/'''?/g,'')
-          .replace(/''?/g,'')
-          .trim();
-        if(q.length>30&&q.length<220&&!q.startsWith('(')&&!q.includes('{{'))quotes.push(q);
-      }
-    }
-    if(!quotes.length)throw new Error('no quotes parsed');
-
-    // Mark subject as seen
+    if(!subject)break;
     seenMark('quote',subject);
-
-    const q=quotes[Math.floor(Math.random()*Math.min(quotes.length,12))];
-    el.textContent='\u201C'+q+'\u201D';
-    const wqUrl='https://en.wikiquote.org/wiki/'+encodeURIComponent(subject);
-    meta.innerHTML='<a href="'+wqUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+subject+'</a>';
-  }catch(e){
-    const fallback=[
-      ['"The only way to do great work is to love what you do."','Steve Jobs','https://en.wikiquote.org/wiki/Steve_Jobs'],
-      ['"We are what we repeatedly do."','Aristotle','https://en.wikiquote.org/wiki/Aristotle'],
-      ['"Simplicity is the ultimate sophistication."','Leonardo da Vinci','https://en.wikiquote.org/wiki/Leonardo_da_Vinci'],
-      ['"In the middle of difficulty lies opportunity."','Albert Einstein','https://en.wikiquote.org/wiki/Albert_Einstein'],
-      ['"Not all those who wander are lost."','J.R.R. Tolkien','https://en.wikiquote.org/wiki/J._R._R._Tolkien'],
-    ];
-    const f=fallback[Math.floor(Math.random()*fallback.length)];
-    el.textContent=f[0];
-    meta.innerHTML='<a href="'+f[2]+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+f[1]+'</a>';
+    try{
+      const quotes=await fetchQuotesFor(subject);
+      if(!quotes.length)continue;
+      const q=quotes[Math.floor(Math.random()*Math.min(quotes.length,15))];
+      const name=subject.replace(/\s*\(.*?\)\s*/g,'');
+      el.textContent='\u201C'+q+'\u201D';
+      meta.innerHTML='';
+      meta.appendChild(metaLink('https://en.wikiquote.org/wiki/'+encodeURIComponent(subject.replace(/ /g,'_')),name));
+      return;
+    }catch(e){/* try next subject */}
   }
+
+  const fallback=[
+    ['We are what we repeatedly do.','Aristotle','https://en.wikiquote.org/wiki/Aristotle'],
+    ['Simplicity is the ultimate sophistication.','Leonardo da Vinci','https://en.wikiquote.org/wiki/Leonardo_da_Vinci'],
+    ['Not all those who wander are lost.','J. R. R. Tolkien','https://en.wikiquote.org/wiki/J._R._R._Tolkien'],
+    ['Less is more.','Ludwig Mies van der Rohe','https://en.wikiquote.org/wiki/Ludwig_Mies_van_der_Rohe'],
+  ];
+  const f=fallback[Math.floor(Math.random()*fallback.length)];
+  el.textContent='\u201C'+f[0]+'\u201D';
+  meta.innerHTML='';
+  meta.appendChild(metaLink(f[2],f[1]));
 }
 
 /* ── Today in History — fetch ±1 day, merge, deduplicate ── */
@@ -1132,11 +1235,11 @@ async function loadFact(){
   meta.innerHTML='<span class="sp-skel sp-skel-meta"></span>';
   try{
     const now=new Date();
-    // Build array of [month, day] for yesterday, today, tomorrow
+    // Build array of [month, day, offset] for yesterday, today, tomorrow
     const dates=[-1,0,1].map(offset=>{
       const d=new Date(now);
       d.setDate(d.getDate()+offset);
-      return [d.getMonth()+1,d.getDate()];
+      return [d.getMonth()+1,d.getDate(),offset];
     });
 
     // Fetch all three in parallel, ignore failures gracefully
@@ -1150,14 +1253,18 @@ async function loadFact(){
     // Merge all events, deduplicate by year+first 40 chars of text
     const seen=new Set();
     let allEvents=[];
-    for(const r of results){
+    results.forEach((r,i)=>{
       if(r.status==='fulfilled'&&r.value.events){
         for(const ev of r.value.events){
           const key=ev.year+'|'+(ev.text||'').slice(0,40);
-          if(!seen.has(key)){seen.add(key);allEvents.push(ev);}
+          if(!seen.has(key)){
+            seen.add(key);
+            ev._mo=dates[i][0];ev._day=dates[i][1];ev._off=dates[i][2];
+            allEvents.push(ev);
+          }
         }
       }
-    }
+    });
 
     if(!allEvents.length)throw new Error('no events');
 
@@ -1179,112 +1286,349 @@ async function loadFact(){
     const pages=ev.pages||[];
     const articleUrl=pages.length
       ?'https://en.wikipedia.org/wiki/'+encodeURIComponent(pages[0].title)
-      :'https://en.wikipedia.org/wiki/'+MONTHS[(now.getMonth())]+'_'+now.getDate();
-    meta.innerHTML='<a href="'+articleUrl+'" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;transition:color .15s;" onmouseover="this.style.color=\'var(--accent)\'" onmouseout="this.style.color=\'inherit\'" onclick="event.stopPropagation()">'+ev.year+'</a>';
+      :'https://en.wikipedia.org/wiki/'+MONTHS[ev._mo-1]+'_'+ev._day;
+    // Show the real date when the event is from yesterday/tomorrow
+    const label=ev._off===0?String(ev.year):MS[ev._mo-1]+' '+ev._day+', '+ev.year;
+    meta.innerHTML='';
+    meta.appendChild(metaLink(articleUrl,label));
   }catch(e){
     el.textContent='Wikipedia historical events unavailable.';
     meta.textContent='';
   }
 }
 
-/* ── Artwork — rotate subreddits + top/hot/new, seen-history by post ID ── */
-const ART_SOURCES=[
-  {sub:'museum',    sort:'top', t:'week'},
-  {sub:'museum',    sort:'hot', t:''},
-  {sub:'museum',    sort:'new', t:''},
-  {sub:'ArtefactPorn', sort:'top', t:'week'},
-  {sub:'ArtefactPorn', sort:'hot', t:''},
-  {sub:'AlbumArtPorn',  sort:'top', t:'week'},
-  {sub:'AlbumArtPorn',  sort:'hot', t:''},
-];
+/* ── Artwork — public-domain museum collections, seen-history by object ID ── */
 
+// Art Institute of Chicago — search is capped at 10,000 results (limit × page)
+async function fetchAIC(){
+  const page=1+Math.floor(Math.random()*100);
+  const url='https://api.artic.edu/api/v1/artworks/search'
+    +'?query[term][is_public_domain]=true&limit=50&page='+page
+    +'&fields=id,title,artist_title,date_display,image_id,thumbnail';
+  const r=await fetch(url);
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.data||[]).filter(a=>a.image_id).map(a=>({
+    key:'aic:'+a.id,
+    title:a.title||'Untitled',
+    artist:a.artist_title||'',
+    date:a.date_display||'',
+    img:'https://www.artic.edu/iiif/2/'+a.image_id+'/full/843,/0/default.jpg',
+    w:a.thumbnail&&a.thumbnail.width,
+    h:a.thumbnail&&a.thumbnail.height,
+    link:'https://www.artic.edu/artworks/'+a.id,
+    source:'Art Institute of Chicago'
+  }));
+}
+
+// Cleveland Museum of Art Open Access — CC0 works with images
+async function fetchCMA(){
+  const skip=Math.floor(Math.random()*30000);
+  const r=await fetch('https://openaccess-api.clevelandart.org/api/artworks/?cc0=1&has_image=1&limit=25&skip='+skip);
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.data||[]).filter(a=>a.images&&a.images.web&&a.images.web.url).map(a=>({
+    key:'cma:'+a.id,
+    title:a.title||'Untitled',
+    artist:((a.creators&&a.creators[0]&&a.creators[0].description)||'').split('(')[0].trim(),
+    date:a.creation_date||'',
+    img:a.images.web.url,
+    w:+a.images.web.width,
+    h:+a.images.web.height,
+    link:a.url||'https://www.clevelandart.org/art/collection/search',
+    source:'Cleveland Museum of Art'
+  }));
+}
+
+// The Met — search endpoint is retired (410), so sample random object IDs
+// from dense department ranges and keep public-domain objects with images.
+const MET_RANGES=[
+  [435600,438900], // European Paintings
+  [247000,257000], // Greek & Roman Art
+  [544000,591000], // Egyptian Art
+  [39000,79000],   // Asian Art
+];
+async function fetchMet(){
+  const [lo,hi]=MET_RANGES[Math.floor(Math.random()*MET_RANGES.length)];
+  const ids=Array.from({length:10},()=>lo+Math.floor(Math.random()*(hi-lo)));
+  const res=await Promise.allSettled(ids.map(id=>
+    fetch('https://collectionapi.metmuseum.org/public/collection/v1/objects/'+id)
+      .then(r=>r.ok?r.json():null)
+  ));
+  return res.map(r=>r.status==='fulfilled'?r.value:null)
+    .filter(o=>o&&o.isPublicDomain&&o.primaryImageSmall)
+    .map(o=>({
+      key:'met:'+o.objectID,
+      title:o.title||o.objectName||'Untitled',
+      artist:o.artistDisplayName||o.culture||'',
+      date:o.objectDate||'',
+      img:o.primaryImageSmall,
+      link:o.objectURL||'https://www.metmuseum.org/art/collection',
+      source:'The Met'
+    }));
+}
+
+// Victoria and Albert Museum — design, decorative arts, theatre, photography
+const VA_TERMS=['painting','drawing','print','photograph','poster','textile','ceramic','sculpture','design','costume'];
+async function fetchVA(){
+  const q=VA_TERMS[Math.floor(Math.random()*VA_TERMS.length)];
+  const page=1+Math.floor(Math.random()*20);
+  const r=await fetch('https://api.vam.ac.uk/v2/objects/search?images_exist=1&page_size=50&page='+page+'&q='+encodeURIComponent(q));
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.records||[]).filter(x=>x._images&&x._images._iiif_image_base_url).map(x=>{
+    const maker=(x._primaryMaker&&x._primaryMaker.name)||'';
+    return {
+      key:'va:'+x.systemNumber,
+      title:(x._primaryTitle||x.objectType||'Untitled').trim(),
+      artist:/^unknown$/i.test(maker)?'':maker,
+      date:x._primaryDate||'',
+      img:x._images._iiif_image_base_url+'full/!843,843/0/default.jpg',
+      link:'https://collections.vam.ac.uk/item/'+x.systemNumber,
+      source:'V&A London'
+    };
+  });
+}
+
+// SMK — National Gallery of Denmark, public-domain works
+async function fetchSMK(){
+  const offset=Math.floor(Math.random()*39000);
+  const filters=encodeURIComponent('[has_image:true],[public_domain:true]');
+  const r=await fetch('https://api.smk.dk/api/v1/art/search/?keys=*&filters='+filters+'&offset='+offset+'&rows=40&lang=en');
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.items||[]).filter(x=>x.image_thumbnail).map(x=>({
+    key:'smk:'+x.object_number,
+    title:(x.titles&&x.titles[0]&&x.titles[0].title)||'Untitled',
+    artist:(x.artist&&x.artist[0])||'',
+    date:(x.production_date&&x.production_date[0]&&x.production_date[0].period)||'',
+    img:x.image_thumbnail,
+    w:x.image_width,h:x.image_height,
+    link:x.frontend_url||'https://open.smk.dk/',
+    source:'SMK Copenhagen'
+  }));
+}
+
+// Wellcome Collection — history of medicine, science, maps, ephemera
+const WELLCOME_TERMS=['anatomy','botanical','map','astronomy','alchemy','poster','engraving','zodiac','apothecary','surgery'];
+async function fetchWellcome(){
+  const q=WELLCOME_TERMS[Math.floor(Math.random()*WELLCOME_TERMS.length)];
+  const page=1+Math.floor(Math.random()*10);
+  const r=await fetch('https://api.wellcomecollection.org/catalogue/v2/images?pageSize=50&page='+page+'&query='+encodeURIComponent(q));
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.results||[]).filter(x=>x.locations&&x.locations[0]&&x.locations[0].url).map(x=>({
+    key:'wel:'+x.id,
+    title:((x.source&&x.source.title)||'Untitled').replace(/[.\s]+$/,''),
+    artist:'',
+    date:'',
+    img:x.locations[0].url.replace(/info\.json$/,'')+'full/!843,843/0/default.jpg',
+    w:x.aspectRatio||null,h:x.aspectRatio?1:null,
+    link:x.source&&x.source.id?'https://wellcomecollection.org/works/'+x.source.id:'https://wellcomecollection.org/',
+    source:'Wellcome Collection'
+  }));
+}
+
+// Rijksmuseum — new Linked Art data API, no key. Needs four hops:
+// search → object → visual item → digital object (IIIF image URL).
+const RIJKS_TYPES=['painting','print','drawing','photograph'];
+async function rijksGet(id){
+  const u=id.replace('https://id.rijksmuseum.nl/','https://data.rijksmuseum.nl/')
+    +'?_profile=la&_mediatype=application/ld%2Bjson';
+  const r=await fetch(u);
+  if(!r.ok)throw new Error(r.status);
+  return r.json();
+}
+function rijksEnglish(names,fallback){
+  const list=(names||[]).filter(n=>n.type==='Name'&&n.content);
+  const en=list.find(n=>(n.language||[]).some(l=>/300388277/.test(l.id)));
+  return (en||list[0]||{}).content||fallback;
+}
+async function fetchRijks(){
+  const type=RIJKS_TYPES[Math.floor(Math.random()*RIJKS_TYPES.length)];
+  let page=await fetch('https://data.rijksmuseum.nl/search/collection?imageAvailable=true&type='+type)
+    .then(r=>{if(!r.ok)throw new Error(r.status);return r.json();});
+  // Follow the cursor 0–2 pages for variety beyond the first 100
+  for(let hops=Math.floor(Math.random()*3);hops>0&&page.next&&page.next.id;hops--){
+    try{page=await fetch(page.next.id).then(r=>r.json());}catch(e){break;}
+  }
+  const items=shuffle(page.orderedItems||[]).slice(0,3);
+  const out=[];
+  for(const it of items){
+    try{
+      const obj=await rijksGet(it.id);
+      const vis=obj.shows&&obj.shows[0];
+      if(!vis)continue;
+      const vi=await rijksGet(vis.id);
+      const dobj=vi.digitally_shown_by&&vi.digitally_shown_by[0];
+      if(!dobj)continue;
+      const dig=await rijksGet(dobj.id);
+      const ap=dig.access_point&&dig.access_point[0]&&dig.access_point[0].id;
+      if(!ap)continue;
+      const prod=obj.produced_by||{};
+      const who=(prod.part||[prod]).flatMap(p=>p.carried_out_by||[]);
+      const artist=(who[0]&&((who[0].notation||[]).find(n=>n['@language']==='en')||(who[0].notation||[])[0]||{})['@value'])||'';
+      const yr=prod.timespan&&prod.timespan.begin_of_the_begin;
+      const webPage=(obj.subject_of||[]).flatMap(s=>s.digitally_carried_by||[]).flatMap(d=>d.access_point||[])[0];
+      out.push({
+        key:'rijks:'+it.id.split('/').pop(),
+        title:rijksEnglish(obj.identified_by,'Untitled'),
+        artist,
+        date:yr?yr.slice(0,4):'',
+        img:ap.replace('/full/max/','/full/843,/'),
+        link:(webPage&&webPage.id)||'https://www.rijksmuseum.nl/en/collection',
+        source:'Rijksmuseum'
+      });
+      if(out.length)break; // one good record is enough; keeps hops down
+    }catch(e){/* next item */}
+  }
+  return out;
+}
+
+// Brooklyn Museum — official docs say a key is required; tries without one.
+// Custom header only sent when a key exists (avoids a CORS preflight otherwise).
+async function fetchBrooklyn(){
+  const offset=Math.floor(Math.random()*5000);
+  const headers=MUSEUM_KEYS.brooklyn?{api_key:MUSEUM_KEYS.brooklyn}:{};
+  const r=await fetch('https://www.brooklynmuseum.org/api/v2/object?has_images=1&limit=40&offset='+offset,{headers});
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  const rows=Array.isArray(d.data)?d.data:(d.data&&d.data.objects)||[];
+  return rows.map(o=>{
+    const im=(o.images||[]).find(i=>i.largest_derivative_url)||{};
+    const img=im.largest_derivative_url
+      ||(o.primary_image?'https://d1lfxha3ugu3d4.cloudfront.net/images/opencollection/objects/size4/'+o.primary_image:'');
+    return {
+      key:'bkm:'+o.id,
+      title:o.title||'Untitled',
+      artist:(o.artists&&o.artists[0]&&o.artists[0].name)||'',
+      date:o.object_date||'',
+      img,
+      link:'https://www.brooklynmuseum.org/opencollection/objects/'+o.id,
+      source:'Brooklyn Museum'
+    };
+  }).filter(x=>x.img);
+}
+
+// Harvard Art Museums — needs key. imagepermissionlevel:0 = freely displayable
+async function fetchHarvard(){
+  if(!MUSEUM_KEYS.harvard)throw new Error('no key');
+  const page=1+Math.floor(Math.random()*100);
+  const r=await fetch('https://api.harvardartmuseums.org/object?apikey='+MUSEUM_KEYS.harvard
+    +'&hasimage=1&q=imagepermissionlevel:0&size=50&page='+page
+    +'&fields=id,title,people,dated,primaryimageurl,url');
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  return (d.records||[]).filter(x=>x.primaryimageurl).map(x=>({
+    key:'ham:'+x.id,
+    title:x.title||'Untitled',
+    artist:(x.people&&x.people[0]&&x.people[0].name)||'',
+    date:x.dated||'',
+    img:x.primaryimageurl+'?width=843',
+    link:x.url||'https://harvardartmuseums.org/collections',
+    source:'Harvard Art Museums'
+  }));
+}
+
+// Smithsonian Open Access — needs api.data.gov key. CC0 images only.
+// SAAM = American Art Museum, NPG = Portrait Gallery, FSG = National Museum of Asian Art, CHNDM = Cooper Hewitt
+const SI_UNITS=['SAAM','NPG','FSG','CHNDM'];
+async function fetchSmithsonian(){
+  if(!MUSEUM_KEYS.smithsonian)throw new Error('no key');
+  const unit=SI_UNITS[Math.floor(Math.random()*SI_UNITS.length)];
+  const q=encodeURIComponent('unit_code:'+unit+' AND online_media_type:Images');
+  const start=Math.floor(Math.random()*2000);
+  const r=await fetch('https://api.si.edu/openaccess/api/v1.0/search?q='+q+'&rows=40&start='+start+'&api_key='+MUSEUM_KEYS.smithsonian);
+  if(!r.ok)throw new Error(r.status);
+  const d=await r.json();
+  const unitNames={SAAM:'Smithsonian American Art Museum',NPG:'National Portrait Gallery',FSG:'National Museum of Asian Art',CHNDM:'Cooper Hewitt'};
+  return ((d.response&&d.response.rows)||[]).map(row=>{
+    const c=row.content||{};
+    const dnr=c.descriptiveNonRepeating||{};
+    const m=(dnr.online_media&&dnr.online_media.media||[]).find(x=>x.type==='Images'&&x.usage&&x.usage.access==='CC0');
+    if(!m||!m.content)return null;
+    const ft=c.freetext||{};
+    return {
+      key:'si:'+row.id,
+      title:row.title||'Untitled',
+      artist:(ft.name&&ft.name[0]&&ft.name[0].content)||'',
+      date:(ft.date&&ft.date[0]&&ft.date[0].content)||'',
+      img:m.content+(m.content.includes('?')?'&':'?')+'max=843',
+      link:dnr.record_link||'https://www.si.edu/openaccess',
+      source:unitNames[unit]||'Smithsonian'
+    };
+  }).filter(Boolean);
+}
+
+// Pool — each load starts with a random museum and falls through the rest.
+// Keyed museums with no key throw immediately and are skipped.
+const ART_SOURCES=[fetchAIC,fetchMet,fetchVA,fetchSMK,fetchCMA,fetchWellcome,fetchRijks,fetchBrooklyn,fetchHarvard,fetchSmithsonian];
+
+function preloadImg(src){
+  return new Promise((resolve,reject)=>{
+    const img=new Image();
+    img.onload=()=>resolve(img);
+    img.onerror=reject;
+    img.src=src;
+  });
+}
+
+let artLoading=false;
 async function loadArt(){
+  if(artLoading)return;
+  artLoading=true;
   const el=document.getElementById('inspo-art-val');
   const meta=document.getElementById('inspo-art-meta');
+  el.classList.remove('muted');
   el.innerHTML='<span class="sp-skel sp-skel-art-img"></span><span class="sp-skel sp-skel-art-title"></span>';
   meta.innerHTML='';
   try{
-    // Pick a random source
-    const src=ART_SOURCES[Math.floor(Math.random()*ART_SOURCES.length)];
-    let url='https://www.reddit.com/r/'+src.sub+'/'+src.sort+'.json?limit=100';
-    if(src.t)url+='&t='+src.t;
+    // Random museum first; the rest act as fallbacks
+    for(const source of shuffle(ART_SOURCES)){
+      let items;
+      try{items=await source();}catch(e){continue;}
+      // Drop extreme aspect ratios (tall scrolls, long friezes) when size is known
+      items=items.filter(it=>{
+        if(!it.w||!it.h)return true;
+        const ratio=it.h/it.w;
+        return ratio<=1.45&&ratio>=0.3;
+      });
+      const [preferred,deprioritized]=seenFilter('art',items,it=>it.key);
+      const pool=shuffle(preferred.length?preferred:deprioritized.length?deprioritized:items);
 
-    const res=await fetch(url,{headers:{'Accept':'application/json'}});
-    const data=await res.json();
-    const posts=(data.data&&data.data.children)||[];
+      // Try a few candidates until one image actually loads
+      for(const it of pool.slice(0,4)){
+        let img;
+        try{img=await preloadImg(it.img);}catch(e){continue;}
+        seenMark('art',it.key);
 
-    // Filter for image posts
-    const artPosts=posts.filter(p=>{
-      const d=p.data;
-      return !d.stickied&&d.title&&d.title.length>5&&
-        (d.preview||d.url&&/\.(jpg|jpeg|png|gif|webp)/i.test(d.url));
-    });
-    if(!artPosts.length)throw new Error('no posts');
+        img.className='sp-inspo-art-img';
+        img.alt=it.title;
+        img.title='Click for a new artwork';
+        img.onclick=function(e){e.stopPropagation();loadArt();};
 
-    // Apply seen-history filter
-    const [preferred,deprioritized]=seenFilter('art',artPosts,p=>p.data.id);
-    const pool=preferred.length?preferred:deprioritized.length?deprioritized:artPosts;
+        const titleEl=document.createElement('span');
+        titleEl.className='sp-inspo-art-title';
+        titleEl.textContent=it.title;
 
-    // Shuffle pool and find first post with acceptable aspect ratio
-    const shuffled=pool.slice(0,80).sort(()=>Math.random()-.5);
-    let chosen=null,imgUrl=null;
-    for(const post of shuffled){
-      const d=post.data;
-      if(d.preview&&d.preview.images&&d.preview.images[0]){
-        const src2=d.preview.images[0].source;
-        const ratio=(src2.height||1)/(src2.width||1);
-        if(ratio>1.45||ratio<0.3)continue;
-        const resolutions=d.preview.images[0].resolutions;
-        const suitable=resolutions.filter(i=>i.width<=960);
-        const best=suitable.length?suitable[suitable.length-1]:src2;
-        imgUrl=best.url.replace(/&amp;/g,'&');
-        chosen=post;
-        break;
-      } else if(d.url&&/\.(jpg|jpeg|png|gif|webp)/i.test(d.url)){
-        imgUrl=d.url;chosen=post;break;
+        el.innerHTML='';
+        el.appendChild(img);
+        el.appendChild(titleEl);
+
+        const byline=[it.artist,it.date].filter(Boolean).join(', ');
+        meta.innerHTML='';
+        meta.appendChild(metaLink(it.link,byline?byline+' · '+it.source:it.source));
+        return;
       }
     }
-    if(!chosen)throw new Error('no suitable post found');
-
-    // Mark as seen
-    seenMark('art',chosen.data.id);
-
-    const d=chosen.data;
-    let title=d.title.replace(/\[.*?\]/g,'').replace(/\s+/g,' ').trim();
-
-    el.innerHTML='';
-    el.onclick=null;
-
-    if(imgUrl){
-      const img=document.createElement('img');
-      img.className='sp-inspo-art-img';
-      img.src=imgUrl;
-      img.alt=title;
-      img.loading='lazy';
-      img.title='Click for a new artwork';
-      img.onerror=function(){this.style.display='none';};
-      img.onclick=function(e){e.stopPropagation();loadArt();};
-      el.appendChild(img);
-    }
-
-    const titleEl=document.createElement('span');
-    titleEl.className='sp-inspo-art-title';
-    titleEl.textContent=title;
-    el.appendChild(titleEl);
-
-    // Source link — show which subreddit it came from
-    const linkEl=document.createElement('a');
-    linkEl.className='sp-inspo-art-link';
-    linkEl.textContent='r/'+d.subreddit;
-    linkEl.href='https://old.reddit.com'+d.permalink;
-    linkEl.target='_blank';
-    linkEl.rel='noopener';
-    linkEl.onclick=function(e){e.stopPropagation();};
-    meta.innerHTML='';
-    meta.appendChild(linkEl);
+    throw new Error('no artwork loaded');
   }catch(e){
-    el.textContent='Artwork unavailable.';
+    el.classList.add('muted');
+    el.textContent='Artwork unavailable — click to retry.';
+    el.onclick=function(ev){ev.stopPropagation();el.onclick=null;loadArt();};
     meta.textContent='';
+  }finally{
+    artLoading=false;
   }
 }
 
@@ -1296,6 +1640,112 @@ function refreshInspo(type){
 
 // Load all on init
 loadQuote();loadFact();loadArt();
+
+/* ══ FONT OF THE DAY ══
+   Data: fonts.json, built daily by .github/workflows/fonts.yml from the
+   Fonts In Use RSS feeds (staff picks + all uses). The archive grows each day.
+   Pick: one typeface per calendar day, stored in sp5fotd, using seen-history
+   so it doesn't repeat for 14+ days. Staff-pick typefaces are preferred.
+   "Another" picks a new one and makes it today's font.                       */
+let fotdIndex=null;
+
+function fotdBuildIndex(uses){
+  const idx=new Map();
+  for(const u of uses){
+    for(const t of u.typefaces||[]){
+      if(!idx.has(t.id))idx.set(t.id,{id:t.id,name:t.name,url:t.url,sample:t.sample,uses:[]});
+      const e=idx.get(t.id);
+      if(!e.sample&&t.sample)e.sample=t.sample;
+      e.uses.push(u);
+    }
+  }
+  // Only typefaces with at least one example image can show examples
+  return [...idx.values()].filter(t=>t.uses.some(u=>u.images&&u.images.length));
+}
+
+function fotdChoose(force){
+  const today=new Date().toLocaleDateString('en-CA');
+  if(!force){
+    try{
+      const s=JSON.parse(localStorage.getItem('sp5fotd')||'null');
+      if(s&&s.date===today){
+        const hit=fotdIndex.find(t=>t.id===s.id);
+        if(hit)return hit;
+      }
+    }catch(e){}
+  }
+  const staff=fotdIndex.filter(t=>t.uses.some(u=>u.staffPick));
+  const [pref]=seenFilter('font',staff,t=>t.id);
+  const pick=pref.length?seenPick('font',staff,t=>t.id):seenPick('font',fotdIndex,t=>t.id);
+  if(!pick)return null;
+  seenMark('font',pick.id);
+  try{localStorage.setItem('sp5fotd',JSON.stringify({date:today,id:pick.id}));}catch(e){}
+  return pick;
+}
+
+function fotdRender(t){
+  const box=document.getElementById('fotd');
+  // Example uses: staff picks first, then newest
+  const uses=t.uses.slice().sort((a,b)=>(b.staffPick-a.staffPick)||b.date.localeCompare(a.date));
+  const examples=[];
+  for(const u of uses){if(u.images&&u.images[0])examples.push([u.images[0],u]);if(examples.length>=3)break;}
+  for(const u of uses){ // top up with extra images from the same uses
+    for(const img of (u.images||[]).slice(1)){if(examples.length>=3)break;examples.push([img,u]);}
+    if(examples.length>=3)break;
+  }
+  // Frequent pairings across this typeface's uses
+  const pairs={};
+  for(const u of t.uses)for(const o of u.typefaces||[])if(o.id!==t.id){
+    (pairs[o.id]=pairs[o.id]||{n:0,o}).n++;
+  }
+  const top=Object.values(pairs).sort((a,b)=>b.n-a.n).slice(0,3).map(p=>p.o);
+  const isPick=t.uses.some(u=>u.staffPick);
+
+  const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const ex=uses[0]&&uses[0].excerpt;
+  box.innerHTML=
+    '<div class="sp-fotd-info">'
+      +(t.sample?'<a class="sp-fotd-sample-link" href="'+esc(t.url)+'" target="_blank" rel="noopener"><img class="sp-fotd-sample" src="'+esc(t.sample)+'" alt="'+esc(t.name)+' sample" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>':'')
+      +'<a class="sp-fotd-name" href="'+esc(t.url)+'" target="_blank" rel="noopener">'+esc(t.name)+'</a>'
+      +'<div class="sp-fotd-meta">'
+        +(isPick?'<span class="sp-fotd-pick">Staff pick</span> · ':'')
+        +'In '+t.uses.length+' recent use'+(t.uses.length===1?'':'s')
+        +(top.length?' · paired with '+top.map(o=>'<a href="'+esc(o.url)+'" target="_blank" rel="noopener">'+esc(o.name)+'</a>').join(', '):'')
+      +'</div>'
+      +(ex?'<div class="sp-fotd-excerpt">'+esc(ex)+'</div>':'')
+      +'<div class="sp-fotd-actions">'
+        +'<a href="'+esc(t.url)+'" target="_blank" rel="noopener">All uses ↗</a>'
+        +'<button type="button" id="fotd-next">Another ↻</button>'
+      +'</div>'
+    +'</div>'
+    +'<div class="sp-fotd-uses">'
+      +examples.map(([img,u])=>
+        '<a class="sp-fotd-use" href="'+esc(u.url)+'" target="_blank" rel="noopener" title="'+esc(u.title)+'">'
+          +'<img src="'+esc(img)+'" alt="'+esc(u.title)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.visibility=\'hidden\'">'
+          +'<span>'+esc(u.title)+'</span>'
+        +'</a>').join('')
+      +Array.from({length:Math.max(0,3-examples.length)},()=>'<div class="sp-fotd-use"></div>').join('')
+    +'</div>';
+  document.getElementById('fotd-next').onclick=function(){
+    const n=fotdChoose(true);if(n)fotdRender(n);
+  };
+}
+
+async function loadFontOfDay(){
+  const box=document.getElementById('fotd');
+  try{
+    const r=await fetch('fonts.json',{cache:'no-cache'});
+    if(!r.ok)throw new Error(r.status);
+    const d=await r.json();
+    fotdIndex=fotdBuildIndex(d.uses||[]);
+    const t=fotdChoose(false);
+    if(!t)throw new Error('empty');
+    fotdRender(t);
+  }catch(e){
+    box.innerHTML='<div class="sp-fotd-empty">Font of the day unavailable. fonts.json is built by the daily “Update fonts” workflow. Meanwhile: <a href="https://fontsinuse.com/" target="_blank" rel="noopener">fontsinuse.com ↗</a></div>';
+  }
+}
+loadFontOfDay();
 
 /* ══ SEARCH & @ COMMANDS ══ */
 function setCmd(prefix){
