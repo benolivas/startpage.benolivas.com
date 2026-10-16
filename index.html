@@ -588,7 +588,7 @@ body.dark{
     </div><!-- /sp-secondary-outer -->
 
     <div class="sp-strip" id="sp-strip">
-      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.14.0</span><span class="sp-stat-lbl">Version</span></a></div>
+      <div><a href="https://github.com/benolivas/startpage.benolivas.com" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;"><span class="sp-stat-val" id="stat-visit">v10.15.0</span><span class="sp-stat-lbl">Version</span></a></div>
       <div><span class="sp-stat-val" id="stat-date" title="" style="cursor:default;">—</span><span class="sp-stat-lbl">Last Updated</span></div>
       <!-- Desktop: dark mode in footer (matches mobile), Reset layout hidden (dot in nav handles dark) -->
       <button class="sp-new-btn sp-reset-btn" onclick="toggleDark()" id="dark-toggle-desktop">Dark mode ○</button>
@@ -782,7 +782,7 @@ sbTime.addEventListener('click',function(){
 });
 
 /* ══ VERSION & LAST UPDATED — live from GitHub API ══ */
-const FALLBACK_VERSION='v10.14.0';
+const FALLBACK_VERSION='v10.15.0';
 const FALLBACK_DATE_SHORT='Oct 8';
 const FALLBACK_DATE_FULL='Oct 8, 2026';
 
@@ -1031,7 +1031,7 @@ if(navigator.geolocation){
 }
 
 /* ══ INSPO ══
-   v10.14.0:
+   v10.15.0:
    - Artwork: Reddit JSON is blocked for browser requests, so artwork now comes
      from a pool of keyless museum APIs — Art Institute of Chicago, The Met,
      V&A, SMK Copenhagen, Cleveland Museum of Art, Wellcome Collection,
@@ -1644,9 +1644,8 @@ loadQuote();loadFact();loadArt();
 /* ══ FONT OF THE DAY ══
    Data: fonts.json, built daily by .github/workflows/fonts.yml from the
    Fonts In Use RSS feeds (staff picks + all uses). The archive grows each day.
-   Pick: one typeface per calendar day, stored in sp5fotd, using seen-history
-   so it doesn't repeat for 14+ days. Staff-pick typefaces are preferred.
-   "Another" picks a new one and makes it today's font.                       */
+   Picks are made server-side (scripts/build-fonts.mjs → day.picks): one font
+   of the day + 8 alternates, same for every visitor, no repeats for 30 days. */
 let fotdIndex=null;
 
 function fotdBuildIndex(uses){
@@ -1663,24 +1662,17 @@ function fotdBuildIndex(uses){
   return [...idx.values()].filter(t=>t.uses.some(u=>u.images&&u.images.length));
 }
 
-function fotdChoose(force){
-  const today=new Date().toLocaleDateString('en-CA');
-  if(!force){
-    try{
-      const s=JSON.parse(localStorage.getItem('sp5fotd')||'null');
-      if(s&&s.date===today){
-        const hit=fotdIndex.find(t=>t.id===s.id);
-        if(hit)return hit;
-      }
-    }catch(e){}
-  }
-  const staff=fotdIndex.filter(t=>t.uses.some(u=>u.staffPick));
-  const [pref]=seenFilter('font',staff,t=>t.id);
-  const pick=pref.length?seenPick('font',staff,t=>t.id):seenPick('font',fotdIndex,t=>t.id);
-  if(!pick)return null;
-  seenMark('font',pick.id);
-  try{localStorage.setItem('sp5fotd',JSON.stringify({date:today,id:pick.id}));}catch(e){}
-  return pick;
+/* Shared daily picks: fonts.json carries day.picks (font of the day first,
+   then alternates), chosen by the build script, so every visitor sees the same
+   font and the same pool. "Another" steps through the pool and wraps around. */
+let fotdPicks=[],fotdPos=0;
+
+function fotdSetPicks(day){
+  const byId=new Map(fotdIndex.map(t=>[t.id,t]));
+  fotdPicks=((day&&day.picks)||[]).map(id=>byId.get(id)).filter(Boolean);
+  // Older fonts.json without day picks: fall back to the most-used typefaces
+  if(!fotdPicks.length)fotdPicks=fotdIndex.slice().sort((a,b)=>b.uses.length-a.uses.length).slice(0,9);
+  fotdPos=0;
 }
 
 function fotdRender(t){
@@ -1708,14 +1700,16 @@ function fotdRender(t){
       +(t.sample?'<a class="sp-fotd-sample-link" href="'+esc(t.url)+'" target="_blank" rel="noopener"><img class="sp-fotd-sample" src="'+esc(t.sample)+'" alt="'+esc(t.name)+' sample" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>':'')
       +'<a class="sp-fotd-name" href="'+esc(t.url)+'" target="_blank" rel="noopener">'+esc(t.name)+'</a>'
       +'<div class="sp-fotd-meta">'
-        +(isPick?'<span class="sp-fotd-pick">Staff pick</span> · ':'')
+        +(fotdPos===0?'<span class="sp-fotd-pick">Today</span> · ':'Alternate · ')
+        +(isPick?'Staff pick · ':'')
         +'In '+t.uses.length+' recent use'+(t.uses.length===1?'':'s')
         +(top.length?' · paired with '+top.map(o=>'<a href="'+esc(o.url)+'" target="_blank" rel="noopener">'+esc(o.name)+'</a>').join(', '):'')
       +'</div>'
       +(ex?'<div class="sp-fotd-excerpt">'+esc(ex)+'</div>':'')
       +'<div class="sp-fotd-actions">'
         +'<a href="'+esc(t.url)+'" target="_blank" rel="noopener">All uses ↗</a>'
-        +'<button type="button" id="fotd-next">Another ↻</button>'
+        +(fotdPicks.length>1?'<button type="button" id="fotd-next">'+(fotdPos===0?'Another':'Next')+' ↻ <span style="color:var(--faint);">'+(fotdPos+1)+'/'+fotdPicks.length+'</span></button>':'')
+        +(fotdPos>0?'<button type="button" id="fotd-today">Today’s pick</button>':'')
       +'</div>'
     +'</div>'
     +'<div class="sp-fotd-uses">'
@@ -1726,9 +1720,10 @@ function fotdRender(t){
         +'</a>').join('')
       +Array.from({length:Math.max(0,3-examples.length)},()=>'<div class="sp-fotd-use"></div>').join('')
     +'</div>';
-  document.getElementById('fotd-next').onclick=function(){
-    const n=fotdChoose(true);if(n)fotdRender(n);
-  };
+  const nx=document.getElementById('fotd-next');
+  if(nx)nx.onclick=function(){fotdPos=(fotdPos+1)%fotdPicks.length;fotdRender(fotdPicks[fotdPos]);};
+  const td=document.getElementById('fotd-today');
+  if(td)td.onclick=function(){fotdPos=0;fotdRender(fotdPicks[0]);};
 }
 
 async function loadFontOfDay(){
@@ -1738,9 +1733,9 @@ async function loadFontOfDay(){
     if(!r.ok)throw new Error(r.status);
     const d=await r.json();
     fotdIndex=fotdBuildIndex(d.uses||[]);
-    const t=fotdChoose(false);
-    if(!t)throw new Error('empty');
-    fotdRender(t);
+    fotdSetPicks(d.day);
+    if(!fotdPicks.length)throw new Error('empty');
+    fotdRender(fotdPicks[0]);
   }catch(e){
     box.innerHTML='<div class="sp-fotd-empty">Font of the day unavailable. fonts.json is built by the daily “Update fonts” workflow. Meanwhile: <a href="https://fontsinuse.com/" target="_blank" rel="noopener">fontsinuse.com ↗</a></div>';
   }
