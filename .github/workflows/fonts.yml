@@ -1,0 +1,55 @@
+name: Update fonts
+
+# Pulls Fonts In Use RSS into fonts.json once a day, commits it, and deploys.
+# Commits made with GITHUB_TOKEN don't trigger deploy.yml, so this
+# workflow runs the same SSH deploy step itself.
+
+on:
+  schedule:
+    - cron: '17 12 * * *'   # daily, ~5am Pacific
+  workflow_dispatch:         # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+
+jobs:
+  fonts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build fonts.json
+        run: node scripts/build-fonts.mjs fonts.json
+
+      - name: Commit if changed
+        id: commit
+        run: |
+          if git diff --quiet -- fonts.json && git ls-files --error-unmatch fonts.json >/dev/null 2>&1; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add fonts.json
+            git commit -m "fonts: daily Fonts In Use update"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy via SSH
+        if: steps.commit.outputs.changed == 'true'
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd /home/benoli7/startpage.benolivas.com
+            git fetch origin main
+            git reset --hard origin/main
