@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T13:12:42.078Z",
+ "updated": "2026-10-17T12:09:13.103Z",
  "day": {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "picks": [
-   "74361",
-   "111484",
-   "76",
-   "233568",
-   "13630",
-   "159384",
-   "75762",
-   "249633",
-   "1143"
+   "250332",
+   "14581",
+   "217644",
+   "217362",
+   "169393",
+   "159385",
+   "107291",
+   "34807",
+   "250327"
   ]
  },
  "history": [
@@ -42,9 +42,222 @@
     "249633",
     "1143"
    ]
+  },
+  {
+   "date": "2026-10-17",
+   "picks": [
+    "250332",
+    "14581",
+    "217644",
+    "217362",
+    "169393",
+    "159385",
+    "107291",
+    "34807",
+    "250327"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80760",
+   "title": "Alex Augustus – “Among the Dead and the Living” single cover",
+   "url": "https://fontsinuse.com/uses/80760/alex-augustus-among-the-dead-and-the-living-s",
+   "date": "2026-10-17T10:39:52.000Z",
+   "author": "Alexandra Brown",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4981",
+     "name": "Castellar",
+     "url": "https://fontsinuse.com/typefaces/4981/castellar",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4981/400/4/6ad35079/castellar.png"
+    },
+    {
+     "id": "44265",
+     "name": "Atf Headline Gothic",
+     "url": "https://fontsinuse.com/typefaces/44265/atf-headline-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15119/440/4/6813a697/atf-headline-gothic.png"
+    },
+    {
+     "id": "250498",
+     "name": "Special Gothic",
+     "url": "https://fontsinuse.com/typefaces/250498/special-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19389/440/4/6ad34c68/special-gothic.png"
+    },
+    {
+     "id": "1712",
+     "name": "Century Oldstyle",
+     "url": "https://fontsinuse.com/typefaces/1712/century-oldstyle",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/1712/400/4/6ad35079/century-oldstyle.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307038/upto-700xauto/6ad103ac/Alex_Augustus_Cover_1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307040/upto-700xauto/6ad103be/Folio.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307041/upto-700xauto/6ad103be/Name%20Plate.png"
+   ],
+   "excerpt": "Sleeve for “ Among the Dead and the Living ”, the debut single from Alex Augustus , released September 18, 2026 on Night Watch Press."
+  },
+  {
+   "id": "80763",
+   "title": "Simo Laiho – Uusimmat Hammond Hitit album art",
+   "url": "https://fontsinuse.com/uses/80763/simo-laiho-uusimmat-hammond-hitit-album-art",
+   "date": "2026-10-17T10:00:26.000Z",
+   "author": "Miikka Rusi",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1781",
+     "name": "Gillies Gothic",
+     "url": "https://fontsinuse.com/typefaces/1781/gillies-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1781/400/4/6ad3473b/gillies-gothic.png"
+    },
+    {
+     "id": "9204",
+     "name": "Premier Shaded",
+     "url": "https://fontsinuse.com/typefaces/9204/premier-shaded",
+     "sample": "https://assets.fontsinuse.com/static/renders/9/9204/400/4/6ad3473b/premier-shaded.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307044/upto-700xauto/6ad11382/1900x1900-000000-80-0-0.jpeg"
+   ],
+   "excerpt": "Say hello to Simo Laiho – the Finnish Hammond organ legend! The music crazes of the 1960s and ’70s cannot be discussed without mentioning the enormous popularity of so-called easy listening records. James Last, Frank Valdor, Klaus Wunderlich and their…"
+  },
+  {
+   "id": "80717",
+   "title": "Eye to Eye – Eye to Eye album art",
+   "url": "https://fontsinuse.com/uses/80717/eye-to-eye-eye-to-eye-album-art",
+   "date": "2026-10-17T09:07:47.000Z",
+   "author": "ronin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1805",
+     "name": "ITC Kabel",
+     "url": "https://fontsinuse.com/typefaces/1805/itc-kabel",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1805/400/4/6ad33ae4/itc-kabel.png"
+    },
+    {
+     "id": "21113",
+     "name": "Horley Old Style",
+     "url": "https://fontsinuse.com/typefaces/21113/horley-old-style",
+     "sample": "https://assets.fontsinuse.com/static/renders/42/21113/400/4/6ad33ae4/horley-old-style.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306787/upto-700xauto/6acfa0fc/lp_eye-to-eye_eye-to-eye_0000.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306788/upto-700xauto/6acfa134/lp_eye-to-eye_eye-to-eye_0001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306789/upto-700xauto/6acfa136/lp_eye-to-eye_eye-to-eye_0002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306790/upto-700xauto/6acfa137/lp_eye-to-eye_eye-to-eye_0003.jpeg"
+   ],
+   "excerpt": "Self-titled debut album of the band Eye to Eye , a duo consisting of pianist Julian Marshall and singer Deborah Berg. “Nice Girls” is a favorite of mine from this album."
+  },
+  {
+   "id": "80787",
+   "title": "Coke Escovedo – Comin’ At Ya! album cover",
+   "url": "https://fontsinuse.com/uses/80787/coke-escovedo-comin-at-ya-album-cover",
+   "date": "2026-10-17T09:04:00.000Z",
+   "author": "TSFan2025's Videos",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "3966",
+     "name": "Shatter",
+     "url": "https://fontsinuse.com/typefaces/3966/shatter",
+     "sample": "https://assets.fontsinuse.com/static/renders/10/3966/400/4/6ad343b9/shatter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307319/upto-700xauto/6ad341b9/Coke%20Escovedo.jpeg"
+   ],
+   "excerpt": "Comin’ at Ya! is the second album by former Santana and Azteca band member Coke Escovedo . It was produced by Patrick Gleeson and released in 1976."
+  },
+  {
+   "id": "77560",
+   "title": "Jerry Reed – I’m Movin’ On album art",
+   "url": "https://fontsinuse.com/uses/77560/jerry-reed-i-m-movin-on-album-art-1",
+   "date": "2026-10-17T09:03:35.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32720",
+     "name": "Gothic (Nesbitt)",
+     "url": "https://fontsinuse.com/typefaces/32720/gothic-nesbitt",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1496/440/4/570e20d6/gothic-nesbitt.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/292/291533/upto-700xauto/6a09174d/lp_im-movin-on_jerry-reed_0000.jpeg"
+   ],
+   "excerpt": "Jerry Reed ’s I’m Movin’ On is a country-folk compilation album released in 1971 on Harmony Records . This album features his song that were recorded for Columbia Records between 1961 and 1963. His name and title are set in Gothic (Nesbitt) with the song…"
+  },
+  {
+   "id": "80581",
+   "title": "The Kingsmen – Greatest Hits album art",
+   "url": "https://fontsinuse.com/uses/80581/the-kingsmen-greatest-hits-album-art",
+   "date": "2026-10-17T08:59:53.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4027",
+     "name": "Egyptienne Bold Condensed",
+     "url": "https://fontsinuse.com/typefaces/4027/egyptienne-bold-condensed",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/4027/400/4/6ad3390a/egyptienne-bold-condensed.png"
+    },
+    {
+     "id": "31705",
+     "name": "Akzidenz-Grotesk",
+     "url": "https://fontsinuse.com/typefaces/31705/akzidenz-grotesk-condensed",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/895/440/4/570e2072/akzidenz-grotesk-condensed.png"
+    },
+    {
+     "id": "1160",
+     "name": "Univers",
+     "url": "https://fontsinuse.com/typefaces/1160/univers",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1160/400/4/6ad3390a/univers.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306139/upto-700xauto/6ad33546/55574539170_95e51f8881_4k.jpeg"
+   ],
+   "excerpt": "The Kingsmen are a rock band from Portland, Oregon, best known for their 1963 recording of R&B singer Richard Berry ’s “ Louie Louie ”. This greatest hits compilation was released by Wand Records in 1966."
+  },
+  {
+   "id": "80658",
+   "title": "Galaxia – “La noticia” / “Caminando” French single cover",
+   "url": "https://fontsinuse.com/uses/80658/galaxia-la-noticia-caminando-french-single-co",
+   "date": "2026-10-17T08:59:46.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "16837",
+     "name": "Davison Psyche",
+     "url": "https://fontsinuse.com/typefaces/16837/davison-psyche-contest",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7692/440/4/5ffca201/davison-psyche-contest.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306496/upto-700xauto/6accda85/55581336089_b72868a475_o.jpeg"
+   ],
+   "excerpt": "Galaxia was a Spanish band formed by brothers José Luis and Manuel Garrido. Shown here is the French pressing of their debut single on Decca, featuring psych flamenco rock. The band name is presented in a handdrawn version of Contest, Mecanorma copy of…"
+  },
   {
    "id": "78391",
    "title": "Later",
@@ -143,10 +356,10 @@
    "images": [
     "https://assets.fontsinuse.com/static/use-media-items/305/304712/upto-700xauto/6ad1e6e3/76d2b294dc87bcf9d3af2f85ac811e684a030c87-4428x7205.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/305/304711/upto-700xauto/6ab3acec/IMG_2797.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307166/upto-700xauto/6ad22877/161025_FIU_ORO_%3F14.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/305/304720/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758126955515701_2369029.mp4",
     "https://assets.fontsinuse.com/static/use-media-items/305/304714/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758111270476550_2369029.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/305/304715/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758106564418285_2369029.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/305/304717/upto-700xauto/6ab3ad88/twotimeselliott_1789240270_3984758103703921290_2369029.jpeg"
+    "https://assets.fontsinuse.com/static/use-media-items/305/304715/upto-700xauto/6ab3ad8d/twotimeselliott_1789240270_3984758106564418285_2369029.jpeg"
    ],
    "excerpt": "ORO is a Jordanian water brand built around precision and consistency. Unlike natural water, whose mineral composition varies depending on geology, season and weather, ORO draws water from an aquifer around 400 metres underground, purifies it to a neutral…"
   },
@@ -1720,7 +1933,7 @@
      "id": "303",
      "name": "News Gothic",
      "url": "https://fontsinuse.com/typefaces/303/news-gothic",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6abed6d2/news-gothic.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6ad351bb/news-gothic.png"
     }
    ],
    "images": [
