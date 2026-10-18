@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-17T12:09:13.103Z",
+ "updated": "2026-10-18T12:35:18.047Z",
  "day": {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "picks": [
-   "250332",
-   "14581",
-   "217644",
-   "217362",
-   "169393",
-   "159385",
-   "107291",
-   "34807",
-   "250327"
+   "7251",
+   "250264",
+   "145690",
+   "4970",
+   "94693",
+   "250328",
+   "98241",
+   "7244",
+   "141678"
   ]
  },
  "history": [
@@ -56,9 +56,263 @@
     "34807",
     "250327"
    ]
+  },
+  {
+   "date": "2026-10-18",
+   "picks": [
+    "7251",
+    "250264",
+    "145690",
+    "4970",
+    "94693",
+    "250328",
+    "98241",
+    "7244",
+    "141678"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80850",
+   "title": "Otto Kitzing invoice",
+   "url": "https://fontsinuse.com/uses/80850/otto-kitzing-invoice",
+   "date": "2026-10-18T11:47:05.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "118336",
+     "name": "Freihand-Kursiv",
+     "url": "https://fontsinuse.com/typefaces/118336/freihand-kursiv",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6341/440/4/5e35ff19/freihand-kursiv.png"
+    },
+    {
+     "id": "7239",
+     "name": "Bernhard-Antiqua",
+     "url": "https://fontsinuse.com/typefaces/7239/bernhard-antiqua",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2802/440/4/6925a36d/bernhard-antiqua.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307366/upto-700xauto/6ad38a9b/Otto%20Kitzing.jpeg"
+   ],
+   "excerpt": "In 1930, Otto Kitzing’s cigar factory in Leisnig, Saxony, was run by Werner Kitzing. Erich Hesse from Möbertitz near Zschaitz ordered half a package of “Siegesfahrt” (“victory ride”) cigars. The invoice is set in five sizes of Freihand-Kursiv ( Genzsch &…"
+  },
+  {
+   "id": "80217",
+   "title": "Fahrney’s Blood Cleanser trade card and envelope",
+   "url": "https://fontsinuse.com/uses/80217/fahrney-s-blood-cleanser-trade-card-and-envel",
+   "date": "2026-10-18T11:29:34.000Z",
+   "author": "Richard Sheaff",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "227907",
+     "name": "Antique",
+     "url": "https://fontsinuse.com/typefaces/227907/antique-egyptian",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19396/440/4/6ad3cb14/antique-egyptian.png"
+    },
+    {
+     "id": "4970",
+     "name": "Modern/Scotch",
+     "url": "https://fontsinuse.com/typefaces/4970/modern-and-scotch",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4970/400/4/6ad4ad9f/modern-and-scotch.png"
+    },
+    {
+     "id": "40821",
+     "name": "Antique Extended",
+     "url": "https://fontsinuse.com/typefaces/40821/antique-extended-light",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4966/440/4/5f5de150/antique-extended-light.png"
+    },
+    {
+     "id": "10139",
+     "name": "French Clarendon",
+     "url": "https://fontsinuse.com/typefaces/10139/french-clarendon",
+     "sample": "https://assets.fontsinuse.com/static/renders/44/10139/400/4/6ad4ad9f/french-clarendon.png"
+    },
+    {
+     "id": "250503",
+     "name": "Ornamented Msandj",
+     "url": "https://fontsinuse.com/typefaces/250503/ornamented-msandj",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19397/440/4/6ad4a76a/ornamented-msandj.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304304/upto-700xauto/6ad4aacf/Fahrney%27sBloodCleanser400.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304322/upto-700xauto/6ad4ab0a/Nauvoo%20Neighbor8-28-1844.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304326/upto-700xauto/6ad4a9d5/DrFahrney%27sAdCvr150.jpeg"
+   ],
+   "excerpt": "“A Sure Blood Cleanser” uses an Antique for the title and a Modern/Scotch for most of the “body text”. Note the asterisks used as buttons, as well as the manicules as (tiny) hands."
+  },
+  {
+   "id": "80644",
+   "title": "“Anti-Poking Your Nose Into Other People’s Business Society” acquaintance card",
+   "url": "https://fontsinuse.com/uses/80644/anti-poking-your-nose-into-other-people-s-bus",
+   "date": "2026-10-18T09:59:05.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250447",
+     "name": "Cameo",
+     "url": "https://fontsinuse.com/typefaces/250447/cameo",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19392/440/4/6ad3ab50/cameo.png"
+    },
+    {
+     "id": "235451",
+     "name": "Antique Extended Bold",
+     "url": "https://fontsinuse.com/typefaces/235451/antique-extended-bold",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13649/440/4/668cd990/antique-extended-bold.png"
+    },
+    {
+     "id": "250452",
+     "name": "Card Text",
+     "url": "https://fontsinuse.com/typefaces/250452/card-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19393/440/4/6ad3ae43/card-text.png"
+    },
+    {
+     "id": "40871",
+     "name": "Celtic",
+     "url": "https://fontsinuse.com/typefaces/40871/celtic",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4687/440/4/5b1cc74d/celtic.png"
+    },
+    {
+     "id": "4970",
+     "name": "Modern And Scotch",
+     "url": "https://fontsinuse.com/typefaces/4970/modern-and-scotch",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4970/400/4/6ad4ad9f/modern-and-scotch.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306436/upto-700xauto/6ad3b18a/52064835835_a2d6a4388f_c.jpeg"
+   ],
+   "excerpt": "A nineteenth-century acquaintance card . For other versions of this card, see Anti-Poke Your Nose Into Other People's Business Society and Anti-Poke Your Nose Into Other People's Business Society ."
+  },
+  {
+   "id": "20887",
+   "title": "Kuno Drossbach invoice",
+   "url": "https://fontsinuse.com/uses/20887/kuno-drossbach-invoice",
+   "date": "2026-10-18T09:58:17.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "31741",
+     "name": "Schelter-Antiqua",
+     "url": "https://fontsinuse.com/typefaces/31741/schelter-antiqua",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7636/440/4/5fe85608/schelter-antiqua.png"
+    }
+   ],
+   "images": [],
+   "excerpt": "Kuno Drossbach had a factory for egg-based pastry in Nuremberg, Germany. The company also was a wholesaler of milled goods, legumes, and colonial goods. In 1924, their invoice was set in Schelter-Antiqua ."
+  },
+  {
+   "id": "73695",
+   "title": "Trade Winds publicity book by United Steel Companies Limited",
+   "url": "https://fontsinuse.com/uses/73695/trade-winds-publicity-book-by-united-steel-co",
+   "date": "2026-10-18T09:56:37.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "5196",
+     "name": "Elizabeth",
+     "url": "https://fontsinuse.com/typefaces/5196/elizabeth",
+     "sample": "https://assets.fontsinuse.com/static/renders/15/5196/400/4/6ad4b0a6/elizabeth.png"
+    },
+    {
+     "id": "5117",
+     "name": "Times New Roman",
+     "url": "https://fontsinuse.com/typefaces/5117/times-new-roman",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/5117/400/4/6ad497d6/times-new-roman.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/274/273738/upto-700xauto/6ad497eb/54936609090_def1b5daf3_5k.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307408/upto-700xauto/6ad496fe/54936607390_b5e43c139c_6k.jpeg"
+   ],
+   "excerpt": "In 1948 the Sheffield based iron and steel conglomerate United Steel Companies issued a series of twelve adverts based on the theme of “Trade Winds”; using the dictionary meaning alongside John Masefield ’s poem of the same name ten artists were…"
+  },
+  {
+   "id": "80680",
+   "title": "Café de Pont, Amsterdam",
+   "url": "https://fontsinuse.com/uses/80680/cafe-de-pont-amsterdam",
+   "date": "2026-10-17T14:56:45.000Z",
+   "author": "Richard Keijzer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245037",
+     "name": "Mokum Tooneel",
+     "url": "https://fontsinuse.com/typefaces/245037/mokum-tooneel",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16341/440/4/6891e02d/mokum-tooneel.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306564/upto-700xauto/6acdff98/image.png"
+   ],
+   "excerpt": "The owner of this café in Amsterdam-Noord put the name on the façade. And then the place was sold. It turned out that the new owner did not like the typeface, so it got pulled down again"
+  },
+  {
+   "id": "80762",
+   "title": "New Chinatown Chinese Restaurant sign",
+   "url": "https://fontsinuse.com/uses/80762/new-chinatown-chinese-restaurant-sign",
+   "date": "2026-10-17T14:53:44.000Z",
+   "author": "gladys magnus",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4336",
+     "name": "Peignot",
+     "url": "https://fontsinuse.com/typefaces/4336/peignot",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4336/400/4/6ad38bf9/peignot.png"
+    },
+    {
+     "id": "4291",
+     "name": "Minion",
+     "url": "https://fontsinuse.com/typefaces/4291/minion",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/4291/400/4/6ad38bf9/minion.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307043/upto-700xauto/6ad38c0a/IMG_1803.jpeg"
+   ],
+   "excerpt": "Located in Chicago’s Chinatown, this restaurant has been open since 2013 and serves northern and northeastern Chinese cuisine. The logo is in Peignot . On the sign, it’s accompanied by what appears to be Minion Italic with added stroke. The Chinese fonts…"
+  },
+  {
+   "id": "79954",
+   "title": "Tom and Jerry (2021) credits",
+   "url": "https://fontsinuse.com/uses/79954/tom-and-jerry-2021-credits",
+   "date": "2026-10-17T14:53:14.000Z",
+   "author": "Daniel Dell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "238882",
+     "name": "Shermlock",
+     "url": "https://fontsinuse.com/typefaces/238882/shermlock",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16085/440/4/686f7afd/shermlock.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302944/upto-700xauto/6aa220bc/IMG_0098.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302945/upto-700xauto/6aa220bd/IMG_0099.jpeg"
+   ],
+   "excerpt": "Tom and Jerry , released as Tom & Jerry: The Movie in some territories, is a 2021 American comedy film based on the cartoon characters Tom and Jerry created by William Hanna and Joseph Barbera . Produced by Warner Animation Group , it is the second…"
+  },
   {
    "id": "80760",
    "title": "Alex Augustus – “Among the Dead and the Living” single cover",
@@ -1223,7 +1477,7 @@
      "id": "116909",
      "name": "Clarendon Ionic",
      "url": "https://fontsinuse.com/typefaces/116909/clarendon-ionic",
-     "sample": "https://assets.fontsinuse.com/static/renders/127/116909/400/4/6acbbb32/clarendon-ionic.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/127/116909/400/4/6ad3c8ea/clarendon-ionic.png"
     }
    ],
    "images": [
