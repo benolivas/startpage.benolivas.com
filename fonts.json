@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-18T12:35:18.047Z",
+ "updated": "2026-10-19T15:32:51.947Z",
  "day": {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "picks": [
-   "7251",
-   "250264",
-   "145690",
-   "4970",
-   "94693",
-   "250328",
-   "98241",
-   "7244",
-   "141678"
+   "184128",
+   "184127",
+   "47154",
+   "40821",
+   "143574",
+   "10139",
+   "89627",
+   "249631",
+   "44"
   ]
  },
  "history": [
@@ -70,14 +70,429 @@
     "7244",
     "141678"
    ]
+  },
+  {
+   "date": "2026-10-19",
+   "picks": [
+    "184128",
+    "184127",
+    "47154",
+    "40821",
+    "143574",
+    "10139",
+    "89627",
+    "249631",
+    "44"
+   ]
   }
  ],
  "uses": [
   {
+   "id": "80305",
+   "title": "Miniatures. Trésors cachés du disque pour enfants",
+   "url": "https://fontsinuse.com/uses/80305/miniatures-tresors-caches-du-disque-pour-enfa",
+   "date": "2026-10-19T08:27:35.000Z",
+   "author": "Extraset Type Foundry",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "198482",
+     "name": "Es Allianz",
+     "url": "https://fontsinuse.com/typefaces/198482/es-allianz",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10101/440/4/62b84db0/es-allianz.png"
+    },
+    {
+     "id": "133120",
+     "name": "Rungli",
+     "url": "https://fontsinuse.com/typefaces/133120/rungli",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6882/440/4/5f0385ca/rungli.png"
+    },
+    {
+     "id": "47154",
+     "name": "Norton Slapstick",
+     "url": "https://fontsinuse.com/typefaces/47154/norton-slapstick",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4555/440/4/6708d702/norton-slapstick.png"
+    },
+    {
+     "id": "250473",
+     "name": "Ropest",
+     "url": "https://fontsinuse.com/typefaces/250473/ropest",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19377/440/4/6acf74fd/ropest.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304841/upto-700xauto/6ab4e792/788926802_18216167635352079_1971409300635696606_n%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304834/upto-700xauto/6acf7c0d/784732888_18216167572352079_6894510304566827811_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304833/upto-700xauto/6ab4e794/782169548_18216167620352079_9148985016883188438_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304837/upto-700xauto/6ab4e7a3/787889041_18216167581352079_488522965788945857_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304835/upto-700xauto/6ab4e7a5/785777693_18216167629352079_9081743313019558218_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304838/upto-700xauto/6ab4e7a5/788172183_18216167599352079_8767536778646611096_n.jpeg"
+   ],
+   "excerpt": "Miniatures. Trésors cachés du disque pour enfants is a book by Radio Minus , published by L’Articho. Developed over eight years, the 800-page publication documents and contextualizes the history of children’s records on an international scale. It covers a…"
+  },
+  {
+   "id": "80296",
+   "title": "Nike kidswear T-shirts",
+   "url": "https://fontsinuse.com/uses/80296/nike-kidswear-t-shirts",
+   "date": "2026-10-19T08:25:42.000Z",
+   "author": "Nikolas Wrobel",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "108062",
+     "name": "Grand Slang",
+     "url": "https://fontsinuse.com/typefaces/108062/grand-slang",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5895/440/4/5d70b890/grand-slang.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304773/upto-700xauto/6ab3f992/10_GrandSlang_NikeKids_NikolasType.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304774/upto-700xauto/6ab3f803/03_GrandSlang_NikeKids_NikolasType.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304775/upto-700xauto/6ab3f9a7/06_GrandSlang_NikeKids_NikolasType-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304776/upto-700xauto/6ab3f80f/07_GrandSlang_NikeKids_NikolasType.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304777/upto-700xauto/6ab3f816/01_GrandSlang_NikeKids_NikolasType.webp"
+   ],
+   "excerpt": "Nike launched a playful, fresh, colorful and inspiring mini-collection for its kidswear line. Steve Green from Nike in Portland, Oregon, used Grand Slang from Nikolas Type to accompany the Swoosh typographically."
+  },
+  {
+   "id": "77618",
+   "title": "Sonic Acts Biennial 2026",
+   "url": "https://fontsinuse.com/uses/77618/sonic-acts-biennial-2026",
+   "date": "2026-10-19T08:23:58.000Z",
+   "author": "British Standard Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "231255",
+     "name": "JL Limpet Granite",
+     "url": "https://fontsinuse.com/typefaces/231255/jl-limpet-granite",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13421/440/4/6654a9a7/jl-limpet-granite.png"
+    },
+    {
+     "id": "250408",
+     "name": "BST Bazaine Mono",
+     "url": "https://fontsinuse.com/typefaces/250408/bst-bazaine-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19318/440/4/6ac63867/bst-bazaine-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/292/291792/upto-700xauto/6aab1825/BST%20Fonts%20In%20Use%20Upload%202026%20Q2%20-%20150526%20-%20V5_converted%20%28SONIC%20ACTS%293.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303890/upto-700xauto/6aab180a/AQOOaKYR-0wlZi6e9B4Rz9DrDfyboZWrMksvcjWShO7JRPaDaZ_AnWXO2ndzYUTaAEGC8nB-MRBsqI62NtVUEHRAfg-OioQGSgoxlnU.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/292/291805/upto-700xauto/6aab180f/BST%20Fonts%20In%20Use%20Upload%202026%20Q2%20-%20150526%20-%20V5_converted%20%28topslide%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303887/upto-700xauto/6aab180f/Screenshot%202026-02-11%20at%2009-56-47.png",
+    "https://assets.fontsinuse.com/static/use-media-items/292/291791/upto-700xauto/6aab180d/BST%20Fonts%20In%20Use%20Upload%202026%20Q2%20-%20150526%20-%20V5_converted%20%28SONIC%20ACTS%292.jpeg"
+   ],
+   "excerpt": "Sonic Acts Biennial 2026 brought together more than 200 artists across over 20 venues in Amsterdam, spanning sound, moving image, performance, installation and other forms of experimental art and culture."
+  },
+  {
+   "id": "79561",
+   "title": "Deluge",
+   "url": "https://fontsinuse.com/uses/79561/deluge",
+   "date": "2026-10-19T08:22:49.000Z",
+   "author": "CLAUDE TYPE",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "110622",
+     "name": "Romie",
+     "url": "https://fontsinuse.com/typefaces/110622/romie",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6020/440/4/640eed7d/romie.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304024/upto-700xauto/6aac31d0/460600238_1085015929709774_7710778488795410610_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304030/upto-700xauto/6aac3529/Snapinsta-app_460499415_558859139900065_1443292792555763116_n_1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304026/upto-700xauto/6aac3529/DELUGE_SHOT_008_0059-1-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301128/upto-700xauto/6aac3527/Screenshot%202026-08-18%20at%2021-36-07.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304031/upto-700xauto/6aac351d/Snapinsta-app_460697021_916735023599513_8511937704001520056_n_1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304032/upto-700xauto/6aac351d/Snapinsta-app_460703112_1205705557147405_2389125606100560984_n_1080.jpeg"
+   ],
+   "excerpt": "Brand identity, art direction and packaging designed by Base Design for Deluge, a Belgian haircare brand founded by Sarah Puttemans and Dominique Van Etterijk."
+  },
+  {
+   "id": "80193",
+   "title": "“Conviction” poster",
+   "url": "https://fontsinuse.com/uses/80193/conviction-poster",
+   "date": "2026-10-19T08:21:34.000Z",
+   "author": "David Sieren",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229938",
+     "name": "SwissPosters",
+     "url": "https://fontsinuse.com/typefaces/229938/swissposters",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12183/440/4/64f1b4f5/swissposters.png"
+    },
+    {
+     "id": "250492",
+     "name": "Nudica Mono",
+     "url": "https://fontsinuse.com/typefaces/250492/nudica-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19384/440/4/6ad1ce2e/nudica-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304193/upto-700xauto/6ab09330/IMG_3076.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304194/upto-700xauto/6ab09331/IMG_3077.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304195/upto-700xauto/6ab0937b/conviction-poster-fold-SM.jpeg"
+   ],
+   "excerpt": "A piece created for an exhibition curated by the Chicago Graphic Design Club in 2026, considering the values that shape our current moment and community."
+  },
+  {
+   "id": "79783",
+   "title": "Acting Together magazine",
+   "url": "https://fontsinuse.com/uses/79783/acting-together-magazine",
+   "date": "2026-10-19T08:16:29.000Z",
+   "author": "TypeTogether",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "10056",
+     "name": "Adelle Sans",
+     "url": "https://fontsinuse.com/typefaces/10056/adelle-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/10/10056/400/4/6ad5d1de/adelle-sans.png"
+    },
+    {
+     "id": "20012",
+     "name": "GHEA Aragast",
+     "url": "https://fontsinuse.com/typefaces/20012/ghea-aragast",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19122/440/4/6aa18832/ghea-aragast.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302153/upto-700xauto/6ad5d1f3/2018_adellesansarm_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302154/upto-700xauto/6a954ef4/2018_adellesansarm_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302155/upto-700xauto/6a954ef5/2018_adellesansarm_19.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302156/upto-700xauto/6a954ef7/2018_adellesansarm_21.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302157/upto-700xauto/6a954ef8/2018_adellesansarm_23.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302158/upto-700xauto/6a954efa/2018_adellesansarm_28.jpeg"
+   ],
+   "excerpt": "The Acting Together magazine was the result of a very special field trip to Armenia as part of the reconciliation project “Acting Together” between Armenia and Turkey in memory of the Armenian genocide of 1915, an event that as of yet has not been…"
+  },
+  {
+   "id": "80155",
+   "title": "Maldon Salt",
+   "url": "https://fontsinuse.com/uses/80155/maldon-salt",
+   "date": "2026-10-19T08:15:01.000Z",
+   "author": "Netta Szabo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "83214",
+     "name": "Passenger Display",
+     "url": "https://fontsinuse.com/typefaces/83214/passenger-display",
+     "sample": "https://assets.fontsinuse.com/static/renders/95/83214/400/4/6ad62d76/passenger-display.png"
+    },
+    {
+     "id": "2050",
+     "name": "Mrs Eaves",
+     "url": "https://fontsinuse.com/typefaces/2050/mrs-eaves",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/2050/400/4/6ad5d186/mrs-eaves.png"
+    },
+    {
+     "id": "42288",
+     "name": "Freight Neo",
+     "url": "https://fontsinuse.com/typefaces/42288/freight-neo",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10143/440/4/62bb5d95/freight-neo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304060/upto-700xauto/6ad5d199/Maldon_By_big_Fish_H_1000.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304061/upto-700xauto/6accc830/Maldon-box-scaled-1-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304064/upto-700xauto/6aace3f4/website2-1-scaled-1-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304063/upto-700xauto/6accc829/Screenshot%202026-09-18%20at%2009-04-39.png"
+   ],
+   "excerpt": "Maldon Salt uses Passenger Display as their brand typeface, supported by Mrs Eaves for “Est. 1882” on the packaging and Freight Neo for website text."
+  },
+  {
+   "id": "80303",
+   "title": "Alles Liebe by Ronja von Rönne",
+   "url": "https://fontsinuse.com/uses/80303/alles-liebe-by-ronja-von-roenne",
+   "date": "2026-10-19T08:14:24.000Z",
+   "author": "Christian Thalmann",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "45804",
+     "name": "Cormorant",
+     "url": "https://fontsinuse.com/typefaces/45804/cormorant",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3440/440/4/6310a5d3/cormorant.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306756/upto-700xauto/6ad5d16d/alles-liebe-gebundene-ausgabe-ronja-von-roenne.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306757/upto-700xauto/6acf7d86/alles-liebe-gebundene-ausgabe-ronja-von-roenne.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306759/upto-700xauto/6ad1bac2/alles-liebe-gebundene-ausgabe-ronja-von-roenne.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306761/upto-700xauto/6acf7d86/alles-liebe-gebundene-ausgabe-ronja-von-roenne.jpeg"
+   ],
+   "excerpt": "The novel Alles Liebe by Ronja von Rönne uses Cormorant Garamond on its front and back cover. The design is by Miriam Bröckel , using an illustration by Giacomo Bagnara ."
+  },
+  {
+   "id": "80263",
+   "title": "LivestockX visual identity and platform",
+   "url": "https://fontsinuse.com/uses/80263/livestockx-visual-identity-and-platform",
+   "date": "2026-10-19T08:09:46.000Z",
+   "author": "Atin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250476",
+     "name": "SuperBlue",
+     "url": "https://fontsinuse.com/typefaces/250476/superblue",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19380/440/4/6ad0c584/superblue.png"
+    },
+    {
+     "id": "44329",
+     "name": "Archivo",
+     "url": "https://fontsinuse.com/typefaces/44329/archivo",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3070/440/4/5cb58d16/archivo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304478/upto-700xauto/6ad5ced9/Artboard%2055.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304486/upto-700xauto/6ad5cef0/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304487/upto-700xauto/6ad5cef7/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304488/upto-700xauto/6ad5cefb/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304489/upto-700xauto/6ad5ceff/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307475/upto-700xauto/6ad5cfc6/Screenshot%202026-10-19%20at%2010-06-34%20LivestockX%20%E2%80%94%20Bucking%20Bull%20Marketplace.png"
+   ],
+   "excerpt": "LivestockX is the definitive global platform for the verification, valuation, and movement of performance animals. London & LA-based agency Atin was commissioned to build an institutional-grade brand identity and digital UI/UX that brings transparency and…"
+  },
+  {
+   "id": "80715",
+   "title": "Bordello A Parigi at Noorderlicht, ADE 2026",
+   "url": "https://fontsinuse.com/uses/80715/bordello-a-parigi-at-noorderlicht-ade-2026",
+   "date": "2026-10-18T12:07:04.000Z",
+   "author": "Blaze Type",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "247934",
+     "name": "Nosferatu",
+     "url": "https://fontsinuse.com/typefaces/247934/nosferatu",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17913/440/4/69c306de/nosferatu.png"
+    },
+    {
+     "id": "250474",
+     "name": "Volpe",
+     "url": "https://fontsinuse.com/typefaces/250474/volpe",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19379/440/4/6ad0f277/volpe.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306771/upto-700xauto/6ad4b69f/813136909_18629973802016710_1725045338890072824_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306774/upto-700xauto/6acf966e/797725016_18629973883016710_3908971451231691054_n.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306772/upto-700xauto/6acf966f/796515331_18629973841016710_3455763583268613617_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306775/upto-700xauto/6acf9671/812195542_18629973880016710_7014628334531941128_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306773/upto-700xauto/6acf9671/812696973_18629973856016710_6397097342354104926_n.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306776/upto-700xauto/6acf8965/810051827_18629973844016710_2641489605241900913_n.jpeg"
+   ],
+   "excerpt": "As Amsterdam Dance Event (ADE) approaches, record label Bordello A Parigi takes over Noorderlicht on October 24, featuring Alden Tyrell , Budino , Daniel Monaco , John Noseda , and Nunzio Borino . To mark the occasion, Parade Studio designed a…"
+  },
+  {
+   "id": "76005",
+   "title": "Gargamelle by Anna Philippi",
+   "url": "https://fontsinuse.com/uses/76005/gargamelle-by-anna-philippi",
+   "date": "2026-10-18T11:48:33.000Z",
+   "author": "Antoine Pazat",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247862",
+     "name": "Feroniapi",
+     "url": "https://fontsinuse.com/typefaces/247862/feroniapi",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18448/440/4/6abe7b4d/feroniapi.png"
+    },
+    {
+     "id": "102265",
+     "name": "Redaction",
+     "url": "https://fontsinuse.com/typefaces/102265/redaction",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5715/440/4/5d022da1/redaction.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/285/284904/upto-700xauto/6ad4b6aa/gargamelle.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/285/284905/upto-700xauto/69b61e1d/gargamelle.jpeg"
+   ],
+   "excerpt": "Gargamelle is a zine made by Anna Philippi . This book contains vegan adaptations of classic recipes from the Northern Vosges region. It was screen printed at Atelier La Turbine and released in 2026 at Éditions Liseron ."
+  },
+  {
+   "id": "65683",
+   "title": "Abattre les arbres, boucher les fontaines, renverser les pierres by Pia-Mélissa Laroche",
+   "url": "https://fontsinuse.com/uses/65683/abattre-les-arbres-boucher-les-fontaines-renv",
+   "date": "2026-10-18T11:48:16.000Z",
+   "author": "Antoine Pazat",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "241359",
+     "name": "Feronia",
+     "url": "https://fontsinuse.com/typefaces/241359/feronia",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14622/440/4/6abd1721/feronia.png"
+    },
+    {
+     "id": "47160",
+     "name": "Professor-Krause-Fraktur",
+     "url": "https://fontsinuse.com/typefaces/47160/professor-krause-fraktur",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3878/440/4/59afd009/professor-krause-fraktur.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/247/246782/upto-700xauto/6ad4b242/abattre-boucher-renverser-WEB.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/247/246783/upto-700xauto/69b5f597/abattre-boucher-renverser-WEB-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305254/upto-700xauto/6abcf94d/abattre-les-arbres-pia-melissa-laroche-phenicusa-press-book.png"
+   ],
+   "excerpt": "Abattre les arbres, boucher les fontaines, renverser les pierres is a collection of four chapters from a graphic story drawn and self-published by French artist Pia-Mélissa Laroche in 2021. The book was published in 2023 by Phenicusa Press . It was printed…"
+  },
+  {
+   "id": "80872",
+   "title": "E. Knappe invoices",
+   "url": "https://fontsinuse.com/uses/80872/e-knappe-invoices",
+   "date": "2026-10-18T11:47:00.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38692",
+     "name": "Admiral",
+     "url": "https://fontsinuse.com/typefaces/38692/admiral-woellmer",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1662/440/4/570e20f2/admiral-woellmer.png"
+    },
+    {
+     "id": "250504",
+     "name": "Titus-Zirkular",
+     "url": "https://fontsinuse.com/typefaces/250504/titus-zirkular",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19398/440/4/6ad4e024/titus-zirkular.png"
+    },
+    {
+     "id": "250505",
+     "name": "Antiqua breitfett",
+     "url": "https://fontsinuse.com/typefaces/250505/antiqua-breitfett",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19399/440/4/6ad62cf8/antiqua-breitfett.png"
+    },
+    {
+     "id": "89",
+     "name": "Cheltenham",
+     "url": "https://fontsinuse.com/typefaces/89/cheltenham",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/89/400/4/6ad51373/cheltenham.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307423/upto-700xauto/6ad51105/E-%20Knappe%201921.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307421/upto-700xauto/6ad51117/E-%20Knappe%201922.jpeg"
+   ],
+   "excerpt": "In early 20th-century Germany, coming up with a brand name was a piece of cake. You’re called Eduard Schopf? Alright, your company is EduScho . You are Hans Riegel, based in Bonn? Easy: do business as HaRiBo . E. Knappe’s Ekata is a lesser known example,…"
+  },
+  {
    "id": "80850",
    "title": "Otto Kitzing invoice",
    "url": "https://fontsinuse.com/uses/80850/otto-kitzing-invoice",
-   "date": "2026-10-18T11:47:05.000Z",
+   "date": "2026-10-18T11:45:00.000Z",
    "author": "Florian Hardwig",
    "staffPick": false,
    "typefaces": [
@@ -95,7 +510,7 @@
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/308/307366/upto-700xauto/6ad38a9b/Otto%20Kitzing.jpeg"
+    "https://assets.fontsinuse.com/static/use-media-items/308/307366/upto-700xauto/6ad51ba7/Otto%20Kitzing.jpeg"
    ],
    "excerpt": "In 1930, Otto Kitzing’s cigar factory in Leisnig, Saxony, was run by Werner Kitzing. Erich Hesse from Möbertitz near Zschaitz ordered half a package of “Siegesfahrt” (“victory ride”) cigars. The invoice is set in five sizes of Freihand-Kursiv ( Genzsch &…"
   },
@@ -269,6 +684,12 @@
    "staffPick": false,
    "typefaces": [
     {
+     "id": "1546",
+     "name": "Df Yan Kai",
+     "url": "https://fontsinuse.com/typefaces/1546/df-yan-kai",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1546/400/4/6ad5c6fb/df-yan-kai.png"
+    },
+    {
      "id": "4336",
      "name": "Peignot",
      "url": "https://fontsinuse.com/typefaces/4336/peignot",
@@ -281,10 +702,10 @@
      "sample": "https://assets.fontsinuse.com/static/renders/14/4291/400/4/6ad38bf9/minion.png"
     },
     {
-     "id": "7251",
-     "name": "Unidentified Typeface",
-     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
-     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+     "id": "250508",
+     "name": "Df Li Shu",
+     "url": "https://fontsinuse.com/typefaces/250508/df-li-shu",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19403/440/4/6ad5bff3/df-li-shu.png"
     }
    ],
    "images": [
