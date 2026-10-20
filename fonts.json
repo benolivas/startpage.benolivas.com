@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-19T15:32:51.947Z",
+ "updated": "2026-10-20T13:32:07.255Z",
  "day": {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "picks": [
-   "184128",
-   "184127",
-   "47154",
-   "40821",
-   "143574",
-   "10139",
-   "89627",
-   "249631",
-   "44"
+   "240422",
+   "109442",
+   "20908",
+   "250334",
+   "246160",
+   "39856",
+   "250473",
+   "243420",
+   "241359"
   ]
  },
  "history": [
@@ -84,9 +84,186 @@
     "249631",
     "44"
    ]
+  },
+  {
+   "date": "2026-10-20",
+   "picks": [
+    "240422",
+    "109442",
+    "20908",
+    "250334",
+    "246160",
+    "39856",
+    "250473",
+    "243420",
+    "241359"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "78163",
+   "title": "MYRA coloring book",
+   "url": "https://fontsinuse.com/uses/78163/myra-coloring-book",
+   "date": "2026-10-20T08:59:35.000Z",
+   "author": "Ilya Naumoff",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245069",
+     "name": "Oceanic Grotesk",
+     "url": "https://fontsinuse.com/typefaces/245069/oceanic-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16362/440/4/689ae9a8/oceanic-grotesk.png"
+    },
+    {
+     "id": "210364",
+     "name": "Ready Active",
+     "url": "https://fontsinuse.com/typefaces/210364/ready-active",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10537/440/4/633f3234/ready-active.png"
+    },
+    {
+     "id": "249052",
+     "name": "Loza",
+     "url": "https://fontsinuse.com/typefaces/249052/loza",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18548/440/4/6a344249/loza.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/295/294096/upto-700xauto/6a2804b4/MIRA-Suzdal-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294097/upto-700xauto/6a2804b7/MIRA-Suzdal-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294098/upto-700xauto/6a2804ba/MIRA-Suzdal-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294099/upto-700xauto/6a2804bc/MIRA-Suzdal-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294100/upto-700xauto/6a2804bf/MIRA-Suzdal-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294101/upto-700xauto/6a2804c2/MIRA-Suzdal-06.jpeg"
+   ],
+   "excerpt": "A coloring book (Russian: Раскраска ) for МИРА (MYRA), a museum in Suzdal, featuring 48 pages of illustrations inspired by children’s books, posters, toys, and porcelain from 1910 to 1980, drawn from the MYRA Center collection. The project brings together…"
+  },
+  {
+   "id": "80314",
+   "title": "Social Grapes",
+   "url": "https://fontsinuse.com/uses/80314/social-grapes",
+   "date": "2026-10-20T08:57:59.000Z",
+   "author": "Alexandre Créquer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235650",
+     "name": "Pouler",
+     "url": "https://fontsinuse.com/typefaces/235650/pouler",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13875/440/4/66d0962f/pouler.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304902/upto-700xauto/6ad739c8/AC0A6485-CF1E-47E4-AC76-D1BC064BA099.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304966/upto-700xauto/6ab664fc/818250242_1108390148197823_8233109966783240824_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304903/upto-700xauto/6ab664fd/Capture%20d%E2%80%99e%CC%81cran%202026-09-24%20a%CC%80%2018-09-57.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304904/upto-700xauto/6ad72d37/Capture%20d%E2%80%99e%CC%81cran%202026-09-24%20a%CC%80%2018-09-57-gigapixel-standard%20v2-2x.png"
+   ],
+   "excerpt": "Logotype for Social Grapes , a Berlin-based wine bar, realised by Özin Y . The logotype is a brunch of grapes made out of Pouler , by Alexandre Créquer ."
+  },
+  {
+   "id": "80304",
+   "title": "Otto Künzli: Ambassador of Jewelry certificate",
+   "url": "https://fontsinuse.com/uses/80304/otto-kuenzli-ambassador-of-jewelry-certificat",
+   "date": "2026-10-20T08:56:55.000Z",
+   "author": "Rohil Borole",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "233306",
+     "name": "Kmr Melange Grotesk",
+     "url": "https://fontsinuse.com/typefaces/233306/kmr-melange-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13077/440/4/65eaa85c/kmr-melange-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304828/upto-700xauto/6ab5442c/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304890/upto-700xauto/6ab5442c/ezgif-com-optimize.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304885/upto-700xauto/6ab54166/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304831/upto-700xauto/6ab5415d/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304832/upto-700xauto/6ab5415d/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304884/upto-700xauto/6ab5415d/05-ezgif-com-optimize.gif"
+   ],
+   "excerpt": "Letterpress cliché as a certificate for Swiss jewelry designer Otto Künzli , awarded at the Jewelry Matinee of Pinakothek der Moderne – Die Neue Sammlung with the title “Ambassador of Jewelry”. Design: Michael Clasen and Johannes Pejas for kimera Campaign:…"
+  },
+  {
+   "id": "80309",
+   "title": "Twilights: Essays on Artists’ Late Work by Henriette Heise",
+   "url": "https://fontsinuse.com/uses/80309/twilights-essays-on-artists-late-work-by-henr",
+   "date": "2026-10-20T08:56:36.000Z",
+   "author": "WrittenShape Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167778",
+     "name": "Gaya",
+     "url": "https://fontsinuse.com/typefaces/167778/gaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8746/440/4/6145a85d/gaya.png"
+    },
+    {
+     "id": "162439",
+     "name": "Loretta",
+     "url": "https://fontsinuse.com/typefaces/162439/loretta",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8433/440/4/60df788e/loretta.png"
+    },
+    {
+     "id": "2509",
+     "name": "Ff Nuvo Mono",
+     "url": "https://fontsinuse.com/typefaces/2509/ff-nuvo-mono",
+     "sample": "https://assets.fontsinuse.com/static/renders/3/2509/400/4/6ad72cc5/ff-nuvo-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304871/upto-700xauto/6ab51eb3/0-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304872/upto-700xauto/6ab51eb4/0-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304873/upto-700xauto/6ab51eb4/0-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304874/upto-700xauto/6ab51eb5/0.jpeg"
+   ],
+   "excerpt": "Published in May 2026 by At Last Books , this book presents the work of artist Henriette Heise . It is introduced by the publisher as follows:"
+  },
+  {
+   "id": "79800",
+   "title": "Simbari website",
+   "url": "https://fontsinuse.com/uses/79800/simbari-website",
+   "date": "2026-10-20T08:56:26.000Z",
+   "author": "Marianna Rossi",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "6838",
+     "name": "URW Imperial",
+     "url": "https://fontsinuse.com/typefaces/6838/urw-imperial",
+     "sample": "https://assets.fontsinuse.com/static/renders/7/6838/400/4/6ad72cbb/urw-imperial.png"
+    },
+    {
+     "id": "47810",
+     "name": "HK Grotesk",
+     "url": "https://fontsinuse.com/typefaces/47810/hk-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4002/440/4/6006d092/hk-grotesk.png"
+    },
+    {
+     "id": "34060",
+     "name": "Bodoni Sans",
+     "url": "https://fontsinuse.com/typefaces/34060/bodoni-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15159/440/4/6818a177/bodoni-sans.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304203/upto-700xauto/6ab4ed04/Screenshot%202026-09-21%20alle%2008-57-10.png",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302465/upto-700xauto/6ad1c483/Screenshot%202026-09-03%20alle%2015-39-20.png",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302458/upto-700xauto/6ab0d5c1/simbari_type__0003_Livello-9.png",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302459/upto-700xauto/6ad1c485/simbari_type__0004_Livello-8.png",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302457/upto-700xauto/6ad1c489/simbari_type__0001_Livello-5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302461/upto-700xauto/6ad1c488/simbari_type__0006_Livello-3.png"
+   ],
+   "excerpt": "We developed a full website redesign for Simbari Avvocati , a Milan-based law firm."
+  },
   {
    "id": "80305",
    "title": "Miniatures. Trésors cachés du disque pour enfants",
@@ -236,6 +413,49 @@
     "https://assets.fontsinuse.com/static/use-media-items/305/304195/upto-700xauto/6ab0937b/conviction-poster-fold-SM.jpeg"
    ],
    "excerpt": "A piece created for an exhibition curated by the Chicago Graphic Design Club in 2026, considering the values that shape our current moment and community."
+  },
+  {
+   "id": "80793",
+   "title": "Elissa Silverman campaign website and logo",
+   "url": "https://fontsinuse.com/uses/80793/elissa-silverman-campaign-website-and-logo",
+   "date": "2026-10-19T08:21:00.000Z",
+   "author": "Darden Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "40263",
+     "name": "Jubilat",
+     "url": "https://fontsinuse.com/typefaces/40263/jubilat",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1989/440/4/5e8a021c/jubilat.png"
+    },
+    {
+     "id": "57",
+     "name": "Graphik",
+     "url": "https://fontsinuse.com/typefaces/57/graphik",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/145/440/4/5a5cf20c/graphik.png"
+    },
+    {
+     "id": "7203",
+     "name": "Stag",
+     "url": "https://fontsinuse.com/typefaces/7203/stag",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/159/440/4/570e1ff6/stag.png"
+    },
+    {
+     "id": "31668",
+     "name": "Stag Sans",
+     "url": "https://fontsinuse.com/typefaces/31668/stag-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2166/440/4/570e2151/stag-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307203/upto-700xauto/6ad24c1c/Elissa%20Silverman%20for%20DC%20Council%20At-Large%201.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307199/upto-700xauto/6ad244f7/A%20Better%20D-C-%20For%20All%20Agenda%20%E2%80%94%20elissafordc.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307198/upto-700xauto/6ad244f7/Get%20Involved%20%E2%80%94%20elissafordc.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307202/upto-700xauto/6ad244f2/Elissa%20Silverman%20for%20DC%20Council%20At-Large%202.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307200/upto-700xauto/6ad244f2/Meet%20Elissa%20%E2%80%94%20elissafordc.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307201/upto-700xauto/6ad244f2/Elissa%20Silverman%20for%20DC%20Council%20At-Large%203.png"
+   ],
+   "excerpt": "Elissa Silverman relies on Jubilat for her campaign as candidate for the D.C. Council."
   },
   {
    "id": "79783",
