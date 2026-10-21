@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-20T13:32:07.255Z",
+ "updated": "2026-10-21T13:43:32.887Z",
  "day": {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "picks": [
-   "240422",
-   "109442",
-   "20908",
-   "250334",
-   "246160",
-   "39856",
-   "250473",
-   "243420",
-   "241359"
+   "183841",
+   "247934",
+   "227907",
+   "250331",
+   "45733",
+   "245071",
+   "234344",
+   "229542",
+   "250330"
   ]
  },
  "history": [
@@ -98,16 +98,482 @@
     "243420",
     "241359"
    ]
+  },
+  {
+   "date": "2026-10-21",
+   "picks": [
+    "183841",
+    "247934",
+    "227907",
+    "250331",
+    "45733",
+    "245071",
+    "234344",
+    "229542",
+    "250330"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "75164",
+   "title": "Construire sans se trahir by Collectif Etc",
+   "url": "https://fontsinuse.com/uses/75164/construire-sans-se-trahir-by-collectif-etc",
+   "date": "2026-10-21T07:17:11.000Z",
+   "author": "Swiss Typefaces",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "7782",
+     "name": "Anchor",
+     "url": "https://fontsinuse.com/typefaces/7782/anchor",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1967/440/4/570e212b/anchor.png"
+    },
+    {
+     "id": "7884",
+     "name": "Suisse Int L",
+     "url": "https://fontsinuse.com/typefaces/7884/suisse-int-l",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1811/440/4/570e210f/suisse-int-l.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/281/280800/upto-700xauto/69b61af3/asoc-etc-25-super-terrain-11c-1920x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280794/upto-700xauto/6a8702d7/asoc-etc-25-super-terrain-1-1920x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280795/upto-700xauto/69b61af3/asoc-etc-25-super-terrain-4b-960x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280796/upto-700xauto/69b61af3/asoc-etc-25-super-terrain-5b-960x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280797/upto-700xauto/69b61af3/asoc-etc-25-super-terrain-6b-960x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280798/upto-700xauto/69b61af3/asoc-etc-25-super-terrain-8-960x.jpeg"
+   ],
+   "excerpt": "Construire sans se trahir by Collectif Etc , published by Éditions Hyperville in 2025, brings together discussions held between 2023 and 2024 as part of the Architecture School of Commons action-research program. The publication examines alternative…"
+  },
+  {
+   "id": "80220",
+   "title": "L’Œil, issue 01",
+   "url": "https://fontsinuse.com/uses/80220/l-oeil-issue-01",
+   "date": "2026-10-21T07:16:04.000Z",
+   "author": "205TF",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "246704",
+     "name": "Gando",
+     "url": "https://fontsinuse.com/typefaces/246704/gando-205tf",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17406/440/4/695e61bb/gando-205tf.png"
+    },
+    {
+     "id": "245702",
+     "name": "Pinokio",
+     "url": "https://fontsinuse.com/typefaces/245702/pinokio",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16822/440/4/695e47a5/pinokio.png"
+    },
+    {
+     "id": "233292",
+     "name": "Muoto Mono",
+     "url": "https://fontsinuse.com/typefaces/233292/muoto-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13064/440/4/65e7560b/muoto-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304308/upto-700xauto/6ab14cbc/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305133/upto-700xauto/6ad86791/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_2_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305134/upto-700xauto/6aba6bd6/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_3_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305136/upto-700xauto/6aba6c6f/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_4_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305137/upto-700xauto/6aba6c7e/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_5_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305138/upto-700xauto/6aba6c89/2026-09_Gando-Pinokio-Muoto_Oeil-Cacodylate_6_web.jpeg"
+   ],
+   "excerpt": "L’Œil is a bimonthly critical journal published by L’œil cacodylate , an independent bookshop based in Lyon, France. The first issue was released in July 2026. The journal brings together literary and art criticism, social science essays, columns,…"
+  },
+  {
+   "id": "74350",
+   "title": "ARCH+ 262",
+   "url": "https://fontsinuse.com/uses/74350/arch-262",
+   "date": "2026-10-21T07:04:21.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "233945",
+     "name": "Display Grotesk",
+     "url": "https://fontsinuse.com/typefaces/233945/display-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13213/440/4/661ef889/display-grotesk.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6ad863f6/futura.png"
+    },
+    {
+     "id": "229523",
+     "name": "Al Sigla",
+     "url": "https://fontsinuse.com/typefaces/229523/al-sigla",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12040/440/4/64c9f239/al-sigla.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304988/upto-700xauto/6ad86413/649236610_18515558116074207_8017890690754397699_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304996/upto-700xauto/6ad86408/ARCH_262_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304995/upto-700xauto/6ad86408/ARCH_262_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/305000/upto-700xauto/6ad86408/ARCH_262_07.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304997/upto-700xauto/6ad86408/ARCH_262_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304999/upto-700xauto/6ad86408/ARCH_262_06.jpeg"
+   ],
+   "excerpt": "Issue 262 of the iconic architecture magazine ARCH+ is the second issue designed by Dan Solbach . Dedicated to African Spatial Thinking, it anticipates the first Pan-African Biennale of Architecture , to be held in Nairobi in September 2026."
+  },
+  {
+   "id": "80358",
+   "title": "To Talk With Others",
+   "url": "https://fontsinuse.com/uses/80358/to-talk-with-others",
+   "date": "2026-10-21T07:03:59.000Z",
+   "author": "Juliette Duhé",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "116093",
+     "name": "Compagnon",
+     "url": "https://fontsinuse.com/typefaces/116093/compagnon",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6237/440/4/5f7ade1c/compagnon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305079/upto-700xauto/6ab8f4e8/To%20Talk%20With%20Othertotalkwithothers.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305083/upto-700xauto/6ab8f4e8/4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305082/upto-700xauto/6ab8f74d/3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305080/upto-700xauto/6ab8f74e/1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305084/upto-700xauto/6ab8f74c/5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305081/upto-700xauto/6ab8f527/2.png"
+   ],
+   "excerpt": "To Talk With Others is an exhibition and archival document looking back at a little-known chapter in the history of pipeline development in northern Canada."
+  },
+  {
+   "id": "80333",
+   "title": "A esquerda e o golpe de 1964 by Dênis de Moraes",
+   "url": "https://fontsinuse.com/uses/80333/a-esquerda-e-o-golpe-de-1964-by-denis-de-mora",
+   "date": "2026-10-21T07:00:00.000Z",
+   "author": "Túlio Cerquize",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "113755",
+     "name": "VTC Martin",
+     "url": "https://fontsinuse.com/typefaces/113755/vtc-martin",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6145/440/4/5e0063e9/vtc-martin.png"
+    },
+    {
+     "id": "166526",
+     "name": "Redonda",
+     "url": "https://fontsinuse.com/typefaces/166526/redonda",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8645/440/4/61422068/redonda.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304984/upto-700xauto/6ab6b78c/A%20Esquerda%20e%20o%20golpe%20de%201964_baixa.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304985/upto-700xauto/6ad85eeb/A%20Esquerda%20e%20o%20golpe%20de%201964%202_alt_baixa.jpeg"
+   ],
+   "excerpt": "Marking the 60th anniversary of the civil-military coup, journalist and writer Dênis de Moraes revisits his classic work, presenting previously unpublished accounts and material regarding the experiences and reflections of the Brazilian Left concerning the…"
+  },
+  {
+   "id": "80361",
+   "title": "Galerie C – Mask exhibition catalog",
+   "url": "https://fontsinuse.com/uses/80361/galerie-c-mask-exhibition-catalog",
+   "date": "2026-10-21T06:58:54.000Z",
+   "author": "ToStudio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "160554",
+     "name": "ToStack",
+     "url": "https://fontsinuse.com/typefaces/160554/to-stack",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8343/440/4/671ba8f9/to-stack.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305085/upto-700xauto/6ad862bf/to_reproductions_maskgaleriec_221.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305086/upto-700xauto/6ab91ed2/to_reproductions_maskgaleriec_222.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305087/upto-700xauto/6ab91ed9/to_reproductions_maskgaleriec_223.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305088/upto-700xauto/6ab91ede/to_reproductions_maskgaleriec_224.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305089/upto-700xauto/6ab91eef/to_reproductions_maskgaleriec_225.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305090/upto-700xauto/6ab91ef0/to_reproductions_maskgaleriec_226.jpeg"
+   ],
+   "excerpt": "Galerie C is an independent contemporary art space in Neuchâtel (Switzerland), created in 2011 by Christian Egger. A Parisian branch opened on September 2020. This catalog has been produced at the occasion of the exhibition Mask , presenting the work of…"
+  },
+  {
+   "id": "80318",
+   "title": "Gather by Chris Viaud",
+   "url": "https://fontsinuse.com/uses/80318/gather-by-chris-viaud",
+   "date": "2026-10-21T06:51:10.000Z",
+   "author": "Richard Lipton",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2255",
+     "name": "Meno Display",
+     "url": "https://fontsinuse.com/typefaces/2255/meno-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8846/440/4/6a6b1bd1/meno-display.png"
+    },
+    {
+     "id": "172752",
+     "name": "Meno Text",
+     "url": "https://fontsinuse.com/typefaces/172752/meno-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15258/440/4/6abe8a85/meno-text.png"
+    },
+    {
+     "id": "45323",
+     "name": "Poppins",
+     "url": "https://fontsinuse.com/typefaces/45323/poppins",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3327/440/4/69542ae9/poppins.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304915/upto-700xauto/6ac0a645/9781646434473.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304914/upto-700xauto/6ab5c394/content.png"
+   ],
+   "excerpt": "Gather by chef Chris Viaud is an elegantly designed cookbook centered on seasonal recipes and the experience of bringing people together around food. Published by Cider Mill Press , it features photography by Viaud’s brother, Phil Viaud ."
+  },
+  {
+   "id": "80325",
+   "title": "Frutilicious",
+   "url": "https://fontsinuse.com/uses/80325/frutilicious",
+   "date": "2026-10-21T06:35:40.000Z",
+   "author": "Fontfabric Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245536",
+     "name": "Transforma",
+     "url": "https://fontsinuse.com/typefaces/245536/transforma",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/245536/400/4/6ad85d3d/transforma.png"
+    },
+    {
+     "id": "5600",
+     "name": "PT Sans",
+     "url": "https://fontsinuse.com/typefaces/5600/pt-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/6/5600/400/4/6ad85d3d/pt-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304948/upto-700xauto/6abf3b70/Fritilicious%201-8.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305416/upto-700xauto/6abf37e2/SaveInta-com_AQP4ORYL2AVa4FsANU5xxPjsfUIzPZNr3E9lWUnj6nuI1dVtGchsmaUCxUGQU0wc7ZxXj525EjMJM7TLjyT4jZz37jN1td7bTXsW2Iw.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304949/upto-700xauto/6abf3b86/Fritilicious%202-8.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304950/upto-700xauto/6abf37e2/Fritilicious%203-8.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304951/upto-700xauto/6abf37e2/Fritilicious%204-8.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304952/upto-700xauto/6ad85fd0/Fritilicious%205-8.png"
+   ],
+   "excerpt": "Frutilicious is a sweets shop in Antofagasta, Chile, offering all sorts of strawberry desserts. Their vibrant presence, bold identity was designed by Madrid-based Agencia Rosa ."
+  },
+  {
+   "id": "79371",
+   "title": "“Anima Ribelle” scarf",
+   "url": "https://fontsinuse.com/uses/79371/anima-ribelle-scarf",
+   "date": "2026-10-21T06:32:55.000Z",
+   "author": "numerocromatico",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4983",
+     "name": "Impact",
+     "url": "https://fontsinuse.com/typefaces/4983/impact",
+     "sample": "https://assets.fontsinuse.com/static/renders/15/4983/400/4/6ad85c98/impact.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/301/300173/upto-700xauto/6ad85fa1/f0d74a_285d9b37e2d34e3d92f68928d44050ad~mv2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300169/upto-700xauto/6a759b33/f0d74a_3b091a5e19fa432bb781d8fc33ebe15f~mv2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300171/upto-700xauto/6a759b36/f0d74a_6ecfa5a475aa427e87b071b5f683381d~mv2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300170/upto-700xauto/6a759b37/f0d74a_4b223844929049ddbfb52c221f5df737~mv2.jpeg"
+   ],
+   "excerpt": "With the “Anima ribelle” scarf, Numero Cromatico signs a new love dedication to the Roman neighborhood where it has lived and worked for years: San Lorenzo. The scarf was produced on the occasion of Romadiffusa spinoff in San Lorenzo, taking place in the…"
+  },
+  {
+   "id": "80378",
+   "title": "Deacon website",
+   "url": "https://fontsinuse.com/uses/80378/deacon-website",
+   "date": "2026-10-21T05:07:00.000Z",
+   "author": "Andrew Cathcart",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237400",
+     "name": "Hedvig Letters Serif",
+     "url": "https://fontsinuse.com/typefaces/237400/hedvig-letters-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13934/440/4/66e27189/hedvig-letters-serif.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305130/upto-700xauto/6acf3521/fiu-1-home.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305131/upto-700xauto/6aba6a0b/fiu-3-features.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305132/upto-700xauto/6aba6a0c/fiu-2-pricing.jpeg"
+   ],
+   "excerpt": "Deacon is an AI customer support agent for founders, from HeyDeacon in London. Its marketing site at heydeacon.com pairs Hedvig Letters Serif for headings, the wide-tracked “DEACON” wordmark and each page’s eyebrow label with Inter for body copy and…"
+  },
+  {
+   "id": "80376",
+   "title": "Hellomatik website",
+   "url": "https://fontsinuse.com/uses/80376/hellomatik-website",
+   "date": "2026-10-21T05:07:00.000Z",
+   "author": "Isaac Correa",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237400",
+     "name": "Hedvig Letters Serif",
+     "url": "https://fontsinuse.com/typefaces/237400/hedvig-letters-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13934/440/4/66e27189/hedvig-letters-serif.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305127/upto-700xauto/6acf34eb/fiu-1-hero.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305128/upto-700xauto/6acf34e2/fiu-2-casos.png"
+   ],
+   "excerpt": "The website of Hellomatik , a Madrid company that builds AI agents for business operations, sets its headlines in Hedvig Letters Serif and its body copy, labels and interface text in Inter . The homepage opens with a full-bleed video behind a large serif…"
+  },
+  {
+   "id": "78225",
+   "title": "The Face magazine, issue 26",
+   "url": "https://fontsinuse.com/uses/78225/the-face-magazine-issue-26",
+   "date": "2026-10-20T14:27:04.000Z",
+   "author": "Johannes Pejas (Kimera)",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "249987",
+     "name": "KMR Face Grotesk Stencil",
+     "url": "https://fontsinuse.com/typefaces/249987/kmr-face-grotesk-stencil",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19376/440/4/6acf5e6a/kmr-face-grotesk-stencil.png"
+    },
+    {
+     "id": "249988",
+     "name": "OO Face Serif",
+     "url": "https://fontsinuse.com/typefaces/249988/oo-face-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19002/440/4/6a7d67b0/oo-face-serif.png"
+    },
+    {
+     "id": "183841",
+     "name": "KMR Waldenburg",
+     "url": "https://fontsinuse.com/typefaces/183841/kmr-waldenburg",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9590/440/4/64007400/kmr-waldenburg.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/295/294397/upto-700xauto/6a7c546b/11_POST.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294396/upto-700xauto/6ad61f78/09_POST.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294447/upto-700xauto/6ad61f78/16_POST.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294461/upto-700xauto/6ad61f78/24_POST.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294401/upto-700xauto/6ad61f78/03_POST.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307586/upto-700xauto/6ad620b3/TF-TheFace-OOFaceSerif-Print1-300%20.jpeg"
+   ],
+   "excerpt": "The Face was born in London in 1980 and published music, fashion, and culture content until 2004. In 2019, The Face was reborn for a new generation. A final print issue was issued in spring 2026. For this issue titled “A lot, baby, face it”, The Face…"
+  },
+  {
+   "id": "76701",
+   "title": "Jazz sous les pommiers 2026",
+   "url": "https://fontsinuse.com/uses/76701/jazz-sous-les-pommiers-2026",
+   "date": "2026-10-20T14:11:39.000Z",
+   "author": "Oudin Romain",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "239916",
+     "name": "Melun Display",
+     "url": "https://fontsinuse.com/typefaces/239916/melun-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14195/440/4/6716731e/melun-display.png"
+    },
+    {
+     "id": "45323",
+     "name": "Poppins",
+     "url": "https://fontsinuse.com/typefaces/45323/poppins",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3327/440/4/69542ae9/poppins.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302361/upto-700xauto/6a982882/Jazz-sous-les-pommier_2-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302362/upto-700xauto/6a982882/Jazz-sous-les-pommier_7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302363/upto-700xauto/6ad1ca60/Jazz-sous-les-pommier_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288112/upto-700xauto/6ad776b4/jazz_slp.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302364/upto-700xauto/6a982921/jazz.jpeg"
+   ],
+   "excerpt": "The graphic design for the 45th edition of Jazz sous les pommiers celebrates apples and apple trees, which are sprouting up everywhere and bringing rhythm, color, and surprises to the streets, squares, gardens, and venues throughout the city of Coutances,…"
+  },
+  {
+   "id": "80319",
+   "title": "Les Sorties, Vals de Saintonge",
+   "url": "https://fontsinuse.com/uses/80319/les-sorties-vals-de-saintonge",
+   "date": "2026-10-20T14:10:07.000Z",
+   "author": "Benoît Bodhuin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248095",
+     "name": "Rolotip",
+     "url": "https://fontsinuse.com/typefaces/248095/rolotip",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17991/440/4/69dd099c/rolotip.png"
+    },
+    {
+     "id": "45323",
+     "name": "Poppins",
+     "url": "https://fontsinuse.com/typefaces/45323/poppins",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3327/440/4/69542ae9/poppins.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304926/upto-700xauto/6ab62f12/753306872_18087612269407024_6826028032673503379_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304924/upto-700xauto/6ab62ccf/753231834_18087612188407024_7917080634803740817_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304917/upto-700xauto/6ab62cb6/752524882_18087612359407024_6341339636961998478_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304925/upto-700xauto/6ab62cb6/753306460_18087612338407024_6861388540484130196_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304918/upto-700xauto/6ad77650/752917147_18087612230407024_55304832996516453_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304920/upto-700xauto/6ab62c9e/753125250_18087612347407024_355072712034130017_n.jpeg"
+   ],
+   "excerpt": "A series of summer tourism newsletters for the Vals de Saintonge community where festivals, hiking, and family leisure activities take center stage."
+  },
+  {
+   "id": "80321",
+   "title": "1. Filmfestival Radolfzell",
+   "url": "https://fontsinuse.com/uses/80321/1-filmfestival-radolfzell",
+   "date": "2026-10-20T13:57:08.000Z",
+   "author": "Softdrive Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "232615",
+     "name": "Cidade",
+     "url": "https://fontsinuse.com/typefaces/232615/cidade",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12855/440/4/696f8c16/cidade.png"
+    },
+    {
+     "id": "5240",
+     "name": "Parry",
+     "url": "https://fontsinuse.com/typefaces/5240/parry",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4927/440/4/5b9662ba/parry.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304935/upto-700xauto/6ab63ebd/filmfestival-radolfzell_02.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304936/upto-700xauto/6ad7734b/filmfestival-radolfzell_01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304937/upto-700xauto/6ab63e19/filmfestival-radolfzell_03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304938/upto-700xauto/6ab63e1c/filmfestival-radolfzell_04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304939/upto-700xauto/6ab63e1d/filmfestival-radolfzell_05.png"
+   ],
+   "excerpt": "The 1st Radolfzell Film Festival takes place in 2026 under the title “F_YOU_TURE” and is dedicated to youth and their future."
+  },
   {
    "id": "78163",
    "title": "MYRA coloring book",
    "url": "https://fontsinuse.com/uses/78163/myra-coloring-book",
    "date": "2026-10-20T08:59:35.000Z",
    "author": "Ilya Naumoff",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "245069",
@@ -159,7 +625,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/305/304903/upto-700xauto/6ab664fd/Capture%20d%E2%80%99e%CC%81cran%202026-09-24%20a%CC%80%2018-09-57.png",
     "https://assets.fontsinuse.com/static/use-media-items/305/304904/upto-700xauto/6ad72d37/Capture%20d%E2%80%99e%CC%81cran%202026-09-24%20a%CC%80%2018-09-57-gigapixel-standard%20v2-2x.png"
    ],
-   "excerpt": "Logotype for Social Grapes , a Berlin-based wine bar, realised by Özin Y . The logotype is a brunch of grapes made out of Pouler , by Alexandre Créquer ."
+   "excerpt": "Logotype for Social Grapes , a Berlin-based wine bar, realised by Özer Y . The logotype is a brunch of grapes made out of Pouler , by Alexandre Créquer ."
   },
   {
    "id": "80304",
@@ -233,7 +699,7 @@
      "id": "6838",
      "name": "URW Imperial",
      "url": "https://fontsinuse.com/typefaces/6838/urw-imperial",
-     "sample": "https://assets.fontsinuse.com/static/renders/7/6838/400/4/6ad72cbb/urw-imperial.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/7/6838/400/4/6ad7a464/urw-imperial.png"
     },
     {
      "id": "47810",
