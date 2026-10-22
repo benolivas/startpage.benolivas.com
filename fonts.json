@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-21T13:43:32.887Z",
+ "updated": "2026-10-22T13:44:06.685Z",
  "day": {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "picks": [
-   "183841",
-   "247934",
-   "227907",
-   "250331",
-   "45733",
-   "245071",
-   "234344",
-   "229542",
-   "250330"
+   "4376",
+   "45734",
+   "14789",
+   "250333",
+   "231585",
+   "7317",
+   "250503",
+   "250474",
+   "205972"
   ]
  },
  "history": [
@@ -112,9 +112,319 @@
     "229542",
     "250330"
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "picks": [
+    "4376",
+    "45734",
+    "14789",
+    "250333",
+    "231585",
+    "7317",
+    "250503",
+    "250474",
+    "205972"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80379",
+   "title": "Encounters: Giacometti guidebook",
+   "url": "https://fontsinuse.com/uses/80379/encounters-giacometti-guidebook",
+   "date": "2026-10-22T07:49:00.000Z",
+   "author": "HAL Typefaces",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "232874",
+     "name": "HAL Repost",
+     "url": "https://fontsinuse.com/typefaces/232874/hal-repost",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12904/440/4/65bd1d45/hal-repost.png"
+    },
+    {
+     "id": "75986",
+     "name": "Girott",
+     "url": "https://fontsinuse.com/typefaces/75986/girott",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4378/440/4/5aa00a94/girott.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305177/upto-700xauto/6ad9bbb9/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305179/upto-700xauto/6aba7b35/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%2012.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305182/upto-700xauto/6aba7b35/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%208.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305180/upto-700xauto/6aba7b35/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%202.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305183/upto-700xauto/6aba7b35/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%205.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305181/upto-700xauto/6aba7b35/251112%20Barbican%20Giacometti%20Encounters%20Mona%20Hatoum%20IG%2010.jpeg"
+   ],
+   "excerpt": "Encounters: Giacometti is a series of three exhibitions at London’s Barbican in collaboration with the Fondation Giacometti, which positions historic sculptures by Alberto Giacometti with new works by contemporary artists. The year-long series launched in…"
+  },
+  {
+   "id": "80375",
+   "title": "The North Face – “Never just a hike.” campaign",
+   "url": "https://fontsinuse.com/uses/80375/the-north-face-never-just-a-hike-campaign",
+   "date": "2026-10-22T07:47:00.000Z",
+   "author": "Vincenzo Marchese Ragona",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "3483",
+     "name": "Neue Helvetica",
+     "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6ad9bc34/neue-helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305151/upto-700xauto/6ad9bfc1/CS_Posters.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305129/upto-700xauto/6aba7a5c/CS_Hero-ezgif-com-resize.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305142/upto-700xauto/6aba7a5c/CS_BrightLights.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305148/upto-700xauto/6aba7a5c/CS_Layout.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305147/upto-700xauto/6aba7a5b/CS_HinLad.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305146/upto-700xauto/6aba7a5b/CS_Framed.png"
+   ],
+   "excerpt": "The campaign is built around the idea that no two hikes are the same. Every person moves through the landscape differently, shaped by individual decisions, unexpected encounters, and moments unique to their experience. Rather than presenting hiking as a…"
+  },
+  {
+   "id": "80416",
+   "title": "FIBER Festival 2026",
+   "url": "https://fontsinuse.com/uses/80416/fiber-festival-2026",
+   "date": "2026-10-22T07:46:48.000Z",
+   "author": "Inès Davodeau",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248734",
+     "name": "OVR Demorny",
+     "url": "https://fontsinuse.com/typefaces/248734/ovr-demorny",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18387/440/4/6a4e65fd/ovr-demorny.png"
+    },
+    {
+     "id": "41429",
+     "name": "Favorit",
+     "url": "https://fontsinuse.com/typefaces/41429/abc-favorit",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2330/440/4/570e216b/abc-favorit.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305300/upto-700xauto/6abd3e2c/Capture%20d%E2%80%99e%CC%81cran%202026-09-30%20a%CC%80%2018-51-15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305292/upto-700xauto/6abd3e22/Exhibition-Fragile-TerrainsMay-22-31-2026-de-Brakke-GrondIn-a-time-marked-by-ecological-strain-and-geopolitical-violence-where-hard-power-often-produc%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305299/upto-700xauto/6abd3e22/Thank-you-for-bringing-FIBER-Festival-2026-to-life-Our-hearts-are-full-after-four-festival-days-exploring-all-matters-of-Fragile-Forces-Following-our-.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305294/upto-700xauto/6abd3e22/Dear-community-and-visitors-in-keeping-with-this-years-theme-Fragile-Forces-we-are-sharing-this-message-with-you-This-is-in-response-to-sharp-rises-in.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305295/upto-700xauto/6abd3e22/Exhibition-Fragile-TerrainsMay-22-31-2026-de-Brakke-GrondIn-a-time-marked-by-ecological-strain-and-geopolitical-violence-where-hard-power-often-produc.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305296/upto-700xauto/6abd3e22/FIBER-Festival-2026-Opening-ConcertMay-28-20302230-de-Brakke-GrondFIBER-Festival-2026-begins-with-a-slow-immersion-a-night-shaped-by-two-performances-.jpeg"
+   ],
+   "excerpt": "OVR Demorny and Favorit were used for the branding of the 11th edition of FIBER Festival , taking place in Amsterdam."
+  },
+  {
+   "id": "79910",
+   "title": "Stéréo Couleurs by Atelier Bingo",
+   "url": "https://fontsinuse.com/uses/79910/stereo-couleurs-by-atelier-bingo",
+   "date": "2026-10-22T07:45:00.000Z",
+   "author": "Omnitype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "218207",
+     "name": "Ot Format Display",
+     "url": "https://fontsinuse.com/typefaces/218207/ot-format-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11391/440/4/641c3de7/ot-format-display.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302748/upto-700xauto/6ad9bdb5/Atelier-Bingo_IG_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302749/upto-700xauto/6a9ffa25/Atelier-Bingo_IG_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302750/upto-700xauto/6a9ffa26/Atelier-Bingo_IG_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302751/upto-700xauto/6a9ffa27/Atelier-Bingo_IG_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302752/upto-700xauto/6a9ffa28/Atelier-Bingo_IG_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302753/upto-700xauto/6a9ffa29/Atelier-Bingo_IG_6.jpeg"
+   ],
+   "excerpt": "Stéréo Couleurs is the second book by Atelier Bingo published by Éditions FP&CF , after Mambo published in 2015. This new book, in pocket format, brings together a set of handmade collages with cut-out papers, scattered scraps gleaned here and there,…"
+  },
+  {
+   "id": "80308",
+   "title": "Uman monograph",
+   "url": "https://fontsinuse.com/uses/80308/uman-monograph",
+   "date": "2026-10-22T07:41:27.000Z",
+   "author": "Edouard Berard",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245646",
+     "name": "Sita Sans",
+     "url": "https://fontsinuse.com/typefaces/245646/sita-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16782/440/4/68ee3122/sita-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305103/upto-700xauto/6ad9be5c/Screenshot%202026-09-28%20at%2010-32-29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304850/upto-700xauto/6ad9be37/M-uman-en-3728-3d-spread-1-3000-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305216/upto-700xauto/6ad9be37/IMG_2245.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305217/upto-700xauto/6ad9be38/IMG_2249.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304851/upto-700xauto/6ad9be38/M-uman-en-3728-3d-spread-2-3000-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304853/upto-700xauto/6ad9be38/M-uman-en-3728-3d-spread-4-3000-jpg.webp"
+   ],
+   "excerpt": "Uman is the first comprehensive book on the expansive, kaleidoscopic work of Somali American artist Uman ."
+  },
+  {
+   "id": "79495",
+   "title": "Duurzame Masterchef",
+   "url": "https://fontsinuse.com/uses/79495/duurzame-masterchef",
+   "date": "2026-10-22T07:37:51.000Z",
+   "author": "Jonas Pelzer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "157447",
+     "name": "Fictional",
+     "url": "https://fontsinuse.com/typefaces/157447/fictional",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8174/440/4/608804d1/fictional.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305268/upto-700xauto/6abd1349/Logo.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305269/upto-700xauto/6abd18b2/Schort.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305266/upto-700xauto/6abd134c/Hadnleiding-binnenwerk.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305267/upto-700xauto/6abd134c/Hadnleiding-voorkant.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305270/upto-700xauto/6abd1347/Werkblad.webp"
+   ],
+   "excerpt": "Duurzame Masterchef (“Sustainable Masterchef”)is an educational project about sustainable food, developed for Natuur- en Milieueducatie Den Haag . The project includes a visual identity, an educational booklet, worksheets and a cooking apron."
+  },
+  {
+   "id": "80332",
+   "title": "Rocksteady",
+   "url": "https://fontsinuse.com/uses/80332/rocksteady",
+   "date": "2026-10-22T07:29:15.000Z",
+   "author": "ABC-ETC.COM",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "236060",
+     "name": "Giornale Etc",
+     "url": "https://fontsinuse.com/typefaces/236060/giornale-etc",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14143/440/4/670e70b9/giornale-etc.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304976/upto-700xauto/6ab6ae8d/ROCKSTEADY_Brand_17.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304975/upto-700xauto/6ab6af7e/ROCKSTEADY_Brand_00.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304977/upto-700xauto/6ab6af7e/ROCKSTEADY_Brand_06.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304983/upto-700xauto/6ab6af7e/ROCKSTEADY_Brand_05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304978/upto-700xauto/6ab6af79/ROCKSTEADY_Brand_15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304979/upto-700xauto/6ab6af78/ROCKSTEADY_Brand_16.png"
+   ],
+   "excerpt": "A custom version of Giornale Etc – with a modified R and K – is used for the logo of Korean fashion brand Rocksteady . It is paired with a yet unidentified monospaced sans serif."
+  },
+  {
+   "id": "80373",
+   "title": "Vestee",
+   "url": "https://fontsinuse.com/uses/80373/vestee",
+   "date": "2026-10-22T07:09:59.000Z",
+   "author": "Giulia Boggio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245736",
+     "name": "DGM Sprinter",
+     "url": "https://fontsinuse.com/typefaces/245736/dgm-sprinter",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16861/440/4/68f9c082/dgm-sprinter.png"
+    },
+    {
+     "id": "168474",
+     "name": "Tarnac Sans",
+     "url": "https://fontsinuse.com/typefaces/168474/tarnac-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8807/440/4/61532e02/tarnac-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305110/upto-700xauto/6aba2ffe/Screenshot%202026-09-28%20at%2011-04-45.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305111/upto-700xauto/6aba2e6c/Screenshot%202026-09-28%20at%2011-04-54.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305112/upto-700xauto/6aba2e6d/Screenshot%202026-09-28%20at%2011-05-26.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305113/upto-700xauto/6aba2e6e/Screenshot%202026-09-28%20at%2011-06-59.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305114/upto-700xauto/6ad9b707/Screenshot%202026-09-28%20at%2011-07-06.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305115/upto-700xauto/6aba2e70/Screenshot%202026-09-28%20at%2011-07-23.png"
+   ],
+   "excerpt": "Vestee (formerly Zagga) is a New Zealand peer-to-peer lending platform that connects investors with borrowers seeking property-backed loans."
+  },
+  {
+   "id": "80363",
+   "title": "Kokybiska Svetaine portfolio website",
+   "url": "https://fontsinuse.com/uses/80363/kokybiska-svetaine-portfolio-website",
+   "date": "2026-10-22T06:56:27.000Z",
+   "author": "Justas Arbatauskis",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "105971",
+     "name": "Space Grotesk",
+     "url": "https://fontsinuse.com/typefaces/105971/space-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5840/440/4/5d46f232/space-grotesk.png"
+    },
+    {
+     "id": "47810",
+     "name": "HK Grotesk",
+     "url": "https://fontsinuse.com/typefaces/47810/hk-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4002/440/4/6006d092/hk-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305096/upto-700xauto/6ad9b3b4/kokybiskasvetaine-aa-1-1920x1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305097/upto-700xauto/6ad9b26a/kokybiskasvetaine-aa-2-1920x1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305098/upto-700xauto/6ad9b26e/kokybiskasvetaine-aa-3-1920x1080.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305099/upto-700xauto/6ad9b272/kokybiskasvetaine-aa-m1-1080x1920.jpeg"
+   ],
+   "excerpt": "Studio website of Kokybiska Svetaine , the one-person web design and development practice of me, Justas Arbatauskis. “Kokybiska Svetaine” is Lithuanian for “High quality websites”. The custom WordPress theme uses HK Grotesk for the running text and the…"
+  },
+  {
+   "id": "80316",
+   "title": "REVOLUTION 9 magazine feature",
+   "url": "https://fontsinuse.com/uses/80316/revolution-9-magazine-feature",
+   "date": "2026-10-22T06:04:00.000Z",
+   "author": "J. KÅARGHAUS",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248",
+     "name": "Clarendon",
+     "url": "https://fontsinuse.com/typefaces/248/clarendon",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/248/400/4/6ad9b572/clarendon.png"
+    },
+    {
+     "id": "250542",
+     "name": "Daft Font",
+     "url": "https://fontsinuse.com/typefaces/250542/daft-font",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19422/440/4/6ad9e09f/daft-font.png"
+    },
+    {
+     "id": "184128",
+     "name": "Exposure",
+     "url": "https://fontsinuse.com/typefaces/184128/exposure",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9615/440/4/62100fb1/exposure.png"
+    },
+    {
+     "id": "130699",
+     "name": "Futura Extra Bold Condensed",
+     "url": "https://fontsinuse.com/typefaces/130699/futura-extra-bold-condensed",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10046/440/4/62a6476d/futura-extra-bold-condensed.png"
+    },
+    {
+     "id": "4325",
+     "name": "Ocr A",
+     "url": "https://fontsinuse.com/typefaces/4325/ocr-a",
+     "sample": "https://assets.fontsinuse.com/static/renders/51/4325/400/4/69a3b063/ocr-a.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304912/upto-700xauto/6ad9b558/%28A4%29%20FEATURE%20PAGE%20-%20NOIZE%20MAGAZINE%20%26%20REV9-3.png"
+   ],
+   "excerpt": "Special magazine feature on live music platform REVOLUTION 9 for Noize Magazine , Vol.3, out in September 2026. The design features a mix of serif, sans-serif and handwritten grunge-inspired fonts with which chaos and structure may sit together in an…"
+  },
   {
    "id": "75164",
    "title": "Construire sans se trahir by Collectif Etc",
@@ -218,7 +528,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/305/304997/upto-700xauto/6ad86408/ARCH_262_04.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/305/304999/upto-700xauto/6ad86408/ARCH_262_06.jpeg"
    ],
-   "excerpt": "Issue 262 of the iconic architecture magazine ARCH+ is the second issue designed by Dan Solbach . Dedicated to African Spatial Thinking, it anticipates the first Pan-African Biennale of Architecture , to be held in Nairobi in September 2026."
+   "excerpt": "Issue 262 of the iconic architecture magazine ARCH+ is the second issue designed by Dan Solbach . Dedicated to “African Spatial Thinking”, it anticipates the first Pan-African Biennale of Architecture , to be held in Nairobi in September 2026."
   },
   {
    "id": "80358",
