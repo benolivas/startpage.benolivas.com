@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-22T13:44:06.685Z",
+ "updated": "2026-10-23T13:20:50.184Z",
  "day": {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "picks": [
-   "4376",
-   "45734",
-   "14789",
-   "250333",
-   "231585",
-   "7317",
-   "250503",
-   "250474",
-   "205972"
+   "48061",
+   "5203",
+   "303",
+   "237278",
+   "249995",
+   "250341",
+   "75986",
+   "156780",
+   "249052"
   ]
  },
  "history": [
@@ -126,9 +126,383 @@
     "250474",
     "205972"
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "picks": [
+    "48061",
+    "5203",
+    "303",
+    "237278",
+    "249995",
+    "250341",
+    "75986",
+    "156780",
+    "249052"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80434",
+   "title": "Usages du bambou japonais",
+   "url": "https://fontsinuse.com/uses/80434/usages-du-bambou-japonais",
+   "date": "2026-10-23T10:48:42.000Z",
+   "author": "Proof of Words",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "229327",
+     "name": "PoW Garnier",
+     "url": "https://fontsinuse.com/typefaces/229327/pow-garnier",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11964/440/4/674de440/pow-garnier.png"
+    },
+    {
+     "id": "48061",
+     "name": "IBM Plex Mono",
+     "url": "https://fontsinuse.com/typefaces/48061/ibm-plex-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4059/440/4/62d98dac/ibm-plex-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305338/upto-700xauto/6abe2a43/garnier-inuse_bamboo_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305339/upto-700xauto/6abe2a66/garnier-inuse_bamboo_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305340/upto-700xauto/6abe2a47/garnier-inuse_bamboo_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305341/upto-700xauto/6abe2a48/garnier-inuse_bamboo_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305342/upto-700xauto/6abe2a49/garnier-inuse_bamboo_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305343/upto-700xauto/6abe2a4a/garnier-inuse_bamboo_06.jpeg"
+   ],
+   "excerpt": "Usages du bambou japonais (“Japanese applications of bamboo”) is the fourth volume in a series of exhibition catalogues dedicated to Japanese arts and crafts, designed as part of the Exhibition construction course in the “Master 2 Patrimoine culturel et…"
+  },
+  {
+   "id": "80455",
+   "title": "Vert magazine",
+   "url": "https://fontsinuse.com/uses/80455/vert-magazine",
+   "date": "2026-10-23T10:37:50.000Z",
+   "author": "Hrvoje Živčić",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "149673",
+     "name": "Rector",
+     "url": "https://fontsinuse.com/typefaces/149673/rector",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7733/440/4/6006ea51/rector.png"
+    },
+    {
+     "id": "217707",
+     "name": "Acma",
+     "url": "https://fontsinuse.com/typefaces/217707/acma",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11206/440/4/63f4bdeb/acma.png"
+    },
+    {
+     "id": "194848",
+     "name": "Abc Marist",
+     "url": "https://fontsinuse.com/typefaces/194848/abc-marist",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11066/440/4/63c510b3/abc-marist.png"
+    },
+    {
+     "id": "31990",
+     "name": "Bluu",
+     "url": "https://fontsinuse.com/typefaces/31990/bluu",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1048/440/4/570e208b/bluu.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305509/upto-700xauto/6abf9a20/NJI3_DinaMilovcic_FrankkaTretinjak_Vert_0.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305511/upto-700xauto/6abf9a13/NJI3_DinaMilovcic_FrankkaTretinjak_Vert_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308163/upto-700xauto/6adb3881/Vert-08-2026-8.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308164/upto-700xauto/6adb3884/Vert-08-2026-2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308165/upto-700xauto/6adb3888/3Sezona-2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305512/upto-700xauto/6adb3888/NJI3_DinaMilovcic_FrankkaTretinjak_Vert_3.jpeg"
+   ],
+   "excerpt": "Vert is a Croatian lifestyle magazine dealing with topics of nature, gardening and sustainable practices. It is a a detailed guide to the seasons and the natural rhythms of change in the garden and offers a visually inspiring alternative to conventional…"
+  },
+  {
+   "id": "80452",
+   "title": "Limestone Books",
+   "url": "https://fontsinuse.com/uses/80452/limestone-books",
+   "date": "2026-10-23T10:18:00.000Z",
+   "author": "Lucas Le Bihan",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "45449",
+     "name": "Self Modern",
+     "url": "https://fontsinuse.com/typefaces/45449/self-modern",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3349/440/4/5a4f568c/self-modern.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305506/upto-700xauto/6abf924a/645771448_17891259018425417_6605948276871397479_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305504/upto-700xauto/6abf90da/626440529_18140731744472749_1128411534502747235_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305505/upto-700xauto/6abf9440/654017229_18068580581292169_1325188936840916655_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305507/upto-700xauto/6abf9440/586688620_18033146999729654_7589555332577402364_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305508/upto-700xauto/6abf9355/465295243_17987514026729654_118924398073931423_n.jpeg"
+   ],
+   "excerpt": "Co-founded in 2022 by Jhen Chen, Liang-Kai Yu, Emily Shin-Jie Lee, Hsieh I Hsuan, and Chang Yu-Hsin, Limestone Books is an art bookstore, library and publisher based in Maastricht. The signage, flyers, ephemera, and publications are designed in house (from…"
+  },
+  {
+   "id": "80450",
+   "title": "Lo sagrado, la magia, la poesía by Olga Orozco",
+   "url": "https://fontsinuse.com/uses/80450/lo-sagrado-la-magia-la-poesia-by-olga-orozco",
+   "date": "2026-10-23T10:12:34.000Z",
+   "author": "Carolina Giovagnoli",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "168557",
+     "name": "TT Ricks",
+     "url": "https://fontsinuse.com/typefaces/168557/tt-ricks",
+     "sample": "https://assets.fontsinuse.com/static/renders/365/168557/400/4/6adb3313/tt-ricks.png"
+    },
+    {
+     "id": "32901",
+     "name": "Amster",
+     "url": "https://fontsinuse.com/typefaces/32901/amster",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12646/440/4/656df052/amster.png"
+    },
+    {
+     "id": "40239",
+     "name": "Telder",
+     "url": "https://fontsinuse.com/typefaces/40239/telder",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18259/440/4/6a399725/telder.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305520/upto-700xauto/6adb3325/001__IMG_20260924_132847.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305521/upto-700xauto/6abfa626/002__IMG_20260924_132902.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305522/upto-700xauto/6abfa627/003__IMG_20260924_132930.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305524/upto-700xauto/6abfa62a/007__IMG_20260924_133034.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305525/upto-700xauto/6adb338b/009__IMG_20260924_133040.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305526/upto-700xauto/6abfa62c/010__IMG_20260924_133045.jpeg"
+   ],
+   "excerpt": "Lo sagrado, la magia, la poesía is a compilation of unpublished and recovered texts by Argentine poet Olga Orozco . The book was published by La Ballesta Magnífica. 165 pages, 21×13 cm. The book title and chapter openings use TT Ricks , while inside texts…"
+  },
+  {
+   "id": "78868",
+   "title": "The New York Landmarks Conservancy",
+   "url": "https://fontsinuse.com/uses/78868/the-new-york-landmarks-conservancy",
+   "date": "2026-10-23T09:48:16.000Z",
+   "author": "Aubrey Hays, Frere-Jones Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2238",
+     "name": "Grand Central",
+     "url": "https://fontsinuse.com/typefaces/2238/grand-central",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4115/440/4/5a27817b/grand-central.png"
+    },
+    {
+     "id": "106",
+     "name": "Benton Sans",
+     "url": "https://fontsinuse.com/typefaces/106/benton-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3045/440/4/57f3580a/benton-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/301/300970/upto-700xauto/6a8310c8/The%20NY%20Conservatory_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300972/upto-700xauto/6a8310ce/The%20NY%20Conservatory_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300973/upto-700xauto/6a8310d2/The%20NY%20Conservatory_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300974/upto-700xauto/6adb2d96/The%20NY%20Conservatory_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300975/upto-700xauto/6a8313e6/The%20NY%20Conservatory_06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300971/upto-700xauto/6a8313e6/The%20NY%20Conservatory_02.jpeg"
+   ],
+   "excerpt": "The New York Landmarks Conservancy , a leading non-profit architectural preservation group, partnered with SJI Associates to develop an updated brand identity and web design platform , prominently highlighted during the organization's 50th-anniversary…"
+  },
+  {
+   "id": "80021",
+   "title": "The NBC Chimes Museum",
+   "url": "https://fontsinuse.com/uses/80021/the-nbc-chimes-museum",
+   "date": "2026-10-23T09:45:33.000Z",
+   "author": "Store Norske Skriftkompani",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245411",
+     "name": "Store Norske Litteratur",
+     "url": "https://fontsinuse.com/typefaces/245411/store-norske-litteratur",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16652/440/4/68e679ed/store-norske-litteratur.png"
+    },
+    {
+     "id": "3295",
+     "name": "ITC Cheltenham Handtooled",
+     "url": "https://fontsinuse.com/typefaces/3295/itc-cheltenham-handtooled",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3295/400/4/61bb6699/itc-cheltenham-handtooled.png"
+    },
+    {
+     "id": "89",
+     "name": "Cheltenham Condensed",
+     "url": "https://fontsinuse.com/typefaces/89/cheltenham",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/89/400/4/6adb2cbe/cheltenham.png"
+    },
+    {
+     "id": "45594",
+     "name": "Industrial Arts JNL",
+     "url": "https://fontsinuse.com/typefaces/45594/industrial-arts-jnl",
+     "sample": "https://assets.fontsinuse.com/static/renders/55/45594/400/4/6adb35fd/industrial-arts-jnl.png"
+    },
+    {
+     "id": "303",
+     "name": "News Gothic Condensed",
+     "url": "https://fontsinuse.com/typefaces/303/news-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6adb2cbe/news-gothic.png"
+    },
+    {
+     "id": "250545",
+     "name": "Remington Deluxe Typewriter 1938",
+     "url": "https://fontsinuse.com/typefaces/250545/remington-deluxe-typewriter-1938",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19424/440/4/6adb3596/remington-deluxe-typewriter-1938.png"
+    },
+    {
+     "id": "5488",
+     "name": "Caslon 540",
+     "url": "https://fontsinuse.com/typefaces/5488/caslon-no-471-and-540",
+     "sample": "https://assets.fontsinuse.com/static/renders/6/5488/400/4/6adb2cbe/caslon-no-471-and-540.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305445/upto-700xauto/6adb2cd5/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305449/upto-700xauto/6abf743d/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305446/upto-700xauto/6abf743d/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305447/upto-700xauto/6abf743d/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305448/upto-700xauto/6abf743d/4.jpeg"
+   ],
+   "excerpt": "The NBC Chimes Museum is a research website by Michael Shoshani devoted to the history of NBC’s three-note radio signature and the dinner chimes that preceded it. The site brings together historical recordings, photographs, advertisements, correspondence…"
+  },
+  {
+   "id": "80447",
+   "title": "Dotremont au Pays des Logoneiges by Caroline Ghyselen",
+   "url": "https://fontsinuse.com/uses/80447/dotremont-au-pays-des-logoneiges-by-caroline-",
+   "date": "2026-10-23T09:42:25.000Z",
+   "author": "Pascal Liénard",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38329",
+     "name": "Trianon",
+     "url": "https://fontsinuse.com/typefaces/38329/trianon",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1613/440/4/570e20ea/trianon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305471/upto-700xauto/6abf7c13/AvecDotremont_0002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305472/upto-700xauto/6abf7c14/AvecDotremont_0003.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305473/upto-700xauto/6abf7c3c/AvecDotremont_0004.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305474/upto-700xauto/6abf7c3c/AvecDotremont_0005.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305478/upto-700xauto/6abf7c1c/AvecDotremont_0011.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305480/upto-700xauto/6abf7c21/AvecDotremont_0013.jpeg"
+   ],
+   "excerpt": "In May 1976, poet and Cobra co-founder Christian Dotremont travelled to the Sámi homeland with young art historian Caroline Ghyselen. Published forty years later, this book is the first account of that journey to the land of “logoneiges”, the logograms…"
+  },
+  {
+   "id": "80448",
+   "title": "Folktory slit rail system",
+   "url": "https://fontsinuse.com/uses/80448/folktory-slit-rail-system",
+   "date": "2026-10-23T09:29:30.000Z",
+   "author": "Alt Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245519",
+     "name": "ALT Picaro",
+     "url": "https://fontsinuse.com/typefaces/245519/alt-picaro",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16712/440/4/68e3c540/alt-picaro.png"
+    },
+    {
+     "id": "232232",
+     "name": "ALT Riviera",
+     "url": "https://fontsinuse.com/typefaces/232232/alt-riviera",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12727/440/4/658ee268/alt-riviera.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305468/upto-700xauto/6adb2ce3/Slit%20Rail_18.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305454/upto-700xauto/6abf7c90/Slit%20Rail_04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305456/upto-700xauto/6abf7c91/Slit%20Rail_06.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305457/upto-700xauto/6abf7c90/Slit%20Rail_07.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305458/upto-700xauto/6abf7c90/Slit%20Rail_08.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305465/upto-700xauto/6adb27f9/Slit%20Rail_15.png"
+   ],
+   "excerpt": "Jade Liou designed the graphics promoting and explaining the slit rail system by Taiwan design studio Folktory , shown at the Taiwan Designer Furniture Exhibition , hosted by zzZoom . Her design uses ALT Picaro and ALT Riviera ."
+  },
+  {
+   "id": "80435",
+   "title": "DJDB, Daejang Dakbal archive website",
+   "url": "https://fontsinuse.com/uses/80435/djdb-daejang-dakbal-archive-website",
+   "date": "2026-10-23T09:14:57.000Z",
+   "author": "Jihoon Kang",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "219915",
+     "name": "Instrument Serif",
+     "url": "https://fontsinuse.com/typefaces/219915/instrument-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11812/440/4/648c6044/instrument-serif.png"
+    },
+    {
+     "id": "237493",
+     "name": "Geist Sans",
+     "url": "https://fontsinuse.com/typefaces/237493/geist-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13965/440/4/66e99a43/geist-sans.png"
+    },
+    {
+     "id": "237491",
+     "name": "Geist Mono",
+     "url": "https://fontsinuse.com/typefaces/237491/geist-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13964/440/4/66e999a3/geist-mono.png"
+    },
+    {
+     "id": "46751",
+     "name": "Source Han Serif",
+     "url": "https://fontsinuse.com/typefaces/46751/source-han-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3719/440/4/595be37d/source-han-serif.png"
+    },
+    {
+     "id": "202260",
+     "name": "Pretendard",
+     "url": "https://fontsinuse.com/typefaces/202260/pretendard",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10292/440/4/62efc80f/pretendard.png"
+    },
+    {
+     "id": "127868",
+     "name": "DM Serif Display",
+     "url": "https://fontsinuse.com/typefaces/127868/dm-serif-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6661/440/4/5ebe94bf/dm-serif-display.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305347/upto-700xauto/6adb269e/04-about.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305348/upto-700xauto/6adb2251/01-home.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305349/upto-700xauto/6adb2257/02-history.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305350/upto-700xauto/6adb225d/05-guests.jpeg"
+   ],
+   "excerpt": "White paper, black ink and one red: djdb.kr is the archive of Daejang Dakbal, a small chicken-feet restaurant in Seongnam, Korea. It was built by me, its owner, when it closed after 1,330 days."
+  },
+  {
+   "id": "80456",
+   "title": "AI Zeitgeist website",
+   "url": "https://fontsinuse.com/uses/80456/ai-zeitgeist-website",
+   "date": "2026-10-23T09:00:00.000Z",
+   "author": "Sascha van den Bloock",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245321",
+     "name": "Schibsted Grotesk",
+     "url": "https://fontsinuse.com/typefaces/245321/schibsted-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16580/440/4/68cad8b4/schibsted-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308175/upto-700xauto/6adb5239/01-wall-square.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308187/upto-700xauto/6adb5408/05-quote.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308170/upto-700xauto/6adb53fd/09-menu.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308172/upto-700xauto/6adb53fc/14-mobile.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308171/upto-700xauto/6adb53fc/10-speaker-page.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308173/upto-700xauto/6adb52a3/13-daily-mail.jpeg"
+   ],
+   "excerpt": "The wall: the current quote types itself in Schibsted Grotesk ExtraBold, earlier quotes fill the background in Bold"
+  },
   {
    "id": "80379",
    "title": "Encounters: Giacometti guidebook",
@@ -305,10 +679,10 @@
      "sample": "https://assets.fontsinuse.com/static/samples/15/14143/440/4/670e70b9/giornale-etc.png"
     },
     {
-     "id": "7251",
-     "name": "Unidentified Typeface",
-     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
-     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+     "id": "74361",
+     "name": "Roboto Mono",
+     "url": "https://fontsinuse.com/typefaces/74361/roboto-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4194/440/4/5ee1e94f/roboto-mono.png"
     }
    ],
    "images": [
@@ -319,7 +693,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/305/304978/upto-700xauto/6ab6af79/ROCKSTEADY_Brand_15.png",
     "https://assets.fontsinuse.com/static/use-media-items/305/304979/upto-700xauto/6ab6af78/ROCKSTEADY_Brand_16.png"
    ],
-   "excerpt": "A custom version of Giornale Etc – with a modified R and K – is used for the logo of Korean fashion brand Rocksteady . It is paired with a yet unidentified monospaced sans serif."
+   "excerpt": "A custom version of Giornale Etc – with a modified R and K – is used for the logo of Korean fashion brand Rocksteady . It is paired with Roboto Mono ."
   },
   {
    "id": "80373",
