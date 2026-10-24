@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-23T13:20:50.184Z",
+ "updated": "2026-10-24T12:38:38.545Z",
  "day": {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "picks": [
-   "48061",
-   "5203",
-   "303",
-   "237278",
-   "249995",
-   "250341",
-   "75986",
-   "156780",
-   "249052"
+   "47160",
+   "159388",
+   "233292",
+   "28860",
+   "231307",
+   "85897",
+   "242238",
+   "229051",
+   "57"
   ]
  },
  "history": [
@@ -140,9 +140,170 @@
     "156780",
     "249052"
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "picks": [
+    "47160",
+    "159388",
+    "233292",
+    "28860",
+    "231307",
+    "85897",
+    "242238",
+    "229051",
+    "57"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81007",
+   "title": "By No Means",
+   "url": "https://fontsinuse.com/uses/81007/by-no-means",
+   "date": "2026-10-24T08:45:05.000Z",
+   "author": "Tom Watkins",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248190",
+     "name": "Ashcroft",
+     "url": "https://fontsinuse.com/typefaces/248190/ashcroft",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18070/440/4/69e8a546/ashcroft.png"
+    },
+    {
+     "id": "150962",
+     "name": "Garton",
+     "url": "https://fontsinuse.com/typefaces/150962/garton",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7805/440/4/601a9e17/garton.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308047/upto-700xauto/6ada34fa/02-full-bottle-range.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308048/upto-700xauto/6ada336b/01-wordmark-on-grapes.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308049/upto-700xauto/6ada336d/03-pinot-gris-label.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308051/upto-700xauto/6ada33ae/05-business-cards.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308053/upto-700xauto/6ada34c6/Screenshot%202026-10-22%20at%2017-07-05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308050/upto-700xauto/6ada34c6/04-rose-label.jpeg"
+   ],
+   "excerpt": "Ashcroft forms the stacked wordmark for By No Means , an Australian range of alcohol-free botanical drinks inspired by wine. Luke Robertson Studio in Paris developed the visual identity, packaging and art direction."
+  },
+  {
+   "id": "79389",
+   "title": "Potluck Spices",
+   "url": "https://fontsinuse.com/uses/79389/potluck-spices",
+   "date": "2026-10-24T08:42:29.000Z",
+   "author": "Rellence",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "233745",
+     "name": "Albra Sans",
+     "url": "https://fontsinuse.com/typefaces/233745/albra-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13177/440/4/66141a86/albra-sans.png"
+    },
+    {
+     "id": "232248",
+     "name": "Outfit",
+     "url": "https://fontsinuse.com/typefaces/232248/outfit",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12743/440/4/659537a1/outfit.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/302/301247/upto-700xauto/6a9a82c4/imgi_15_706794283_18093709598612339_8672222357235887121_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301936/upto-700xauto/6a915154/imgi_386_ChickenSpice_17c36451-f02e-41a5-b72d-08ab94a97d8e.png",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301933/upto-700xauto/6a915154/GrillfestDeluxe-visu.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301937/upto-700xauto/6a915155/imgi_32_761390844_18103578977612339_4537280027241028436_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301938/upto-700xauto/6a915155/imgi_49_735543747_18099957728612339_6843193833167129131_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301254/upto-700xauto/6a915155/imgi_35_760105182_18103273256612339_1145951827053795757_n.jpeg"
+   ],
+   "excerpt": "Albra Sans by Rellence is used for the new brand identity of Potluck Spices , a German manufacturer and distributes high-quality, additive-free spice mixtures and salts packaged in distinctive, airtight ceramic pots designed to preserve optimal aroma."
+  },
+  {
+   "id": "80973",
+   "title": "HOI",
+   "url": "https://fontsinuse.com/uses/80973/hoi",
+   "date": "2026-10-24T08:31:14.000Z",
+   "author": "Andrej Sevcik",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "220009",
+     "name": "Emilio",
+     "url": "https://fontsinuse.com/typefaces/220009/emilio",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13005/440/4/65d5d60d/emilio.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307919/upto-700xauto/6adb2020/App_Bier_Hoi_DSC05284_web-aspect-ratio-800-1000-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307915/upto-700xauto/6adb2020/App_Bier_Hoi_DSC05440_web-aspect-ratio-800-1000-1-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307927/upto-700xauto/6adb204e/HOI-Emilio_web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307917/upto-700xauto/6adb204e/App_Bier_Hoi_DSC05438_web-aspect-ratio-1600-900-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307921/upto-700xauto/6ad8b4be/Hoi_Naturally_Brewed_Visual_2-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307918/upto-700xauto/6ad8b451/App_Bier_Hoi_DSC05464_web-aspect-ratio-1600-900-jpg.webp"
+   ],
+   "excerpt": "HOI is a line of non-alcoholic fermented malt drinks from Brauerei Locher in Appenzell, Switzerland. It launched with three flavors: grapefruit, maracuja and mate Yuzu. The drinks contain no added sugar, no sweeteners and no artificial additives, relying…"
+  },
+  {
+   "id": "80958",
+   "title": "Liv Health",
+   "url": "https://fontsinuse.com/uses/80958/liv-health",
+   "date": "2026-10-24T08:28:31.000Z",
+   "author": "Evan Deterling",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248120",
+     "name": "Newsam",
+     "url": "https://fontsinuse.com/typefaces/248120/newsam",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18014/440/4/69dfe940/newsam.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307862/upto-700xauto/6ad7d2a1/estradiol.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307863/upto-700xauto/6ad7d2b5/methylene-blue.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307864/upto-700xauto/6ad7d2cb/liv-semaglutide.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307865/upto-700xauto/6ad7d2d8/minoxidil-tretinoin.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307867/upto-700xauto/6ad7d324/glutathione.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307868/upto-700xauto/6ad7d35b/l-carnitine.jpeg"
+   ],
+   "excerpt": "New product range launch for Liv Health with packaging design featuring Newsam as a brand signature sans-serif."
+  },
+  {
+   "id": "80528",
+   "title": "Acru",
+   "url": "https://fontsinuse.com/uses/80528/acru",
+   "date": "2026-10-24T08:25:49.000Z",
+   "author": "Hrvoje Živčić",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "206741",
+     "name": "Ergon",
+     "url": "https://fontsinuse.com/typefaces/206741/ergon",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10361/440/4/630e8488/ergon.png"
+    },
+    {
+     "id": "184604",
+     "name": "Aeonik Mono",
+     "url": "https://fontsinuse.com/typefaces/184604/aeonik-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9635/440/4/621e0d2b/aeonik-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305826/upto-700xauto/6ac3d506/7_bb6975c8c3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305827/upto-700xauto/6ac3d4ba/6_4c124c7005.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305828/upto-700xauto/6ac3d4cf/TTM_ACRU_7_e4f9cb0dc9.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305829/upto-700xauto/6ac3d737/TTM_ACRU_11_5c32a45291.jpeg"
+   ],
+   "excerpt": "Acru is the decor atelier of thread painter Amelia Dennigan, whose work blurs the lines between textile, painting and personal memory."
+  },
   {
    "id": "80434",
    "title": "Usages du bambou japonais",
@@ -172,7 +333,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/306/305342/upto-700xauto/6abe2a49/garnier-inuse_bamboo_05.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305343/upto-700xauto/6abe2a4a/garnier-inuse_bamboo_06.jpeg"
    ],
-   "excerpt": "Usages du bambou japonais (“Japanese applications of bamboo”) is the fourth volume in a series of exhibition catalogues dedicated to Japanese arts and crafts, designed as part of the Exhibition construction course in the “Master 2 Patrimoine culturel et…"
+   "excerpt": "Usages du bambou japonais (“applications of Japanese bamboo”) is the fourth volume in a series of exhibition catalogues dedicated to Japanese arts and crafts, designed as part of the Exhibition construction course in the “Master 2 Patrimoine culturel et…"
   },
   {
    "id": "80455",
@@ -540,7 +701,7 @@
    "url": "https://fontsinuse.com/uses/80375/the-north-face-never-just-a-hike-campaign",
    "date": "2026-10-22T07:47:00.000Z",
    "author": "Vincenzo Marchese Ragona",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "3483",
