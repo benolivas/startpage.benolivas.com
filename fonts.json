@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-24T12:38:38.545Z",
+ "updated": "2026-10-25T13:09:32.257Z",
  "day": {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "picks": [
-   "47160",
-   "159388",
-   "233292",
-   "28860",
-   "231307",
-   "85897",
-   "242238",
-   "229051",
-   "57"
+   "198482",
+   "229327",
+   "250336",
+   "7884",
+   "100795",
+   "7782",
+   "156779",
+   "219507",
+   "244570"
   ]
  },
  "history": [
@@ -154,9 +154,260 @@
     "229051",
     "57"
    ]
+  },
+  {
+   "date": "2026-10-25",
+   "picks": [
+    "198482",
+    "229327",
+    "250336",
+    "7884",
+    "100795",
+    "7782",
+    "156779",
+    "219507",
+    "244570"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80446",
+   "title": "Little Girls Are Wiser Than Men",
+   "url": "https://fontsinuse.com/uses/80446/little-girls-are-wiser-than-men",
+   "date": "2026-10-25T12:53:14.000Z",
+   "author": "Isaco Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "24098",
+     "name": "Monarcha",
+     "url": "https://fontsinuse.com/typefaces/24098/monarcha",
+     "sample": "https://assets.fontsinuse.com/static/renders/28/24098/400/4/6addfbbb/monarcha.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305611/upto-700xauto/6addfb35/fim.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305594/upto-700xauto/6addfb36/2a.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305595/upto-700xauto/6addfb36/2b.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305596/upto-700xauto/6addfb36/04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305597/upto-700xauto/6addfb36/5.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305604/upto-700xauto/6addfb36/99a.webp"
+   ],
+   "excerpt": "Little Girls Are Wiser Than Men, published by Tara Books in 2021, is a letterpress book adapting a short story by Leo Tolstoy , illustrated by Lebanese artist and lithographer Hassan Zahreddine through linocut prints. The edition is limited to 2,000 copies."
+  },
+  {
+   "id": "78698",
+   "title": "LÊNLOOP festival (student project)",
+   "url": "https://fontsinuse.com/uses/78698/lenloop-festival-student-project",
+   "date": "2026-10-25T12:45:03.000Z",
+   "author": "Dan Tan",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "249626",
+     "name": "Nekta",
+     "url": "https://fontsinuse.com/typefaces/249626/nekta",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19265/440/4/6addf607/nekta.png"
+    },
+    {
+     "id": "248726",
+     "name": "Palma Fizzy",
+     "url": "https://fontsinuse.com/typefaces/248726/palma-fizzy",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18364/440/4/6a19679b/palma-fizzy.png"
+    },
+    {
+     "id": "39028",
+     "name": "Forma DJR",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307057/upto-700xauto/6ad18145/Post%20Grad.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305417/upto-700xauto/6ad180af/SAIGON_SAIGON_7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305418/upto-700xauto/6ad180af/A4%20-%2028.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305420/upto-700xauto/6ad180af/A4%20-%2036.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305429/upto-700xauto/6ad180af/IPHONE-MOCKUP%201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305425/upto-700xauto/6ad180b0/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202026-05-13%20lu%CC%81c%2023-52-41%201.jpeg"
+   ],
+   "excerpt": "The LÊN LOOP Music Festival is Nguyen Dan Tan ’s Graduation Project in Van Lang University’s Graphic Design Honors program. As the Vietnamese music industry continues to grow alongside the rise of young artists and Gen Z/Millennial audiences, music…"
+  },
+  {
+   "id": "78096",
+   "title": "The Harmonica Rascals – The Harmonica Rascals album art",
+   "url": "https://fontsinuse.com/uses/78096/the-harmonica-rascals-the-harmonica-rascals-a",
+   "date": "2026-10-25T12:26:18.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "126972",
+     "name": "Filmotype Mason",
+     "url": "https://fontsinuse.com/typefaces/126972/filmotype-mason",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10111/440/4/62b9a4b3/filmotype-mason.png"
+    },
+    {
+     "id": "303",
+     "name": "News Gothic",
+     "url": "https://fontsinuse.com/typefaces/303/news-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6addf56b/news-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/294/293834/upto-700xauto/6a243edc/lp_the-harmonica-rascals_the-harmonica-rascals_1_0000.jpeg"
+   ],
+   "excerpt": "This self-titled album by The Harmonica Rascals was released in 1967 on the Design Records label, a budget-line subsidiary of Pickwick International Inc. The colorful interlocking forms use Filmotype Mason , with the song list being set in News Gothic ."
+  },
+  {
+   "id": "77481",
+   "title": "Füm restaurant",
+   "url": "https://fontsinuse.com/uses/77481/fuem-restaurant",
+   "date": "2026-10-24T19:11:42.000Z",
+   "author": "CAST",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237634",
+     "name": "Am Lombardia",
+     "url": "https://fontsinuse.com/typefaces/237634/am-lombardia",
+     "sample": "https://assets.fontsinuse.com/static/renders/71/237634/400/4/6add02ef/am-lombardia.png"
+    },
+    {
+     "id": "237638",
+     "name": "Am Panama",
+     "url": "https://fontsinuse.com/typefaces/237638/am-panama",
+     "sample": "https://assets.fontsinuse.com/static/renders/71/237638/400/4/6add02ef/am-panama.png"
+    },
+    {
+     "id": "39028",
+     "name": "Forma Djr",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    },
+    {
+     "id": "245698",
+     "name": "Am Sirte",
+     "url": "https://fontsinuse.com/typefaces/245698/am-sirte",
+     "sample": "https://assets.fontsinuse.com/static/renders/393/245698/400/4/6add02ef/am-sirte.png"
+    },
+    {
+     "id": "237636",
+     "name": "Am Majella",
+     "url": "https://fontsinuse.com/typefaces/237636/am-majella",
+     "sample": "https://assets.fontsinuse.com/static/renders/71/237636/400/4/6add02ef/am-majella.png"
+    },
+    {
+     "id": "237645",
+     "name": "Am Tripoli",
+     "url": "https://fontsinuse.com/typefaces/237645/am-tripoli",
+     "sample": "https://assets.fontsinuse.com/static/renders/385/237645/400/4/6add02ef/am-tripoli.png"
+    },
+    {
+     "id": "242599",
+     "name": "Am Marche",
+     "url": "https://fontsinuse.com/typefaces/242599/am-marche",
+     "sample": "https://assets.fontsinuse.com/static/renders/390/242599/400/4/6add02ef/am-marche.png"
+    },
+    {
+     "id": "32061",
+     "name": "Airstream Nf",
+     "url": "https://fontsinuse.com/typefaces/32061/airstream-nf",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7026/440/4/5f350373/airstream-nf.png"
+    },
+    {
+     "id": "3282",
+     "name": "Itc Busorama",
+     "url": "https://fontsinuse.com/typefaces/3282/itc-busorama",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7997/440/4/60572cc0/itc-busorama.png"
+    },
+    {
+     "id": "237409",
+     "name": "Forma Djr Mono",
+     "url": "https://fontsinuse.com/typefaces/237409/forma-djr-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13946/440/4/66e57ea3/forma-djr-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305544/upto-700xauto/6abfbb91/01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305545/upto-700xauto/6abfbb9b/02.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305546/upto-700xauto/6abfbba1/03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305547/upto-700xauto/6abfbba8/04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305548/upto-700xauto/6abfbbae/05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305549/upto-700xauto/6abfbbb3/07.png"
+   ],
+   "excerpt": "Füm is a contemporary Italian restaurant in Atlanta, centered around live fire cooking, fresh pasta, and a contemporary reinterpretation of Italian culinary tradition."
+  },
+  {
+   "id": "80476",
+   "title": "My Morning Jacket at Santa Barbara Bowl concert poster",
+   "url": "https://fontsinuse.com/uses/80476/my-morning-jacket-at-santa-barbara-bowl-conce",
+   "date": "2026-10-24T18:48:52.000Z",
+   "author": "Mark van Leeuwen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "191892",
+     "name": "Magalie",
+     "url": "https://fontsinuse.com/typefaces/191892/magalie",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9835/440/4/6266ce03/magalie.png"
+    },
+    {
+     "id": "244070",
+     "name": "TAY Birdie",
+     "url": "https://fontsinuse.com/typefaces/244070/tay-birdie",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15851/440/4/6832bc3d/tay-birdie.png"
+    },
+    {
+     "id": "250443",
+     "name": "TAY Amaya",
+     "url": "https://fontsinuse.com/typefaces/250443/tay-amaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19349/440/4/6ac9e962/tay-amaya.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305641/upto-700xauto/6ac9edb1/MMJ-0825-SB-POSTER.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305642/upto-700xauto/6ac11476/540539498_18525477223055827_8904065889157896213_n.jpeg"
+   ],
+   "excerpt": "Illustrated poster by Joshua Noom for My Morning Jacket 's show at the Santa Barbara Bowl on August 20, 2025."
+  },
+  {
+   "id": "80441",
+   "title": "Snazzy",
+   "url": "https://fontsinuse.com/uses/80441/snazzy",
+   "date": "2026-10-24T18:08:43.000Z",
+   "author": "Andrei Robu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "170101",
+     "name": "Marques",
+     "url": "https://fontsinuse.com/typefaces/170101/marques",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9090/440/4/617c1ff5/marques.png"
+    },
+    {
+     "id": "35698",
+     "name": "Bicyclette",
+     "url": "https://fontsinuse.com/typefaces/35698/bicyclette",
+     "sample": "https://assets.fontsinuse.com/static/renders/39/35698/400/4/6adcf42c/bicyclette.png"
+    },
+    {
+     "id": "109456",
+     "name": "Antonio",
+     "url": "https://fontsinuse.com/typefaces/109456/antonio",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5957/440/4/5d83dfdd/antonio.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305380/upto-700xauto/6abe7f1a/International%20Canned%20Cocktail%20Day-%20Yep,%20there%20really%20is%20a%20day%20for%20everything-%20And%20this%20one%20we%20ca-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305379/upto-700xauto/6abe7f1a/International%20Canned%20Cocktail%20Day-%20Yep,%20there%20really%20is%20a%20day%20for%20everything-%20And%20this%20one%20we%20ca-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305381/upto-700xauto/6abe7f1a/International%20Canned%20Cocktail%20Day-%20Yep,%20there%20really%20is%20a%20day%20for%20everything-%20And%20this%20one%20we%20ca-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305382/upto-700xauto/6abe7f14/International%20Canned%20Cocktail%20Day-%20Yep,%20there%20really%20is%20a%20day%20for%20everything-%20And%20this%20one%20we%20ca.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305383/upto-700xauto/6abe7f31/Thursday%20has%20always%20had%20Friday%20potential-Real%20spirits-%20Lemonade-%20Iced%20tea-%20Made%20for%20starting%20the.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305384/upto-700xauto/6abe7f36/The%20cocktail%20hour%20has%20a%20new%20dress%20code-.jpeg"
+   ],
+   "excerpt": "The brand identity for Snazzy Beverages , a ready-made cocktails brand, asked Thirst Craft to create their brand identity. Marques by Typeverything is being used alongside Bicyclette from Kostic and Antonio by Vernon Adams ."
+  },
   {
    "id": "81007",
    "title": "By No Means",
@@ -303,6 +554,74 @@
     "https://assets.fontsinuse.com/static/use-media-items/306/305829/upto-700xauto/6ac3d737/TTM_ACRU_11_5c32a45291.jpeg"
    ],
    "excerpt": "Acru is the decor atelier of thread painter Amelia Dennigan, whose work blurs the lines between textile, painting and personal memory."
+  },
+  {
+   "id": "80395",
+   "title": "Melissa Auf der Maur – My ’90s Rock Photographs exhibition catalog",
+   "url": "https://fontsinuse.com/uses/80395/melissa-auf-der-maur-my-90s-rock-photographs-",
+   "date": "2026-10-24T04:58:00.000Z",
+   "author": "Alina Skyson",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "143575",
+     "name": "Nein",
+     "url": "https://fontsinuse.com/typefaces/143575/nein",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7843/440/4/6026b0e4/nein.png"
+    },
+    {
+     "id": "86662",
+     "name": "Rhymes",
+     "url": "https://fontsinuse.com/typefaces/86662/rhymes",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5027/440/4/5bcb35c0/rhymes.png"
+    },
+    {
+     "id": "79460",
+     "name": "ABC Diatype",
+     "url": "https://fontsinuse.com/typefaces/79460/abc-diatype",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4584/440/4/5ee9bf2f/abc-diatype.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305230/upto-700xauto/6abc88df/1%20MAdM-1_3200_rev.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305241/upto-700xauto/6abc8a8f/12%20MAdM-18_3200_REV.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305231/upto-700xauto/6abc8a8f/2%20MAdM-2_3200.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305232/upto-700xauto/6abc8a8b/3%20MAdM-2up.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305233/upto-700xauto/6abc8a8b/4%20MAdM-4_3200_v3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305234/upto-700xauto/6abc8a87/5%20MAdM-8_3200.jpeg"
+   ],
+   "excerpt": "As the bass player for the iconic ’90s alternative rock bands Hole and Smashing Pumpkins , Melissa Auf der Maur toured the world, documenting life backstage, onstage and in the crowd."
+  },
+  {
+   "id": "80462",
+   "title": "Nurture",
+   "url": "https://fontsinuse.com/uses/80462/nurture",
+   "date": "2026-10-24T03:16:00.000Z",
+   "author": "Mark Forscher",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "240623",
+     "name": "Marund",
+     "url": "https://fontsinuse.com/typefaces/240623/marund",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14432/440/4/675823d2/marund.png"
+    },
+    {
+     "id": "237491",
+     "name": "Geist Mono",
+     "url": "https://fontsinuse.com/typefaces/237491/geist-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13964/440/4/66e999a3/geist-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305571/upto-700xauto/6abfc7a6/nurture-og-image.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305574/upto-700xauto/6adcf5a5/nurture-brand-imagery.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305575/upto-700xauto/6adcf5a8/nurture-accelerated-adaptation-design-system.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305572/upto-700xauto/6adcf5a8/nurture-logo-system.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305573/upto-700xauto/6adcf5a8/nurture-typography.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305576/upto-700xauto/6abfc7a6/nurture-editorial-01.webp"
+   ],
+   "excerpt": "Nurture builds the infrastructure for epigenomics – the science of the chemical tags and structural changes across a genome that control gene expression without altering the DNA beneath them. Its tools read the epigenome, software interprets it, and…"
   },
   {
    "id": "80434",
@@ -491,10 +810,10 @@
      "sample": "https://assets.fontsinuse.com/static/renders/4/3295/400/4/61bb6699/itc-cheltenham-handtooled.png"
     },
     {
-     "id": "89",
-     "name": "Cheltenham Condensed",
-     "url": "https://fontsinuse.com/typefaces/89/cheltenham",
-     "sample": "https://assets.fontsinuse.com/static/renders/12/89/400/4/6adb2cbe/cheltenham.png"
+     "id": "80",
+     "name": "ITC Cheltenham",
+     "url": "https://fontsinuse.com/typefaces/80/itc-cheltenham",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4514/440/4/5ae36e75/itc-cheltenham.png"
     },
     {
      "id": "45594",
@@ -506,7 +825,7 @@
      "id": "303",
      "name": "News Gothic Condensed",
      "url": "https://fontsinuse.com/typefaces/303/news-gothic",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6adb2cbe/news-gothic.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6addf56b/news-gothic.png"
     },
     {
      "id": "250545",
