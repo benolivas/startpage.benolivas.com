@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-25T13:09:32.257Z",
+ "updated": "2026-10-26T15:08:16.629Z",
  "day": {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "picks": [
-   "198482",
-   "229327",
-   "250336",
-   "7884",
-   "100795",
-   "7782",
-   "156779",
-   "219507",
-   "244570"
+   "240352",
+   "249987",
+   "217693",
+   "31435",
+   "44626",
+   "133120",
+   "233653",
+   "217443",
+   "35"
   ]
  },
  "history": [
@@ -168,13 +168,526 @@
     "219507",
     "244570"
    ]
+  },
+  {
+   "date": "2026-10-26",
+   "picks": [
+    "240352",
+    "249987",
+    "217693",
+    "31435",
+    "44626",
+    "133120",
+    "233653",
+    "217443",
+    "35"
+   ]
   }
  ],
  "uses": [
   {
+   "id": "80527",
+   "title": "Semaine Design de Montréal 2026",
+   "url": "https://fontsinuse.com/uses/80527/semaine-design-de-montreal-2026",
+   "date": "2026-10-26T08:56:58.000Z",
+   "author": "OTT Ornamental-&-Title-Type",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "217693",
+     "name": "James",
+     "url": "https://fontsinuse.com/typefaces/217693/james",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11177/440/4/63eba5d0/james.png"
+    },
+    {
+     "id": "233653",
+     "name": "Office Sans",
+     "url": "https://fontsinuse.com/typefaces/233653/office-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13140/440/4/66076a38/office-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305814/upto-700xauto/6ac3d094/igexport-DeAH7U9GsSA.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305807/upto-700xauto/6ac3d08b/igexport-DeAH7U9GsSA-4-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305805/upto-700xauto/6ac3cfd3/igexport-DeAH7U9GsSA-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305808/upto-700xauto/6ac3cfce/igexport-DeAH7U9GsSA-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305809/upto-700xauto/6ac3cfce/igexport-DeAH7U9GsSA-5.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305810/upto-700xauto/6ac3cfc9/igexport-DeAH7U9GsSA-6.mp4"
+   ],
+   "excerpt": "The inaugural edition of Semaine Design de Montréal took place in April 2026. A new annual gathering on the city's design scene, it brings together professionals, creatives, brands and the general public around a program that celebrates architecture and…"
+  },
+  {
+   "id": "80152",
+   "title": "Im Jaehyung – Blank Reading (A Second Life)",
+   "url": "https://fontsinuse.com/uses/80152/im-jaehyung-blank-reading-a-second-life",
+   "date": "2026-10-26T08:48:08.000Z",
+   "author": "Greg Gazdowicz",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "168737",
+     "name": "Terza Reader",
+     "url": "https://fontsinuse.com/typefaces/168737/terza-reader",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9031/440/4/6307885e/terza-reader.png"
+    },
+    {
+     "id": "168731",
+     "name": "Moulin",
+     "url": "https://fontsinuse.com/typefaces/168731/moulin",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9196/440/4/619650eb/moulin.png"
+    },
+    {
+     "id": "47527",
+     "name": "Sandoll MyeongjoNeo1",
+     "url": "https://fontsinuse.com/typefaces/47527/sandoll-myeongjoneo1",
+     "sample": "https://assets.fontsinuse.com/static/renders/57/47527/400/4/6adf13c9/sandoll-myeongjoneo1.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304052/upto-700xauto/6adf1400/IMG_9768.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304053/upto-700xauto/6aac6417/IMG_9769.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304054/upto-700xauto/6aac6419/IMG_9771.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304055/upto-700xauto/6aac641b/IMG_9775.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304056/upto-700xauto/6aac641d/IMG_9777.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304057/upto-700xauto/6aac641f/IMG_9778.jpeg"
+   ],
+   "excerpt": "Passage designed the book about Im Jaehyung’s work from 2019 onward. Using Moulin for titles and Terza Reader for text and marginalia in Latin – both available from Commercial Type – and Sandoll MyeongjoNeo1 for the Hangeul, released by Sandoll ."
+  },
+  {
+   "id": "80322",
+   "title": "Space Between People",
+   "url": "https://fontsinuse.com/uses/80322/space-between-people",
+   "date": "2026-10-26T08:40:09.000Z",
+   "author": "Softdrive Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250301",
+     "name": "Lingo",
+     "url": "https://fontsinuse.com/typefaces/250301/lingo",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19202/440/4/6ab641cb/lingo.png"
+    },
+    {
+     "id": "250302",
+     "name": "365 Grotesk",
+     "url": "https://fontsinuse.com/typefaces/250302/365-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19203/440/4/6abe7f8e/365-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304941/upto-700xauto/6acb9247/Bildschirmfoto%202026-09-25%20um%2011-49-25.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304942/upto-700xauto/6ab643e9/Bildschirmfoto%202026-09-25%20um%2011-49-44.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304943/upto-700xauto/6ab64900/Bildschirmfoto%202026-09-25%20um%2012-07-03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304944/upto-700xauto/6ab64901/Bildschirmfoto%202026-09-25%20um%2012-07-22.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304945/upto-700xauto/6ab64902/Bildschirmfoto%202026-09-25%20um%2012-08-22.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304946/upto-700xauto/6ab64905/Bildschirmfoto%202026-09-25%20um%2012-08-37.png"
+   ],
+   "excerpt": "Space Between People is the practice of Hanna Noller, an architect and researcher working at the intersection of urban development, participation and design. The site presents her projects – from planning workshops in Hannover and Oldenburg to exhibitions,…"
+  },
+  {
+   "id": "80312",
+   "title": "Victory Edition cider",
+   "url": "https://fontsinuse.com/uses/80312/victory-edition-cider",
+   "date": "2026-10-26T08:38:00.000Z",
+   "author": "Blaze Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "230859",
+     "name": "Quadrant Text Mono",
+     "url": "https://fontsinuse.com/typefaces/230859/quadrant-text-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12326/440/4/65098d8d/quadrant-text-mono.png"
+    },
+    {
+     "id": "54012",
+     "name": "Surt",
+     "url": "https://fontsinuse.com/typefaces/54012/surt",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4085/440/4/64e76f25/surt.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304880/upto-700xauto/6adf1bc3/01-@temper-tennis%20by%20@hono__studio%20-%23branding%20%23brandidentity%20%23designblog%20%23visualjournal%20%288%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304900/upto-700xauto/6adf10e0/06-@temper-tennis%20by%20@hono__studio%20-%23branding%20%23brandidentity%20%23designblog%20%23visualjournal%20%282%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308359/upto-700xauto/6adf10e0/LgCP1KufFAgeZlxwhe7R69lIaMQ.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304881/upto-700xauto/6adf10e1/02-@temper-tennis%20by%20@hono__studio%20-%23branding%20%23brandidentity%20%23designblog%20%23visualjournal.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304882/upto-700xauto/6adf10e0/03-@temper-tennis%20by%20@hono__studio%20-%23branding%20%23brandidentity%20%23designblog%20%23visualjournal%20%289%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304883/upto-700xauto/6adf10e1/04-@temper-tennis%20by%20@hono__studio%20-%23branding%20%23brandidentity%20%23designblog%20%23visualjournal%20%281%29.jpeg"
+   ],
+   "excerpt": "Five sets, nearly five hours of play, and two legends face-to-face: the 2008 Wimbledon final between Roger Federer and Rafael Nadal remains one of the most iconic matches in sports history. It is this legendary sequence that the Victory Edition…"
+  },
+  {
+   "id": "76708",
+   "title": "amtm",
+   "url": "https://fontsinuse.com/uses/76708/amtm",
+   "date": "2026-10-26T08:21:54.000Z",
+   "author": "Oudin Romain",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "231304",
+     "name": "Kaio",
+     "url": "https://fontsinuse.com/typefaces/231304/kaio",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12458/440/4/652effcc/kaio.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/289/288489/upto-700xauto/69de44fb/20.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288490/upto-700xauto/69de44bb/21.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288497/upto-700xauto/69de44bb/22.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288494/upto-700xauto/69de44d7/27.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288498/upto-700xauto/6adf126b/26.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/289/288492/upto-700xauto/69de44d5/23.jpeg"
+   ],
+   "excerpt": "amtm is an architecture studio founded by Jasper and Tim. The name is an abbreviation of “architecture made to measure”, expressing their approach to architecture as a precise, tailored practice shaped around each project."
+  },
+  {
+   "id": "77804",
+   "title": "Garage Bentivoglio 2023–2026",
+   "url": "https://fontsinuse.com/uses/77804/garage-bentivoglio-2023-2026",
+   "date": "2026-10-26T08:16:00.000Z",
+   "author": "Omnitype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245167",
+     "name": "Ot Kairo",
+     "url": "https://fontsinuse.com/typefaces/245167/ot-kairo",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16526/440/4/68c2d954/ot-kairo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/293/292705/upto-700xauto/6adf0bc9/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/293/292706/upto-700xauto/6a185ca3/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/293/292707/upto-700xauto/6a185ca4/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/293/292708/upto-700xauto/6a185ca5/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/293/292709/upto-700xauto/6a185ca5/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/293/292711/upto-700xauto/6a185ca7/7.jpeg"
+   ],
+   "excerpt": "Garage Bentivoglio 2023–2026 documents the first three years of Garage Bentivoglio, a street-facing exhibition space embedded in Palazzo Bentivoglio , Bologna, conceived as a place of encounter between the collection, the city, and its passers-by."
+  },
+  {
+   "id": "78170",
+   "title": "Bisou Festival 2022 poster",
+   "url": "https://fontsinuse.com/uses/78170/bisou-festival-2022-poster",
+   "date": "2026-10-26T08:14:52.000Z",
+   "author": "Ilya Naumoff",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "147517",
+     "name": "Factor A",
+     "url": "https://fontsinuse.com/typefaces/147517/factor-a",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7582/440/4/5fd2397c/factor-a.png"
+    },
+    {
+     "id": "109876",
+     "name": "Cako",
+     "url": "https://fontsinuse.com/typefaces/109876/cako",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5970/440/4/5d889a86/cako.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/295/294142/upto-700xauto/6a28249b/651788417_18074120957171952_2418925121393445227_n.jpeg"
+   ],
+   "excerpt": "Studio OUAM worked with La Nef Angoulême to design a new visual identity for Bisou Festival . The identity changes completely each year. This poster is from the 2022/23 edition."
+  },
+  {
+   "id": "79056",
+   "title": "Auctor",
+   "url": "https://fontsinuse.com/uses/79056/auctor",
+   "date": "2026-10-26T08:06:23.000Z",
+   "author": "Store Norske Skriftkompani",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217860",
+     "name": "Store Norske Skandia",
+     "url": "https://fontsinuse.com/typefaces/217860/store-norske-skandia",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11235/440/4/640076d4/store-norske-skandia.png"
+    },
+    {
+     "id": "243123",
+     "name": "Season Mix",
+     "url": "https://fontsinuse.com/typefaces/243123/season-mix",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15058/440/4/67fc1d17/season-mix.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305439/upto-700xauto/6abf6ffe/7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305434/upto-700xauto/6abf6feb/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305433/upto-700xauto/6abf6fe1/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305436/upto-700xauto/6abf6fe0/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305438/upto-700xauto/6abf6fe0/6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305437/upto-700xauto/6abf6fe1/5.jpeg"
+   ],
+   "excerpt": "Auctor is an AI software platform for professional-services teams and system integrators. The website presents the product as a shared system for managing software implementations from initial sales conversations through delivery and ongoing project work."
+  },
+  {
+   "id": "80514",
+   "title": "Just Spaghetti no Regretti",
+   "url": "https://fontsinuse.com/uses/80514/just-spaghetti-no-regretti",
+   "date": "2026-10-26T06:53:00.000Z",
+   "author": "Andreas Gnass",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "47727",
+     "name": "GT Super Display",
+     "url": "https://fontsinuse.com/typefaces/47727/gt-super-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3963/440/4/59cb7b2f/gt-super-display.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305821/upto-700xauto/6adf152b/U9ers_00.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305825/upto-700xauto/6adf1538/_MG_3178-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305822/upto-700xauto/6ac3d3e9/U9ers_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306080/upto-700xauto/6ac65420/U9ers_04sm.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306081/upto-700xauto/6ac65422/U9ers_09sm.jpeg"
+   ],
+   "excerpt": "Teams calls, Zoom calls, meetings – one after another. Screen time keeps growing, while working together has never been easier. But something gets lost along the way: the unexpected perspectives that come from actually being in the same room."
+  },
+  {
+   "id": "80511",
+   "title": "Of Soil & Smoke: Recipes and Stories from Georgia",
+   "url": "https://fontsinuse.com/uses/80511/of-soil-and-smoke-recipes-and-stories-from-ge",
+   "date": "2026-10-25T14:15:26.000Z",
+   "author": "gestalten",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "196497",
+     "name": "Ortica Angular",
+     "url": "https://fontsinuse.com/typefaces/196497/ortica-angular",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10017/440/4/6623c484/ortica-angular.png"
+    },
+    {
+     "id": "104204",
+     "name": "Ortica Linear",
+     "url": "https://fontsinuse.com/typefaces/104204/ortica-linear",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5765/440/4/6623c62c/ortica-linear.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    },
+    {
+     "id": "130247",
+     "name": "Sacred Letter",
+     "url": "https://fontsinuse.com/typefaces/130247/sacred-letter",
+     "sample": "https://assets.fontsinuse.com/static/renders/140/130247/400/4/6ade0eff/sacred-letter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305750/upto-700xauto/6ade0f13/GOCOB_1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305751/upto-700xauto/6ac3664d/GOCOB_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305752/upto-700xauto/6ac36d96/Screenshot%202026-10-05%20at%2010-57-12.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305760/upto-700xauto/6ac3703c/DSCF0641.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305762/upto-700xauto/6ac370b9/DSCF0631.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305763/upto-700xauto/6ac370d8/DSCF0629.jpeg"
+   ],
+   "excerpt": "Of Soil & Smoke: Recipes and Stories from Georgia was authored by Anano Itriashvili and edited by Ia Dzagania, Iris Hempelmann, and François-Luc Giraldeau, and published by Gestalten ."
+  },
+  {
+   "id": "80507",
+   "title": "Marqueterie: nouvelles perspectives sur un savoir-faire",
+   "url": "https://fontsinuse.com/uses/80507/marqueterie-nouvelles-perspectives-sur-un-s-2",
+   "date": "2026-10-25T14:07:35.000Z",
+   "author": "Électro Bibliothèque",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235050",
+     "name": "EB Reklame",
+     "url": "https://fontsinuse.com/typefaces/235050/eb-reklame",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13506/440/4/66708935/eb-reklame.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305738/upto-700xauto/6ac35fc1/1-GalerieCarpeaux-Marqueterie-PhotoDeniseMerlette_2026.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305739/upto-700xauto/6ac35fca/2-EB-Reklame-FIU-RL-Affiche-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305740/upto-700xauto/6ac35fce/3-GalerieCarpeaux-Marqueterie-PhotoDeniseMerlette_2026.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305741/upto-700xauto/6ac35fd5/4-GalerieCarpeaux-Marqueterie-PhotoDeniseMerlette_2026.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305742/upto-700xauto/6ac35fd9/5-EB-Reklame-FIU-RL-Affiche-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305743/upto-700xauto/6ac35fde/6-GalerieCarpeaux-Marqueterie-PhotoDeniseMerlette_2026.jpeg"
+   ],
+   "excerpt": "EB Reklame is a contemporary redesign of Windsor , a typeface from the early 20th century, particularly associated with the Art Nouveau movement. My idea behind the publication of EB Reklame is to look at Windsor with fresh eyes, stripping it back and…"
+  },
+  {
+   "id": "80492",
+   "title": "Ami Ami",
+   "url": "https://fontsinuse.com/uses/80492/ami-ami-1",
+   "date": "2026-10-25T13:51:00.000Z",
+   "author": "ToStudio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "160541",
+     "name": "ToTemper",
+     "url": "https://fontsinuse.com/typefaces/160541/to-temper",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8342/440/4/671ba88c/to-temper.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305699/upto-700xauto/6ac23dc6/towebsite1535.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305698/upto-700xauto/6ac23dc9/to_guidelines_v214.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305697/upto-700xauto/6ac23dcc/to_guidelines_v210.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305696/upto-700xauto/6ac23dd0/to_guidelines_v213.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305695/upto-700xauto/6ac23dcf/to_guidelines_v212.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305700/upto-700xauto/6ac23e23/to_guidelines_v211.jpeg"
+   ],
+   "excerpt": "AmiAmi is a swiss brand founded by Jean-Sébastien Amiguet, whose purpose is to support the work of local independent industrial designers by producing their objects in limited editions. It is a passion-driven project in which all the profits are reinvested…"
+  },
+  {
+   "id": "80517",
+   "title": "Pryce Digital portfolio website",
+   "url": "https://fontsinuse.com/uses/80517/pryce-digital-portfolio-website",
+   "date": "2026-10-25T13:50:30.000Z",
+   "author": "Graham Sissons",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "194847",
+     "name": "Martian Mono",
+     "url": "https://fontsinuse.com/typefaces/194847/martian-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13012/440/4/65d890e8/martian-mono.png"
+    },
+    {
+     "id": "237491",
+     "name": "Geist Mono",
+     "url": "https://fontsinuse.com/typefaces/237491/geist-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13964/440/4/66e999a3/geist-mono.png"
+    },
+    {
+     "id": "237493",
+     "name": "Geist Sans",
+     "url": "https://fontsinuse.com/typefaces/237493/geist-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13965/440/4/66e99a43/geist-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305783/upto-700xauto/6ac382c7/fiu-1-hero-2000w.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305784/upto-700xauto/6ac382c8/fiu-2-manifesto-2000w.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305785/upto-700xauto/6ac382ca/fiu-3-commitments-2000w.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305786/upto-700xauto/6ade08d9/fiu-4-studio-2000w.png"
+   ],
+   "excerpt": "Pryce Digital is a Melbourne studio that hand-codes websites for Australian and New Zealand businesses. The site reads like a specification sheet: near-black ink, one hazard-yellow accent, Martian Mono headlines over Geist Sans body copy and a faint…"
+  },
+  {
+   "id": "80500",
+   "title": "Carter Ogunsola portfolio website",
+   "url": "https://fontsinuse.com/uses/80500/carter-ogunsola-portfolio-website",
+   "date": "2026-10-25T13:33:28.000Z",
+   "author": "Carter Ogunsola",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167746",
+     "name": "ABC Oracle",
+     "url": "https://fontsinuse.com/typefaces/167746/abc-oracle",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9097/440/4/617d3b6a/abc-oracle.png"
+    },
+    {
+     "id": "232952",
+     "name": "Neue Montreal Mono",
+     "url": "https://fontsinuse.com/typefaces/232952/neue-montreal-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12935/440/4/65c349b9/neue-montreal-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305727/upto-700xauto/6ac2d238/01-home--desk-dark.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305728/upto-700xauto/6ac2d239/02-about--desk-dark.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305729/upto-700xauto/6ac2d239/03-studio--desk-light.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305730/upto-700xauto/6ac2d23a/04-contact--desk-light.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305731/upto-700xauto/6ac2d23a/05-writing--desk-dark.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305732/upto-700xauto/6ade0536/06-lab--desk-dark.jpeg"
+   ],
+   "excerpt": "My portfolio website is built like a print shop. ABC Oracle carries everything you read on the site, from the big page titles down to the body copy. Neue Montreal Mono only shows up where something is being measured or typed: the header readout with the…"
+  },
+  {
+   "id": "80459",
+   "title": "The Sense of Beauty: Six Centuries of Painting from Museo de Arte de Ponce",
+   "url": "https://fontsinuse.com/uses/80459/the-sense-of-beauty-six-centuries-of-painting",
+   "date": "2026-10-25T13:12:03.000Z",
+   "author": "Yorlmar Campos",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229972",
+     "name": "Atlante Display",
+     "url": "https://fontsinuse.com/typefaces/229972/atlante-display",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/229972/400/4/6ade0024/atlante-display.png"
+    },
+    {
+     "id": "229991",
+     "name": "Atlante Text",
+     "url": "https://fontsinuse.com/typefaces/229991/atlante-text",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/229991/400/4/6ade0024/atlante-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305554/upto-700xauto/6ade0038/atlante-tsob-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305555/upto-700xauto/6abfbeae/atlante-tsob-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305558/upto-700xauto/6ade0985/atlante-tsob-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305559/upto-700xauto/6abfbeb8/atlante-tsob-06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305560/upto-700xauto/6abfbeee/atlante-tsob-07.jpeg"
+   ],
+   "excerpt": "Drawn from the Museo de Arte de Ponce , The Sense of Beauty brings together celebrated works by leading European and North American artists. Visitors will encounter paintings by masters ranging from Lucas Cranach the Elder and Peter Paul Rubens to…"
+  },
+  {
+   "id": "80449",
+   "title": "Découvrez Lessines",
+   "url": "https://fontsinuse.com/uses/80449/decouvrez-lessines",
+   "date": "2026-10-25T13:02:22.000Z",
+   "author": "Pascal Liénard",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "41049",
+     "name": "Stratos",
+     "url": "https://fontsinuse.com/typefaces/41049/stratos",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2255/440/4/570e215d/stratos.png"
+    },
+    {
+     "id": "47752",
+     "name": "Heading",
+     "url": "https://fontsinuse.com/typefaces/47752/heading",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9711/440/4/6234749b/heading.png"
+    },
+    {
+     "id": "3097",
+     "name": "Supria Sans",
+     "url": "https://fontsinuse.com/typefaces/3097/supria-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3097/400/4/6addfddf/supria-sans.png"
+    },
+    {
+     "id": "32441",
+     "name": "Astloch",
+     "url": "https://fontsinuse.com/typefaces/32441/astloch",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1310/440/4/570e20b9/astloch.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305500/upto-700xauto/6addfc74/pascallienard_Decouvrez-Lessines_HNDR_0013.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305489/upto-700xauto/6addfc74/pascallienard_Decouvrez-Lessines_HNDR_0002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305499/upto-700xauto/6addfc74/pascallienard_Decouvrez-Lessines_HNDR_0012.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305490/upto-700xauto/6addfc74/pascallienard_Decouvrez-Lessines_HNDR_0003.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305492/upto-700xauto/6addfc74/pascallienard_Decouvrez-Lessines_HNDR_0005.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305495/upto-700xauto/6addfc75/pascallienard_Decouvrez-Lessines_HNDR_0008.jpeg"
+   ],
+   "excerpt": "Découvrez Lessines (“Discover Lessines”) is a 54-page walking guide to the Belgian town of Lessines, initiated by the Hôpital Notre-Dame à la Rose and published in February 2022 in French and Dutch editions. Two routes lead the reader through the town's…"
+  },
+  {
    "id": "80446",
-   "title": "Little Girls Are Wiser Than Men",
-   "url": "https://fontsinuse.com/uses/80446/little-girls-are-wiser-than-men",
+   "title": "Little Girls Are Wiser Than Men by Leo Tolstoy",
+   "url": "https://fontsinuse.com/uses/80446/little-girls-are-wiser-than-men-by-leo-tolsto",
    "date": "2026-10-25T12:53:14.000Z",
    "author": "Isaco Type",
    "staffPick": false,
@@ -194,12 +707,12 @@
     "https://assets.fontsinuse.com/static/use-media-items/306/305597/upto-700xauto/6addfb36/5.webp",
     "https://assets.fontsinuse.com/static/use-media-items/306/305604/upto-700xauto/6addfb36/99a.webp"
    ],
-   "excerpt": "Little Girls Are Wiser Than Men, published by Tara Books in 2021, is a letterpress book adapting a short story by Leo Tolstoy , illustrated by Lebanese artist and lithographer Hassan Zahreddine through linocut prints. The edition is limited to 2,000 copies."
+   "excerpt": "Little Girls Are Wiser Than Men , published by Tara Books in 2021, is a letterpress book adapting a short story by Leo Tolstoy , illustrated by Lebanese artist and lithographer Hassan Zahreddine through linocut prints. The edition is limited to 2,000 copies."
   },
   {
    "id": "78698",
-   "title": "LÊNLOOP festival (student project)",
-   "url": "https://fontsinuse.com/uses/78698/lenloop-festival-student-project",
+   "title": "LÊN LOOP Music Festival",
+   "url": "https://fontsinuse.com/uses/78698/len-loop-music-festival",
    "date": "2026-10-25T12:45:03.000Z",
    "author": "Dan Tan",
    "staffPick": false,
@@ -227,11 +740,11 @@
     "https://assets.fontsinuse.com/static/use-media-items/308/307057/upto-700xauto/6ad18145/Post%20Grad.png",
     "https://assets.fontsinuse.com/static/use-media-items/306/305417/upto-700xauto/6ad180af/SAIGON_SAIGON_7.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305418/upto-700xauto/6ad180af/A4%20-%2028.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/306/305420/upto-700xauto/6ad180af/A4%20-%2036.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/306/305429/upto-700xauto/6ad180af/IPHONE-MOCKUP%201.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/306/305425/upto-700xauto/6ad180b0/A%CC%89nh%20ma%CC%80n%20hi%CC%80nh%202026-05-13%20lu%CC%81c%2023-52-41%201.jpeg"
+    "https://assets.fontsinuse.com/static/use-media-items/306/305420/upto-700xauto/6adf021f/A4%20-%2036.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305429/upto-700xauto/6adf0223/IPHONE-MOCKUP%201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308357/upto-700xauto/6adf0223/Slide%2016_9%20-%201.jpeg"
    ],
-   "excerpt": "The LÊN LOOP Music Festival is Nguyen Dan Tan ’s Graduation Project in Van Lang University’s Graphic Design Honors program. As the Vietnamese music industry continues to grow alongside the rise of young artists and Gen Z/Millennial audiences, music…"
+   "excerpt": "The LÊN LOOP Music Festival is Nguyen Dan Tan ’s graduation project made in Van Lang University’s Graphic Design Honors program. As the Vietnamese music industry continues to grow alongside the rise of young artists and Gen Z/Millennial audiences, music…"
   },
   {
    "id": "78096",
