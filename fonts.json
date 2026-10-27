@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-26T15:08:16.629Z",
+ "updated": "2026-10-27T14:23:22.200Z",
  "day": {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "picks": [
-   "240352",
-   "249987",
-   "217693",
-   "31435",
-   "44626",
-   "133120",
-   "233653",
-   "217443",
-   "35"
+   "3483",
+   "236482",
+   "232874",
+   "81438",
+   "210409",
+   "245069",
+   "250301",
+   "39028",
+   "250302"
   ]
  },
  "history": [
@@ -182,9 +182,336 @@
     "217443",
     "35"
    ]
+  },
+  {
+   "date": "2026-10-27",
+   "picks": [
+    "3483",
+    "236482",
+    "232874",
+    "81438",
+    "210409",
+    "245069",
+    "250301",
+    "39028",
+    "250302"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "78926",
+   "title": "LongLake Festival",
+   "url": "https://fontsinuse.com/uses/78926/longlake-festival",
+   "date": "2026-10-27T09:10:19.000Z",
+   "author": "Polina Baydin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229150",
+     "name": "CoFo Kabeltouw",
+     "url": "https://fontsinuse.com/typefaces/229150/cofo-kabeltouw",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11921/440/4/64a70b2f/cofo-kabeltouw.png"
+    },
+    {
+     "id": "90010",
+     "name": "CoFo Sans",
+     "url": "https://fontsinuse.com/typefaces/90010/cofo-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5221/440/4/5c13a12f/cofo-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/298/297970/upto-700xauto/6ae06aa2/%D0%A1oFo_In-Use_Kabeltouw_1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/298/297971/upto-700xauto/6a57f7e8/%D0%A1oFo_In-Use_Kabeltouw_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/298/297973/upto-700xauto/6a57f7f8/%D0%A1oFo_In-Use_Kabeltouw_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/298/297972/upto-700xauto/6a57f7f8/%D0%A1oFo_In-Use_Kabeltouw_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308539/upto-700xauto/6ae069ea/Screenshot%202026-10-27%20at%2010-07-36%20LONGLAKE.png"
+   ],
+   "excerpt": "Brand identity for the 16th edition of LongLake Festival , Lugano's annual urban arts and music festival. The typographic system is built on CoFo Kabeltouw , used across web, print, and outdoor formats – holding together a sprawling programme from jazz to…"
+  },
+  {
+   "id": "80530",
+   "title": "Multiple Tomorrows",
+   "url": "https://fontsinuse.com/uses/80530/multiple-tomorrows",
+   "date": "2026-10-27T09:02:04.000Z",
+   "author": "Ilsa Hösch",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250393",
+     "name": "Bbb Sprat",
+     "url": "https://fontsinuse.com/typefaces/250393/bbb-sprat",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19304/440/4/6ac4fc8d/bbb-sprat.png"
+    },
+    {
+     "id": "210364",
+     "name": "Ready Active",
+     "url": "https://fontsinuse.com/typefaces/210364/ready-active",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10537/440/4/633f3234/ready-active.png"
+    },
+    {
+     "id": "244057",
+     "name": "Xx Treasure",
+     "url": "https://fontsinuse.com/typefaces/244057/xx-treasure",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15780/440/4/6823acdd/xx-treasure.png"
+    },
+    {
+     "id": "163494",
+     "name": "Owners Text",
+     "url": "https://fontsinuse.com/typefaces/163494/owners-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8511/440/4/60f8588b/owners-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305842/upto-700xauto/6ac4018d/_A7_7201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305843/upto-700xauto/6ac3fedb/GD6_MltipleTomorrows0108.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305845/upto-700xauto/6ac3fedb/GD6_MltipleTomorrows0112.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305844/upto-700xauto/6ac3fedb/GD6_MltipleTomorrows0111.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305847/upto-700xauto/6ac40197/GD6_MltipleTomorrows0113.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305848/upto-700xauto/6ac3ffe6/_A7_7204.jpeg"
+   ],
+   "excerpt": "An approach on the future of design – cover and interview for the editorial project Multiple Tomorrows , made at TH Nürnberg ."
+  },
+  {
+   "id": "80483",
+   "title": "Jadeo",
+   "url": "https://fontsinuse.com/uses/80483/jadeo",
+   "date": "2026-10-27T08:59:53.000Z",
+   "author": "Guillermina Teves Bejar",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "99681",
+     "name": "Tiny",
+     "url": "https://fontsinuse.com/typefaces/99681/tiny",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5628/440/4/5cd31b41/tiny.png"
+    },
+    {
+     "id": "233371",
+     "name": "Printvetica",
+     "url": "https://fontsinuse.com/typefaces/233371/printvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13090/440/4/65ef7e00/printvetica.png"
+    },
+    {
+     "id": "3483",
+     "name": "Neue Helvetica",
+     "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6ae0680a/neue-helvetica.png"
+    },
+    {
+     "id": "7369",
+     "name": "Gotham Rounded",
+     "url": "https://fontsinuse.com/typefaces/7369/gotham-rounded",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/720/440/4/657dc32e/gotham-rounded.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305654/upto-700xauto/6ac143e9/posteo-04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305655/upto-700xauto/6ac14d60/gif.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305657/upto-700xauto/6ac14d61/1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305661/upto-700xauto/6ac14d73/5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305662/upto-700xauto/6ac14d73/posteo_Artboard%2012%20copy%205.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305664/upto-700xauto/6ac14d86/6.png"
+   ],
+   "excerpt": "Jadeo is a dance music party in Montevideo, Uruguay, known for its vibrant atmosphere and its fusion of Latin rhythms with electronic music. Each edition has its own visual identity, and we had the pleasure of designing one of them."
+  },
+  {
+   "id": "80516",
+   "title": "Dry Festival",
+   "url": "https://fontsinuse.com/uses/80516/dry-festival",
+   "date": "2026-10-27T08:28:04.000Z",
+   "author": "Fakepaper",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39028",
+     "name": "Forma DJR",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305768/upto-700xauto/6ae0613c/260908-DryFestival-Branding-Poster-30x40cm-rvb-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305765/upto-700xauto/6ac376c5/260929-DryFestival-Branding-Poster-30x40cm-rvb-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305766/upto-700xauto/6ac376c5/260929-DryFestival-Branding-Poster-30x40cm-rvb-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305767/upto-700xauto/6ac376c5/260929-DryFestival-Branding-Poster-30x40cm-rvb-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305769/upto-700xauto/6ac376bd/260908-DryFestival-Branding-Poster-30x40cm-rvb-3.jpeg"
+   ],
+   "excerpt": "Dry festival is the first festival in Paris entirely dedicated to no alcohol and low alcohol drinks, held in “dry january” 2027. The visual identity by Fakepaper was designed Using Forma DJR ."
+  },
+  {
+   "id": "80512",
+   "title": "“The Alexandria Blue Boy” postage stamp",
+   "url": "https://fontsinuse.com/uses/80512/the-alexandria-blue-boy-postage-stamp",
+   "date": "2026-10-27T08:23:22.000Z",
+   "author": "TypeMates",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "213995",
+     "name": "Ottessa",
+     "url": "https://fontsinuse.com/typefaces/213995/ottessa",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/213995/400/4/6ae05f7b/ottessa.png"
+    },
+    {
+     "id": "250378",
+     "name": "Dhl Delivery",
+     "url": "https://fontsinuse.com/typefaces/250378/dhl-delivery",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19301/440/4/6ac3cafe/dhl-delivery.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305754/upto-700xauto/6ac3672b/TM_FontInUse_32.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305753/upto-700xauto/6aca0bc9/TM_FontInUse_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305755/upto-700xauto/6ac36717/TM_FontInUse_33.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305804/upto-700xauto/6ac3c91d/Hagen-Verleger_Blue-Boy_04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305756/upto-700xauto/6ac3c91d/TM_FontInUse_34.jpeg"
+   ],
+   "excerpt": "For Germany's “Tag der Briefmarke” (Stamp Day), Hagen Verleger designed a postage stamp on behalf of the Deutsche Post and the Federal Ministry of Finance. The stamp shows the Alexandria “Blue Boy” , a rare mid-19th-century issue and an icon of philately.…"
+  },
+  {
+   "id": "79451",
+   "title": "Day+",
+   "url": "https://fontsinuse.com/uses/79451/day",
+   "date": "2026-10-27T08:21:43.000Z",
+   "author": "WELTKERN® Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "82627",
+     "name": "Twk Everett",
+     "url": "https://fontsinuse.com/typefaces/82627/twk-everett",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4772/440/4/618e7df6/twk-everett.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305855/upto-700xauto/6ac42b98/photo-pages-travailler-avec-day-plus-NL_-_Format_Carre_2025_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305853/upto-700xauto/6ae05f38/photo-produits-duo-serums-UVDropsSPF50_8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305852/upto-700xauto/6ac42ba1/photo-produits-duo-serums-DuodeSerums2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305850/upto-700xauto/6ac42ba1/photo-produits-poudre-collagene-vitamines-Poudre_Collagene_Vitamines_Silver1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301380/upto-700xauto/6ac42ba0/enhanced_SoinLevresAbsolu2-kompressor.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305857/upto-700xauto/6ae05eaa/site-03-serums-vue-01.png"
+   ],
+   "excerpt": "DAY+ is a Parisian beauty brand founded in 2018 by Claire Despagne around what it calls precision beauty “In & Out”: French-made serums, masks and lip care alongside collagen supplements. Sold at Galeries Lafayette, Printemps and Le Bon Marché, the brand…"
+  },
+  {
+   "id": "80540",
+   "title": "Senza Fondeli",
+   "url": "https://fontsinuse.com/uses/80540/senza-fondeli",
+   "date": "2026-10-27T08:16:48.000Z",
+   "author": "WrittenShape Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167778",
+     "name": "Gaya",
+     "url": "https://fontsinuse.com/typefaces/167778/gaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8746/440/4/6145a85d/gaya.png"
+    },
+    {
+     "id": "232248",
+     "name": "Outfit",
+     "url": "https://fontsinuse.com/typefaces/232248/outfit",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12743/440/4/659537a1/outfit.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305914/upto-700xauto/6ac4caa0/Capture%20d%E2%80%99e%CC%81cran%202026-10-06%20a%CC%80%2012-08%20copie.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305908/upto-700xauto/6ac4caa0/01.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308537/upto-700xauto/6ae05d2f/Screenshot%202026-10-27%20at%2009-12-30%20Senza%20Fondeli%20Discover%20Italian%20Flavors%20-%20Reserve%20Your%20Spot.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305909/upto-700xauto/6ae05d30/04.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305910/upto-700xauto/6ae05d30/05.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305911/upto-700xauto/6ae05d30/06.webp"
+   ],
+   "excerpt": "Senza Fondeli is an Italian restaurant based on Royal Tunbridge Wells, UK. For their art direction, they are using Gaya , alongside nice photographs on their social media and website. The restaurant ntroduces itself as follows on its website :"
+  },
+  {
+   "id": "80541",
+   "title": "Darphin",
+   "url": "https://fontsinuse.com/uses/80541/darphin",
+   "date": "2026-10-27T08:09:56.000Z",
+   "author": "TypeType",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "46459",
+     "name": "Tt Norms",
+     "url": "https://fontsinuse.com/typefaces/46459/tt-norms",
+     "sample": "https://assets.fontsinuse.com/static/renders/55/46459/400/4/6ae05c55/tt-norms.png"
+    },
+    {
+     "id": "3895",
+     "name": "Copperplate Gothic",
+     "url": "https://fontsinuse.com/typefaces/3895/copperplate-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3895/400/4/6ab61994/copperplate-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305902/upto-700xauto/6ac4c6f4/tt_fiu_darphin_web_cover.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305903/upto-700xauto/6ac4c6fb/tt_fiu_darphin_web_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305904/upto-700xauto/6ac4c6fc/tt_fiu_darphin_web_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305905/upto-700xauto/6ac4c6ff/tt_fiu_darphin_web_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305906/upto-700xauto/6ac4c701/tt_fiu_darphin_web_5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305907/upto-700xauto/6ac4c702/tt_fiu_darphin_web_6.png"
+   ],
+   "excerpt": "TT Norms is used in the brand identity of Darphin , a French luxury skincare brand. Founded in 1958, it is renowned for combining innovative formulas, scientific heritage, and botanical ingredients. TT Norms Pro helped emphasize the brand’s high-tech…"
+  },
+  {
+   "id": "80547",
+   "title": "Centrale Elettronica",
+   "url": "https://fontsinuse.com/uses/80547/centrale-elettronica",
+   "date": "2026-10-27T08:07:27.000Z",
+   "author": "Filippo Baldo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "15484",
+     "name": "Brett",
+     "url": "https://fontsinuse.com/typefaces/15484/brett",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3495/440/4/58e7da7b/brett.png"
+    },
+    {
+     "id": "232221",
+     "name": "Ufficio Sans",
+     "url": "https://fontsinuse.com/typefaces/232221/ufficio-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12715/440/4/658ed676/ufficio-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305956/upto-700xauto/6ac4f897/CE-Tavola-da-disegno-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305964/upto-700xauto/6ac4fa3c/Screenshot%202026-10-06%20alle%2015-39-48.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305960/upto-700xauto/6ac4fa3c/A-Trak_Annuncio_Guest_IGS.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305961/upto-700xauto/6ac4fa49/Tita%20Lau_Annuncio_Guest_IGP.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305957/upto-700xauto/6ac4fa4c/CE-Tavola-da-disegno-2-copia-2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305958/upto-700xauto/6ac4fa4c/CE-Tavola-da-disegno-2.png"
+   ],
+   "excerpt": "Logo, pictogram and visual identity for Centrale Elettronica , developed in collaboration with Enrico Botta . Centrale Elettronica is an electronic music festival originating from the industrial heart of Brescia, transforming the urban landscape through…"
+  },
+  {
+   "id": "80559",
+   "title": "Sağol – Teşekkürler – Mersi by Seda Türk",
+   "url": "https://fontsinuse.com/uses/80559/sagol-tesekkuerler-mersi-byandnbsp-seda-tuerk",
+   "date": "2026-10-27T05:29:00.000Z",
+   "author": "Bolid System",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "218341",
+     "name": "BS Resort Classic",
+     "url": "https://fontsinuse.com/typefaces/218341/bs-resort-classic",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11470/440/4/69b27427/bs-resort-classic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306019/upto-700xauto/6ac5eefe/EC_SEDA%20TURK_REPRO%20MEMOIRE%E2%94%AC%C2%AEB-Coulon_001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306020/upto-700xauto/6ac5ee96/EC_SEDA%20TURK_REPRO%20MEMOIRE%E2%94%AC%C2%AEB-Coulon_006.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306021/upto-700xauto/6ac5ee97/EC_SEDA%20TURK_REPRO%20MEMOIRE%E2%94%AC%C2%AEB-Coulon_022.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306022/upto-700xauto/6ac5ee98/EC_SEDA%20TURK_REPRO%20MEMOIRE%E2%94%AC%C2%AEB-Coulon_029.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306023/upto-700xauto/6ac5ee9a/EC_SEDA%20TURK_REPRO%20MEMOIRE%E2%94%AC%C2%AEB-Coulon_033.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306024/upto-700xauto/6ac5ee9b/sedaturk_memoire_3.jpeg"
+   ],
+   "excerpt": "Sağol – Teşekkürler – Mersi (“You're welcome – Thank you – Thanks”) is Seda Türk ’s master's thesis, published as an A5 book printed on natural and bright red paper. It follows the French words that entered Turkish after the 1923 alphabet reform, when the…"
+  },
   {
    "id": "80527",
    "title": "Semaine Design de Montréal 2026",
@@ -259,7 +586,7 @@
    "url": "https://fontsinuse.com/uses/80322/space-between-people",
    "date": "2026-10-26T08:40:09.000Z",
    "author": "Softdrive Foundry",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "250301",
@@ -1539,7 +1866,7 @@
      "id": "3483",
      "name": "Neue Helvetica",
      "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
-     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6ad9bc34/neue-helvetica.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6ae0680a/neue-helvetica.png"
     }
    ],
    "images": [
@@ -2412,7 +2739,7 @@
    "title": "Miniatures. Trésors cachés du disque pour enfants",
    "url": "https://fontsinuse.com/uses/80305/miniatures-tresors-caches-du-disque-pour-enfa",
    "date": "2026-10-19T08:27:35.000Z",
-   "author": "Extraset Type Foundry",
+   "author": "Extraset",
    "staffPick": true,
    "typefaces": [
     {
@@ -3943,7 +4270,7 @@
    "title": "Rewire Festival 2026",
    "url": "https://fontsinuse.com/uses/80086/rewire-festival-2026",
    "date": "2026-10-14T08:07:11.000Z",
-   "author": "Extraset Type Foundry",
+   "author": "Extraset",
    "staffPick": true,
    "typefaces": [
     {
