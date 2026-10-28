@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-27T14:23:22.200Z",
+ "updated": "2026-10-28T15:03:45.236Z",
  "day": {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "picks": [
-   "3483",
-   "236482",
-   "232874",
-   "81438",
-   "210409",
-   "245069",
-   "250301",
-   "39028",
-   "250302"
+   "249988",
+   "242594",
+   "183835",
+   "245702",
+   "210364",
+   "54012",
+   "230859",
+   "47810",
+   "237409"
   ]
  },
  "history": [
@@ -196,9 +196,348 @@
     "39028",
     "250302"
    ]
+  },
+  {
+   "date": "2026-10-28",
+   "picks": [
+    "249988",
+    "242594",
+    "183835",
+    "245702",
+    "210364",
+    "54012",
+    "230859",
+    "47810",
+    "237409"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80510",
+   "title": "Mehr als eine Realität – Queere Perspektiven in der Schausammlung",
+   "url": "https://fontsinuse.com/uses/80510/mehr-als-eine-realitaet-queere-perspektiven-i",
+   "date": "2026-10-28T09:56:51.000Z",
+   "author": "HAL Typefaces",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "183835",
+     "name": "Hal Timezone",
+     "url": "https://fontsinuse.com/typefaces/183835/hal-timezone",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9588/440/4/62068632/hal-timezone.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306086/upto-700xauto/6ac667a8/Maer_Insta_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306090/upto-700xauto/6ac6677c/Maer_Insta_9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306083/upto-700xauto/6ac6677d/Maer_Insta_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306089/upto-700xauto/6ac66780/Maer_Insta_8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306084/upto-700xauto/6ac66780/Maer_Insta_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306085/upto-700xauto/6ac66780/Maer_Insta_3.jpeg"
+   ],
+   "excerpt": "The Landesmuseum Württemberg (“Württemberg State Museum”) in the Altes Schloss Stuttgart invites visitors to discover cultural history from new perspectives. Mehr als eine Realität – Queere Perspektiven in der Schausammlung (“More Than One Reality – Queer…"
+  },
+  {
+   "id": "80583",
+   "title": "Middle Ages and the Renaissance",
+   "url": "https://fontsinuse.com/uses/80583/middle-ages-and-the-renaissance",
+   "date": "2026-10-28T09:51:01.000Z",
+   "author": "Bureau Brut",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "142610",
+     "name": "Boogy Brut Poster",
+     "url": "https://fontsinuse.com/typefaces/142610/boogy-brut-poster",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7322/440/4/5f90719f/boogy-brut-poster.png"
+    },
+    {
+     "id": "44421",
+     "name": "GT America",
+     "url": "https://fontsinuse.com/typefaces/44421/gt-america",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3096/440/4/5808b3eb/gt-america.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306149/upto-700xauto/6ae1c58c/Mittelalter_Scans1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306145/upto-700xauto/6ac78ed2/Mittelalter_Scans_12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306146/upto-700xauto/6ac78ed2/Mittelalter_Scans_16.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306150/upto-700xauto/6ac78f4d/Mittelalter_Scans_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306151/upto-700xauto/6ac78f6f/Mittelalter_Scans_6.jpeg"
+   ],
+   "excerpt": "What are the defining characteristics of Romanesque art? Were women artists active in the Middle Ages? And what hidden meanings lie behind a goldfinch in a late Gothic painting?"
+  },
+  {
+   "id": "80572",
+   "title": "plated Berlin vol. I and II",
+   "url": "https://fontsinuse.com/uses/80572/plated-berlin-vol-i-and-ii",
+   "date": "2026-10-28T09:27:36.000Z",
+   "author": "Andrei Robu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "210888",
+     "name": "Roast",
+     "url": "https://fontsinuse.com/typefaces/210888/roast",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11580/440/4/645374c3/roast.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306111/upto-700xauto/6ae1c180/What%20a%20night-%20Thank%20you%20to%20all%20who%20joined%20us%20last%20night%20to%20celebrate%20the%20launch%20of%20@platedberlin.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306109/upto-700xauto/6ac68928/PRE-SALE%20%E2%9C%BA%20plated%20Berlin%20%E2%9C%BA%20%20A%20food%20guide%20and%20cookbook%20featuring%2035%20restaurants%20that%20shape%20Berlin.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306113/upto-700xauto/6ae1bfb6/Plated.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308735/upto-700xauto/6ae1bf7b/download.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308734/upto-700xauto/6ae1bf7b/plated-berlin-vol-2-innenseiten-boii-boii_1800x1800.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308737/upto-700xauto/6ae1bf7b/plated-berlin-vol-2-karte-berlin_1800x1800.webp"
+   ],
+   "excerpt": "plated Berlin is a “contemporary food guide to Berlin’s finest eateries, featuring chef-selected recipes”. The book was compiled and designed by the initiators of the project, Judith Gilles and Savannah van der Niet ."
+  },
+  {
+   "id": "80552",
+   "title": "Untamed Assembly: Backstage of Utopia, the Latvian pavilion at Biennale di Venezia",
+   "url": "https://fontsinuse.com/uses/80552/untamed-assembly-backstage-of-utopia-the-latv",
+   "date": "2026-10-28T08:18:59.000Z",
+   "author": "JulyType",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247522",
+     "name": "JT Percy",
+     "url": "https://fontsinuse.com/typefaces/247522/jt-percy",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17670/440/4/698ded6d/jt-percy.png"
+    },
+    {
+     "id": "169887",
+     "name": "ABC Helveesti",
+     "url": "https://fontsinuse.com/typefaces/169887/abc-helveesti",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11735/440/4/6479e2b5/abc-helveesti.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305965/upto-700xauto/6ae1b007/In%20Use.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305966/upto-700xauto/6ac51e64/In%20Use3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305967/upto-700xauto/6ac51e64/In%20Use4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305968/upto-700xauto/6ac51e65/In%20Use5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305969/upto-700xauto/6ac51e65/In%20Use6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305970/upto-700xauto/6ac51e66/In%20Use7.jpeg"
+   ],
+   "excerpt": "JT Percy is used for the visual identity and magazine of the Latvian pavilion at Biennale di Venezia 2026, alongside ABC Helveesti ."
+  },
+  {
+   "id": "80561",
+   "title": "Revue des Livres et des Idées #1, 2026",
+   "url": "https://fontsinuse.com/uses/80561/revue-des-livres-et-des-idees-1-2026",
+   "date": "2026-10-28T08:08:09.000Z",
+   "author": "Formagari",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "186146",
+     "name": "Malamocco",
+     "url": "https://fontsinuse.com/typefaces/186146/malamocco",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9688/440/4/622b1fcb/malamocco.png"
+    },
+    {
+     "id": "152139",
+     "name": "Stix Two",
+     "url": "https://fontsinuse.com/typefaces/152139/stix-two",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7878/440/4/602dd622/stix-two.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306025/upto-700xauto/6ae1ad7b/paul-gacon-revue-des-livres-et-des-idees-numero-1-00-couverture.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306030/upto-700xauto/6ac6023d/paul-gacon-revue-des-livres-et-des-idees-numero-1-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306029/upto-700xauto/6ac6023d/paul-gacon-revue-des-livres-et-des-idees-numero-1-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306028/upto-700xauto/6ac6023d/paul-gacon-revue-des-livres-et-des-idees-numero-1-09.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306027/upto-700xauto/6ac6023d/paul-gacon-revue-des-livres-et-des-idees-numero-1-06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306026/upto-700xauto/6ac6023d/paul-gacon-revue-des-livres-et-des-idees-numero-1-00-quatrieme.jpeg"
+   ],
+   "excerpt": "Revue des Livres et des Idées is an independent French leftist periodical, offering critical and accessible articles, written by authors from various countries and cultures. Its first issue and overall visual identity are both designed by Paul Gacon .…"
+  },
+  {
+   "id": "80563",
+   "title": "Serenaden im Park 2026",
+   "url": "https://fontsinuse.com/uses/80563/serenaden-im-park-2026",
+   "date": "2026-10-28T08:03:24.000Z",
+   "author": "Extraset",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "166536",
+     "name": "Es Face",
+     "url": "https://fontsinuse.com/typefaces/166536/es-face",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8650/440/4/612f9246/es-face.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306038/upto-700xauto/6ad75945/748520003_18611918461037677_256808840679033022_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306032/upto-700xauto/6ad75945/bienvenue-studios_serenaden_F4Weltformat-poster_zurich-2026_v2-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306034/upto-700xauto/6ac60eeb/bienvenue-studios_serenaden_flyer_zurich-2026_v3-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306035/upto-700xauto/6ac60eeb/bienvenue-studios_serenaden_flyer_zurich-2026_v4-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306042/upto-700xauto/6ac60ef3/750148878_18611918425037677_989111737613367816_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306040/upto-700xauto/6ae1ac74/749302132_18611918479037677_2467456371915402558_n.jpeg"
+   ],
+   "excerpt": "We created the poster and key visual for the 2026 editions of Serenaden im Park (“Serenades in the Park”), a long-standing open-air concert series held in the park of Villa Schönberg at Museum Rietberg. Five Wednesday evening concerts and a Sunday morning…"
+  },
+  {
+   "id": "80578",
+   "title": "The 100th Anniversary of Mingei: The Beauty of Everyday Life Woven by Kyoto",
+   "url": "https://fontsinuse.com/uses/80578/the-100th-anniversary-of-mingei-the-beauty-of",
+   "date": "2026-10-28T07:32:00.000Z",
+   "author": "Typografische",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "234407",
+     "name": "FH Lecturis",
+     "url": "https://fontsinuse.com/typefaces/234407/fh-lecturis",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15022/440/4/67f6a2d0/fh-lecturis.png"
+    },
+    {
+     "id": "220131",
+     "name": "Harber",
+     "url": "https://fontsinuse.com/typefaces/220131/harber",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11868/440/4/6499cff4/harber.png"
+    },
+    {
+     "id": "121641",
+     "name": "Ishii Gothic",
+     "url": "https://fontsinuse.com/typefaces/121641/ishii-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13719/440/4/6699f65c/ishii-gothic.png"
+    },
+    {
+     "id": "38883",
+     "name": "Neue Haas Unica",
+     "url": "https://fontsinuse.com/typefaces/38883/neue-haas-unica",
+     "sample": "https://assets.fontsinuse.com/static/renders/44/38883/400/4/6ae1c13c/neue-haas-unica.png"
+    },
+    {
+     "id": "76",
+     "name": "Akzidenz-Grotesk",
+     "url": "https://fontsinuse.com/typefaces/76/akzidenz-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/894/440/4/570e2072/akzidenz-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306123/upto-700xauto/6ac7657a/2026_02_hane252-.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306124/upto-700xauto/6ac76539/2026_02_hane272.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306125/upto-700xauto/6ac7653a/2026_02_hane276.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306126/upto-700xauto/6ac7653c/2026_02_hane286.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306127/upto-700xauto/6ac76540/2026_02_hane288.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306128/upto-700xauto/6ac76541/2026_02_hane292.jpeg"
+   ],
+   "excerpt": "Exhibition catalog for The 100th Anniversary of Mingei: The Beauty of Everyday Life Woven by Kyoto , held at the Kyoto City KYOCERA Museum of Art. Edited by Madoka Nishi and designed by Hiroyuki Kishida, the book features FH Lecturis Rounded alongside…"
+  },
+  {
+   "id": "80571",
+   "title": "Tack-Tile",
+   "url": "https://fontsinuse.com/uses/80571/tack-tile",
+   "date": "2026-10-28T07:12:00.000Z",
+   "author": "Mitch Wiesen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235310",
+     "name": "Scatterplot",
+     "url": "https://fontsinuse.com/typefaces/235310/scatterplot",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13583/440/4/6681a8ef/scatterplot.png"
+    },
+    {
+     "id": "250571",
+     "name": "Red Hat Mono",
+     "url": "https://fontsinuse.com/typefaces/250571/red-hat-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19443/440/4/6ae1bb65/red-hat-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306105/upto-700xauto/6ac6690e/IMG_1040.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308732/upto-700xauto/6ae1b9a1/Screenshot%202026-10-28%20at%2009-59-03%20Tack-Tile.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308733/upto-700xauto/6ae1bc75/Screenshot%202026-10-28%20at%2009-58-40%20Tack-Tile.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308731/upto-700xauto/6ae1b9a6/Screenshot%202026-10-28%20at%2009-59-17%20Tack-Tile.png"
+   ],
+   "excerpt": "Tack-Tile is a digital archive dedicated to preserving the paper things people made, including packaging, posters, tickets, matchbooks, coasters, receipts, ads, catalogs, type specimens, sign painter manuals, calligraphy guides, magazines, encyclopedias,…"
+  },
+  {
+   "id": "80553",
+   "title": "Bilder Studio website",
+   "url": "https://fontsinuse.com/uses/80553/bilder-studio-website",
+   "date": "2026-10-28T07:00:00.000Z",
+   "author": "Naomi Bilder",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "93601",
+     "name": "Moret",
+     "url": "https://fontsinuse.com/typefaces/93601/moret",
+     "sample": "https://assets.fontsinuse.com/static/renders/105/93601/400/4/6ae1aac7/moret.png"
+    },
+    {
+     "id": "45671",
+     "name": "Halyard Display",
+     "url": "https://fontsinuse.com/typefaces/45671/halyard-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3407/440/4/59233e03/halyard-display.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305985/upto-700xauto/6ac52b52/01-homepage-hero.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305986/upto-700xauto/6ac52b53/02-homepage-services.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305987/upto-700xauto/6ac52b53/03-journal-article.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305988/upto-700xauto/6ac52b54/04-journal-article-body.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305989/upto-700xauto/6ac52b54/05-case-study-hydra.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305990/upto-700xauto/6ac52b55/06-journal-index.jpeg"
+   ],
+   "excerpt": "Bilder Studio is my AI creative studio, based in Manchester. I wanted the typography of the portfolio website to carry the same confidence as the imagery without competing with it."
+  },
+  {
+   "id": "80554",
+   "title": "Collusion Magazine",
+   "url": "https://fontsinuse.com/uses/80554/collusion-magazine",
+   "date": "2026-10-28T06:47:00.000Z",
+   "author": "Anastasiia Bushueva",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "27761",
+     "name": "Sexsmith",
+     "url": "https://fontsinuse.com/typefaces/27761/sexsmith",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19444/440/4/6ae1bb7a/sexsmith.png"
+    },
+    {
+     "id": "31989",
+     "name": "Bebas Neue",
+     "url": "https://fontsinuse.com/typefaces/31989/bebas-neue",
+     "sample": "https://assets.fontsinuse.com/static/renders/141/31989/400/4/6ae1b68d/bebas-neue.png"
+    },
+    {
+     "id": "233958",
+     "name": "Rene",
+     "url": "https://fontsinuse.com/typefaces/233958/rene",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13233/440/4/66210459/rene.png"
+    },
+    {
+     "id": "7884",
+     "name": "Suisse Int L",
+     "url": "https://fontsinuse.com/typefaces/7884/suisse-int-l",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1811/440/4/570e210f/suisse-int-l.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306001/upto-700xauto/6ae1b696/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306002/upto-700xauto/6ac54864/Frame%209.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306004/upto-700xauto/6ac54877/Frame%207.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306007/upto-700xauto/6ac5487f/Frame%206.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306008/upto-700xauto/6ac54869/Frame%208.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306009/upto-700xauto/6ac5486a/Frame%205.png"
+   ],
+   "excerpt": "Collusion Magazine is a bold editorial project created with the help of AI to question modern beauty standards. It was made as a personal project wile studying at the TH Nürnberg . Through surreal, fashion-inspired visuals and honest, critical writing,…"
+  },
   {
    "id": "78926",
    "title": "LongLake Festival",
@@ -385,7 +724,7 @@
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/306/305855/upto-700xauto/6ac42b98/photo-pages-travailler-avec-day-plus-NL_-_Format_Carre_2025_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305855/upto-700xauto/6ae0cd12/photo-pages-travailler-avec-day-plus-NL_-_Format_Carre_2025_5.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305853/upto-700xauto/6ae05f38/photo-produits-duo-serums-UVDropsSPF50_8.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305852/upto-700xauto/6ac42ba1/photo-produits-duo-serums-DuodeSerums2.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305850/upto-700xauto/6ac42ba1/photo-produits-poudre-collagene-vitamines-Poudre_Collagene_Vitamines_Silver1.jpeg",
@@ -440,10 +779,16 @@
      "sample": "https://assets.fontsinuse.com/static/renders/55/46459/400/4/6ae05c55/tt-norms.png"
     },
     {
-     "id": "3895",
-     "name": "Copperplate Gothic",
-     "url": "https://fontsinuse.com/typefaces/3895/copperplate-gothic",
-     "sample": "https://assets.fontsinuse.com/static/renders/4/3895/400/4/6ab61994/copperplate-gothic.png"
+     "id": "97210",
+     "name": "Copperplate New",
+     "url": "https://fontsinuse.com/typefaces/97210/copperplate-new",
+     "sample": "https://assets.fontsinuse.com/static/renders/108/97210/400/4/6ae1ceab/copperplate-new.png"
+    },
+    {
+     "id": "20",
+     "name": "Gotham",
+     "url": "https://fontsinuse.com/typefaces/20/gotham",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/713/440/4/570e2057/gotham.png"
     }
    ],
    "images": [
@@ -617,7 +962,7 @@
    "url": "https://fontsinuse.com/uses/80312/victory-edition-cider",
    "date": "2026-10-26T08:38:00.000Z",
    "author": "Blaze Type",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "230859",
