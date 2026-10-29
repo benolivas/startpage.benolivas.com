@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-28T15:03:45.236Z",
+ "updated": "2026-10-29T15:11:21.674Z",
  "day": {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "picks": [
-   "249988",
-   "242594",
-   "183835",
-   "245702",
-   "210364",
-   "54012",
-   "230859",
-   "47810",
-   "237409"
+   "234417",
+   "250442",
+   "237400",
+   "82627",
+   "83214",
+   "239916",
+   "38883",
+   "4027",
+   "166536"
   ]
  },
  "history": [
@@ -210,9 +210,309 @@
     "47810",
     "237409"
    ]
+  },
+  {
+   "date": "2026-10-29",
+   "picks": [
+    "234417",
+    "250442",
+    "237400",
+    "82627",
+    "83214",
+    "239916",
+    "38883",
+    "4027",
+    "166536"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80635",
+   "title": "The Veldt Institute by Samuel M. Moss",
+   "url": "https://fontsinuse.com/uses/80635/the-veldt-institute-by-samuel-m-moss",
+   "date": "2026-10-29T09:47:11.000Z",
+   "author": "Nick Greer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7335",
+     "name": "Umbra",
+     "url": "https://fontsinuse.com/typefaces/7335/umbra-ludlow",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/7335/400/4/6ae31620/umbra-ludlow.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6ae31620/futura.png"
+    },
+    {
+     "id": "3424",
+     "name": "Eurostile",
+     "url": "https://fontsinuse.com/typefaces/3424/eurostile",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3424/400/4/6ae31620/eurostile.png"
+    },
+    {
+     "id": "1847",
+     "name": "Microgramma",
+     "url": "https://fontsinuse.com/typefaces/1847/microgramma",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1847/400/4/6ae31620/microgramma.png"
+    },
+    {
+     "id": "31513",
+     "name": "Bembo Book",
+     "url": "https://fontsinuse.com/typefaces/31513/bembo-book",
+     "sample": "https://assets.fontsinuse.com/static/renders/35/31513/400/4/6ae31620/bembo-book.png"
+    },
+    {
+     "id": "3359",
+     "name": "Optima",
+     "url": "https://fontsinuse.com/typefaces/3359/optima",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3359/400/4/6ad7a45d/optima.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306399/upto-700xauto/6ae31526/cover_tvi_spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306400/upto-700xauto/6ae31bc8/endpapers_tvi_spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306401/upto-700xauto/6ae31bb1/within-the-plinth_spread.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308933/upto-700xauto/6ae315f4/1756856795-900.jpeg"
+   ],
+   "excerpt": "The Veldt Institute by Samuel M. Moss , published by Double Negative , is a sanatorium novel in the tradition of Thomas Mann’s The Magic Mountain and Olga Tokarczuk’s The Empusium , updated for a new age of sound and movement therapies and with the…"
+  },
+  {
+   "id": "80625",
+   "title": "Déborder Bolloré",
+   "url": "https://fontsinuse.com/uses/80625/deborder-bollore",
+   "date": "2026-10-29T08:39:39.000Z",
+   "author": "Alaric Garnier",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "234417",
+     "name": "Exécutif Moderne",
+     "url": "https://fontsinuse.com/typefaces/234417/executif-moderne",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13372/440/4/66432264/executif-moderne.png"
+    },
+    {
+     "id": "250442",
+     "name": "Aalter",
+     "url": "https://fontsinuse.com/typefaces/250442/aalter",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19347/440/4/6ac91a67/aalter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306358/upto-700xauto/6ae304a5/deborderbollore_00-1600x1600-q90.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306359/upto-700xauto/6ae304a2/deborderbollore_06-1600x1600-q90.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306370/upto-700xauto/6ae3049f/deborderbollore_18-1600x1600-q90.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306371/upto-700xauto/6ae3049d/deborderbollore_18_scan-1600x1600-q90.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306363/upto-700xauto/6ae3049a/deborderbollore_26-1600x1600-q90.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306364/upto-700xauto/6ae30498/deborderbollore_26_scan-1600x1600-q90.jpeg"
+   ],
+   "excerpt": "Déborder Bolloré, faire face au libéralisme autoritaire dans le monde du livre (“Overtaking Bolloré, Fighting Authoritarian Liberalism in the publishing industry”) is a book co-published in 2025 by 128 independent publishing houses from France, Belgium,…"
+  },
+  {
+   "id": "79277",
+   "title": "Maison Myrthus",
+   "url": "https://fontsinuse.com/uses/79277/maison-myrthus",
+   "date": "2026-10-29T08:30:26.000Z",
+   "author": "Faire Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217612",
+     "name": "Octave Faire Type",
+     "url": "https://fontsinuse.com/typefaces/217612/octave-faire-type",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11130/440/4/63dfddc0/octave-faire-type.png"
+    },
+    {
+     "id": "127861",
+     "name": "DM Sans",
+     "url": "https://fontsinuse.com/typefaces/127861/dm-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6660/440/4/5ebe8fef/dm-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/300/299705/upto-700xauto/6ac8f908/A%20brand%20is%20never%20built%20through%20a%20single%20idea-It%20grows%20through%20a%20collection%20of%20gestures,%20material.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299680/upto-700xauto/6ac8f2c3/656155572_17940944445191314_361115810136630465_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299701/upto-700xauto/6ac8f2c3/A%20brand%20is%20never%20built%20through%20a%20single%20idea-It%20grows%20through%20a%20collection%20of%20gestures,%20material%20%287%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299702/upto-700xauto/6ae30431/A%20brand%20is%20never%20built%20through%20a%20single%20idea-It%20grows%20through%20a%20collection%20of%20gestures,%20material%20%288%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299703/upto-700xauto/6ac8f9a4/A%20brand%20is%20never%20built%20through%20a%20single%20idea-It%20grows%20through%20a%20collection%20of%20gestures,%20material%20%289%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306314/upto-700xauto/6ac8f82b/IMG_50912.jpeg"
+   ],
+   "excerpt": "Maison Myrthus is dedicated to the art of gifting. Each object is carefully curated and exclusively produced in Switzerland, with a strong focus on sourcing, quality, and artisanal craftsmanship. The visual identity was developed by Amertume Studio around…"
+  },
+  {
+   "id": "80612",
+   "title": "It Began in Ipanema by Daniel Haaksman",
+   "url": "https://fontsinuse.com/uses/80612/it-began-in-ipanema-by-daniel-haaksman",
+   "date": "2026-10-29T08:16:52.000Z",
+   "author": "Sale Character",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248396",
+     "name": "Sc Ripley",
+     "url": "https://fontsinuse.com/typefaces/248396/sc-ripley",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18211/440/4/69fe04fd/sc-ripley.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306275/upto-700xauto/6ae330a9/ItBeganInIpenama-Fontinuse-02.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306276/upto-700xauto/6ae330aa/ItBeganInIpenama-Fontinuse-03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306277/upto-700xauto/6ae330aa/ItBeganInIpenama-Fontinuse-04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306287/upto-700xauto/6ae330b2/ItBeganInIpenama-Fontinuse-05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306278/upto-700xauto/6ae330b2/ItBeganInIpenama-Fontinuse-05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306279/upto-700xauto/6ae330b2/ItBeganInIpenama-Fontinuse-06.png"
+   ],
+   "excerpt": "The music from Rio de Janeiro has been travelling the world since decades. For Non-Brazilians, everything seemed to begin in Ipanema: a guitar chord, a soft melody, a girl walking by. Enough to transform a city into a myth. However, samba rose from the…"
+  },
+  {
+   "id": "80611",
+   "title": "Irish Wildlife Trust",
+   "url": "https://fontsinuse.com/uses/80611/irish-wildlife-trust",
+   "date": "2026-10-29T08:02:34.000Z",
+   "author": "Brian Byrne",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "124062",
+     "name": "Degular",
+     "url": "https://fontsinuse.com/typefaces/124062/degular",
+     "sample": "https://assets.fontsinuse.com/static/renders/74/124062/400/4/6ae2fd9b/degular.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306267/upto-700xauto/6ae3305d/IWT_insta_awards_1.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306269/upto-700xauto/6ac8c31f/IWT_insta_awards_4-1.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306271/upto-700xauto/6ac8c3ab/IWT_insta_awards_Artboard%202.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306270/upto-700xauto/6ac8c2ee/IWT_insta_awards_Artboard%201.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306273/upto-700xauto/6ac8c405/IWT_guide_spreads.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306272/upto-700xauto/6ac8c405/IWT_cover.webp"
+   ],
+   "excerpt": "The Irish Wildlife Trust (IWT) has been protecting and advocating for nature in Ireland since its founding in 1979. A small dedicated team and a network of volunteers engage members at local and national levels to run events and practical conservation…"
+  },
+  {
+   "id": "80604",
+   "title": "Ludwig Forum Aachen program 2026",
+   "url": "https://fontsinuse.com/uses/80604/ludwig-forum-aachen-program-2026",
+   "date": "2026-10-29T07:47:41.000Z",
+   "author": "Studio Böreck",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "94263",
+     "name": "Routed Gothic",
+     "url": "https://fontsinuse.com/typefaces/94263/routed-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5420/440/4/5c675ec0/routed-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306235/upto-700xauto/6ae2fa45/SB-Website-Inhalte-LuFo-Jahresprogramm-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306232/upto-700xauto/6ac892d9/SB-Website-Inhalte-LuFo-Jahresprogramm-1C.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306236/upto-700xauto/6ac893dd/SB-Website-Inhalte-LuFo-Jahresprogramm-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306231/upto-700xauto/6ac893dd/SB-Website-Inhalte-LuFo-Jahresprogramm-.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306234/upto-700xauto/6ac892dc/SB-Website-Inhalte-LuFo-Jahresprogramm-3.jpeg"
+   ],
+   "excerpt": "The Ludwig Forum Aachen is a museum dedicated to contemporary art, bringing together international artistic perspectives and a diverse programme of exhibitions, performances and events."
+  },
+  {
+   "id": "80118",
+   "title": "Dyaspora Diáspora",
+   "url": "https://fontsinuse.com/uses/80118/dyaspora-diaspora",
+   "date": "2026-10-29T07:43:52.000Z",
+   "author": "Sarah Schroeder",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248188",
+     "name": "Bárur",
+     "url": "https://fontsinuse.com/typefaces/248188/barur",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18085/440/4/69ea0b3e/barur.png"
+    },
+    {
+     "id": "245733",
+     "name": "Serrif",
+     "url": "https://fontsinuse.com/typefaces/245733/serrif",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16853/440/4/69121f6c/serrif.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303766/upto-700xauto/6ae2fe8f/Barur-Font-in-Use_Mindt-Studio_Dyaspora-Diaspora_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303769/upto-700xauto/6aaa4ffd/Barur-Font-in-Use_Mindt-Studio_Dyaspora-Diaspora_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303768/upto-700xauto/6aaa5002/Barur-Font-in-Use_Mindt-Studio_Dyaspora-Diaspora_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303767/upto-700xauto/6aaa5002/Barur-Font-in-Use_Mindt-Studio_Dyaspora-Diaspora_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303770/upto-700xauto/6aaa4fc2/Barur-Font-in-Use_Mindt-Studio_Dyaspora-Diaspora_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303772/upto-700xauto/6aaa5043/pNBRJ7Xmwf3bgHmB0MXwHEgwNg.jpeg"
+   ],
+   "excerpt": "Dyaspora Diáspora is a publication by graphic designer and artist Darline Sophie , exploring her Argentine and Haitian diasporic experience in Montreal. The project was developed as part of the Design Production course at the École de design de l’UQAM…"
+  },
+  {
+   "id": "80633",
+   "title": "Gathering softly by Anna-Lena Oehm",
+   "url": "https://fontsinuse.com/uses/80633/gathering-softly-by-anna-lena-oehm",
+   "date": "2026-10-29T06:55:00.000Z",
+   "author": "Virgile Flores",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "209847",
+     "name": "DaVinci",
+     "url": "https://fontsinuse.com/typefaces/209847/davinci",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10504/440/4/6617d736/davinci.png"
+    },
+    {
+     "id": "231415",
+     "name": "OCR-X",
+     "url": "https://fontsinuse.com/typefaces/231415/ocr-x",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12498/440/4/653a5b9f/ocr-x.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306392/upto-700xauto/6ac951c5/Screenshot%202026-10-09%20at%204-38-07%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306393/upto-700xauto/6ac951ab/Screenshot%202026-10-09%20at%204-39-51%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306394/upto-700xauto/6ac951ac/Screenshot%202026-10-09%20at%204-38-44%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306395/upto-700xauto/6ac951ae/Screenshot%202026-10-09%20at%204-37-52%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306396/upto-700xauto/6ac951b0/Screenshot%202026-10-09%20at%204-37-42%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306397/upto-700xauto/6ac951b1/Screenshot%202026-10-09%20at%204-37-34%E2%80%AFPM.png"
+   ],
+   "excerpt": "Gathering softly is a hybrid publication by Anna-Lena Oehm , exploring online collections and ways to preserve them. Developed as a BA project at Hochschule Mainz under the supervision of Alexander Roidl, it combines a website with a printed catalog…"
+  },
+  {
+   "id": "80631",
+   "title": "Kröner & Starke website and visual identity",
+   "url": "https://fontsinuse.com/uses/80631/kroener-and-starke-website-and-visual-identit",
+   "date": "2026-10-29T05:26:00.000Z",
+   "author": "Per Starke",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "45804",
+     "name": "Cormorant",
+     "url": "https://fontsinuse.com/typefaces/45804/cormorant",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3440/440/4/6310a5d3/cormorant.png"
+    },
+    {
+     "id": "126975",
+     "name": "Manrope",
+     "url": "https://fontsinuse.com/typefaces/126975/manrope",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7041/440/4/5f38054e/manrope.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306381/upto-700xauto/6ac93b01/ks-fonts-web-hero.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306382/upto-700xauto/6ae2f4d2/ks-fonts-web-type.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308912/upto-700xauto/6ae2f4db/Screenshot%202026-10-29%20at%2008-23-50%20Webdesign%20Branding%20%26%20SEO%20Kro%CC%88ner%20%26%20Starke.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308911/upto-700xauto/6ae2f4db/Screenshot%202026-10-29%20at%2008-24-29%20Projekte%20in%20Webdesign%20Branding%20%26%20SEO%20Kro%CC%88ner%20%26%20Starke.png"
+   ],
+   "excerpt": "The Swiss-German agency Kröner & Starke pairs combines web design, branding and SEO. Our portfolio website combines the Garamond style of Cormorant for its wordmark and display headings with Manrope for navigation, body text and interface elements."
+  },
   {
    "id": "80510",
    "title": "Mehr als eine Realität – Queere Perspektiven in der Schausammlung",
@@ -301,8 +601,8 @@
   },
   {
    "id": "80552",
-   "title": "Untamed Assembly: Backstage of Utopia, the Latvian pavilion at Biennale di Venezia",
-   "url": "https://fontsinuse.com/uses/80552/untamed-assembly-backstage-of-utopia-the-latv",
+   "title": "Untamed Assembly: Backstage of Utopia, Latvian pavilion at Biennale di Venezia",
+   "url": "https://fontsinuse.com/uses/80552/untamed-assembly-backstage-of-utopia-latvian-",
    "date": "2026-10-28T08:18:59.000Z",
    "author": "JulyType",
    "staffPick": false,
@@ -332,8 +632,8 @@
   },
   {
    "id": "80561",
-   "title": "Revue des Livres et des Idées #1, 2026",
-   "url": "https://fontsinuse.com/uses/80561/revue-des-livres-et-des-idees-1-2026",
+   "title": "Revue des Livres et des Idées #1",
+   "url": "https://fontsinuse.com/uses/80561/revue-des-livres-et-des-idees-1",
    "date": "2026-10-28T08:08:09.000Z",
    "author": "Formagari",
    "staffPick": false,
@@ -384,7 +684,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/307/306042/upto-700xauto/6ac60ef3/750148878_18611918425037677_989111737613367816_n.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/307/306040/upto-700xauto/6ae1ac74/749302132_18611918479037677_2467456371915402558_n.jpeg"
    ],
-   "excerpt": "We created the poster and key visual for the 2026 editions of Serenaden im Park (“Serenades in the Park”), a long-standing open-air concert series held in the park of Villa Schönberg at Museum Rietberg. Five Wednesday evening concerts and a Sunday morning…"
+   "excerpt": "Bienvenue Studios created the poster and key visual for the 2026 editions of Serenaden im Park (“Serenades in the Park”), a long-standing open-air concert series held in the park of Villa Schönberg at Museum Rietberg. Five Wednesday evening concerts and a…"
   },
   {
    "id": "80578",
