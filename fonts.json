@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-29T15:11:21.674Z",
+ "updated": "2026-10-30T15:00:22.213Z",
  "day": {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "picks": [
-   "234417",
-   "250442",
-   "237400",
-   "82627",
-   "83214",
-   "239916",
-   "38883",
-   "4027",
-   "166536"
+   "247697",
+   "94263",
+   "42363",
+   "248120",
+   "41793",
+   "248",
+   "219881",
+   "160549",
+   "4776"
   ]
  },
  "history": [
@@ -224,9 +224,298 @@
     "4027",
     "166536"
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "picks": [
+    "247697",
+    "94263",
+    "42363",
+    "248120",
+    "41793",
+    "248",
+    "219881",
+    "160549",
+    "4776"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80657",
+   "title": "Passions Collections at MusBA",
+   "url": "https://fontsinuse.com/uses/80657/passions-collections-at-musba",
+   "date": "2026-10-30T08:49:28.000Z",
+   "author": "Michele Galluzzo",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "247697",
+     "name": "Dote",
+     "url": "https://fontsinuse.com/typefaces/247697/dote",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17772/440/4/69a1804a/dote.png"
+    },
+    {
+     "id": "7884",
+     "name": "Suisse Int’l",
+     "url": "https://fontsinuse.com/typefaces/7884/suisse-int-l",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1811/440/4/570e210f/suisse-int-l.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306492/upto-700xauto/6ae45a39/passionscollections_2000px-6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306493/upto-700xauto/6accd863/passionscollections_2000px-15.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306495/upto-700xauto/6accd861/passionscollections_2000px-5-1152x1536.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306494/upto-700xauto/6accd85f/passionscollections_2000px-23-1152x1536.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306491/upto-700xauto/6accd85f/passionscollections_2000px-2-1152x1536.jpeg"
+   ],
+   "excerpt": "By showcasing ten years of acquisitions, the exhibition Passions Collections: 10 Years of Acquisitions (2015–2025) affirms the essential role of the Musée des Beaux-Arts de Bordeaux (MusBA) : that of a living space, regularly enriched with works from…"
+  },
+  {
+   "id": "71562",
+   "title": "MB&F SP One",
+   "url": "https://fontsinuse.com/uses/71562/mband-f-sp-one",
+   "date": "2026-10-30T08:31:46.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229522",
+     "name": "Al Radiolar",
+     "url": "https://fontsinuse.com/typefaces/229522/al-radiolar",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12041/440/4/64c9f240/al-radiolar.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/266/265871/upto-700xauto/6acee165/high_res_MBandF_SP_One_Platinum_Lifestyle_Closeup_Hres.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/266/265881/upto-700xauto/6a5acb4a/csm_MBandF_SP_One_Caliber_Duo_Lres_58c4e1e4ca.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/266/265872/upto-700xauto/6a5acb4a/499525217_18506036845039234_4653331508900161290_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/266/265919/upto-700xauto/6a5acb4a/00-mbf-sp-one-businessmontres-jacques-pons-5.jpeg"
+   ],
+   "excerpt": "On 20 May 2025, the Swiss independent haute horlogerie manufacturer MB&F introduced the SP One as the inaugural model in its new Special Projects collection. Produced in very limited numbers, the watch sits between the sculptural, experimental Horological…"
+  },
+  {
+   "id": "81138",
+   "title": "Ballon d’Or 2026",
+   "url": "https://fontsinuse.com/uses/81138/ballon-d-or-2026",
+   "date": "2026-10-30T08:30:07.000Z",
+   "author": "Alexandre Créquer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "241217",
+     "name": "Large",
+     "url": "https://fontsinuse.com/typefaces/241217/large-alexandre-crequer",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14566/440/4/677cfae4/large-alexandre-crequer.png"
+    },
+    {
+     "id": "38894",
+     "name": "Cera",
+     "url": "https://fontsinuse.com/typefaces/38894/cera",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11593/440/4/64589b11/cera.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308697/upto-700xauto/6ae0ddf5/instasave-website_706868535_18320092903279713_5643778402824270592_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308703/upto-700xauto/6ae0ddf9/instasave-website_869688680_18342871240279713_3884831354901289954_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308704/upto-700xauto/6ae0ddf9/instasave-website_AQMPu_0H8SbDtSzytzs9spfHwhZ8sl-YCsUFHvw4oNT3q0xFSOsrQQF6Pybal7ss0z1Aj4VufhG0YPwGl3P48RjVDORqMBg827NAsHU.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308705/upto-700xauto/6ae0ddf8/instasave-website_AQNL0zGCqYdJgp7kgvpSc4pwyzpnyV7KZJf-Egpv1YMwb0LC07bKagUvJPfEETZY58kVVnHKSREOKXC0cErzVtRAtv10aBwyd3ejUc0.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308699/upto-700xauto/6ae0ddf8/instasave-website_869454075_18342871186279713_761246324004910646_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308706/upto-700xauto/6ae0ddf6/instasave-website_AQNQTBRkVs8J2fNZrvmX-eOBk7zGaNTnPX6ufUEIRWV-89icDglErXfdrW1R0yVOsDba1b0kbLmkT2VAVroH0iBfMbbG9tKeGdEg6qM.mp4"
+   ],
+   "excerpt": "Art direction for the 70th edition of the Ballon d’Or ceremony, which took place on October 26th in London. For nearly seven decades, the Ballon d’Or has stood as the ultimate individual accolade in the world of football. Established in 1956, it honors the…"
+  },
+  {
+   "id": "80674",
+   "title": "PORTER magazine",
+   "url": "https://fontsinuse.com/uses/80674/porter-magazine",
+   "date": "2026-10-30T08:30:00.000Z",
+   "author": "Gerard Sierra",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "231734",
+     "name": "Gs Triomf",
+     "url": "https://fontsinuse.com/typefaces/231734/gs-triomf",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12592/440/4/6555e82e/gs-triomf.png"
+    },
+    {
+     "id": "244",
+     "name": "Century Schoolbook",
+     "url": "https://fontsinuse.com/typefaces/244/century-schoolbook",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/244/400/4/6ae45a87/century-schoolbook.png"
+    },
+    {
+     "id": "45667",
+     "name": "Century Schoolbook Monospace",
+     "url": "https://fontsinuse.com/typefaces/45667/century-schoolbook-monospace",
+     "sample": "https://assets.fontsinuse.com/static/renders/55/45667/400/4/6ae45a87/century-schoolbook-monospace.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306545/upto-700xauto/6ace0a30/w1900_q65.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306563/upto-700xauto/6ace219b/Cindy-Crawford-by-Yulia-Gorbachenko-Porter-Magazine-September-2026-3.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306566/upto-700xauto/6ace219b/Scherm%C2%ADafbeelding%202026-10-13%20om%2011-43-33.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306571/upto-700xauto/6ace02e2/Scherm%C2%ADafbeelding%202026-10-13%20om%2012-03-11.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306572/upto-700xauto/6ace02e2/Scherm%C2%ADafbeelding%202026-10-13%20om%2012-03-48.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306573/upto-700xauto/6ace02e2/Scherm%C2%ADafbeelding%202026-10-13%20om%2012-04-27.png"
+   ],
+   "excerpt": "New logo and cover for PORTER magazine by fashion platform Net-A-Porter . Designed in-house using Triomf by GS-Type, with Century Schoolbook for the tagline, the new identity pairs the logotype with a simplified emblem built around Triomf’s distinctive…"
+  },
+  {
+   "id": "79531",
+   "title": "Stanley Whitney: How High the Moon exhibition catalog",
+   "url": "https://fontsinuse.com/uses/79531/stanley-whitney-how-high-the-moon-exhibition-",
+   "date": "2026-10-30T08:28:00.000Z",
+   "author": "Aubrey Hays, Frere-Jones Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "40592",
+     "name": "Mallory",
+     "url": "https://fontsinuse.com/typefaces/40592/mallory",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2103/440/4/570e2141/mallory.png"
+    },
+    {
+     "id": "112742",
+     "name": "Victor Serif",
+     "url": "https://fontsinuse.com/typefaces/112742/victor-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6092/440/4/6063eccb/victor-serif.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/301/300976/upto-700xauto/6a8315ed/How%20High%20the%20Moon_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300977/upto-700xauto/6a8315ed/How%20High%20the%20Moon_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300978/upto-700xauto/6a8315ee/How%20High%20the%20Moon_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300979/upto-700xauto/6a8315ef/How%20High%20the%20Moon_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300980/upto-700xauto/6a8315f0/How%20High%20the%20Moon_05.jpeg"
+   ],
+   "excerpt": "Stanley Whitney: How High the Moon, published by the Buffalo AKG Art Museum and DelMonico Books , w as edited by Cathleen Chaffee and designed by Miko McGinty using Mallory from Frere-Jones Type and Victor Serif from Kometa Typefaces . This is the artist’s…"
+  },
+  {
+   "id": "80651",
+   "title": "NeuHarz by Christian Hille and Lars Wiedemann",
+   "url": "https://fontsinuse.com/uses/80651/neuharz-by-christian-hille-and-lars-wiedemann",
+   "date": "2026-10-30T08:23:16.000Z",
+   "author": "Ivo Gabrowitsch",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217263",
+     "name": "Neue Din",
+     "url": "https://fontsinuse.com/typefaces/217263/neue-din",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11037/440/4/63bd4d66/neue-din.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306449/upto-700xauto/6ae37e1f/Neuharz-Buch_Neue-DIN-Font-In-Use_01_Cover-3D-1546x1800.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306450/upto-700xauto/6acc957d/Neuharz-Buch_Neue-DIN-Font-In-Use_02_Ruecken.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306451/upto-700xauto/6acc9280/Neuharz-Buch_Neue-DIN-Font-In-Use_03_U4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306452/upto-700xauto/6acc9587/Neuharz-Buch_Neue-DIN-Font-In-Use_04_Headline.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306453/upto-700xauto/6acc9285/Neuharz-Buch_Neue-DIN-Font-In-Use_05_inside.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306454/upto-700xauto/6acc9287/Neuharz-Buch_Neue-DIN-Font-In-Use_06_insidex.jpeg"
+   ],
+   "excerpt": "In the Harz Mountains, in the heart of Germany, an entire region is reinventing itself. The book NeuHarz uses stunning photographs and compelling prose to show how people and businesses are driving their transformation forward."
+  },
+  {
+   "id": "80655",
+   "title": "Pinko magazine and website",
+   "url": "https://fontsinuse.com/uses/80655/pinko-magazine-and-website",
+   "date": "2026-10-30T08:20:57.000Z",
+   "author": "TypeTogether",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32031",
+     "name": "Alverata",
+     "url": "https://fontsinuse.com/typefaces/32031/alverata",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/32031/400/4/6ae4536a/alverata.png"
+    },
+    {
+     "id": "2498",
+     "name": "FF Meta",
+     "url": "https://fontsinuse.com/typefaces/2498/ff-meta",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/2498/400/4/6ae4536a/ff-meta.png"
+    },
+    {
+     "id": "1160",
+     "name": "Univers",
+     "url": "https://fontsinuse.com/typefaces/1160/univers",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1160/400/4/6ae4536a/univers.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306485/upto-700xauto/6ae45174/2025_Alverata-Pinko_1jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309007/upto-700xauto/6ae45389/Scherm%C2%ADafbeelding%202026-10-30%20om%2009-11-23.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309006/upto-700xauto/6ae451b9/Scherm%C2%ADafbeelding%202026-10-30%20om%2009-11-59.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306486/upto-700xauto/6ae4526c/2025_Alverata-Pinko_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/309000/upto-700xauto/6ae453a4/Pinko_03_Front_Cover_122523-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309001/upto-700xauto/6ae45d58/Gold-1-1_EMP-edit_260125-1.jpeg"
+   ],
+   "excerpt": "Pinko is a collective for thinking gay communism together. We publish print issues, books, zines, and host essays, translations and archival material on our website."
+  },
+  {
+   "id": "79812",
+   "title": "Uroki Las-Vegasa. Zabytyy simvolizm arkhitekturnoy formy",
+   "url": "https://fontsinuse.com/uses/79812/uroki-las-vegasa-zabytyy-simvolizm-arkhitektu",
+   "date": "2026-10-30T07:40:46.000Z",
+   "author": "Katya Yumasheva",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "5117",
+     "name": "Times New Roman",
+     "url": "https://fontsinuse.com/typefaces/5117/times-new-roman",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/5117/400/4/6ae449ff/times-new-roman.png"
+    },
+    {
+     "id": "45",
+     "name": "Gill Sans",
+     "url": "https://fontsinuse.com/typefaces/45/gill-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/45/400/4/6ae449ff/gill-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302325/upto-700xauto/6a97e4af/1_89a953232580081-689ef292ea7e4-2%20copy.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302312/upto-700xauto/6a97e4b3/88ae02232580081-689ef292e9b94.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302313/upto-700xauto/6a97e4b3/fe4da3232580081-689ef292ea0b3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302314/upto-700xauto/6a97e4b3/84e0de232580081-689ef292e886e-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302321/upto-700xauto/6a97e4b3/84fd2a232580081-689ef2911d0e0-jpg.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302322/upto-700xauto/6a97e4b3/583e38232580081-689ef2911d9b2-jpg.webp"
+   ],
+   "excerpt": "Уроки Лас-Вегаса. Забытый символизм архитектурной формы is a Russian edition of Learning From Las Vegas: The Forgotten Symbolism of Architectural Form by Robert Venturi , Denise Scott Brown , and Steven Izenour , first published in 1972 and revised in 1977…"
+  },
+  {
+   "id": "80646",
+   "title": "Corby Wenzelbach website",
+   "url": "https://fontsinuse.com/uses/80646/corby-wenzelbach-website",
+   "date": "2026-10-30T07:37:40.000Z",
+   "author": "Corby Wenzelbach",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "238110",
+     "name": "Satoshi",
+     "url": "https://fontsinuse.com/typefaces/238110/satoshi",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14128/440/4/6709316a/satoshi.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306437/upto-700xauto/6ae37dc3/1-home.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306438/upto-700xauto/6ae37dc6/2-case-study-codequickie.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306439/upto-700xauto/6ae37dc8/3-portfolio.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306440/upto-700xauto/6ae37dca/4-location-belleville.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306441/upto-700xauto/6ae37dcd/5-phone-home.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306442/upto-700xauto/6ae37dd3/6-phone-menu.jpeg"
+   ],
+   "excerpt": "I used Satoshi for everything on my portfolio website . The headings are set in the 900 weight with tight letter spacing, big and black on a bright yellow background (#FFD23F). It’s a heavy weight that still looks clean at really large sizes, which is what…"
+  },
   {
    "id": "80635",
    "title": "The Veldt Institute by Samuel M. Moss",
