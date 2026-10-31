@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-30T15:00:22.213Z",
+ "updated": "2026-10-31T14:29:17.224Z",
  "day": {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "picks": [
-   "247697",
-   "94263",
-   "42363",
-   "248120",
-   "41793",
-   "248",
-   "219881",
-   "160549",
-   "4776"
+   "47973",
+   "12",
+   "243123",
+   "4325",
+   "162439",
+   "168478",
+   "170116",
+   "32901",
+   "45667"
   ]
  },
  "history": [
@@ -238,9 +238,378 @@
     "160549",
     "4776"
    ]
+  },
+  {
+   "date": "2026-10-31",
+   "picks": [
+    "47973",
+    "12",
+    "243123",
+    "4325",
+    "162439",
+    "168478",
+    "170116",
+    "32901",
+    "45667"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80569",
+   "title": "Halloween 2026 at The Cause",
+   "url": "https://fontsinuse.com/uses/80569/halloween-2026-at-the-cause",
+   "date": "2026-10-31T15:11:00.000Z",
+   "author": "Inès Davodeau",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248734",
+     "name": "OVR Demorny",
+     "url": "https://fontsinuse.com/typefaces/248734/ovr-demorny",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18387/440/4/6a4e65fd/ovr-demorny.png"
+    },
+    {
+     "id": "6407",
+     "name": "Archetype",
+     "url": "https://fontsinuse.com/typefaces/6407/archetype",
+     "sample": "https://assets.fontsinuse.com/static/renders/7/6407/400/4/6ae5db01/archetype.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306055/upto-700xauto/6ac62233/This%20year%20more%20is%20more-It%E2%80%99s%20a%20whole%20spread%20of%20noise-%20A%20playground%20for%20the%20weird%20and%20wonderful-Mo.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306054/upto-700xauto/6ac6222c/The%20doors%20are%20opening%20a%20little%20further-Phase%202%20of%20The%20Cause%20Halloween%202026%20is%20here,%20and%20the%20room.jpeg"
+   ],
+   "excerpt": "OVR Demorny and Archetype (Regular and Italic) in use by The Cause , a London-based nightclub, for the promotion of their Halloween festival. The Lombardic capital M used in “Many More” is from an unidentified source."
+  },
+  {
+   "id": "65271",
+   "title": "Ghosts by Aidan & Nancy Chambers",
+   "url": "https://fontsinuse.com/uses/65271/ghosts-by-aidan-and-nancy-chambers",
+   "date": "2026-10-31T12:33:08.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "44146",
+     "name": "Smoke",
+     "url": "https://fontsinuse.com/typefaces/44146/smoke",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3662/440/4/594a4378/smoke.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309080/upto-700xauto/6ae5dda1/Ghosts.jpeg"
+   ],
+   "excerpt": "Ghosts by Aidan & Nancy Chambers was published by Macmillan as a Topliner book in 1969. The paperback cover is another example of the left-leaning, bottom-heavy Smoke being chosen for its spooky qualities, see also Ghastly Ghost Affair and The Incredible…"
+  },
+  {
+   "id": "80602",
+   "title": "Drachen. Mythos und Wirklichkeit exhibition, Hessisches Landesmuseum Darmstadt",
+   "url": "https://fontsinuse.com/uses/80602/drachen-mythos-und-wirklichkeit-exhibition-he",
+   "date": "2026-10-31T11:50:37.000Z",
+   "author": "Studio Böreck",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "47973",
+     "name": "Anton",
+     "url": "https://fontsinuse.com/typefaces/47973/anton",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4029/440/4/59f8e3cc/anton.png"
+    },
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6ae5d60e/neue-haas-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306221/upto-700xauto/6ac88e6e/SB-Website-Inhalte-HLD-Drachen.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306224/upto-700xauto/6ac88fc5/SB-Website-Inhalte-HLD-Drachen3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306223/upto-700xauto/6ae5d634/SB-Website-Inhalte-HLD-Drachen2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306222/upto-700xauto/6ac88fca/SB-Website-Inhalte-HLD-Drachen.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306225/upto-700xauto/6ac88e73/SB-Website-Inhalte-HLD-Drachen5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306228/upto-700xauto/6ac890e8/SB-Website-Inhalte-HLD-Drachen8.jpeg"
+   ],
+   "excerpt": "For thousands of years, dragons have captured the human imagination. From ancient mythology and East Asian traditions to contemporary fantasy, these fascinating creatures have taken on countless forms and meanings across cultures."
+  },
+  {
+   "id": "80922",
+   "title": "Taylor Bryn tarot decks",
+   "url": "https://fontsinuse.com/uses/80922/taylor-bryn-tarot-decks",
+   "date": "2026-10-31T11:42:19.000Z",
+   "author": "James Hultquist-Todd",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "118334",
+     "name": "Elfreth",
+     "url": "https://fontsinuse.com/typefaces/118334/elfreth",
+     "sample": "https://assets.fontsinuse.com/static/renders/154/118334/400/4/6ae5d41c/elfreth.png"
+    },
+    {
+     "id": "36261",
+     "name": "Oculi",
+     "url": "https://fontsinuse.com/typefaces/36261/oculi",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8676/440/4/61f186bf/oculi.png"
+    },
+    {
+     "id": "42234",
+     "name": "Hobeaux Rococeaux",
+     "url": "https://fontsinuse.com/typefaces/42234/hobeaux-rococeaux",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2807/440/4/575fd039/hobeaux-rococeaux.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308239/upto-700xauto/6add10a9/Img018-001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308233/upto-700xauto/6add10a9/Img012-001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308238/upto-700xauto/6add10a9/DSC_0057-001%202.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308235/upto-700xauto/6add10a9/DSC_0054%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308236/upto-700xauto/6add0e3f/Img019-001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308237/upto-700xauto/6add0e3f/Img009-001.jpeg"
+   ],
+   "excerpt": "Tarot decks created by Illustrator/artist Taylor Bryn . Taylor has created a total of seven hand-illustrated tarot decks around different themes. Each one using Elfreth , Oculi , and border elements from Hobeaux Rococeaux ."
+  },
+  {
+   "id": "80697",
+   "title": "Little Nightmares video game series",
+   "url": "https://fontsinuse.com/uses/80697/little-nightmares-video-game-series",
+   "date": "2026-10-31T11:28:21.000Z",
+   "author": "Cassian D",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "34282",
+     "name": "Amorie",
+     "url": "https://fontsinuse.com/typefaces/34282/amorie",
+     "sample": "https://assets.fontsinuse.com/static/renders/37/34282/400/4/6ae5d0d6/amorie.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306684/upto-700xauto/6ace6f59/IMG_0500.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306685/upto-700xauto/6ace6f5a/IMG_0501.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306686/upto-700xauto/6ace6f5a/IMG_0502.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306683/upto-700xauto/6ace7276/IMG_0504.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306687/upto-700xauto/6ace6fda/IMG_0505.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306688/upto-700xauto/6ace7127/IMG_0506.jpeg"
+   ],
+   "excerpt": "Little Nightmares is a video game series created by Tarsier Studios and succeeded by Supermassive Games . It follows the stories of children lost in a dream world known as the Nowhere and includes several games, comics, and a podcast."
+  },
+  {
+   "id": "81149",
+   "title": "NOIA, issue 04: “Absurd Rituals”",
+   "url": "https://fontsinuse.com/uses/81149/noia-issue-04-absurd-rituals",
+   "date": "2026-10-31T11:08:50.000Z",
+   "author": "Lorenzo Bigatti",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "130693",
+     "name": "Office Times",
+     "url": "https://fontsinuse.com/typefaces/130693/office-times",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6763/440/4/6422f61c/office-times.png"
+    },
+    {
+     "id": "199161",
+     "name": "Office Times Mono",
+     "url": "https://fontsinuse.com/typefaces/199161/office-times-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10196/440/4/6422f661/office-times-mono.png"
+    },
+    {
+     "id": "170116",
+     "name": "Abc Oracle Triple",
+     "url": "https://fontsinuse.com/typefaces/170116/abc-oracle-triple",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9096/440/4/617d3a5a/abc-oracle-triple.png"
+    },
+    {
+     "id": "104205",
+     "name": "Messapia",
+     "url": "https://fontsinuse.com/typefaces/104205/messapia",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5767/440/4/5d376bea/messapia.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308969/upto-700xauto/6ae356ca/NOIA_Mockup_%C2%A9RanaWassef1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308974/upto-700xauto/6ae356cb/NOIA_Mockup_%C2%A9RanaWassef13.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308970/upto-700xauto/6ae356c8/NOIA_Mockup_%C2%A9RanaWassef4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308971/upto-700xauto/6ae356c8/NOIA_Mockup_%C2%A9RanaWassef5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308972/upto-700xauto/6ae356c9/NOIA_Mockup_%C2%A9RanaWassef6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308973/upto-700xauto/6ae356c9/NOIA_Mockup_%C2%A9RanaWassef7.jpeg"
+   ],
+   "excerpt": "“ Absurd Rituals ” is the fourth chapter of NOIA magazine ."
+  },
+  {
+   "id": "81075",
+   "title": "Balexert – Soldes Monstres campaign",
+   "url": "https://fontsinuse.com/uses/81075/balexert-soldes-monstres-campaign",
+   "date": "2026-10-31T09:49:27.000Z",
+   "author": "Michael Parson",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250565",
+     "name": "Dejecta",
+     "url": "https://fontsinuse.com/typefaces/250565/dejecta",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19438/440/4/6ae5b7ff/dejecta.png"
+    },
+    {
+     "id": "7385",
+     "name": "Brown",
+     "url": "https://fontsinuse.com/typefaces/7385/ll-brown",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/104/440/4/5788cfc4/ll-brown.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308362/upto-700xauto/6adf1a76/Soldes_Jan_F4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308361/upto-700xauto/6adf1a7a/P1030416.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308364/upto-700xauto/6adf1a7a/Soldes_Jan_F12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308360/upto-700xauto/6adf1a7a/P1030399.jpeg"
+   ],
+   "excerpt": "To promote the “monster deals” at Balexert , one of the biggest shopping malls in Switzerland, the agency Valeor played with the idea of actual monsters in their campaign to highlight the size of the promotions. To accompany this campaign, Typogama ’s…"
+  },
+  {
+   "id": "72977",
+   "title": "That Terrible Halloween Night by James Stevenson",
+   "url": "https://fontsinuse.com/uses/72977/that-terrible-halloween-night-by-james-steven",
+   "date": "2026-10-31T09:30:13.000Z",
+   "author": "Ian Fine-Free",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "21479",
+     "name": "Introspect",
+     "url": "https://fontsinuse.com/typefaces/21479/introspect",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1273/440/4/570e20b2/introspect.png"
+    },
+    {
+     "id": "7277",
+     "name": "Grouch",
+     "url": "https://fontsinuse.com/typefaces/7277/itc-grouch",
+     "sample": "https://assets.fontsinuse.com/static/renders/340/7277/400/4/6ae5b526/itc-grouch.png"
+    },
+    {
+     "id": "1719",
+     "name": "Clearface",
+     "url": "https://fontsinuse.com/typefaces/1719/itc-clearface",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1719/400/4/6ae5b526/itc-clearface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/271/270656/upto-700xauto/69b611bd/terriblehalloween4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/271/270653/upto-700xauto/69b611bd/terriblehalloween1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/271/270654/upto-700xauto/69b611bd/terriblehalloween3.jpeg"
+   ],
+   "excerpt": "That Terrible Halloween Night is the second book in author-illustrator James Stevenson 's series of pictures books featuring characters Mary Ann, Louie and Grandpa . The Library of Congress cataloging summary succinctly describes the book like this:"
+  },
+  {
+   "id": "81045",
+   "title": "A Heritage of Horror. The English Gothic Cinema 1946–1972, Equinox",
+   "url": "https://fontsinuse.com/uses/81045/a-heritage-of-horror-the-english-gothic-cinem",
+   "date": "2026-10-31T09:27:05.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7859",
+     "name": "ITC Honda",
+     "url": "https://fontsinuse.com/typefaces/7859/itc-honda",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/7859/400/4/6ae5b46a/itc-honda.png"
+    },
+    {
+     "id": "1907",
+     "name": "ITC Serif Gothic",
+     "url": "https://fontsinuse.com/typefaces/1907/itc-serif-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1907/400/4/6ae5b46a/itc-serif-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309028/upto-700xauto/6ae4f9a8/A%20Heritage%20of%20Horror.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309029/upto-700xauto/6ae4f9ab/Heritage%20of%20Horror.jpeg"
+   ],
+   "excerpt": "In this “first book on British horror films”, David Pirie analyzes “the horror films made by the British film industry […], attempting to claim them as a legitimate expression of national culture .” [ Wikipedia ]"
+  },
+  {
+   "id": "42451",
+   "title": "This is Rock n’ Roll album art",
+   "url": "https://fontsinuse.com/uses/42451/this-is-rock-n-roll-album-art",
+   "date": "2026-10-31T09:21:33.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "124064",
+     "name": "Halloween",
+     "url": "https://fontsinuse.com/typefaces/124064/halloween",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7431/440/4/5f99a0dc/halloween.png"
+    },
+    {
+     "id": "7242",
+     "name": "Permanent Headline",
+     "url": "https://fontsinuse.com/typefaces/7242/permanent-headline",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/7242/400/4/6ae5b31e/permanent-headline.png"
+    },
+    {
+     "id": "35",
+     "name": "Franklin Gothic",
+     "url": "https://fontsinuse.com/typefaces/35/franklin-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7745/440/4/600bc9f1/franklin-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309030/upto-700xauto/6ae50357/This-Is-Rock-N-Roll.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309031/upto-700xauto/6ae5032b/TIRR-2.jpeg"
+   ],
+   "excerpt": "In 1968, Liberty Records released a compilation with 14 songs by the likes of Fats Domino , Eddie Cochran , and Larry Williams . For the album cover, Peter Penner drew the title in extruded caps that appear to be based on PLINC’s Halloween , minus the…"
+  },
+  {
+   "id": "80660",
+   "title": "Michaela Barnett campaign website",
+   "url": "https://fontsinuse.com/uses/80660/michaela-barnett-campaign-website",
+   "date": "2026-10-30T19:25:13.000Z",
+   "author": "Darden Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "45671",
+     "name": "Halyard Display",
+     "url": "https://fontsinuse.com/typefaces/45671/halyard-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3407/440/4/59233e03/halyard-display.png"
+    },
+    {
+     "id": "46366",
+     "name": "Halyard Text",
+     "url": "https://fontsinuse.com/typefaces/46366/halyard-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3612/440/4/59233df3/halyard-text.png"
+    },
+    {
+     "id": "250461",
+     "name": "FBS Mecho",
+     "url": "https://fontsinuse.com/typefaces/250461/fbs-mecho",
+     "sample": "https://assets.fontsinuse.com/static/renders/395/250461/400/4/6ae4ef1a/fbs-mecho.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306503/upto-700xauto/6acce484/Michaela%20For%20Tennessee%2015.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306505/upto-700xauto/6acce494/Michaela%20For%20Tennessee%2011.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306502/upto-700xauto/6acce494/Michaela%20For%20Tennessee%2017.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306504/upto-700xauto/6acce4a0/Michaela%20For%20Tennessee%2013.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306509/upto-700xauto/6acce4a0/Michaela%20For%20Tennessee%2003.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306507/upto-700xauto/6acce4a0/Michaela%20For%20Tennessee%2007.png"
+   ],
+   "excerpt": "Halyard by Darden Studio is the typographic backbone of Michaela Barnett’s campaign website ."
+  },
   {
    "id": "80657",
    "title": "Passions Collections at MusBA",
