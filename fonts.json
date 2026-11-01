@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-31T14:29:17.224Z",
+ "updated": "2026-11-01T15:00:38.348Z",
  "day": {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "picks": [
-   "47973",
-   "12",
-   "243123",
-   "4325",
-   "162439",
-   "168478",
-   "170116",
-   "32901",
-   "45667"
+   "38578",
+   "86662",
+   "22941",
+   "40263",
+   "241217",
+   "160541",
+   "5094",
+   "250593",
+   "45449"
   ]
  },
  "history": [
@@ -252,9 +252,443 @@
     "32901",
     "45667"
    ]
+  },
+  {
+   "date": "2026-11-01",
+   "picks": [
+    "38578",
+    "86662",
+    "22941",
+    "40263",
+    "241217",
+    "160541",
+    "5094",
+    "250593",
+    "45449"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80794",
+   "title": "Citizenship Adventures of the Lollipop Dragon filmstrips",
+   "url": "https://fontsinuse.com/uses/80794/citizenship-adventures-of-the-lollipop-dragon",
+   "date": "2026-11-01T12:35:00.000Z",
+   "author": "fangly",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247192",
+     "name": "Filmotype Party",
+     "url": "https://fontsinuse.com/typefaces/247192/filmotype-party",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17800/440/4/69ac5634/filmotype-party.png"
+    },
+    {
+     "id": "7854",
+     "name": "Aki Lines",
+     "url": "https://fontsinuse.com/typefaces/7854/aki-lines",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/434/440/4/570e2026/aki-lines.png"
+    },
+    {
+     "id": "7413",
+     "name": "Prisma",
+     "url": "https://fontsinuse.com/typefaces/7413/prisma",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/676/440/4/570e2050/prisma.png"
+    },
+    {
+     "id": "31531",
+     "name": "Record Gothic",
+     "url": "https://fontsinuse.com/typefaces/31531/record-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1866/440/4/570e211a/record-gothic.png"
+    },
+    {
+     "id": "1143",
+     "name": "ITC Avant Garde Gothic",
+     "url": "https://fontsinuse.com/typefaces/1143/itc-avant-garde-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1143/400/4/6ae72419/itc-avant-garde-gothic.png"
+    },
+    {
+     "id": "4539",
+     "name": "Tempo",
+     "url": "https://fontsinuse.com/typefaces/4539/tempo",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/747/440/4/67e17800/tempo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307204/upto-700xauto/6ad2ce65/2023-02-06-0001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307205/upto-700xauto/6ad2cfaa/2023-02-06-0004.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307206/upto-700xauto/6ad2d0d6/2023-02-06-0005.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307207/upto-700xauto/6ad2d111/2023-02-06-0006.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307208/upto-700xauto/6ad2d15f/2023-02-06-0007.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307209/upto-700xauto/6ae72399/2023-02-06-0009.jpeg"
+   ],
+   "excerpt": "Citizenship Adventures of the Lollipop Dragon is a series of educational filmstrips created in 1976 and sold to schools by the Society for Visual Education (or SVE). The series features the Lollipop Dragon character originally created by Roger Himmel in 1970."
+  },
+  {
+   "id": "78094",
+   "title": "The Mahavishnu Orchestra with John McLaughlin – The Inner Mounting Flame album art",
+   "url": "https://fontsinuse.com/uses/78094/the-mahavishnu-orchestra-with-john-mclaughlin",
+   "date": "2026-11-01T12:06:45.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "900",
+     "name": "Crusade Xenotype",
+     "url": "https://fontsinuse.com/typefaces/900/crusade-xenotype",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18207/440/4/69fcad8f/crusade-xenotype.png"
+    },
+    {
+     "id": "303",
+     "name": "News Gothic",
+     "url": "https://fontsinuse.com/typefaces/303/news-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6ae72b56/news-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/294/293832/upto-700xauto/6a243b58/lp_the-inner-mounting-flame_mahavishnu-orchestra-john-mclaughlin_0000.jpeg"
+   ],
+   "excerpt": "The Inner Mounting Flame is the debut studio album by jazz-rock fusion band Mahavishnu Orchestra , recorded in August 1971 and released later that year by Columbia Records . After their formation, the group performed several gigs before they entered the…"
+  },
+  {
+   "id": "81057",
+   "title": "Killing Joke – Night Time album art",
+   "url": "https://fontsinuse.com/uses/81057/killing-joke-night-time-album-art",
+   "date": "2026-11-01T12:06:27.000Z",
+   "author": "ronin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4907",
+     "name": "Perpetua",
+     "url": "https://fontsinuse.com/typefaces/4907/perpetua",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4907/400/4/6ae72b44/perpetua.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309180/upto-700xauto/6ae7294a/81esJa-JE3L-_UF2000%252C2000_QL90_.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309181/upto-700xauto/6ae7294a/killing-joke-night-time-uk-vinyl-lp-album-record-668782c.jpeg"
+   ],
+   "excerpt": "Night Time is an album by Killing Joke, released in 1985 by E.G. through Polydor. The biggest hit on this particular album was “ Love Like Blood ”, reached #16 in the UK Singles charts. It gained a resurgence after Nirvana recycled the riff of “ Eighties ”…"
+  },
+  {
+   "id": "80957",
+   "title": "Pekka Streng – Kesämaa album art",
+   "url": "https://fontsinuse.com/uses/80957/pekka-streng-kesaemaa-album-art",
+   "date": "2026-11-01T12:04:00.000Z",
+   "author": "Miikka Rusi",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "942",
+     "name": "Flash",
+     "url": "https://fontsinuse.com/typefaces/942/flash",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/942/400/4/6ae727cf/flash.png"
+    },
+    {
+     "id": "7357",
+     "name": "Cooper Black",
+     "url": "https://fontsinuse.com/typefaces/7357/cooper-black",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3079/440/4/68dada8c/cooper-black.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307858/upto-700xauto/6ad7c334/pekka-streng-kesamaa.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307859/upto-700xauto/6ad7c37b/pekka-streng.jpeg"
+   ],
+   "excerpt": "Pekka Streng (1948–1975) was a Finnish singer-songwriter and cult artist whose music blended psychedelia with folk-influenced progressive rock."
+  },
+  {
+   "id": "69623",
+   "title": "Michael Leonhartsberger – “Sometimes We Break” music video",
+   "url": "https://fontsinuse.com/uses/69623/michael-leonhartsberger-sometimes-we-break-mu",
+   "date": "2026-11-01T11:25:13.000Z",
+   "author": "Michael Leonhartsberger",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "240195",
+     "name": "Cain",
+     "url": "https://fontsinuse.com/typefaces/240195/cain",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14302/440/4/672b91a7/cain.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/262/261161/upto-700xauto/6ae721aa/_Youtube-Thumbnails_Sometimes-We-Break_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307644/upto-700xauto/6ad70d15/Michael%20Leonhartsberger%20-%20Sometimes%20We%20Break%20%E2%80%93%20Michael%20Leonhartsberger%20%5Bvm5BPlY6n0c%20-%201280x720%20-%200m01s%5D.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307645/upto-700xauto/6ad70b4c/Michael%20Leonhartsberger%20-%20Sometimes%20We%20Break%20%E2%80%93%20Michael%20Leonhartsberger%20%5Bvm5BPlY6n0c%20-%201280x720%20-%200m02s%5D.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307646/upto-700xauto/6ad70b4f/Michael%20Leonhartsberger%20-%20Sometimes%20We%20Break%20%E2%80%93%20Michael%20Leonhartsberger%20%5Bvm5BPlY6n0c%20-%201280x720%20-%200m04s%5D.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307647/upto-700xauto/6ad70b62/Michael%20Leonhartsberger%20-%20Sometimes%20We%20Break%20%E2%80%93%20Michael%20Leonhartsberger%20%5Bvm5BPlY6n0c%20-%201280x720%20-%202m14s%5D.png"
+   ],
+   "excerpt": "I – Michael Leonhartsberger – used my typefaces Cain for the lyrics in my music video “Sometimes We Break”. I wrote the song a few years ago for someone very close to me, who went through depression and deep struggles after a toxic relationship. I tried to…"
+  },
+  {
+   "id": "80761",
+   "title": "Dalmares Produce Inc. truck",
+   "url": "https://fontsinuse.com/uses/80761/dalmares-produce-inc-truck",
+   "date": "2026-11-01T11:21:35.000Z",
+   "author": "gladys magnus",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "12057",
+     "name": "Park Avenue",
+     "url": "https://fontsinuse.com/typefaces/12057/park-avenue",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/12057/400/4/6ae720c0/park-avenue.png"
+    },
+    {
+     "id": "3359",
+     "name": "Optima",
+     "url": "https://fontsinuse.com/typefaces/3359/optima",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3359/400/4/6ae722bb/optima.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307042/upto-700xauto/6ae720ac/IMG_1814.jpeg"
+   ],
+   "excerpt": "Dalmares Produce Inc. (founded in 1956) is a family-owned distributor of fresh produce to businesses and restaurants across Chicago. This truck was spotted near their headquarters in the Pilsen neighborhood."
+  },
+  {
+   "id": "80874",
+   "title": "Brain Rot Mad Libs by Jennifer Fitterman",
+   "url": "https://fontsinuse.com/uses/80874/brain-rot-mad-libs-by-jennifer-fitterman",
+   "date": "2026-11-01T11:18:22.000Z",
+   "author": "Bryson Stohr",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2266",
+     "name": "Nobel Frere Jones",
+     "url": "https://fontsinuse.com/typefaces/2266/nobel-frere-jones",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4600/440/4/67b5e3a8/nobel-frere-jones.png"
+    },
+    {
+     "id": "5094",
+     "name": "Monoline Script",
+     "url": "https://fontsinuse.com/typefaces/5094/monoline-script",
+     "sample": "https://assets.fontsinuse.com/static/renders/6/5094/400/4/6ae71fff/monoline-script.png"
+    },
+    {
+     "id": "250593",
+     "name": "Alphakind",
+     "url": "https://fontsinuse.com/typefaces/250593/alphakind",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19458/440/4/6ae71a9f/alphakind.png"
+    },
+    {
+     "id": "4869",
+     "name": "Arial",
+     "url": "https://fontsinuse.com/typefaces/4869/arial",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/4869/400/4/6ae71fff/arial.png"
+    },
+    {
+     "id": "4871",
+     "name": "Arial Rounded",
+     "url": "https://fontsinuse.com/typefaces/4871/arial-rounded",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4871/400/4/6ae71fff/arial-rounded.png"
+    },
+    {
+     "id": "250595",
+     "name": "Bestime",
+     "url": "https://fontsinuse.com/typefaces/250595/bestime",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19460/440/4/6ae71d41/bestime.png"
+    },
+    {
+     "id": "15072",
+     "name": "Bleeker",
+     "url": "https://fontsinuse.com/typefaces/15072/bleeker",
+     "sample": "https://assets.fontsinuse.com/static/renders/19/15072/400/4/6ae71fff/bleeker.png"
+    },
+    {
+     "id": "10672",
+     "name": "Chalkduster",
+     "url": "https://fontsinuse.com/typefaces/10672/chalkduster",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/545/440/4/570e203a/chalkduster.png"
+    },
+    {
+     "id": "7666",
+     "name": "Chicago",
+     "url": "https://fontsinuse.com/typefaces/7666/chicago",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8414/440/4/60dddf84/chicago.png"
+    },
+    {
+     "id": "250591",
+     "name": "Dacherry",
+     "url": "https://fontsinuse.com/typefaces/250591/dacherry",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19456/440/4/6ae718ce/dacherry.png"
+    },
+    {
+     "id": "248785",
+     "name": "Doctor Soos",
+     "url": "https://fontsinuse.com/typefaces/248785/doctor-soos",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18453/440/4/6a2294b9/doctor-soos.png"
+    },
+    {
+     "id": "4983",
+     "name": "Impact",
+     "url": "https://fontsinuse.com/typefaces/4983/impact",
+     "sample": "https://assets.fontsinuse.com/static/renders/15/4983/400/4/6ae71fff/impact.png"
+    },
+    {
+     "id": "22941",
+     "name": "Londrina",
+     "url": "https://fontsinuse.com/typefaces/22941/londrina",
+     "sample": "https://assets.fontsinuse.com/static/renders/27/22941/400/4/6ae71fff/londrina.png"
+    },
+    {
+     "id": "31848",
+     "name": "Marker Felt",
+     "url": "https://fontsinuse.com/typefaces/31848/marker-felt",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/975/440/4/570e207f/marker-felt.png"
+    },
+    {
+     "id": "7543",
+     "name": "Noteworthy",
+     "url": "https://fontsinuse.com/typefaces/7543/noteworthy",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6679/440/4/5ec426c9/noteworthy.png"
+    },
+    {
+     "id": "250594",
+     "name": "Slow Play",
+     "url": "https://fontsinuse.com/typefaces/250594/slow-play",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19459/440/4/6ae71cf1/slow-play.png"
+    },
+    {
+     "id": "250596",
+     "name": "Starbim",
+     "url": "https://fontsinuse.com/typefaces/250596/starbim",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19461/440/4/6ae71ec1/starbim.png"
+    },
+    {
+     "id": "250592",
+     "name": "True Crimes",
+     "url": "https://fontsinuse.com/typefaces/250592/true-crimes",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19457/440/4/6ae719be/true-crimes.png"
+    },
+    {
+     "id": "800",
+     "name": "Wildwords",
+     "url": "https://fontsinuse.com/typefaces/800/wildwords",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/800/400/4/6ae71fff/wildwords.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307425/upto-700xauto/6ae7200e/mad-libs-brain-rot-mad-libs.jpeg"
+   ],
+   "excerpt": "Brain Rot Mad Libs is an official version of the word game themed around “brainrot”, including the slang words associated with such content."
+  },
+  {
+   "id": "77596",
+   "title": "Foster’s Home for Imaginary Friends, Season 1 DVD promo",
+   "url": "https://fontsinuse.com/uses/77596/foster-s-home-for-imaginary-friends-season-1-",
+   "date": "2026-11-01T11:15:50.000Z",
+   "author": "Daniel Dell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "99685",
+     "name": "Action Is",
+     "url": "https://fontsinuse.com/typefaces/99685/action-is",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6994/440/4/5f23e425/action-is.png"
+    },
+    {
+     "id": "19374",
+     "name": "Fontleroy NF",
+     "url": "https://fontsinuse.com/typefaces/19374/fontleroy-nf",
+     "sample": "https://assets.fontsinuse.com/static/renders/23/19374/400/4/6ae71f67/fontleroy-nf.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306527/upto-700xauto/6accfcac/291677.png"
+   ],
+   "excerpt": "Foster’s Home for Imaginary Friends is a show that aired on Cartoon Network from 2004 to 2009. The series was created by Craig McCracken of the Powerpuff Girls fame. From Wikipedia :"
+  },
+  {
+   "id": "80360",
+   "title": "Silent Hill Townfall video game",
+   "url": "https://fontsinuse.com/uses/80360/silent-hill-townfall-video-game",
+   "date": "2026-11-01T10:35:36.000Z",
+   "author": "Alex Nguyen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "12846",
+     "name": "1689 GLC Garamond",
+     "url": "https://fontsinuse.com/typefaces/12846/1689-glc-garamond",
+     "sample": "https://assets.fontsinuse.com/static/renders/17/12846/400/4/6ae715f9/1689-glc-garamond.png"
+    },
+    {
+     "id": "40662",
+     "name": "Noto Serif",
+     "url": "https://fontsinuse.com/typefaces/40662/noto-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4853/440/4/5b768e77/noto-serif.png"
+    },
+    {
+     "id": "31548",
+     "name": "Roboto Slab",
+     "url": "https://fontsinuse.com/typefaces/31548/roboto-slab",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/784/440/4/5ee1e9a6/roboto-slab.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305140/upto-700xauto/6aba6ceb/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305203/upto-700xauto/6abb146b/Townfall-Win64-Shipping%20Screenshot%202026-09-28%20-%2019-13-02-69.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305202/upto-700xauto/6abb1484/Townfall-Win64-Shipping%20Screenshot%202026-09-27%20-%2019-04-56-45.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305204/upto-700xauto/6abb14df/Townfall-Win64-Shipping%20Screenshot%202026-09-29%20-%2008-30-59-53.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305205/upto-700xauto/6abb14e4/Townfall-Win64-Shipping%20Screenshot%202026-09-29%20-%2008-30-49-38.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305206/upto-700xauto/6abb15c1/Townfall-Win64-Shipping%20Screenshot%202026-09-29%20-%2008-34-28-26.png"
+   ],
+   "excerpt": "Silent Hill Townfall is a first-person survival horror game developed by Screen Burn Interactive and published by Konami, released on September 24th of 2026."
+  },
+  {
+   "id": "67665",
+   "title": "Haunted Stories and More Haunted Stories by A.L. Furman (ed.)",
+   "url": "https://fontsinuse.com/uses/67665/haunted-stories-and-more-haunted-stories-by-a",
+   "date": "2026-10-31T20:28:40.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "44143",
+     "name": "Village",
+     "url": "https://fontsinuse.com/typefaces/44143/village-and-orbit",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2998/440/4/599d3b69/village-and-orbit.png"
+    },
+    {
+     "id": "3357",
+     "name": "Melior",
+     "url": "https://fontsinuse.com/typefaces/3357/melior",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3357/400/4/6ae64f79/melior.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309094/upto-700xauto/6ae647e4/Haunted%20Stories.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/272/271450/upto-700xauto/6ae64809/More%20Haunted%20Stories.png"
+   ],
+   "excerpt": "Originally published as Teen-Age Haunted Stories (1965) and More Teen-Age Haunted Stories (1967), these compilations edited by A.L. Furman (1902–1972) were reissued by Lantern Press in 1975, with cover art by Chuck Sovek and Robert Shore , respectively."
+  },
+  {
+   "id": "81208",
+   "title": "Wicker (2026) movie posters",
+   "url": "https://fontsinuse.com/uses/81208/wicker-2026-movie-posters",
+   "date": "2026-10-31T20:27:49.000Z",
+   "author": "typeluvr04",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250589",
+     "name": "SLTF Arcilla",
+     "url": "https://fontsinuse.com/typefaces/250589/sltf-arcilla",
+     "sample": "https://assets.fontsinuse.com/static/renders/395/250589/400/4/6ae65524/sltf-arcilla.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309083/upto-700xauto/6ae62bcc/5sVi66aTT9X2uMldmIwu9JW3hZ2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309086/upto-700xauto/6ae62d36/71jXE3Pdpw9w8QnnI0SLwgj8NMN.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309087/upto-700xauto/6ae62d39/kCm1UaSGfFS9SfYfJrxCvpAEJDv.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309088/upto-700xauto/6ae62d40/i8otIYiqwgMzlJwcLICmpfA50Pk.webp"
+   ],
+   "excerpt": "An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+  },
   {
    "id": "80569",
    "title": "Halloween 2026 at The Cause",
@@ -289,36 +723,47 @@
    "excerpt": "OVR Demorny and Archetype (Regular and Italic) in use by The Cause , a London-based nightclub, for the promotion of their Halloween festival. The Lombardic capital M used in “Many More” is from an unidentified source."
   },
   {
-   "id": "65271",
-   "title": "Ghosts by Aidan & Nancy Chambers",
-   "url": "https://fontsinuse.com/uses/65271/ghosts-by-aidan-and-nancy-chambers",
-   "date": "2026-10-31T12:33:08.000Z",
+   "id": "45818",
+   "title": "It’s Alive! Frankenstein at 200 exhibition at the Morgan Library & Museum",
+   "url": "https://fontsinuse.com/uses/45818/it-s-alive-frankenstein-at-200-exhibition-at-",
+   "date": "2026-10-31T14:10:27.000Z",
    "author": "Florian Hardwig",
    "staffPick": false,
    "typefaces": [
     {
-     "id": "44146",
-     "name": "Smoke",
-     "url": "https://fontsinuse.com/typefaces/44146/smoke",
-     "sample": "https://assets.fontsinuse.com/static/samples/4/3662/440/4/594a4378/smoke.png"
+     "id": "32262",
+     "name": "Gandur New",
+     "url": "https://fontsinuse.com/typefaces/32262/gandur-new",
+     "sample": "https://assets.fontsinuse.com/static/renders/45/32262/400/4/6ae5f6d4/gandur-new.png"
     },
     {
-     "id": "44",
-     "name": "Helvetica",
-     "url": "https://fontsinuse.com/typefaces/44/helvetica",
-     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+     "id": "8585",
+     "name": "Gratis",
+     "url": "https://fontsinuse.com/typefaces/8585/gratis",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/8585/400/4/6ae5f6d4/gratis.png"
+    },
+    {
+     "id": "1297",
+     "name": "Aktiv Grotesk",
+     "url": "https://fontsinuse.com/typefaces/1297/aktiv-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11369/440/4/6419628c/aktiv-grotesk.png"
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/310/309080/upto-700xauto/6ae5dda1/Ghosts.jpeg"
+    "https://assets.fontsinuse.com/static/use-media-items/159/158919/upto-700xauto/69b581e8/1_Frankenstein.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/159/158920/upto-700xauto/69b581e8/Frankenstein_Resized_1-1440x1665.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/159/158921/upto-700xauto/69b581e8/Frankenstein_Resized_2-1440x1665.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/159/158922/upto-700xauto/69b581e8/Frankenstein_Resized_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/159/158923/upto-700xauto/69b581e8/Frankenstein_Resized_4-1440x1665.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/159/158924/upto-700xauto/69b581e8/Frankenstein_Resized_5-1440x1665.jpeg"
    ],
-   "excerpt": "Ghosts by Aidan & Nancy Chambers was published by Macmillan as a Topliner book in 1969. The paperback cover is another example of the left-leaning, bottom-heavy Smoke being chosen for its spooky qualities, see also Ghastly Ghost Affair and The Incredible…"
+   "excerpt": "Mary Shelley’s Gothic novel Frankenstein was first published in 1818. In the fall of 2018, the Morgan Library & Museum in collaboration with the New York Public Library presented It’s Alive! Frankenstein at 200 , an exhibition that –"
   },
   {
    "id": "80602",
    "title": "Drachen. Mythos und Wirklichkeit exhibition, Hessisches Landesmuseum Darmstadt",
    "url": "https://fontsinuse.com/uses/80602/drachen-mythos-und-wirklichkeit-exhibition-he",
-   "date": "2026-10-31T11:50:37.000Z",
+   "date": "2026-10-31T13:01:00.000Z",
    "author": "Studio Böreck",
    "staffPick": true,
    "typefaces": [
@@ -344,6 +789,32 @@
     "https://assets.fontsinuse.com/static/use-media-items/307/306228/upto-700xauto/6ac890e8/SB-Website-Inhalte-HLD-Drachen8.jpeg"
    ],
    "excerpt": "For thousands of years, dragons have captured the human imagination. From ancient mythology and East Asian traditions to contemporary fantasy, these fascinating creatures have taken on countless forms and meanings across cultures."
+  },
+  {
+   "id": "65271",
+   "title": "Ghosts by Aidan & Nancy Chambers",
+   "url": "https://fontsinuse.com/uses/65271/ghosts-by-aidan-and-nancy-chambers",
+   "date": "2026-10-31T12:33:08.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "44146",
+     "name": "Smoke",
+     "url": "https://fontsinuse.com/typefaces/44146/smoke",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3662/440/4/594a4378/smoke.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309080/upto-700xauto/6ae5dda1/Ghosts.jpeg"
+   ],
+   "excerpt": "Ghosts by Aidan & Nancy Chambers was published by Macmillan as a Topliner book in 1969. The paperback cover is another example of the left-leaning, bottom-heavy Smoke being chosen for its spooky qualities, see also Ghastly Ghost Affair and The Incredible…"
   },
   {
    "id": "80922",
