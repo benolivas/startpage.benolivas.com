@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-01T15:00:38.348Z",
+ "updated": "2026-11-02T18:14:21.195Z",
  "day": {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "picks": [
-   "38578",
-   "86662",
-   "22941",
-   "40263",
-   "241217",
-   "160541",
-   "5094",
-   "250593",
-   "45449"
+   "250492",
+   "45594",
+   "5488",
+   "250461",
+   "250600",
+   "31531",
+   "245321",
+   "142610",
+   "250596"
   ]
  },
  "history": [
@@ -266,9 +266,441 @@
     "250593",
     "45449"
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "picks": [
+    "250492",
+    "45594",
+    "5488",
+    "250461",
+    "250600",
+    "31531",
+    "245321",
+    "142610",
+    "250596"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80624",
+   "title": "Graphite Tennis Fashion Archive",
+   "url": "https://fontsinuse.com/uses/80624/graphite-tennis-fashion-archive",
+   "date": "2026-11-02T08:53:00.000Z",
+   "author": "WELTKERN® Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "244804",
+     "name": "TWK Issey",
+     "url": "https://fontsinuse.com/typefaces/244804/twk-issey",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16705/440/4/68e2b9c3/twk-issey.png"
+    },
+    {
+     "id": "250600",
+     "name": "AF Graphite",
+     "url": "https://fontsinuse.com/typefaces/250600/af-graphite",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19467/440/4/6ae8427d/af-graphite.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306365/upto-700xauto/6ae849bb/00-posts-instagram-originaux__03-abbr-projects-identite__06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306348/upto-700xauto/6ae844c6/weltkern-twk-issey-graphite-tennis-fashion-archive-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306347/upto-700xauto/6ac92250/weltkern-twk-issey-graphite-tennis-fashion-archive-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306351/upto-700xauto/6ac921d4/weltkern-twk-issey-graphite-tennis-fashion-archive-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306352/upto-700xauto/6ac921d4/weltkern-twk-issey-graphite-tennis-fashion-archive-06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306353/upto-700xauto/6ac921d4/weltkern-twk-issey-graphite-tennis-fashion-archive-07.jpeg"
+   ],
+   "excerpt": "Graphite Tennis Fashion Archive is a creative studio and archive of more than 4,500 rare articles of tennis clothing, ephemera and print media, founded by photographer and art director Bryson Malone. It rents pieces to stylists, production teams and…"
+  },
+  {
+   "id": "80524",
+   "title": "Ember Spirits",
+   "url": "https://fontsinuse.com/uses/80524/ember-spirits",
+   "date": "2026-11-02T08:50:00.000Z",
+   "author": "Hrvoje Živčić",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "206741",
+     "name": "Ergon",
+     "url": "https://fontsinuse.com/typefaces/206741/ergon",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10361/440/4/630e8488/ergon.png"
+    },
+    {
+     "id": "174",
+     "name": "Candara",
+     "url": "https://fontsinuse.com/typefaces/174/candara",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/174/400/4/6ae84b8a/candara.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305794/upto-700xauto/6ac3acda/OO3550-EMBER-SPIRITS-ECOMMERCE-WEBSITE-DEVELOPMENT-D-OUR-STORY-PAGE-SUPPLY-2-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305795/upto-700xauto/6ac3c906/SaveClip-App_719585764_17872558998681062_3266938912059748080_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305796/upto-700xauto/6ac3ad14/01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305797/upto-700xauto/6ac3ad30/OO3550-EMBER-SPIRITS-ECOMMERCE-WEBSITE-DEVELOPMENT-D-OUR-STORY-PAGE-SUPPLY-2-4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309244/upto-700xauto/6ae84b0f/Screenshot%202026-11-02%20at%2009-33-56%20Our%20Story%20%E2%80%93%20Ember%20Irish%20Whiskey.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309245/upto-700xauto/6ae84b12/Screenshot%202026-11-02%20at%2009-33-38%20Ember%20Still%20%E2%80%93%20Irish%20Whiskey%20Blend%2046%25%20ABV%2070cl%20Smooth%20Vanilla%20%26%20Stout-Finished%20%E2%80%93%20Ember%20Irish%20Whiskey.png"
+   ],
+   "excerpt": "Ember is a new generation of Irish whiskey brand that moves away from the traditional visual language of heritage, distilling and age statements, instead building its identity around mood, flavour and occasion. The branding translates this idea into a…"
+  },
+  {
+   "id": "80480",
+   "title": "Fortis",
+   "url": "https://fontsinuse.com/uses/80480/fortis",
+   "date": "2026-11-02T08:49:22.000Z",
+   "author": "Mark van Leeuwen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237769",
+     "name": "Cortese Sans",
+     "url": "https://fontsinuse.com/typefaces/237769/cortese-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14014/440/4/66f13926/cortese-sans.png"
+    },
+    {
+     "id": "45889",
+     "name": "Supply Mono",
+     "url": "https://fontsinuse.com/typefaces/45889/supply-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3490/440/4/58e7cd50/supply-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305649/upto-700xauto/6ac12d80/Arms-Studio_FortisSportsPerformance-brand-identity-collateral-design-4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305647/upto-700xauto/6ac12d1f/Arms-Studio_FortisSportsPerformance-brand-identity-collateral-design-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305650/upto-700xauto/6ac12b98/Arms-Studio_FortisSportsPerformance-brand-identity-collateral-design-6.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305648/upto-700xauto/6ac12b98/Arms-Studio_FortisSportsPerformance-brand-identity-collateral-design-2-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305651/upto-700xauto/6ac12abb/Arms-Studio_FortisSportsPerformance-brand-identity-collateral-design-5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305653/upto-700xauto/6ac12bb4/Screenshot%202026-10-03%20at%2018-21-05.png"
+   ],
+   "excerpt": "Fortis Sports Performance is Atlanta’s home for elite athlete care. We worked with founder, Doctor of Physical Therapy and former MLS Professional, Andrew Wolverton to develop an identity system for his Atlanta based wellness business. We designed…"
+  },
+  {
+   "id": "80652",
+   "title": "Emiglia Pasta Bar",
+   "url": "https://fontsinuse.com/uses/80652/emiglia-pasta-bar",
+   "date": "2026-11-02T08:47:43.000Z",
+   "author": "Arthur Calame",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229828",
+     "name": "Maroni",
+     "url": "https://fontsinuse.com/typefaces/229828/maroni",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12147/440/4/64eb8c2a/maroni.png"
+    },
+    {
+     "id": "231817",
+     "name": "Timezone Mono",
+     "url": "https://fontsinuse.com/typefaces/231817/hal-timezone-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12597/440/4/655c9e45/hal-timezone-mono.png"
+    },
+    {
+     "id": "183835",
+     "name": "Timezone",
+     "url": "https://fontsinuse.com/typefaces/183835/hal-timezone",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9588/440/4/62068632/hal-timezone.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306458/upto-700xauto/6ae878dd/@cunhadelsolar:%20@francisco-ascensao.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306461/upto-700xauto/6ae387fb/747762314_17886406260605739_3461469912797782147_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306459/upto-700xauto/6ae8591e/716799840_122125562337232799_2902150178041123863_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306465/upto-700xauto/6ae387fb/757305034_18612458548057642_2996774817081605320_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306460/upto-700xauto/6ae387fc/732707501_17883710466605739_9060029611921885394_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306467/upto-700xauto/6ae387fb/6a6228e45807f994554b61d5_EMIGLIA-ANOTHER-COLLECTIVE-15.jpeg"
+   ],
+   "excerpt": "Emiglia Pasta Bar is a lively restaurant located in Porto’s Bombarda neighborhood, renowned for its authentic Italian cuisine. The open kitchen serves freshly prepared pasta, including classics such as carbonara and cacio e pepe . One of the highlights is…"
+  },
+  {
+   "id": "80654",
+   "title": "Soma Café",
+   "url": "https://fontsinuse.com/uses/80654/soma-cafe",
+   "date": "2026-11-02T08:45:34.000Z",
+   "author": "TypeTogether",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250458",
+     "name": "Poltik Display",
+     "url": "https://fontsinuse.com/typefaces/250458/poltik-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19369/440/4/6accf771/poltik-display.png"
+    },
+    {
+     "id": "250465",
+     "name": "Poltik",
+     "url": "https://fontsinuse.com/typefaces/250465/poltik",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19370/440/4/6accf7bf/poltik.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306479/upto-700xauto/6accb42a/2026_poltik_soma_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306480/upto-700xauto/6accb42b/2026_poltik_soma_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306481/upto-700xauto/6accb42d/2026_poltik_soma_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306482/upto-700xauto/6accb42d/2026_poltik_soma_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306483/upto-700xauto/6accb42e/2026_poltik_soma_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306484/upto-700xauto/6accb42f/2026_poltik_soma_6.jpeg"
+   ],
+   "excerpt": "Soma Café is a lively spot for coffee, drinks and tasty snacks not far from Prague’s main train station. Graphic designer Štěpán Polič of Lemon Design chose the bold lines of Patrycja Walczak ’s Poltik Display for Soma’s logo and identity materials. “It…"
+  },
+  {
+   "id": "80597",
+   "title": "Penrose Press Birthday Poetry",
+   "url": "https://fontsinuse.com/uses/80597/penrose-press-birthday-poetry",
+   "date": "2026-11-02T08:37:37.000Z",
+   "author": "Brianna Tosswill",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "6",
+     "name": "Lydian",
+     "url": "https://fontsinuse.com/typefaces/6/lydian",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/6/400/4/6ae84bd2/lydian.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306213/upto-700xauto/6ac7d881/IMG_20260126_140742~2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306214/upto-700xauto/6ac7d883/IMG_20250128_111723~2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306215/upto-700xauto/6ac7d885/PXL_20220122_191440899-MP~2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306216/upto-700xauto/6ac7d887/PXL-20240126_165635778_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306217/upto-700xauto/6ac7d889/PXL_20230126_170147550~4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306218/upto-700xauto/6ac7d889/Copy%20of%2020210126_095146.jpeg"
+   ],
+   "excerpt": "These cards were printed at Penrose Press on a Vandercook letterpress with Lydian moveable type."
+  },
+  {
+   "id": "80568",
+   "title": "Chocolatissimo 10th anniversary",
+   "url": "https://fontsinuse.com/uses/80568/chocolatissimo-10th-anniversary",
+   "date": "2026-11-02T08:27:22.000Z",
+   "author": "Bolid System",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247848",
+     "name": "BS Synthetik",
+     "url": "https://fontsinuse.com/typefaces/247848/bs-synthetik",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17842/440/4/69b27a84/bs-synthetik.png"
+    },
+    {
+     "id": "247847",
+     "name": "BS Notion",
+     "url": "https://fontsinuse.com/typefaces/247847/bs-notion",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17841/440/4/69b27a19/bs-notion.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306057/upto-700xauto/6ac63cb4/carre_2%20copie.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306058/upto-700xauto/6ac63c91/231027_SUPERO-REPRO_%201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306056/upto-700xauto/6ae849de/carre_1.jpeg"
+   ],
+   "excerpt": "Chocolatissimo is Neuchâtel's yearly chocolate festival. For its tenth edition in 2023, Maël Bächtold and Laure Gremion designed a new interactive identity that sits between graphic and product design. Its geometric shapes come alive on the packaging…"
+  },
+  {
+   "id": "80542",
+   "title": "Aridge",
+   "url": "https://fontsinuse.com/uses/80542/aridge",
+   "date": "2026-11-02T07:51:06.000Z",
+   "author": "TypeType",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "91064",
+     "name": "Tt Supermolot Neue",
+     "url": "https://fontsinuse.com/typefaces/91064/tt-supermolot-neue",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12925/440/4/65c15804/tt-supermolot-neue.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305921/upto-700xauto/6ac4c9a5/tt_fiu_aridge_web_cover.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305922/upto-700xauto/6ac4c9a7/tt_fiu_aridge_web_1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305923/upto-700xauto/6ac4c9a8/tt_fiu_aridge_web_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305924/upto-700xauto/6ac4c9ac/tt_fiu_aridge_web_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305925/upto-700xauto/6ac4c9ae/tt_fiu_aridge_web_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305926/upto-700xauto/6ac4c9af/tt_fiu_aridge_web_5.png"
+   ],
+   "excerpt": "TT Supermolot Neue has become the corporate font for Aridge , a Chinese company specializing in the development of flying cars and “hybrid transportation solutions for land and air travel”. TT Supermolot Neue enhances the dynamic style and emphasizes the…"
+  },
+  {
+   "id": "80442",
+   "title": "Aspire Showhouse Magazine",
+   "url": "https://fontsinuse.com/uses/80442/aspire-showhouse-magazine",
+   "date": "2026-11-02T07:46:11.000Z",
+   "author": "Hannes Famira",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "13320",
+     "name": "Alegreya",
+     "url": "https://fontsinuse.com/typefaces/13320/alegreya",
+     "sample": "https://assets.fontsinuse.com/static/renders/17/13320/400/4/6ae83fc4/alegreya.png"
+    },
+    {
+     "id": "159391",
+     "name": "Interpol Correspondence",
+     "url": "https://fontsinuse.com/typefaces/159391/interpol-correspondence",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8280/440/4/68273240/interpol-correspondence.png"
+    },
+    {
+     "id": "250599",
+     "name": "Petrona",
+     "url": "https://fontsinuse.com/typefaces/250599/petrona",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19466/440/4/6ae83a85/petrona.png"
+    },
+    {
+     "id": "1707",
+     "name": "ITC Caslon No. 224",
+     "url": "https://fontsinuse.com/typefaces/1707/itc-caslon-no-224",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1707/400/4/6ae83fc4/itc-caslon-no-224.png"
+    },
+    {
+     "id": "238088",
+     "name": "Italiana",
+     "url": "https://fontsinuse.com/typefaces/238088/italiana",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14113/440/4/670651e4/italiana.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309243/upto-700xauto/6ae83cef/Scherm%C2%ADafbeelding%202026-11-02%20om%2008-33-38.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305392/upto-700xauto/6ae83ce9/top-of-page.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309242/upto-700xauto/6ae83fec/Scherm%C2%ADafbeelding%202026-11-02%20om%2008-13-40.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309240/upto-700xauto/6ae83ce9/style%20diary.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309241/upto-700xauto/6ae89c8d/Scherm%C2%ADafbeelding%202026-11-02%20om%2008-14-31.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305390/upto-700xauto/6ae83ce9/impressum.jpeg"
+   ],
+   "excerpt": "Aspire Showhouse Magazine is a home decor magazine by Aspire Home Design , published in September 2021. The magazine was designed by Glyph Co , using Alegreya , Interpol Correspondence and Petrona as the main typefaces. The magazine logo pairs the Black…"
+  },
+  {
+   "id": "80632",
+   "title": "O Universo de J. Cunha",
+   "url": "https://fontsinuse.com/uses/80632/o-universo-de-j-cunha",
+   "date": "2026-11-02T06:23:00.000Z",
+   "author": "Isaco Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "34483",
+     "name": "Cantiga",
+     "url": "https://fontsinuse.com/typefaces/34483/cantiga",
+     "sample": "https://assets.fontsinuse.com/static/renders/38/34483/400/4/6ae848a0/cantiga.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306390/upto-700xauto/6ac94506/IMG_20251122_145210.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306383/upto-700xauto/6ac94506/cantiga_0.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306385/upto-700xauto/6ac9450b/cantiga_03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306384/upto-700xauto/6ac9450b/cantiga_01b.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306386/upto-700xauto/6ac94506/cantiga_04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306387/upto-700xauto/6ac94506/cantiga_05.png"
+   ],
+   "excerpt": "O Universo de J. Cunha, published by Editora Corrupio in 2016, is the first monograph dedicated to the work of Brazilian visual artist, graphic designer, and scenographer José Antônio Cunha – known simply as J. Cunha. Born in Salvador, Bahia, in 1948, with…"
+  },
+  {
+   "id": "80960",
+   "title": "The Budget postal card",
+   "url": "https://fontsinuse.com/uses/80960/the-budget-postal-card",
+   "date": "2026-11-01T17:36:38.000Z",
+   "author": "Richard Sheaff",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32521",
+     "name": "Gothic Bold",
+     "url": "https://fontsinuse.com/typefaces/32521/gothic-bold",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/32521/400/4/6ae84272/gothic-bold.png"
+    },
+    {
+     "id": "246041",
+     "name": "Astoria",
+     "url": "https://fontsinuse.com/typefaces/246041/astoria-bbands",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19464/440/4/6ae775ac/astoria-bbands.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307860/upto-700xauto/6ad7cd36/THE%20BUDGET_UX9.jpeg"
+   ],
+   "excerpt": "The Budget was a newspaper in Elmira, New York, in 1893 and 1894. The U.S. Postal Card is Scott catalog #UX9, issued December 1, 1886."
+  },
+  {
+   "id": "80640",
+   "title": "Free Pennsylvania Railroad Pass, Huggins the Tailor, Harrisburg, Pa.",
+   "url": "https://fontsinuse.com/uses/80640/free-pennsylvania-railroad-pass-huggins-the-1",
+   "date": "2026-11-01T17:34:29.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7875",
+     "name": "Cloister Black",
+     "url": "https://fontsinuse.com/typefaces/7875/cloister-black",
+     "sample": "https://assets.fontsinuse.com/static/renders/9/7875/400/4/6ae77826/cloister-black.png"
+    },
+    {
+     "id": "250450",
+     "name": "Mazarin",
+     "url": "https://fontsinuse.com/typefaces/250450/mazarin",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19463/440/4/6ae76104/mazarin.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306417/upto-700xauto/6acba06b/54467734072_fe84d88450_c.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306434/upto-700xauto/6acba091/54468832498_1be02a34d4_c.jpeg"
+   ],
+   "excerpt": "Harrisburg tailor Edgar J. Huggins (1872–1967) intended this card to look like a valuable Pennsylvania Railroad pass."
+  },
+  {
+   "id": "80840",
+   "title": "Boricua Guerrero: First Combat album art",
+   "url": "https://fontsinuse.com/uses/80840/boricua-guerrero-first-combat-album-art",
+   "date": "2026-11-01T15:28:26.000Z",
+   "author": "Ian Neville",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1840",
+     "name": "ITC Machine",
+     "url": "https://fontsinuse.com/typefaces/1840/itc-machine",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1840/400/4/6ae75a9b/itc-machine.png"
+    },
+    {
+     "id": "142619",
+     "name": "Housebroken Clean",
+     "url": "https://fontsinuse.com/typefaces/142619/housebroken-clean",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7336/440/4/6ae758fc/housebroken-clean.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309221/upto-700xauto/6ae754a5/2261d2d5cab83b88b3e55dfbe267d60f-1000x1000x1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307341/upto-700xauto/6ae7544c/R-5938524-1543533103-2065.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307342/upto-700xauto/6ae7544c/R-5938524-1543533100-8103.jpeg"
+   ],
+   "excerpt": "The 1997 compilation First Combat is the first release by Puerto Rican label Boricua Guerrero. The double album with 35 reggaeton and hip-hop tracks had quite an impact: According to Eduardo Cepeda , it “paved the way for Latin trap”."
+  },
   {
    "id": "80794",
    "title": "Citizenship Adventures of the Lollipop Dragon filmstrips",
@@ -545,6 +977,12 @@
      "name": "Noteworthy",
      "url": "https://fontsinuse.com/typefaces/7543/noteworthy",
      "sample": "https://assets.fontsinuse.com/static/samples/7/6679/440/4/5ec426c9/noteworthy.png"
+    },
+    {
+     "id": "28146",
+     "name": "Skia",
+     "url": "https://fontsinuse.com/typefaces/28146/skia",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17208/440/4/6931f9b1/skia.png"
     },
     {
      "id": "250594",
