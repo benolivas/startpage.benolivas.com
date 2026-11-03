@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-02T18:14:21.195Z",
+ "updated": "2026-11-03T16:09:07.352Z",
  "day": {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "picks": [
-   "250492",
-   "45594",
-   "5488",
-   "250461",
-   "250600",
-   "31531",
-   "245321",
-   "142610",
-   "250596"
+   "236",
+   "229524",
+   "248190",
+   "150962",
+   "7239",
+   "47527",
+   "250623",
+   "248634",
+   "1712"
   ]
  },
  "history": [
@@ -280,9 +280,359 @@
     "142610",
     "250596"
    ]
+  },
+  {
+   "date": "2026-11-03",
+   "picks": [
+    "236",
+    "229524",
+    "248190",
+    "150962",
+    "7239",
+    "47527",
+    "250623",
+    "248634",
+    "1712"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "74349",
+   "title": "Bain de minuit",
+   "url": "https://fontsinuse.com/uses/74349/bain-de-minuit",
+   "date": "2026-11-03T11:01:51.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "229524",
+     "name": "AL Werner",
+     "url": "https://fontsinuse.com/typefaces/229524/al-werner",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12039/440/4/64c9f231/al-werner.png"
+    },
+    {
+     "id": "236",
+     "name": "Caslon",
+     "url": "https://fontsinuse.com/typefaces/236/caslon",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/236/400/4/6ae9bf20/caslon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306594/upto-700xauto/6ae9bf2a/miyster-lune.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300860/upto-700xauto/6acee012/694992247_17878921008591752_8097727996016973577_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300861/upto-700xauto/6a80cf64/589077397_17852905824591752_4578054631435789999_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300857/upto-700xauto/6a80cf64/764654898_17894426295591752_3394874342687542419_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300862/upto-700xauto/6ace20d5/587631276_17852513388591752_4446286927655335489_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300863/upto-700xauto/6ace20d6/588799122_17856324474591752_2961322987985784894_n.jpeg"
+   ],
+   "excerpt": "Bain de Minuit , the first wine project by Swiss winemaker Raphaël Lambelet , features AL Werner throughout its visual identity, designed by artist and designer Chiara Bertin . Produced in Neuchâtel, Switzerland, following a low-intervention approach to…"
+  },
+  {
+   "id": "74253",
+   "title": "En: La Sociedad de la Nieve",
+   "url": "https://fontsinuse.com/uses/74253/en-la-sociedad-de-la-nieve",
+   "date": "2026-11-03T10:59:07.000Z",
+   "author": "Yorlmar Campos",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246622",
+     "name": "Physis",
+     "url": "https://fontsinuse.com/typefaces/246622/physis",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17331/440/4/694951d2/physis.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305563/upto-700xauto/6abfc468/Abadesa_portrait0653-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305564/upto-700xauto/6ae9f485/MG_1396-La-sociedad-de-la-nieve-4-700x394pxl.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305565/upto-700xauto/6abfc483/428179884_359209890368552_8072256321252085544_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305566/upto-700xauto/6abfc48b/Abadesa_portrait0671-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305567/upto-700xauto/6abfc4a4/Abadesa_portrait0724-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305568/upto-700xauto/6abfc4ad/419308048_838189988108876_4542448948976286342_n.jpeg"
+   ],
+   "excerpt": "Designed by Ricardo Báez , this book is a visual and personal account by set photographer Quim Vives of his experience during the making of the movie La Sociedad de la Nieve (\"Society of the Snow\"), directed by J. A. Bayona. The film is based on Pablo…"
+  },
+  {
+   "id": "80565",
+   "title": "Strategische Kreativität by Simon Grand & Christoph Weckerle",
+   "url": "https://fontsinuse.com/uses/80565/strategische-kreativitaet-by-simon-grand-and-",
+   "date": "2026-11-03T10:58:07.000Z",
+   "author": "Extraset",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "166536",
+     "name": "Es Face",
+     "url": "https://fontsinuse.com/typefaces/166536/es-face",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8650/440/4/612f9246/es-face.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306049/upto-700xauto/6ac61afc/alp-sk-01.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306050/upto-700xauto/6ac61afc/alp-sk-02.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306051/upto-700xauto/6ac61afc/alp-sk-03.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306052/upto-700xauto/6ac61b01/alp-sk-05.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306053/upto-700xauto/6ac61b01/alp-sk-06.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306048/upto-700xauto/6ac61b01/651502221_17997853541877284_6158875243287322460_n.jpeg"
+   ],
+   "excerpt": "Strategische Kreativität is a book introduced as follows by its publisher Versus (and translated in English by the contributor):"
+  },
+  {
+   "id": "80549",
+   "title": "Collective States: Worlds of Photograph at the AGO",
+   "url": "https://fontsinuse.com/uses/80549/collective-states-worlds-of-photograph-at-the",
+   "date": "2026-11-03T10:57:12.000Z",
+   "author": "Greg Gazdowicz",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "233660",
+     "name": "Focal",
+     "url": "https://fontsinuse.com/typefaces/233660/focal",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13143/440/4/6605b7d3/focal.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305973/upto-700xauto/6ac526b6/IMG_9854.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305974/upto-700xauto/6ac526c5/IMG_9827.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305975/upto-700xauto/6ac526cc/IMG_9829.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305976/upto-700xauto/6ac526d4/IMG_9831.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305977/upto-700xauto/6ac526d9/IMG_9836.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305978/upto-700xauto/6ac526dd/IMG_9839.jpeg"
+   ],
+   "excerpt": "Focal was used throughout this entire photo book produced by the Art Gallery of Ontario ’s photo department. Even with Focal’s smaller x-height it holds up well at small sizes. Designed by Polymode (Brian Johnson, Silas Munro, Randa Hadi). The cover has…"
+  },
+  {
+   "id": "80509",
+   "title": "The Chronicles of Cringe",
+   "url": "https://fontsinuse.com/uses/80509/the-chronicles-of-cringe",
+   "date": "2026-11-03T10:57:00.000Z",
+   "author": "gestalten",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "241481",
+     "name": "Kh Teka",
+     "url": "https://fontsinuse.com/typefaces/241481/kh-teka",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14673/440/4/67924a73/kh-teka.png"
+    },
+    {
+     "id": "1772",
+     "name": "Itc Garamond",
+     "url": "https://fontsinuse.com/typefaces/1772/itc-garamond",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1772/400/4/6ae9f86b/itc-garamond.png"
+    },
+    {
+     "id": "10793",
+     "name": "Noto Sans",
+     "url": "https://fontsinuse.com/typefaces/10793/noto-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/598/440/4/570e2042/noto-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305737/upto-700xauto/6ac35eba/CHRINBO3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309444/upto-700xauto/6ae9f796/CHRINBO-P004-005.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309446/upto-700xauto/6ae9f7bf/CHRINBO-P002-003-1.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305746/upto-700xauto/6ae9f796/Screenshot%202026-10-05%20at%2010-33-49.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309445/upto-700xauto/6ae9f797/CHRINBO-P0012-013%20copy.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309443/upto-700xauto/6ae9f797/Screenshot%202026-11-03%20at%2015-57-40%20The%20Chronicles%20of%20Cringe%20A%20History%20of%20Human%20Embarrassment.png"
+   ],
+   "excerpt": "The Chronicles of Cringe : a History of Human Embarrasment was compiled by David Green and Merone Tesfaye, and published by Gestalten . the book and its promotion website were designed by Graphics Dept. ."
+  },
+  {
+   "id": "80636",
+   "title": "Dog Below by Nick Greer",
+   "url": "https://fontsinuse.com/uses/80636/dog-below-by-nick-greer",
+   "date": "2026-11-03T10:55:50.000Z",
+   "author": "Nick Greer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247548",
+     "name": "Alpenkreuzer",
+     "url": "https://fontsinuse.com/typefaces/247548/alpenkreuzer",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17703/440/4/6995986d/alpenkreuzer.png"
+    },
+    {
+     "id": "1847",
+     "name": "Microgramma",
+     "url": "https://fontsinuse.com/typefaces/1847/microgramma",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1847/400/4/6ae9bdb7/microgramma.png"
+    },
+    {
+     "id": "3359",
+     "name": "Optima",
+     "url": "https://fontsinuse.com/typefaces/3359/optima",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3359/400/4/6ae9c442/optima.png"
+    },
+    {
+     "id": "250623",
+     "name": "STH Doughter",
+     "url": "https://fontsinuse.com/typefaces/250623/sth-doughter",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19494/440/4/6ae9bcd5/sth-doughter.png"
+    },
+    {
+     "id": "31513",
+     "name": "Bembo Book",
+     "url": "https://fontsinuse.com/typefaces/31513/bembo-book",
+     "sample": "https://assets.fontsinuse.com/static/renders/35/31513/400/4/6ae9bdb7/bembo-book.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306402/upto-700xauto/6ae9df19/full-cover-spread.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306403/upto-700xauto/6ae9df1f/endpapers_dog-below.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306404/upto-700xauto/6ae9df22/interior_01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306405/upto-700xauto/6ae9df28/interior_02.png"
+   ],
+   "excerpt": "The full cover spread for Dog Below (2026)"
+  },
+  {
+   "id": "79169",
+   "title": "Maya Strobbe – Squzzle",
+   "url": "https://fontsinuse.com/uses/79169/maya-strobbe-squzzle",
+   "date": "2026-11-03T10:42:03.000Z",
+   "author": "Maya Strobbe",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235170",
+     "name": "Sono",
+     "url": "https://fontsinuse.com/typefaces/235170/sono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13544/440/4/667ac208/sono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306700/upto-700xauto/6acf414c/11.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306697/upto-700xauto/6acf414d/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306698/upto-700xauto/6acf414c/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306699/upto-700xauto/6acf414c/3.jpeg"
+   ],
+   "excerpt": "Squzzle , an initiative by Miranda Smart , is an anthology collecting abstract comics, experimental graphic scores and visual essays. The first edition explores the theme of Time Dysphoria, with contributions by Cynthia Alfonso, Daria Chernyshova, James…"
+  },
+  {
+   "id": "80706",
+   "title": "Maria Vasilyeva portfolio website",
+   "url": "https://fontsinuse.com/uses/80706/maria-vasilyeva-portfolio-website",
+   "date": "2026-11-03T10:32:08.000Z",
+   "author": "Maria Vasilyeva",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "168734",
+     "name": "Feature",
+     "url": "https://fontsinuse.com/typefaces/168734/feature",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9195/440/4/61965058/feature.png"
+    },
+    {
+     "id": "244690",
+     "name": "Abc Synt Mono",
+     "url": "https://fontsinuse.com/typefaces/244690/abc-synt-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16009/440/4/685e92a2/abc-synt-mono.png"
+    },
+    {
+     "id": "6393",
+     "name": "Suomi Hand Script",
+     "url": "https://fontsinuse.com/typefaces/6393/suomi-hand-script",
+     "sample": "https://assets.fontsinuse.com/static/renders/44/6393/400/4/6ae9b829/suomi-hand-script.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306720/upto-700xauto/6ae9b84d/404-annotations%20on.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306716/upto-700xauto/6acf4f73/Navigation%20-%20open%20-%20Annotations%20off-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306715/upto-700xauto/6acf4f73/desktop.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306717/upto-700xauto/6ae9b857/Navigation%20-%20open%20-%20Annotations%20off.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306721/upto-700xauto/6acf4fcd/Instagram%20post%20-%2011.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306713/upto-700xauto/6acf4fcf/404-annotations%20on-2.png"
+   ],
+   "excerpt": "My portfolio website – visual and interactive designer Maria Vasilyeva – is inspired by music and sound. Rhythm, typography, layout, custom interactions, and animation come together to create a dynamic and immersive experience. Typography is central to the…"
+  },
+  {
+   "id": "80692",
+   "title": "Collateral",
+   "url": "https://fontsinuse.com/uses/80692/collateral",
+   "date": "2026-11-03T10:28:13.000Z",
+   "author": "boldstudio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250469",
+     "name": "BB System",
+     "url": "https://fontsinuse.com/typefaces/250469/bb-system",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19484/440/4/6ae9b4a8/bb-system.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306636/upto-700xauto/6ae9b39a/collateral-edition-en-2026-10-13.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309400/upto-700xauto/6ae9b47f/Scherm%C2%ADafbeelding%202026-11-03%20om%2011-14-23.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309401/upto-700xauto/6ae9b468/Screenshot%202026-11-03%20at%2011-15-38%20Collateral%20Edition%20%E2%80%94%20Collateral%20Edition.png"
+   ],
+   "excerpt": "Collateral is a modular system for adaptable spaces. Their identity and the onepager brochure website were designed by Maxime Benoit , using BB System from Bold Studio ."
+  },
+  {
+   "id": "80683",
+   "title": "WET Vol. 2",
+   "url": "https://fontsinuse.com/uses/80683/wet-vol-2",
+   "date": "2026-11-03T10:05:00.000Z",
+   "author": "Steve Ach",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248794",
+     "name": "Carey Regular",
+     "url": "https://fontsinuse.com/typefaces/248794/carey-regular",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18451/440/4/6a43f231/carey-regular.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306598/upto-700xauto/6ae9fa39/842574691_18628855108049712_4308181802348013487_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306599/upto-700xauto/6ace33f1/764350756_18606910309049712_8613682570036301949_n.jpeg"
+   ],
+   "excerpt": "WET Volume 2 is a handmade artist book by Meg Turner inspired by vintage photography magazines. Featuring tintype photographs reproduced through photogravure on an etching press, it was created during an artist residency at Women’s Studio Workshop in…"
+  },
+  {
+   "id": "80661",
+   "title": "Dr. Herschel Brown campaign website",
+   "url": "https://fontsinuse.com/uses/80661/dr-herschel-brown-campaign-website",
+   "date": "2026-11-02T19:08:28.000Z",
+   "author": "Darden Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235075",
+     "name": "Gamay",
+     "url": "https://fontsinuse.com/typefaces/235075/gamay",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13524/440/4/66742008/gamay.png"
+    },
+    {
+     "id": "33298",
+     "name": "Galano Grotesque",
+     "url": "https://fontsinuse.com/typefaces/33298/galano-grotesque",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1730/440/4/570e2100/galano-grotesque.png"
+    },
+    {
+     "id": "1299",
+     "name": "Almaq",
+     "url": "https://fontsinuse.com/typefaces/1299/almaq",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19365/440/4/6acce77e/almaq.png"
+    },
+    {
+     "id": "10819",
+     "name": "Source Sans",
+     "url": "https://fontsinuse.com/typefaces/10819/source-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/603/440/4/5f9d6b4e/source-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306529/upto-700xauto/6acd02e7/Dr-%20Brown%20for%20House%20District%2099%2001.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306534/upto-700xauto/6acd02fc/Dr-%20Brown%20for%20House%20District%2099%2002.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306533/upto-700xauto/6acd02fe/Dr-%20Brown%20for%20House%20District%2099%2003.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306532/upto-700xauto/6ad24272/Dr-%20Brown%20for%20House%20District%2099%2004.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306531/upto-700xauto/6acd02fa/Dr-%20Brown%20for%20House%20District%2099%2005.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306530/upto-700xauto/6ad24298/Dr-%20Brown%20for%20House%20District%2099%2006.png"
+   ],
+   "excerpt": "Gamay is the headline voice for Dr. Herschel Brown’s election campaign ."
+  },
   {
    "id": "80624",
    "title": "Graphite Tennis Fashion Archive",
@@ -3466,7 +3816,7 @@
    "url": "https://fontsinuse.com/uses/81007/by-no-means",
    "date": "2026-10-24T08:45:05.000Z",
    "author": "Tom Watkins",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "248190",
