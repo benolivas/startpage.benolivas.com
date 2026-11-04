@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-03T16:09:07.352Z",
+ "updated": "2026-11-04T16:13:09.523Z",
  "day": {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "picks": [
-   "236",
-   "229524",
-   "248190",
-   "150962",
-   "7239",
-   "47527",
-   "250623",
-   "248634",
-   "1712"
+   "245228",
+   "65",
+   "80",
+   "229972",
+   "229211",
+   "231255",
+   "217740",
+   "109876",
+   "1719"
   ]
  },
  "history": [
@@ -294,9 +294,316 @@
     "248634",
     "1712"
    ]
+  },
+  {
+   "date": "2026-11-04",
+   "picks": [
+    "245228",
+    "65",
+    "80",
+    "229972",
+    "229211",
+    "231255",
+    "217740",
+    "109876",
+    "1719"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80729",
+   "title": "Carla Köllner Big Band – Not Obsessed But Kinda Into It album art",
+   "url": "https://fontsinuse.com/uses/80729/carla-koellner-big-band-not-obsessed-but-kind",
+   "date": "2026-11-04T10:52:00.000Z",
+   "author": "Xiaoyuan Gao",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247461",
+     "name": "Commonsans Condensed Badkern",
+     "url": "https://fontsinuse.com/typefaces/247461/commonsans-condensed-badkern",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17596/440/4/69848e23/commonsans-condensed-badkern.png"
+    },
+    {
+     "id": "107835",
+     "name": "Simon Mono",
+     "url": "https://fontsinuse.com/typefaces/107835/simon-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5890/440/4/67501bdf/simon-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306837/upto-700xauto/6ad097af/Any-Studio_Carla-Ko%CC%88llner_3_Cover.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306839/upto-700xauto/6ad09651/Any-Studio_Carla-Ko%CC%88llner_5_Inside.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306841/upto-700xauto/6ad09650/Any-Studio_Carla-Ko%CC%88llner_9_Booklet.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306840/upto-700xauto/6ad09651/Any-Studio_Carla-Ko%CC%88llner_8_Booklet.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306838/upto-700xauto/6ad09651/Any-Studio_Carla-Ko%CC%88llner_4_Back.png"
+   ],
+   "excerpt": "Not Obsessed But Kinda Into It is the debut album of Carla Köllner Big Band . From Jazzjazz.de (machine-translated):"
+  },
+  {
+   "id": "80710",
+   "title": "Fragments Festival 2026",
+   "url": "https://fontsinuse.com/uses/80710/fragments-festival-2026",
+   "date": "2026-11-04T08:55:52.000Z",
+   "author": "Fakepaper",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "245228",
+     "name": "Print Script",
+     "url": "https://fontsinuse.com/typefaces/245228/print-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16523/440/4/68c2a257/print-script.png"
+    },
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aeaf319/neue-haas-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306737/upto-700xauto/6aeaf323/261013-Fragments-Affiche-1080x1350px.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306736/upto-700xauto/6acf57cc/261001-Fragments-Digital-1080x1360px-Metal-Brochure-2B.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306738/upto-700xauto/6acf57c5/261013-Fragments-Affiche-Zoom-1080x1350px-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306739/upto-700xauto/6acf57c6/261013-Fragments-Brochure-Scans-1080x1350px-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306740/upto-700xauto/6acf57c7/261013-Fragments-Brochure-Scans-1080x1350px-2.jpeg"
+   ],
+   "excerpt": "Visual identity for the 14th edition of Fragments Festival , taking place from October 12 to 16 across Île-de-France, and throughout the season across France. It features 13 partner venues, 13 companies, and 13 productions still in the making."
+  },
+  {
+   "id": "78934",
+   "title": "ANNĒ – Metallic Tapes EP",
+   "url": "https://fontsinuse.com/uses/78934/anne-metallic-tapes-ep",
+   "date": "2026-11-04T08:54:00.000Z",
+   "author": "Johannes Pejas (Kimera)",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "183841",
+     "name": "KMR Waldenburg",
+     "url": "https://fontsinuse.com/typefaces/183841/kmr-waldenburg",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9590/440/4/64007400/kmr-waldenburg.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/299/298023/upto-700xauto/6a58cba3/ANNE%CC%84%20%E2%80%93%20Metallic%20Tapes_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298026/upto-700xauto/6a58cbe1/ANNE%CC%84%20%E2%80%93%20Metallic%20Tapes_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298024/upto-700xauto/6a58cbe1/ANNE%CC%84%20%E2%80%93%20Metallic%20Tapes_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298022/upto-700xauto/6a58cbe1/ANNE%CC%84%20%E2%80%93%20Metallic%20Tapes_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/299/298025/upto-700xauto/6a58cbe1/ANNE%CC%84%20%E2%80%93%20Metallic%20Tapes_04.jpeg"
+   ],
+   "excerpt": "Artwork for ANNĒ’s EP Metallic Tapes , released on Blind Harmonies. The EP brings together the four tracks. Designer Dominik Keller used the KMR Waldenburg Condensed Bold typeface for the album artwork."
+  },
+  {
+   "id": "80708",
+   "title": "Manuel de sabotage 2.0",
+   "url": "https://fontsinuse.com/uses/80708/manuel-de-sabotage-2-0",
+   "date": "2026-11-04T08:53:25.000Z",
+   "author": "Roman Seban",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250470",
+     "name": "Guyana",
+     "url": "https://fontsinuse.com/typefaces/250470/guyana",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19375/440/4/6acf3074/guyana.png"
+    },
+    {
+     "id": "229211",
+     "name": "EK Baumer",
+     "url": "https://fontsinuse.com/typefaces/229211/ek-baumer",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18537/440/4/6a326932/ek-baumer.png"
+    },
+    {
+     "id": "213823",
+     "name": "Oceanic Text",
+     "url": "https://fontsinuse.com/typefaces/213823/oceanic-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10840/440/4/6374b069/oceanic-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306724/upto-700xauto/6aeaf2ac/mockup_Sabotage_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306741/upto-700xauto/6acf588a/Maquette%20de%20couverture%20bleue%20au%20lettrage%20ne%CC%81on.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306725/upto-700xauto/6acf588b/mockup_Sabotage_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306726/upto-700xauto/6acf588b/mockup_Sabotage_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306723/upto-700xauto/6acf588b/Manuel%20de%20sabotage%202-0%20%E2%80%94%20livre%20bleu%E3%80%91%E3%80%90%E3%80%82.png"
+   ],
+   "excerpt": "Inspired by the famous Simple Sabotage Field Manual ( Office of Strategic Services , OSS, 1944), this mischievous guide offers a deep dive into the art of disrupting, slowing down, and throwing a wrench into the gears of modern organizations. In today’s…"
+  },
+  {
+   "id": "80727",
+   "title": "ZOOM TV",
+   "url": "https://fontsinuse.com/uses/80727/zoom-tv-1",
+   "date": "2026-11-04T08:45:00.000Z",
+   "author": "TypeMates",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "161965",
+     "name": "Grato Classic",
+     "url": "https://fontsinuse.com/typefaces/161965/grato-classic",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8371/440/4/60d07cfb/grato-classic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306826/upto-700xauto/6ad08b62/TM_FontInUse_Zoom_EasyGrotesk_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306821/upto-700xauto/6ad08b65/TM_FontInUse_Zoom_EasyGrotesk_5.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306820/upto-700xauto/6aeb0c7c/TM_FontInUse_Zoom_EasyGrotesk_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306824/upto-700xauto/6ad08b5e/TM_FontInUse_Zoom_EasyGrotesk_8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306822/upto-700xauto/6ad08b5e/TM_FontInUse_Zoom_EasyGrotesk_6.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306823/upto-700xauto/6ad08b5e/TM_FontInUse_Zoom_EasyGrotesk_7.jpeg"
+   ],
+   "excerpt": "ZOOM TV , the Polish broadcaster, needed a rebranding to reposition itself and better appeal to a modern audience. To address this challenge, Wyraz developed a dynamic, highly adaptable visual identity centered around motion. Grato Classic by TypeMates…"
+  },
+  {
+   "id": "79315",
+   "title": "9th Tallinn Applied Art Triennial visual identity",
+   "url": "https://fontsinuse.com/uses/79315/9th-tallinn-applied-art-triennial-visual-iden",
+   "date": "2026-11-04T08:41:38.000Z",
+   "author": "Tüpokompanii",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "249915",
+     "name": "Vee",
+     "url": "https://fontsinuse.com/typefaces/249915/vee",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18916/440/4/6aba8023/vee.png"
+    },
+    {
+     "id": "41931",
+     "name": "Geographica",
+     "url": "https://fontsinuse.com/typefaces/41931/geographica",
+     "sample": "https://assets.fontsinuse.com/static/renders/44/41931/400/4/6aeaefc3/geographica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/300/299924/upto-700xauto/6aeaefde/TRTR_01-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299927/upto-700xauto/6a71022a/TRTR_04-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299930/upto-700xauto/6a710231/TRTR_07-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299931/upto-700xauto/6a710240/TRTR_08-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299925/upto-700xauto/6a710240/TRTR_02-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299926/upto-700xauto/6a710240/TRTR_03-scaled.jpeg"
+   ],
+   "excerpt": "Vee and Geographica are used by graphic designer Laura Pappa for the visual identity of the 9th Tallinn Applied Art Triennial (“9. Tallinna rakenduskunsti triennaal”)"
+  },
+  {
+   "id": "80711",
+   "title": "Roma Design Experience 2026. Geografie di spazio, tempo e relazioni",
+   "url": "https://fontsinuse.com/uses/80711/roma-design-experience-2026-geografie-di-spaz",
+   "date": "2026-11-04T08:34:56.000Z",
+   "author": "Dario Manzo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245668",
+     "name": "Altro Serif",
+     "url": "https://fontsinuse.com/typefaces/245668/altro-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16806/440/4/68f0cea3/altro-serif.png"
+    },
+    {
+     "id": "245688",
+     "name": "Altro Grotesk",
+     "url": "https://fontsinuse.com/typefaces/245688/altro-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16804/440/4/68f0ce86/altro-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306742/upto-700xauto/6acf7564/RDE8_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306743/upto-700xauto/6acf7564/RDE8_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306744/upto-700xauto/6aeaee6c/RDE8_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306745/upto-700xauto/6aeaee6c/RDE8_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306754/upto-700xauto/6aeaee6c/RDE8_12.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306746/upto-700xauto/6aeaee6a/RDE8_7.jpeg"
+   ],
+   "excerpt": "This publication stems from the eighth edition of Roma Design Experience , an innovative educational format created by ISIA Roma Design that aims to “transform learning into an immersive laboratory of applied research and collaboration with national and…"
+  },
+  {
+   "id": "80689",
+   "title": "More Names by Stacie Vos",
+   "url": "https://fontsinuse.com/uses/80689/more-names-by-stacie-vos",
+   "date": "2026-11-04T08:25:23.000Z",
+   "author": "Bold-Decisions.biz",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "134023",
+     "name": "True Sans",
+     "url": "https://fontsinuse.com/typefaces/134023/true-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6897/440/4/5f0d98ce/true-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306617/upto-700xauto/6aeaeab4/491438382_18400212154104754_3738043596325141327_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309504/upto-700xauto/6aeaeab4/306616.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306619/upto-700xauto/6aeaead5/494399104_18401756608104754_9068553364919805574_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306620/upto-700xauto/6aeaead6/495698885_18401756605104754_1786896604260501620_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306618/upto-700xauto/6aeaead6/495703655_18401756617104754_5939338258174136538_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306613/upto-700xauto/6aeaec50/491416517_18400212181104754_6924059840938873670_n.jpeg"
+   ],
+   "excerpt": "Description of the project by Europium (a joint project by Studio Ghazaal Vojdani and photographer Julia Andréone ):"
+  },
+  {
+   "id": "80673",
+   "title": "Shin Megami Tensei: KAHN by Kazuaki Yanagisawa",
+   "url": "https://fontsinuse.com/uses/80673/shin-megami-tensei-kahn-by-kazuaki-yanagisawa",
+   "date": "2026-11-04T08:14:03.000Z",
+   "author": "Pixel OLED",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "3260",
+     "name": "Auriol",
+     "url": "https://fontsinuse.com/typefaces/3260/auriol",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/3260/400/4/6aeae94c/auriol.png"
+    },
+    {
+     "id": "41567",
+     "name": "TC Europa",
+     "url": "https://fontsinuse.com/typefaces/41567/tc-europa",
+     "sample": "https://assets.fontsinuse.com/static/renders/54/41567/400/4/6aeae94c/tc-europa.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306543/upto-700xauto/6aeae951/image.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309503/upto-700xauto/6aeae9ac/Scherm%C2%ADafbeelding%202026-11-04%20om%2009-06-36.png"
+   ],
+   "excerpt": "Shin Megami Tensei: Kahn (真・女神転生カーン) is the sequel to the manga adaptation of Shin Megami Tensei: if... It was created by Kazuaki Yanagisawa who wrote the original manga, and was serialized in Comic Beam , a magazine run by ASCII Comics, Aspect Comics and…"
+  },
+  {
+   "id": "81279",
+   "title": "“I Voted” sticker for 2024 & 2026 San Francisco elections",
+   "url": "https://fontsinuse.com/uses/81279/i-voted-sticker-for-2024-and-2026-san-francis",
+   "date": "2026-11-03T20:53:41.000Z",
+   "author": "Stephen Coles",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38182",
+     "name": "Modesto Initials",
+     "url": "https://fontsinuse.com/typefaces/38182/modesto-initials",
+     "sample": "https://assets.fontsinuse.com/static/renders/41/38182/400/4/6aea5c16/modesto-initials.png"
+    },
+    {
+     "id": "4869",
+     "name": "Arial",
+     "url": "https://fontsinuse.com/typefaces/4869/arial",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/4869/400/4/6aea49d6/arial.png"
+    },
+    {
+     "id": "7520",
+     "name": "Open Sans",
+     "url": "https://fontsinuse.com/typefaces/7520/open-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/718/440/4/5e67b983/open-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309489/upto-700xauto/6aea5d1c/San-Francisco-I-voted-sticker-2026.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309491/upto-700xauto/6aea50e3/Modesto%20Initials%20Chromatic.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309492/upto-700xauto/6aea5d6c/SF-Voted-sticker-on-levi-jacket.jpeg"
+   ],
+   "excerpt": "Today is general election day in the U.S. and people are sharing the “I Voted” stickers that most local districts give away at the polls and in mailed ballot packets. I appreciate that Hollis Callas , the creator of this sticker for the San Francisco…"
+  },
   {
    "id": "74349",
    "title": "Bain de minuit",
@@ -312,14 +619,14 @@
      "sample": "https://assets.fontsinuse.com/static/samples/13/12039/440/4/64c9f231/al-werner.png"
     },
     {
-     "id": "236",
-     "name": "Caslon",
-     "url": "https://fontsinuse.com/typefaces/236/caslon",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/236/400/4/6ae9bf20/caslon.png"
+     "id": "65",
+     "name": "Adobe Caslon",
+     "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6ac3600c/adobe-caslon.png"
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/307/306594/upto-700xauto/6ae9bf2a/miyster-lune.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306594/upto-700xauto/6aea05ba/miyster-lune.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300860/upto-700xauto/6acee012/694992247_17878921008591752_8097727996016973577_n.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300861/upto-700xauto/6a80cf64/589077397_17852905824591752_4578054631435789999_n.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300857/upto-700xauto/6a80cf64/764654898_17894426295591752_3394874342687542419_n.jpeg",
@@ -330,8 +637,8 @@
   },
   {
    "id": "74253",
-   "title": "En: La Sociedad de la Nieve",
-   "url": "https://fontsinuse.com/uses/74253/en-la-sociedad-de-la-nieve",
+   "title": "En: La Sociedad de la Nieve by Quim Vives",
+   "url": "https://fontsinuse.com/uses/74253/en-la-sociedad-de-la-nieve-by-quim-vives",
    "date": "2026-11-03T10:59:07.000Z",
    "author": "Yorlmar Campos",
    "staffPick": false,
@@ -351,7 +658,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/306/305567/upto-700xauto/6abfc4a4/Abadesa_portrait0724-scaled.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/306/305568/upto-700xauto/6abfc4ad/419308048_838189988108876_4542448948976286342_n.jpeg"
    ],
-   "excerpt": "Designed by Ricardo Báez , this book is a visual and personal account by set photographer Quim Vives of his experience during the making of the movie La Sociedad de la Nieve (\"Society of the Snow\"), directed by J. A. Bayona. The film is based on Pablo…"
+   "excerpt": "Designed by Ricardo Báez , this book is a visual and personal account by set photographer Quim Vives of his experience during the making of the movie La Sociedad de la Nieve (“Society of the Snow”), directed by J.A. Bayona. The film is based on Pablo…"
   },
   {
    "id": "80565",
@@ -548,10 +855,31 @@
    "excerpt": "My portfolio website – visual and interactive designer Maria Vasilyeva – is inspired by music and sound. Rhythm, typography, layout, custom interactions, and animation come together to create a dynamic and immersive experience. Typography is central to the…"
   },
   {
+   "id": "80683",
+   "title": "WET Vol. 2 by Meg Turner",
+   "url": "https://fontsinuse.com/uses/80683/wet-vol-2-by-meg-turner",
+   "date": "2026-11-03T10:05:00.000Z",
+   "author": "Steve Ach",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248794",
+     "name": "Carey Regular",
+     "url": "https://fontsinuse.com/typefaces/248794/carey-regular",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18451/440/4/6a43f231/carey-regular.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306598/upto-700xauto/6aea0df5/842574691_18628855108049712_4308181802348013487_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306599/upto-700xauto/6ace33f1/764350756_18606910309049712_8613682570036301949_n.jpeg"
+   ],
+   "excerpt": "Poster for the release party in New Orleans, featuring a live performance by Koko Barrios, DJ sets from Brookiecita and Pescadilla, and a slideshow and print sale by photographer Meg Turner."
+  },
+  {
    "id": "80692",
    "title": "Collateral",
    "url": "https://fontsinuse.com/uses/80692/collateral",
-   "date": "2026-11-03T10:28:13.000Z",
+   "date": "2026-11-03T10:00:00.000Z",
    "author": "boldstudio",
    "staffPick": false,
    "typefaces": [
@@ -568,27 +896,6 @@
     "https://assets.fontsinuse.com/static/use-media-items/310/309401/upto-700xauto/6ae9b468/Screenshot%202026-11-03%20at%2011-15-38%20Collateral%20Edition%20%E2%80%94%20Collateral%20Edition.png"
    ],
    "excerpt": "Collateral is a modular system for adaptable spaces. Their identity and the onepager brochure website were designed by Maxime Benoit , using BB System from Bold Studio ."
-  },
-  {
-   "id": "80683",
-   "title": "WET Vol. 2",
-   "url": "https://fontsinuse.com/uses/80683/wet-vol-2",
-   "date": "2026-11-03T10:05:00.000Z",
-   "author": "Steve Ach",
-   "staffPick": false,
-   "typefaces": [
-    {
-     "id": "248794",
-     "name": "Carey Regular",
-     "url": "https://fontsinuse.com/typefaces/248794/carey-regular",
-     "sample": "https://assets.fontsinuse.com/static/samples/19/18451/440/4/6a43f231/carey-regular.png"
-    }
-   ],
-   "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/307/306598/upto-700xauto/6ae9fa39/842574691_18628855108049712_4308181802348013487_n.jpeg",
-    "https://assets.fontsinuse.com/static/use-media-items/307/306599/upto-700xauto/6ace33f1/764350756_18606910309049712_8613682570036301949_n.jpeg"
-   ],
-   "excerpt": "WET Volume 2 is a handmade artist book by Meg Turner inspired by vintage photography magazines. Featuring tintype photographs reproduced through photogravure on an etching press, it was created during an artist residency at Women’s Studio Workshop in…"
   },
   {
    "id": "80661",
@@ -1565,7 +1872,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6ae5d60e/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aeaf319/neue-haas-grotesk.png"
     }
    ],
    "images": [
