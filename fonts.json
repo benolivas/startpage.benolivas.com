@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-04T16:13:09.523Z",
+ "updated": "2026-11-05T16:25:13.456Z",
  "day": {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "picks": [
-   "245228",
-   "65",
-   "80",
-   "229972",
-   "229211",
-   "231255",
-   "217740",
-   "109876",
-   "1719"
+   "4457",
+   "113112",
+   "235451",
+   "5196",
+   "7277",
+   "31513",
+   "3966",
+   "234407",
+   "202260"
   ]
  },
  "history": [
@@ -308,9 +308,300 @@
     "109876",
     "1719"
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "picks": [
+    "4457",
+    "113112",
+    "235451",
+    "5196",
+    "7277",
+    "31513",
+    "3966",
+    "234407",
+    "202260"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80842",
+   "title": "Die neue Polis book series",
+   "url": "https://fontsinuse.com/uses/80842/die-neue-polis-book-series",
+   "date": "2026-11-05T09:55:29.000Z",
+   "author": "Sophie Taeuber",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "4457",
+     "name": "Sabon Next",
+     "url": "https://fontsinuse.com/typefaces/4457/sabon-next",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4457/400/4/6aec5292/sabon-next.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307346/upto-700xauto/6aec52c4/0901-die-neue-polis-nzz-unfolded-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307347/upto-700xauto/6ad37621/0901-die-neue-polis-nzz-unfolded-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307348/upto-700xauto/6ad37621/0901-die-neue-polis-nzz-unfolded-7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307349/upto-700xauto/6ad37622/0901-die-neue-polis-nzz-unfolded-8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307350/upto-700xauto/6ad37623/0901-die-neue-polis-nzz-unfolded-9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307351/upto-700xauto/6ad37624/0901-die-neue-polis-nzz-unfolded-10.jpeg"
+   ],
+   "excerpt": "The book series Die neue Polis was designed by unfolded for Neue Zürcher Zeitung ’s publishing house, NZZ Libro . The series explores constitutional, political, economic and contemporary historical issues in Switzerland. Edited by Astrid Epiney, Dieter…"
+  },
+  {
+   "id": "80751",
+   "title": "Mihiderka",
+   "url": "https://fontsinuse.com/uses/80751/mihiderka",
+   "date": "2026-11-05T09:10:21.000Z",
+   "author": "Butter Creative Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250479",
+     "name": "Joyse",
+     "url": "https://fontsinuse.com/typefaces/250479/joyse",
+     "sample": "https://assets.fontsinuse.com/static/renders/395/250479/400/4/6aec4a47/joyse.png"
+    },
+    {
+     "id": "218760",
+     "name": "Ot Jubilee",
+     "url": "https://fontsinuse.com/typefaces/218760/ot-jubilee",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11666/440/4/646999a7/ot-jubilee.png"
+    },
+    {
+     "id": "231593",
+     "name": "Ozik Soft",
+     "url": "https://fontsinuse.com/typefaces/231593/ozik-soft",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12567/440/4/654dde14/ozik-soft.png"
+    },
+    {
+     "id": "112745",
+     "name": "Stabil Grotesk",
+     "url": "https://fontsinuse.com/typefaces/112745/stabil-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6095/440/4/5dcba4c3/stabil-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306978/upto-700xauto/6aec4a69/post-01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306979/upto-700xauto/6ad0eae1/post-05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306980/upto-700xauto/6ad0eae3/post-06.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306983/upto-700xauto/6ad0ec0e/post-04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306982/upto-700xauto/6ad0ec0e/post-11.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309528/upto-700xauto/6aeb0962/Screenshot%202026-11-04%20at%2011-28-03%20Mihiderka%20%E2%80%93%20Wegan%CC%81ski%20Catering%20Pude%C5%82kowy%20i%20Restauracja%281%29.png"
+   ],
+   "excerpt": "Mihiderka is a vegan catering company offering boxed diets as well as event catering services. They also run one restaurant in Zabrze, Poland. Our job was to refresh their brand to reflect their experience and values. From the illustrative brand hero –…"
+  },
+  {
+   "id": "80735",
+   "title": "Pizzeria of Promises",
+   "url": "https://fontsinuse.com/uses/80735/pizzeria-of-promises",
+   "date": "2026-11-05T09:08:37.000Z",
+   "author": "Nguyen Gobber",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248512",
+     "name": "Farmacia Soft",
+     "url": "https://fontsinuse.com/typefaces/248512/farmacia-soft",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18295/440/4/6a0da5e0/farmacia-soft.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306892/upto-700xauto/6ad0a677/pete-fung_anwyn-howarth-3522-5658.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306888/upto-700xauto/6ad0a5b8/1a2fd05b-ef8f-4d8f-9c0c-70b63c941543.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306889/upto-700xauto/6ad0a5b8/pete-fung_anwyn-howarth-3522-5546.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306890/upto-700xauto/6ad0a5b8/pete-fung_anwyn-howarth-3522-5566.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306895/upto-700xauto/6ad0a5b8/pete-fung_pizzeria-of-promises_box-jpeg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306893/upto-700xauto/6ad0a50d/pete-fung_anwyn-howarth-3522-5670.jpeg"
+   ],
+   "excerpt": "Pizzeria of Promises (PoP) is a mobile pizzeria that turns your broken design promises or otherwise into personal pizzas to be smelled, chewed, swallowed, and ultimately digested. While giving voice to something can be the first step towards understanding…"
+  },
+  {
+   "id": "80781",
+   "title": "Little Sutton Bakehouse",
+   "url": "https://fontsinuse.com/uses/80781/little-sutton-bakehouse",
+   "date": "2026-11-05T09:07:57.000Z",
+   "author": "Andrei Robu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "170106",
+     "name": "Brule",
+     "url": "https://fontsinuse.com/typefaces/170106/brule",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9085/440/4/6aeaf31b/brule.png"
+    },
+    {
+     "id": "111770",
+     "name": "Bossa",
+     "url": "https://fontsinuse.com/typefaces/111770/bossa",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6068/440/4/5db807d3/bossa.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307116/upto-700xauto/6ad1f0a5/625613307_18091057048998588_5024243594026204302_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307114/upto-700xauto/6ad1f0a6/Brule%20Typeface%20by%20Typeverything%20in%20use%20by%20Thirstcraft%20for%20LittleSutton8.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307108/upto-700xauto/6ad1f0a4/Brule%20Typeface%20by%20Typeverything%20in%20use%20by%20Thirstcraft%20for%20LittleSutton2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307109/upto-700xauto/6ad1f0a4/Brule%20Typeface%20by%20Typeverything%20in%20use%20by%20Thirstcraft%20for%20LittleSutton3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307111/upto-700xauto/6ad1ef6e/Brule%20Typeface%20by%20Typeverything%20in%20use%20by%20Thirstcraft%20for%20LittleSutton5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307112/upto-700xauto/6ad1ef6e/Brule%20Typeface%20by%20Typeverything%20in%20use%20by%20Thirstcraft%20for%20LittleSutton6.jpeg"
+   ],
+   "excerpt": "Inklab used the Brule typeface to design the identity for Little Sutton Bakehouse , an eatery in New South Wales, Australia. Brule is used for the logotype, among other things. It is supported by Bossa ."
+  },
+  {
+   "id": "78471",
+   "title": "Will Pham – Ngon Quá exhibition and calendar",
+   "url": "https://fontsinuse.com/uses/78471/will-pham-ngon-qua-exhibition-and-calendar",
+   "date": "2026-11-05T09:00:17.000Z",
+   "author": "Faire Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217612",
+     "name": "Octave Faire Type",
+     "url": "https://fontsinuse.com/typefaces/217612/octave-faire-type",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11130/440/4/63dfddc0/octave-faire-type.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/296/295527/upto-700xauto/6aa99a8f/IMG-20250924-WA0027.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299932/upto-700xauto/6a7115a6/Will-Pham-_Ngon-Qu_-commissioned-by-Deptford-X-2025--Photo-Katarzyna-Perlak-low-res4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299935/upto-700xauto/6a7115a7/Will-Pham-_Ngon-Qu_-commissioned-by-Deptford-X-2025--Photo-Katarzyna-Perlak-low-res14.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295529/upto-700xauto/6a7115a6/IMG-20250924-WA0031.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299934/upto-700xauto/6a7115a7/Will-Pham-_Ngon-Qu_-commissioned-by-Deptford-X-2025--Photo-Katarzyna-Perlak-low-res13.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295530/upto-700xauto/6a7115a6/IMG-20250924-WA0033.jpeg"
+   ],
+   "excerpt": "Ngon Quá is a multi-channel moving image art installation by Will Pham , a British-Vietnamese artist working in video, performance, painting and socially engaged practice. His solo exhibition was showcased at Deptford X 2025 festival."
+  },
+  {
+   "id": "80574",
+   "title": "Permanencias. La vida después en las escuelas rurales by Alejandra Morzán",
+   "url": "https://fontsinuse.com/uses/80574/permanencias-la-vida-despues-en-las-escuelas-",
+   "date": "2026-11-05T08:57:51.000Z",
+   "author": "PampaType Team",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32901",
+     "name": "Amster",
+     "url": "https://fontsinuse.com/typefaces/32901/amster",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12646/440/4/656df052/amster.png"
+    },
+    {
+     "id": "131711",
+     "name": "Adelle Mono",
+     "url": "https://fontsinuse.com/typefaces/131711/adelle-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19552/440/4/6aec4bae/adelle-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307185/upto-700xauto/6ad23d27/1-%20CAMISAb.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307182/upto-700xauto/6aec4529/1-%20TAPA%20ok.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307184/upto-700xauto/6ad23d36/1-%20CAMISA%20PLEGADA.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307183/upto-700xauto/6ad23d36/1-%20CAMISA.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307186/upto-700xauto/6ad23d4a/2-%20INTERIOR%20CUADERNO.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307187/upto-700xauto/6ad23d4f/2-%20INTERIOR%20CUADERNOc.jpeg"
+   ],
+   "excerpt": "Alejandra was guided by the power lines connecting the various towns of northern Santa Fe province to find closed rural schools. She traveled the area and found them."
+  },
+  {
+   "id": "80073",
+   "title": "ZHdK Sustainability Report 2024–2025",
+   "url": "https://fontsinuse.com/uses/80073/zhdk-sustainability-report-2024-2025",
+   "date": "2026-11-05T08:49:29.000Z",
+   "author": "Outline Online",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237510",
+     "name": "Oo Arketa",
+     "url": "https://fontsinuse.com/typefaces/237510/oo-arketa",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13979/440/4/66ec347c/oo-arketa.png"
+    },
+    {
+     "id": "79078",
+     "name": "Antique Legacy",
+     "url": "https://fontsinuse.com/typefaces/79078/antique-legacy",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4569/440/4/5fd1d40b/antique-legacy.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303637/upto-700xauto/6ab11a75/SnapInsta-to_801580895_18620662432007600_508501915422149389_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303643/upto-700xauto/6ad23bd3/SnapInsta-to_801580875_18620662456007600_4894283512571377105_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303639/upto-700xauto/6aa904be/SnapInsta-to_801477124_18620662519007600_3629381621925615502_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303640/upto-700xauto/6aa904c8/SnapInsta-to_801785631_18620662510007600_6711981699744413212_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303644/upto-700xauto/6aa904df/SnapInsta-to_801580918_18620662465007600_8743659770038153605_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303641/upto-700xauto/6aa904e0/SnapInsta-to_801395678_18620662501007600_1961711544864463338_n.jpeg"
+   ],
+   "excerpt": "The ZHdK Sustainability Report 2024–2025 , designed by Colin Kühnis in collaboration with Nico Frei , documents the university’s efforts and progress in sustainability across different areas of operation and education."
+  },
+  {
+   "id": "80746",
+   "title": "ÉSAD Valence Print Collection website",
+   "url": "https://fontsinuse.com/uses/80746/esad-valence-print-collection-website",
+   "date": "2026-11-05T08:48:14.000Z",
+   "author": "Lucas LEGAY",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250477",
+     "name": "Dorienne",
+     "url": "https://fontsinuse.com/typefaces/250477/dorienne",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19381/440/4/6ad0d668/dorienne.png"
+    },
+    {
+     "id": "250631",
+     "name": "Vision and Design",
+     "url": "https://fontsinuse.com/typefaces/250631/vision-and-design",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19541/440/4/6aeafbb4/vision-and-design.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306920/upto-700xauto/6ad36aa0/Capture%20d%E2%80%99e%CC%81cran%202026-10-14%20a%CC%80%2013-07-48.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307195/upto-700xauto/6ad36aa1/Capture%20d%E2%80%99e%CC%81cran%202026-10-14%20a%CC%80%2013-07-55.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307196/upto-700xauto/6ad36aa3/Capture%20d%E2%80%99e%CC%81cran%202026-10-14%20a%CC%80%2013-08-28.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307197/upto-700xauto/6ad36aa4/Capture%20d%E2%80%99e%CC%81cran%202026-10-14%20a%CC%80%2013-09-03.png"
+   ],
+   "excerpt": "Graphic design of the website gathering the entire print collection of ÉSAD Valence , from 1978 to 2026. This online archive serves as both a catalog and an inventory of the collection."
+  },
+  {
+   "id": "80783",
+   "title": "Kem",
+   "url": "https://fontsinuse.com/uses/80783/kem",
+   "date": "2026-11-05T08:02:00.000Z",
+   "author": "Atin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "85388",
+     "name": "Obviously",
+     "url": "https://fontsinuse.com/typefaces/85388/obviously",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4969/440/4/61267457/obviously.png"
+    },
+    {
+     "id": "4776",
+     "name": "Nimbus Sans",
+     "url": "https://fontsinuse.com/typefaces/4776/nimbus-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/4776/400/4/6aec462f/nimbus-sans.png"
+    },
+    {
+     "id": "65",
+     "name": "Adobe Caslon",
+     "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aec4c9b/adobe-caslon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307151/upto-700xauto/6ad21ee2/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307138/upto-700xauto/6ad21ed7/3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307133/upto-700xauto/6ad21ed7/1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307131/upto-700xauto/6ad21ed8/K2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307134/upto-700xauto/6aeb53ad/Section%201%20%28Homepage%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307141/upto-700xauto/6ad2111c/MAKEUP_HERO_IMAGE.webp"
+   ],
+   "excerpt": "Kem skincare packaging suite engineered by Atin, featuring deep burgundy rigid boxes with typographic architecture set in Obviously Wide Super, Obviously Wide Medium, Nimbus Sans Extended Bold and Adobe Caslon Pro Semibold Italic."
+  },
   {
    "id": "80729",
    "title": "Carla Köllner Big Band – Not Obsessed But Kinda Into It album art",
@@ -622,7 +913,7 @@
      "id": "65",
      "name": "Adobe Caslon",
      "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6ac3600c/adobe-caslon.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aec4c9b/adobe-caslon.png"
     }
    ],
    "images": [
