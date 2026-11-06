@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-05T16:25:13.456Z",
+ "updated": "2026-11-06T15:52:45.295Z",
  "day": {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "picks": [
-   "4457",
-   "113112",
-   "235451",
-   "5196",
-   "7277",
-   "31513",
-   "3966",
-   "234407",
-   "202260"
+   "126966",
+   "247192",
+   "32521",
+   "34282",
+   "44143",
+   "229938",
+   "248512",
+   "18407",
+   "250458"
   ]
  },
  "history": [
@@ -322,9 +322,367 @@
     "234407",
     "202260"
    ]
+  },
+  {
+   "date": "2026-11-06",
+   "picks": [
+    "126966",
+    "247192",
+    "32521",
+    "34282",
+    "44143",
+    "229938",
+    "248512",
+    "18407",
+    "250458"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80439",
+   "title": "Scapino Ballet Rotterdam",
+   "url": "https://fontsinuse.com/uses/80439/scapino-ballet-rotterdam",
+   "date": "2026-11-06T11:11:48.000Z",
+   "author": "Nouvelle Noire",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "126966",
+     "name": "NN Nouvelle Grotesk",
+     "url": "https://fontsinuse.com/typefaces/126966/nn-nouvelle-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/149/126966/400/4/6aedb5f5/nn-nouvelle-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305371/upto-700xauto/6abfc7fe/image.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305372/upto-700xauto/6abfb9dc/image-5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305377/upto-700xauto/6abfb9dc/file-mp4%20%281080p%29.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305543/upto-700xauto/6abfb9ca/Three.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305376/upto-700xauto/6aedb621/image-4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309813/upto-700xauto/6aedb599/Screenshot%202026-11-06%20at%2012-04-13%20Homepage%20Scapino%20Ballet%20Rotterdam.png"
+   ],
+   "excerpt": "Research, innovation and activation agency Hear The Youth developed a new visual identity for Scapino Ballet Rotterdam ."
+  },
+  {
+   "id": "80823",
+   "title": "Volkskrant Magazine interviews, fall 2026",
+   "url": "https://fontsinuse.com/uses/80823/volkskrant-magazine-interviews-fall-2026",
+   "date": "2026-11-06T10:58:29.000Z",
+   "author": "Ramiro Espinoza",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "22427",
+     "name": "Krul",
+     "url": "https://fontsinuse.com/typefaces/22427/krul",
+     "sample": "https://assets.fontsinuse.com/static/renders/35/22427/400/4/6aedb2d6/krul.png"
+    },
+    {
+     "id": "18407",
+     "name": "Ff Elementa",
+     "url": "https://fontsinuse.com/typefaces/18407/ff-elementa",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/18407/400/4/6aedb2d6/ff-elementa.png"
+    },
+    {
+     "id": "4291",
+     "name": "Minion",
+     "url": "https://fontsinuse.com/typefaces/4291/minion",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/4291/400/4/6aedb2d6/minion.png"
+    },
+    {
+     "id": "116098",
+     "name": "Good Sans",
+     "url": "https://fontsinuse.com/typefaces/116098/good-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6275/440/4/5e201f2a/good-sans.png"
+    },
+    {
+     "id": "32746",
+     "name": "Druk Condensed",
+     "url": "https://fontsinuse.com/typefaces/32746/druk-condensed",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1529/440/4/570e20dd/druk-condensed.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307317/upto-700xauto/6aec5f47/Z62_5399_Corrected.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309684/upto-700xauto/6aec5dcd/raoul.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309683/upto-700xauto/6aec5dcd/hebben.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309682/upto-700xauto/6aec5dcd/scan-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309685/upto-700xauto/6aec5e9c/Raoul_D.jpeg"
+   ],
+   "excerpt": "Volkskrant magazine is the weekly magazine of the Dutch newspaper de Volkskrant . Two interviews are featured here: one from September 26, 2026, with children’s book authors Els Pelgrom , and one from October 24, 2026, featuring an interview with author…"
+  },
+  {
+   "id": "80329",
+   "title": "Suspects. Van Gogh, Tricksters & Co. exhibition catalog",
+   "url": "https://fontsinuse.com/uses/80329/suspects-van-gogh-tricksters-and-co-exhibitio",
+   "date": "2026-11-06T10:45:26.000Z",
+   "author": "Alexandre Créquer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39560",
+     "name": "Horizon",
+     "url": "https://fontsinuse.com/typefaces/39560/horizon",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14804/440/4/6a6e1d3e/horizon.png"
+    },
+    {
+     "id": "241217",
+     "name": "Large",
+     "url": "https://fontsinuse.com/typefaces/241217/large-alexandre-crequer",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14566/440/4/677cfae4/large-alexandre-crequer.png"
+    },
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aedafc7/neue-haas-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307490/upto-700xauto/6ad5e741/SaveClip-App_759642763_18414703300151267_1101267273059728862_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307491/upto-700xauto/6ad5e769/SaveClip-App_759796397_18414703309151267_7183926231552189438_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304972/upto-700xauto/6ad5e769/SaveClip-App_760523397_18414703291151267_6186584401848718991_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307492/upto-700xauto/6ad5e774/01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307493/upto-700xauto/6ad5e776/03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307494/upto-700xauto/6ad5e778/04.png"
+   ],
+   "excerpt": "Suspects. Van Gogh, Tricksters & Co. , an exhibition at the Fondation Vincent van Gogh Arles , was held in August 2026 and dedicated to artists who, following in Van Gogh’s footsteps, chose nonconformity over conformity, excess over moderation."
+  },
+  {
+   "id": "80232",
+   "title": "Horst Klub and Schlachthaus concert posters",
+   "url": "https://fontsinuse.com/uses/80232/horst-klub-and-schlachthaus-concert-posters",
+   "date": "2026-11-06T10:45:00.000Z",
+   "author": "Type Mania",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246155",
+     "name": "Offset TM",
+     "url": "https://fontsinuse.com/typefaces/246155/offset-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17187/440/4/69302ef8/offset-tm.png"
+    },
+    {
+     "id": "246163",
+     "name": "Dot Gain TM",
+     "url": "https://fontsinuse.com/typefaces/246163/dot-gain-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17168/440/4/69302c7e/dot-gain-tm.png"
+    },
+    {
+     "id": "246179",
+     "name": "Acid TM",
+     "url": "https://fontsinuse.com/typefaces/246179/acid-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17141/440/4/69302842/acid-tm.png"
+    },
+    {
+     "id": "246161",
+     "name": "Charmer TM",
+     "url": "https://fontsinuse.com/typefaces/246161/charmer-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17159/440/4/69302c03/charmer-tm.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304374/upto-700xauto/6ab21bfa/bizien-jerome_1731430482_3499815005871315369_7010215289.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304378/upto-700xauto/6ab2191b/bizien-jerome_1731430482_3499815005879539839_7010215289.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304375/upto-700xauto/6ab2191b/bizien-jerome_1745596530_3618648435316120478_7010215289.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304376/upto-700xauto/6ab2191b/bizien-jerome_1762188599_3757832792798247628_7010215289.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304377/upto-700xauto/6ab2191b/bizien-jerome_1766165445_3791192997585849437_7010215289.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307533/upto-700xauto/6ad60800/bizien-jerome_1766165445_3791192997585825150_7010215289.webp"
+   ],
+   "excerpt": "Jérôme Bizien designed concert posters for Horst Klub in Kreuzlingen, Switzerland, and Schlachthaus in Dornbirn, Austria. The designs feature Offset TM , Dot Gain TM , Acid TM and Charmer TM by Type Mania alongside rough, photocopy-style graphics."
+  },
+  {
+   "id": "80593",
+   "title": "Technologie pro revoluci / Technologies for the Revolution by Meghan Forbes",
+   "url": "https://fontsinuse.com/uses/80593/technologie-pro-revoluci-technologies-for-the",
+   "date": "2026-11-06T10:06:38.000Z",
+   "author": "Heavyweight",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248754",
+     "name": "Clin",
+     "url": "https://fontsinuse.com/typefaces/248754/clin",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18409/440/4/6a1ea6fb/clin.png"
+    },
+    {
+     "id": "86662",
+     "name": "Rhymes",
+     "url": "https://fontsinuse.com/typefaces/86662/rhymes",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5027/440/4/5bcb35c0/rhymes.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309808/upto-700xauto/6aeda682/_x2a9516_wev.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306173/upto-700xauto/6aeda682/HW_scan_MForbes11_crop.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306174/upto-700xauto/6aeda682/HW_scan_MForbes12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307498/upto-700xauto/6aeda682/HW_scan_MForbes5_pink.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306176/upto-700xauto/6aeda682/HW_scan_MForbes7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306177/upto-700xauto/6aeda682/HW_scan_MForbes10.jpeg"
+   ],
+   "excerpt": "Technologie pro revoluci. Ceska avantgarda v tisku / Technologies for the Revolution The Czech Avant-Garde in Print was written by Meghan Forbes and published by Artefactum in cooperation with Karolinum Press , Charles University . The book presents a…"
+  },
+  {
+   "id": "80870",
+   "title": "Oroimena",
+   "url": "https://fontsinuse.com/uses/80870/oroimena",
+   "date": "2026-11-06T09:45:29.000Z",
+   "author": "Santos santosbregana",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "22546",
+     "name": "Lamia",
+     "url": "https://fontsinuse.com/typefaces/22546/lamia",
+     "sample": "https://assets.fontsinuse.com/static/renders/27/22546/400/4/6aeda643/lamia.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307411/upto-700xauto/6ad4a099/EDITADA%20008.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307409/upto-700xauto/6ad4a099/oroimena%20013%20low.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309817/upto-700xauto/6aede669/AA-4446-IG.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307410/upto-700xauto/6aede669/EDITADA%20006.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307412/upto-700xauto/6aede66a/EDITADA%20001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307413/upto-700xauto/6aede667/oroimena%20012%20low.jpeg"
+   ],
+   "excerpt": "Oroimena is a permanent public artwork in Getaria (Basque Country, Spain), open since June 2026. The installation was designed by Santos Bregaña and p roduced by Alfa Arte . Its letters are set in Lamia , cast in polished bronze, in relief, on the wall of…"
+  },
+  {
+   "id": "80871",
+   "title": "Ptyxel",
+   "url": "https://fontsinuse.com/uses/80871/ptyxel",
+   "date": "2026-11-06T09:44:16.000Z",
+   "author": "ToSupply",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "159017",
+     "name": "ToParcel",
+     "url": "https://fontsinuse.com/typefaces/159017/to-parcel",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8247/440/4/671ba86f/to-parcel.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307420/upto-700xauto/6aed9f97/Capture%20d%E2%80%99e%CC%81cran%202024-08-03%20a%CC%80%2015-22-24.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307418/upto-700xauto/6aed9f9a/Capture%20d%E2%80%99e%CC%81cran%202024-08-03%20a%CC%80%2015-19-00.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307417/upto-700xauto/6aed9f9d/Capture%20d%E2%80%99e%CC%81cran%202024-08-03%20a%CC%80%2015-17-29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307419/upto-700xauto/6aed9fa0/Capture%20d%E2%80%99e%CC%81cran%202024-08-03%20a%CC%80%2015-19-25.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307415/upto-700xauto/6aed9fa4/Capture%20d%E2%80%99e%CC%81cran%202024-08-03%20a%CC%80%2015-16-58.png"
+   ],
+   "excerpt": "How can poetry be revitalized through digital technologies by creating a relevant online archive? Developed for the “Printemps de la Poésie 2021”, Ptyxel is a web platform that allows visitors to browse poetic videos by collection. The site brings together…"
+  },
+  {
+   "id": "80880",
+   "title": "The Ruthy Clinic",
+   "url": "https://fontsinuse.com/uses/80880/the-ruthy-clinic",
+   "date": "2026-11-06T09:35:49.000Z",
+   "author": "Mulch",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229129",
+     "name": "Tonka",
+     "url": "https://fontsinuse.com/typefaces/229129/tonka",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11903/440/4/64a15e12/tonka.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307438/upto-700xauto/6ad555eb/MULCH_The_Ruthy_Clinic2_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307439/upto-700xauto/6ad555f0/MULCH_The_Ruthy_Clinic2_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309797/upto-700xauto/6aed9f0f/Screenshot%202026-11-06%20at%2010-32-33%20The%20Ruthy%20Clinic%20Dentist%20Skin%20%26%20Aesthetics%20Launceston.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307443/upto-700xauto/6aed9f0f/MULCH_The_Ruthy_Clinic2_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309796/upto-700xauto/6aedb82d/Screenshot%202026-11-06%20at%2010-32-57%20Meet%20Our%20Team%20The%20Ruthy%20Clinic.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307442/upto-700xauto/6aedb82d/MULCH_The_Ruthy_Clinic2_5.jpeg"
+   ],
+   "excerpt": "The Ruthy Clinic is a cosmetic dental practice in Launceston, Tasmania."
+  },
+  {
+   "id": "80700",
+   "title": "Drop Shop",
+   "url": "https://fontsinuse.com/uses/80700/drop-shop",
+   "date": "2026-11-06T09:27:05.000Z",
+   "author": "Hamish Childs",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39553",
+     "name": "Union Radim Pesko",
+     "url": "https://fontsinuse.com/typefaces/39553/union-radim-pesko",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2018/440/4/5f06c177/union-radim-pesko.png"
+    },
+    {
+     "id": "7340",
+     "name": "Brush Script",
+     "url": "https://fontsinuse.com/typefaces/7340/brush-script",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/7340/400/4/6aed9d6a/brush-script.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307459/upto-700xauto/6ad676f9/ex3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307460/upto-700xauto/6ad67703/hero.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307616/upto-700xauto/6ad6828f/beers.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307461/upto-700xauto/6ad6828f/range.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307610/upto-700xauto/6ad6828f/signage_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307614/upto-700xauto/6aed9d89/fresh_drop.jpeg"
+   ],
+   "excerpt": "Drop Shop is a little neighbourhood bottle shop on Lygon Street, Brunswick East, built on a simple idea. Small but bold, the owner took the intuitive layout, tight curation and effortless in-and-out of a Japanese convenience store, and applied it to wine.…"
+  },
+  {
+   "id": "80858",
+   "title": "Atelier WOO website",
+   "url": "https://fontsinuse.com/uses/80858/atelier-woo-website",
+   "date": "2026-11-06T09:12:54.000Z",
+   "author": "Oli Uygun",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "65",
+     "name": "Adobe Caslon",
+     "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aed9a17/adobe-caslon.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    },
+    {
+     "id": "231595",
+     "name": "Pangaia",
+     "url": "https://fontsinuse.com/typefaces/231595/pangaia",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12569/440/4/654df35e/pangaia.png"
+    },
+    {
+     "id": "157971",
+     "name": "Reenie Beanie",
+     "url": "https://fontsinuse.com/typefaces/157971/reenie-beanie",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8208/440/4/60979810/reenie-beanie.png"
+    },
+    {
+     "id": "250590",
+     "name": "Aboreto",
+     "url": "https://fontsinuse.com/typefaces/250590/aboreto",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19471/440/4/6ae8763a/aboreto.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309826/upto-700xauto/6aedbaee/309101.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309794/upto-700xauto/6aedba93/Screenshot%202026-11-06%20at%2010-08-10%20Atelier%20WOO%20Full-Service%20Brand%20%26%20Creative%20Studio%20New%20York.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309790/upto-700xauto/6aedba93/Screenshot%202026-11-06%20at%2010-04-36%20Atelier%20WOO%20Full-Service%20Brand%20%26%20Creative%20Studio%20New%20York.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309791/upto-700xauto/6aedba93/Screenshot%202026-11-06%20at%2010-04-54%20Innerprise%20Brand%20Identity%20%26%20Website%20for%20a%20Founder%20Coach%20Atelier%20WOO.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309792/upto-700xauto/6aedba93/Screenshot%202026-11-06%20at%2010-05-37%20Invites%20You%20to%20YOU%E2%84%A2%20Atelier%20WOO.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309828/upto-700xauto/6aedbaee/309104.png"
+   ],
+   "excerpt": "Atelier WOO is a brand and creative studio in New York for design-led businesses. On our portfolio website Adobe Caslon sets the reading text and section titles. Inter Tight handles the bold headlines, and Pangaia draws the “woo” in the wordmark. Reenie…"
+  },
   {
    "id": "80842",
    "title": "Die neue Polis book series",
@@ -589,7 +947,7 @@
      "id": "65",
      "name": "Adobe Caslon",
      "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aec4c9b/adobe-caslon.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aed9a17/adobe-caslon.png"
     }
    ],
    "images": [
@@ -650,7 +1008,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aeaf319/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aedafc7/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -913,11 +1271,11 @@
      "id": "65",
      "name": "Adobe Caslon",
      "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aec4c9b/adobe-caslon.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aed9a17/adobe-caslon.png"
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/307/306594/upto-700xauto/6aea05ba/miyster-lune.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306594/upto-700xauto/6aed2336/miyster-lune.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300860/upto-700xauto/6acee012/694992247_17878921008591752_8097727996016973577_n.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300861/upto-700xauto/6a80cf64/589077397_17852905824591752_4578054631435789999_n.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/301/300857/upto-700xauto/6a80cf64/764654898_17894426295591752_3394874342687542419_n.jpeg",
@@ -2163,7 +2521,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aeaf319/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aedafc7/neue-haas-grotesk.png"
     }
    ],
    "images": [
