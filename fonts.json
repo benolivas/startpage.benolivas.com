@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-06T15:52:45.295Z",
+ "updated": "2026-11-07T14:51:52.801Z",
  "day": {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "picks": [
-   "126966",
-   "247192",
-   "32521",
-   "34282",
-   "44143",
-   "229938",
-   "248512",
-   "18407",
-   "250458"
+   "165269",
+   "52",
+   "165270",
+   "212532",
+   "250658",
+   "8585",
+   "250631",
+   "237510",
+   "160550"
   ]
  },
  "history": [
@@ -336,9 +336,364 @@
     "18407",
     "250458"
    ]
+  },
+  {
+   "date": "2026-11-07",
+   "picks": [
+    "165269",
+    "52",
+    "165270",
+    "212532",
+    "250658",
+    "8585",
+    "250631",
+    "237510",
+    "160550"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80976",
+   "title": "Tempesta, Fondation Fernet-Branca",
+   "url": "https://fontsinuse.com/uses/80976/tempesta-fondation-fernet-branca",
+   "date": "2026-11-07T14:37:00.000Z",
+   "author": "Bomba",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "212532",
+     "name": "Haetti Antiqua",
+     "url": "https://fontsinuse.com/typefaces/212532/haetti-antiqua",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16631/440/4/68d296c5/haetti-antiqua.png"
+    },
+    {
+     "id": "52",
+     "name": "Times",
+     "url": "https://fontsinuse.com/typefaces/52/times",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6aef299d/times.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307948/upto-700xauto/6ad8c1d2/IMG_3963.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307951/upto-700xauto/6ad8c287/IMG_3943.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307950/upto-700xauto/6ad8c287/IMG_3923.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307977/upto-700xauto/6ad9140b/307949.jpeg"
+   ],
+   "excerpt": "The exhibition Tempesta is a meditation on contemporary sculpture as a complex and powerful practice that plays a special role in the current artistic context. It proves to be a medium with remarkably diverse connections between form, image, sound, space,…"
+  },
+  {
+   "id": "80906",
+   "title": "Concerning Vietnam by Matthew Brannon",
+   "url": "https://fontsinuse.com/uses/80906/concerning-vietnam-by-matthew-brannon",
+   "date": "2026-11-07T13:54:40.000Z",
+   "author": "Eazy Fonts",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250519",
+     "name": "Ez Anhem",
+     "url": "https://fontsinuse.com/typefaces/250519/ez-anhem",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19414/440/4/6ad629e8/ez-anhem.png"
+    },
+    {
+     "id": "31479",
+     "name": "EB Garamond",
+     "url": "https://fontsinuse.com/typefaces/31479/eb-garamond",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/733/440/4/570e205b/eb-garamond.png"
+    },
+    {
+     "id": "1772",
+     "name": "ITC Garamond",
+     "url": "https://fontsinuse.com/typefaces/1772/itc-garamond",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1772/400/4/6aef2da1/itc-garamond.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307588/upto-700xauto/6aef2ad2/02-eazy-fonts-ez-anhem-matthew-brannon-book.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307587/upto-700xauto/6aef1f43/01-eazy-fonts-ez-anhem-matthew-brannon-book.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307589/upto-700xauto/6aef1f38/03-eazy-fonts-ez-anhem-matthew-brannon-book.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310013/upto-700xauto/6aef2737/309999.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310012/upto-700xauto/6aef2738/309998.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307591/upto-700xauto/6aef2737/05-eazy-fonts-ez-anhem-matthew-brannon-book.jpeg"
+   ],
+   "excerpt": "Concerning Vietnam —published by Gregory R. Miller & Co. , David Kordansky Gallery , and Casey Kaplan in 2019—is a book design project showcasing Eazy Fonts’ custom typeface EZ AnhEm ."
+  },
+  {
+   "id": "80945",
+   "title": "Trâmette",
+   "url": "https://fontsinuse.com/uses/80945/tramette",
+   "date": "2026-11-07T12:31:50.000Z",
+   "author": "Studio Furious",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "165269",
+     "name": "Version A",
+     "url": "https://fontsinuse.com/typefaces/165269/version-a",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8587/440/4/61178c59/version-a.png"
+    },
+    {
+     "id": "165270",
+     "name": "Version C",
+     "url": "https://fontsinuse.com/typefaces/165270/version-c",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8586/440/4/61178c4b/version-c.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307796/upto-700xauto/6aef1a55/ASSETS_Tramette2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307802/upto-700xauto/6ad77e8d/ASSETS_Tramette.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307797/upto-700xauto/6ad77e8d/ASSETS_Tramette3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307799/upto-700xauto/6ad77e8b/ASSETS_Tramette7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307800/upto-700xauto/6ad77e8b/ASSETS_Tramette1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307801/upto-700xauto/6ad77e8b/ASSETS_Tramette6.jpeg"
+   ],
+   "excerpt": "Trâmette is a French restaurant located on rue Saint-Maur in Paris. The full visual identity was designed by Studio Furious using Version A and Version C by Pizza Typefaces for the logotype and menus, packaging, collaterals, respectively. The logotype…"
+  },
+  {
+   "id": "80935",
+   "title": "BonjourSauvage hotel",
+   "url": "https://fontsinuse.com/uses/80935/bonjoursauvage-hotel",
+   "date": "2026-11-07T12:27:50.000Z",
+   "author": "WrittenShape Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167778",
+     "name": "Gaya",
+     "url": "https://fontsinuse.com/typefaces/167778/gaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8746/440/4/6145a85d/gaya.png"
+    },
+    {
+     "id": "131943",
+     "name": "Burnest",
+     "url": "https://fontsinuse.com/typefaces/131943/burnest",
+     "sample": "https://assets.fontsinuse.com/static/renders/142/131943/400/4/6aef2a9f/burnest.png"
+    },
+    {
+     "id": "250658",
+     "name": "Postal Gothic",
+     "url": "https://fontsinuse.com/typefaces/250658/postal-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19567/440/4/6aef182a/postal-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307746/upto-700xauto/6aef1a7d/01.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307752/upto-700xauto/6ad74f46/07.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307747/upto-700xauto/6aef1851/02.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307748/upto-700xauto/6ad74f46/03.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307749/upto-700xauto/6ad74f44/04.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307750/upto-700xauto/6ad74f44/05.webp"
+   ],
+   "excerpt": "BonjourSauvage is a hotel project comprising two venues in the south-west of France. The logo was designed by combining the Medium Upright and Italic styles from the Gaya typeface. The supporting all-caps sans serif is Burnest ."
+  },
+  {
+   "id": "80933",
+   "title": "Casadora resort",
+   "url": "https://fontsinuse.com/uses/80933/casadora-resort",
+   "date": "2026-11-07T12:27:24.000Z",
+   "author": "Roland Hörmann",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235008",
+     "name": "Gyst",
+     "url": "https://fontsinuse.com/typefaces/235008/gyst",
+     "sample": "https://assets.fontsinuse.com/static/renders/384/235008/400/4/6aef192d/gyst.png"
+    },
+    {
+     "id": "250529",
+     "name": "Apparat",
+     "url": "https://fontsinuse.com/typefaces/250529/apparat",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19418/440/4/6ad73e7b/apparat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307722/upto-700xauto/6ad73c47/Casadora1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307723/upto-700xauto/6ad76058/Casadora2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307765/upto-700xauto/6ad76225/Casadora7b.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307729/upto-700xauto/6ad76225/CasadoraIG.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307724/upto-700xauto/6ad76194/Casadora3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307726/upto-700xauto/6ad75f2b/Casadora5.jpeg"
+   ],
+   "excerpt": "Casadora is a high-end resort in El Jadida, Morocco, developed by French Groupe Ramos and operated by Cloud 7 ."
+  },
+  {
+   "id": "80956",
+   "title": "Granado Desde 1870 animated film",
+   "url": "https://fontsinuse.com/uses/80956/granado-desde-1870-animated-film",
+   "date": "2026-11-07T12:25:27.000Z",
+   "author": "Jhony Muller",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "29785",
+     "name": "Transat",
+     "url": "https://fontsinuse.com/typefaces/29785/transat",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15580/440/4/6818a209/transat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307855/upto-700xauto/6aef18db/Granado%20-%20Transat%2001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307856/upto-700xauto/6ad7bb3e/Granado%20-%20Transat%2002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307857/upto-700xauto/6ad7bb35/Granado%20-%20Transat%2003.jpeg"
+   ],
+   "excerpt": "Granado Desde 1870 is an animated institutional film celebrating 156 years of Granado , founded in 1870 in Rio de Janeiro as an apothecary of botanical formulas and today one of Brazil’s best-known heritage brands, recently repositioned as a premium…"
+  },
+  {
+   "id": "80737",
+   "title": "“Lembut merawat” Nivea Creme ad",
+   "url": "https://fontsinuse.com/uses/80737/lembut-merawat-nivea-creme-ad",
+   "date": "2026-11-07T11:06:59.000Z",
+   "author": "Muhamad Niko Kasah",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250444",
+     "name": "Nivea Creme",
+     "url": "https://fontsinuse.com/typefaces/250444/nivea-creme",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19350/440/4/6aca742f/nivea-creme.png"
+    },
+    {
+     "id": "10347",
+     "name": "Nivea Bold",
+     "url": "https://fontsinuse.com/typefaces/10347/nivea",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/485/440/4/570e2031/nivea.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306896/upto-700xauto/6aeaf854/482030247_1167491574835849_3283542034796414615_n.jpeg"
+   ],
+   "excerpt": "This Nivea advert for the Indonesian market is from around 1994, shortly after the brand introduced two new custom typefaces. The all-caps Nivea wordmark was originally designed in the 1930s, inspired by Metroblack . In 1992, Gisela Will at EF Fontinform…"
+  },
+  {
+   "id": "80930",
+   "title": "San Francisco Running Company (SFRC)",
+   "url": "https://fontsinuse.com/uses/80930/san-francisco-running-company-sfrc",
+   "date": "2026-11-07T11:05:40.000Z",
+   "author": "Blaze Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "244204",
+     "name": "Quadro Blaze Type",
+     "url": "https://fontsinuse.com/typefaces/244204/quadro-blaze-type",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/244204/400/4/6aef0605/quadro-blaze-type.png"
+    },
+    {
+     "id": "42644",
+     "name": "GT Pressura Mono",
+     "url": "https://fontsinuse.com/typefaces/42644/gt-pressura-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2950/440/4/6acdeeeb/gt-pressura-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307711/upto-700xauto/6ae4cbb2/imgi_1_92804f774d08121ee55e189b6398006efb4c0ba8-3280x1845.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307697/upto-700xauto/6ae4cbb2/imgi_62_d8ab760da3881fe08d6d5042b52300b5ade5d3f4-3280x1845.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307698/upto-700xauto/6ae4cbb2/imgi_56_7088e2cf04dd7d3aa6ba77705701d1bea1bca599-1620x1984.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307699/upto-700xauto/6ae4cbb2/imgi_55_8abe601dce49c1acb5bb6ff4c3e15f758292baba-3280x1845.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307700/upto-700xauto/6ae4cbb2/imgi_54_ff627874cd0d2c12612c609d6b3dfc6289608ca3-2174x2174.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307702/upto-700xauto/6ae4cbb2/imgi_50_51785edeb91f6dc06588ffce8b646c9ea63179ed-3280x1845.jpeg"
+   ],
+   "excerpt": "Nestled at the base of Mt. Tamalpais sacred ground where the nations first trail race was held in 1905 San Francisco Running Company (SFRC) has served as the ultimate base camp for the Bay Area running community since 2013. With running gaining massive…"
+  },
+  {
+   "id": "80981",
+   "title": "My hitchhike note",
+   "url": "https://fontsinuse.com/uses/80981/my-hitchhike-note",
+   "date": "2026-11-07T10:51:36.000Z",
+   "author": "Robert Prins",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "35200",
+     "name": "Cubiculum",
+     "url": "https://fontsinuse.com/typefaces/35200/cubiculum",
+     "sample": "https://assets.fontsinuse.com/static/renders/38/35200/400/4/6aef02b9/cubiculum.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307960/upto-700xauto/6ae8ab88/liftnote.png"
+   ],
+   "excerpt": "This is the little note I use to record my hitchhiking data since 1983 (at the time the typeface was only available on a daisy-wheel typewriter, see Cubic ). An A4 sheet contains four rows of three columns of them, and cut into three, I save them in…"
+  },
+  {
+   "id": "80938",
+   "title": "Molorun app",
+   "url": "https://fontsinuse.com/uses/80938/molorun-app",
+   "date": "2026-11-07T10:49:29.000Z",
+   "author": "Memouna Diallo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "16446",
+     "name": "Chumbo",
+     "url": "https://fontsinuse.com/typefaces/16446/chumbo",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19560/440/4/6aecb15b/chumbo.png"
+    },
+    {
+     "id": "85916",
+     "name": "Nunito",
+     "url": "https://fontsinuse.com/typefaces/85916/nunito",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5015/440/4/5bbe1373/nunito.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307759/upto-700xauto/6aef0221/molorun-0-cover-v5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307760/upto-700xauto/6ad75cf2/molorun-1-today-v5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307761/upto-700xauto/6ad75cf3/molorun-3-plan-v5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307762/upto-700xauto/6ad75cf4/molorun-5-colour-molo-v5.png"
+   ],
+   "excerpt": "Molorun is a beginner running app built around Molo, a cat mascot who changes mood with every run. Headlines are set in Chumbo by Haus Type , whose soft, chunky shapes match Molo’s playful character. The interface text is set in Nunito ."
+  },
+  {
+   "id": "80860",
+   "title": "Avatar: The Last Airbender logo and titles",
+   "url": "https://fontsinuse.com/uses/80860/avatar-the-last-airbender-logo-and-titles",
+   "date": "2026-11-07T10:47:21.000Z",
+   "author": "Saint Klaude",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "3430",
+     "name": "Herculanum",
+     "url": "https://fontsinuse.com/typefaces/3430/herculanum",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3430/400/4/6aef01ba/herculanum.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307395/upto-700xauto/6ad4100a/SeriesTitle-AvatarTheLastAirbender.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309991/upto-700xauto/6aef00df/307396.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307392/upto-700xauto/6aef00c8/The_Avatar_State_Logo.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309992/upto-700xauto/6aef00bb/307398.png"
+   ],
+   "excerpt": "The logo for Avatar: The Last Airbender uses the font Herculanum . This font is also used for the title cards and credits of an episode. The bold brush-written caps used for “Avatar” as well as the Chinese characters appear to be custom."
+  },
+  {
+   "id": "80315",
+   "title": "The Wacky World of Tex Avery titles and credits",
+   "url": "https://fontsinuse.com/uses/80315/the-wacky-world-of-tex-avery-titles-and-credi",
+   "date": "2026-11-07T10:41:51.000Z",
+   "author": "Daniel Dell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4632",
+     "name": "Whimsy Heavy",
+     "url": "https://fontsinuse.com/typefaces/4632/whimsy",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4632/400/4/6aef0070/whimsy.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304905/upto-700xauto/6ab551c2/IMG_4871.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304906/upto-700xauto/6ab551c6/IMG_4872.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304907/upto-700xauto/6ab551cb/IMG_4873.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304908/upto-700xauto/6ab551cf/IMG_4874.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304909/upto-700xauto/6ab551d4/IMG_4875.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304910/upto-700xauto/6ab551da/IMG_4876.png"
+   ],
+   "excerpt": "The Wacky World of Tex Avery is a French-American slapstick comedy television series created by Robby London, and produced by DIC Entertainment in 1997. The goal was to pay homage to Tex Avery ’s classic cartoons for Warner Bros. and Metro-Goldwyn-Mayer…"
+  },
   {
    "id": "80439",
    "title": "Scapino Ballet Rotterdam",
@@ -359,8 +714,8 @@
     "https://assets.fontsinuse.com/static/use-media-items/306/305372/upto-700xauto/6abfb9dc/image-5.png",
     "https://assets.fontsinuse.com/static/use-media-items/306/305377/upto-700xauto/6abfb9dc/file-mp4%20%281080p%29.mp4",
     "https://assets.fontsinuse.com/static/use-media-items/306/305543/upto-700xauto/6abfb9ca/Three.png",
-    "https://assets.fontsinuse.com/static/use-media-items/306/305376/upto-700xauto/6aedb621/image-4.png",
-    "https://assets.fontsinuse.com/static/use-media-items/310/309813/upto-700xauto/6aedb599/Screenshot%202026-11-06%20at%2012-04-13%20Homepage%20Scapino%20Ballet%20Rotterdam.png"
+    "https://assets.fontsinuse.com/static/use-media-items/310/309947/upto-700xauto/6aee3299/1%20image.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309813/upto-700xauto/6aee3299/Screenshot%202026-11-06%20at%2012-04-13%20Homepage%20Scapino%20Ballet%20Rotterdam.png"
    ],
    "excerpt": "Research, innovation and activation agency Hear The Youth developed a new visual identity for Scapino Ballet Rotterdam ."
   },
