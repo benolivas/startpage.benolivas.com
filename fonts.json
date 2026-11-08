@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-07T14:51:52.801Z",
+ "updated": "2026-11-08T15:05:30.274Z",
  "day": {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "picks": [
-   "165269",
-   "52",
-   "165270",
-   "212532",
-   "250658",
-   "8585",
-   "250631",
-   "237510",
-   "160550"
+   "1840",
+   "206741",
+   "5117",
+   "98247",
+   "245167",
+   "232232",
+   "111770",
+   "3895",
+   "2255"
   ]
  },
  "history": [
@@ -350,9 +350,273 @@
     "237510",
     "160550"
    ]
+  },
+  {
+   "date": "2026-11-08",
+   "picks": [
+    "1840",
+    "206741",
+    "5117",
+    "98247",
+    "245167",
+    "232232",
+    "111770",
+    "3895",
+    "2255"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80573",
+   "title": "“Americans will always fight for liberty” poster",
+   "url": "https://fontsinuse.com/uses/80573/americans-will-always-fight-for-liberty-poste",
+   "date": "2026-11-08T12:28:15.000Z",
+   "author": "fangly",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "132640",
+     "name": "Madison Gothic",
+     "url": "https://fontsinuse.com/typefaces/132640/plinc-madison",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14157/440/4/670fae47/plinc-madison.png"
+    },
+    {
+     "id": "121098",
+     "name": "Monotype Sans Serif",
+     "url": "https://fontsinuse.com/typefaces/121098/sans-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12161/440/4/64ec6784/sans-serif.png"
+    },
+    {
+     "id": "3895",
+     "name": "Copperplate Gothic",
+     "url": "https://fontsinuse.com/typefaces/3895/copperplate-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3895/400/4/6af06ae0/copperplate-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306119/upto-700xauto/6ac693c1/poster.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306118/upto-700xauto/6ac693b5/small%20text.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306120/upto-700xauto/6ac69693/small%20text2.jpeg"
+   ],
+   "excerpt": "This World War II propaganda poster was published by the United States Office of War Information in 1943. It features artwork by Bernard Perlin , with lettering provided by Photo-Lettering, Inc."
+  },
+  {
+   "id": "80164",
+   "title": "David Rose / Stradivari Strings – Strings Alive album art",
+   "url": "https://fontsinuse.com/uses/80164/david-rose-stradivari-strings-strings-alive-a",
+   "date": "2026-11-08T12:17:25.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250653",
+     "name": "Sands",
+     "url": "https://fontsinuse.com/typefaces/250653/sands",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19565/440/4/6aee09bf/sands.png"
+    },
+    {
+     "id": "95593",
+     "name": "Venus Extended",
+     "url": "https://fontsinuse.com/typefaces/95593/venus-extended",
+     "sample": "https://assets.fontsinuse.com/static/renders/300/95593/400/4/6af06856/venus-extended.png"
+    },
+    {
+     "id": "1847",
+     "name": "Microgramma",
+     "url": "https://fontsinuse.com/typefaces/1847/microgramma",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1847/400/4/6af06856/microgramma.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304117/upto-700xauto/6af06869/55535290275_abd1eb2304_4k.jpeg"
+   ],
+   "excerpt": "In 1962, Spin-O-Rama Records released an easy listening album with five tracks by David Rose and the Stradivari Strings each. The cover was designed by Sam Suliman , in his characteristic style involving circles and other basic shapes, bold bright colors,…"
+  },
+  {
+   "id": "81285",
+   "title": "Herbie Mann – Push Push album art",
+   "url": "https://fontsinuse.com/uses/81285/herbie-mann-push-push-album-art-2",
+   "date": "2026-11-08T11:43:14.000Z",
+   "author": "Ryan Brotherston",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "172156",
+     "name": "Davison Bimbo Solid",
+     "url": "https://fontsinuse.com/typefaces/172156/davison-bimbo",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10480/440/4/6333358a/davison-bimbo.png"
+    },
+    {
+     "id": "3359",
+     "name": "Optima",
+     "url": "https://fontsinuse.com/typefaces/3359/optima",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3359/400/4/6af06053/optima.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309498/upto-700xauto/6aeaaaf2/herbiemann_pushpush_55he.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309500/upto-700xauto/6aeaafa2/s-l1600.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309502/upto-700xauto/6aeab325/MS02MDAyLmpwZWc.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309501/upto-700xauto/6aeab23c/Mi0xODY3LmpwZWc.jpeg"
+   ],
+   "excerpt": "Herbie Mann (1930–2003) was an American jazz flautist, and among the earliest musicians to tap into what would later become known as the world music genre with his bossa nova and Latin-styled playing."
+  },
+  {
+   "id": "81312",
+   "title": "Bobby Timmons – The Soul Man! album art",
+   "url": "https://fontsinuse.com/uses/81312/bobby-timmons-the-soul-man-album-art-1",
+   "date": "2026-11-08T11:36:20.000Z",
+   "author": "Bryson Stohr",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217845",
+     "name": "Norton Futuramic",
+     "url": "https://fontsinuse.com/typefaces/217845/norton-futuramic",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13809/440/4/66b5f791/norton-futuramic.png"
+    },
+    {
+     "id": "16",
+     "name": "Venus",
+     "url": "https://fontsinuse.com/typefaces/16/venus",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/16/400/4/6af05eb5/venus.png"
+    },
+    {
+     "id": "35",
+     "name": "Franklin Gothic",
+     "url": "https://fontsinuse.com/typefaces/35/franklin-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7745/440/4/600bc9f1/franklin-gothic.png"
+    },
+    {
+     "id": "303",
+     "name": "News Gothic",
+     "url": "https://fontsinuse.com/typefaces/303/news-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6af0795b/news-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309675/upto-700xauto/6aec118d/lp_the-soul-man_bobby-timmons_0000.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310073/upto-700xauto/6af05f1a/266043.jpeg"
+   ],
+   "excerpt": "The Soul Man! is a 1966 Bobby Timmons album released by Prestige Records ."
+  },
+  {
+   "id": "81217",
+   "title": "Ry Cooder – Bop Till You Drop album art",
+   "url": "https://fontsinuse.com/uses/81217/ry-cooder-bop-till-you-drop-album-art",
+   "date": "2026-11-08T11:31:39.000Z",
+   "author": "Alex P.",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "14478",
+     "name": "Governale Bamboo",
+     "url": "https://fontsinuse.com/typefaces/14478/governale-bamboo",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7406/440/4/5f96ed17/governale-bamboo.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    },
+    {
+     "id": "229",
+     "name": "Bodoni",
+     "url": "https://fontsinuse.com/typefaces/229/bodoni",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/229/400/4/6af05d9c/bodoni.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309152/upto-700xauto/6ae68056/image.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310071/upto-700xauto/6af05d0d/Ry%20Cooder.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309153/upto-700xauto/6af05d2f/image.png"
+   ],
+   "excerpt": "Bop Till You Drop is the eighth studio album by American musician Ry Cooder , released in July 1979 by Warner Bros. Records . It peaked at number 62 on the US Billboard 200 and also reached the top ten in New Zealand and Norway."
+  },
+  {
+   "id": "81155",
+   "title": "Miranda Lambert – Four the Record album art",
+   "url": "https://fontsinuse.com/uses/81155/miranda-lambert-four-the-record-album-art",
+   "date": "2026-11-08T11:01:58.000Z",
+   "author": "Garrison Martin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "41740",
+     "name": "PLINC Swiss Interlock",
+     "url": "https://fontsinuse.com/typefaces/41740/swiss-interlock",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2396/440/4/5710c220/swiss-interlock.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308821/upto-700xauto/6ae215aa/fourtherecord.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308822/upto-700xauto/6ae2163c/71+YPa3KsaL-_SL1439_.jpeg"
+   ],
+   "excerpt": "The cover of Miranda Lambert ’s fourth studio album, Four the Record , released by RCA Nashville on November 1, 2011, features PLINC Swiss Interlock by Photo-Lettering . Creative direction and design are credited to Tracy Baskette-Fleaner , photography by…"
+  },
+  {
+   "id": "81242",
+   "title": "Big Country – The Crossing album art",
+   "url": "https://fontsinuse.com/uses/81242/big-country-the-crossing-album-art",
+   "date": "2026-11-08T10:55:16.000Z",
+   "author": "ronin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "219874",
+     "name": "Antique Extended",
+     "url": "https://fontsinuse.com/typefaces/219874/antique-extended-nesbitt",
+     "sample": "https://assets.fontsinuse.com/static/renders/367/219874/400/4/6af05515/antique-extended-nesbitt.png"
+    },
+    {
+     "id": "20406",
+     "name": "Grecian",
+     "url": "https://fontsinuse.com/typefaces/20406/grecian",
+     "sample": "https://assets.fontsinuse.com/static/renders/24/20406/400/4/6af05515/grecian.png"
+    },
+    {
+     "id": "3338",
+     "name": "Aldus",
+     "url": "https://fontsinuse.com/typefaces/3338/aldus",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3338/400/4/6af05515/aldus.png"
+    },
+    {
+     "id": "3361",
+     "name": "Palatino",
+     "url": "https://fontsinuse.com/typefaces/3361/palatino",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/3361/400/4/6af05515/palatino.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309335/upto-700xauto/6ae88869/lp_the-crossing_big-country_0000.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309338/upto-700xauto/6ae889aa/lp_the-crossing_big-country_0001.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309339/upto-700xauto/6ae889ab/lp_the-crossing_big-country_0002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309340/upto-700xauto/6ae889ad/lp_the-crossing_big-country_0003.jpeg"
+   ],
+   "excerpt": "The Crossing is the 1983 debut album of Scottish band Big Country. It launched them into the charts with the single “ In A Big Country ”. I also like “Fields of Fire” from this album. Album cover had color variations for different releases (more info on…"
+  },
+  {
+   "id": "78095",
+   "title": "The Sandpipers – The Sandpipers album art",
+   "url": "https://fontsinuse.com/uses/78095/the-sandpipers-the-sandpipers-album-art",
+   "date": "2026-11-08T10:54:13.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1139",
+     "name": "Americana",
+     "url": "https://fontsinuse.com/typefaces/1139/americana",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1139/400/4/6af054d6/americana.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/294/293833/upto-700xauto/6a243db0/lp_the-sandpipers_the-sandpipers_0000.jpeg"
+   ],
+   "excerpt": "The Sandpipers was an LP album featuring the group of the same name , released by A&M Records in May 1967 . The album reached #53 on the Billboard charts ."
+  },
   {
    "id": "80976",
    "title": "Tempesta, Fondation Fernet-Branca",
@@ -639,10 +903,12 @@
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/308/307759/upto-700xauto/6aef0221/molorun-0-cover-v5.png",
-    "https://assets.fontsinuse.com/static/use-media-items/308/307760/upto-700xauto/6ad75cf2/molorun-1-today-v5.png",
-    "https://assets.fontsinuse.com/static/use-media-items/308/307761/upto-700xauto/6ad75cf3/molorun-3-plan-v5.png",
-    "https://assets.fontsinuse.com/static/use-media-items/308/307762/upto-700xauto/6ad75cf4/molorun-5-colour-molo-v5.png"
+    "https://assets.fontsinuse.com/static/use-media-items/311/310067/upto-700xauto/6af0530c/molorun-square-cover-v7.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310051/upto-700xauto/6af0530c/molorun-1-today-v6.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310052/upto-700xauto/6af0530c/molorun-3-plan-v6.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310053/upto-700xauto/6af05308/molorun-5-colour-molo-v6.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310054/upto-700xauto/6af05308/molorun-6-type-v6.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310055/upto-700xauto/6af05308/molorun-7-specimen-v6.png"
    ],
    "excerpt": "Molorun is a beginner running app built around Molo, a cat mascot who changes mood with every run. Headlines are set in Chumbo by Haus Type , whose soft, chunky shapes match Molo’s playful character. The interface text is set in Nunito ."
   },
