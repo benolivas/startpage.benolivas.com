@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-08T15:05:30.274Z",
+ "updated": "2026-11-09T18:42:16.262Z",
  "day": {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "picks": [
-   "1840",
-   "206741",
-   "5117",
-   "98247",
-   "245167",
-   "232232",
-   "111770",
-   "3895",
-   "2255"
+   "244841",
+   "179067",
+   "168734",
+   "218410",
+   "244843",
+   "246622",
+   "7385",
+   "31548",
+   "184604"
   ]
  },
  "history": [
@@ -364,9 +364,320 @@
     "3895",
     "2255"
    ]
+  },
+  {
+   "date": "2026-11-09",
+   "picks": [
+    "244841",
+    "179067",
+    "168734",
+    "218410",
+    "244843",
+    "246622",
+    "7385",
+    "31548",
+    "184604"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80544",
+   "title": "Otriea skincare",
+   "url": "https://fontsinuse.com/uses/80544/otriea-skincare",
+   "date": "2026-11-09T09:14:19.000Z",
+   "author": "Bolid System",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "179067",
+     "name": "Rund Display",
+     "url": "https://fontsinuse.com/typefaces/179067/rund-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13336/440/4/663b30e1/rund-display.png"
+    },
+    {
+     "id": "218410",
+     "name": "BS Acapulko",
+     "url": "https://fontsinuse.com/typefaces/218410/bs-acapulko",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11478/440/4/69b2776f/bs-acapulko.png"
+    },
+    {
+     "id": "244841",
+     "name": "First Aid Kit A",
+     "url": "https://fontsinuse.com/typefaces/244841/first-aid-kit-a",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16098/440/4/68751540/first-aid-kit-a.png"
+    },
+    {
+     "id": "244843",
+     "name": "First Aid Kit C",
+     "url": "https://fontsinuse.com/typefaces/244843/first-aid-kit-c",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16100/440/4/687515d3/first-aid-kit-c.png"
+    },
+    {
+     "id": "168734",
+     "name": "Feature",
+     "url": "https://fontsinuse.com/typefaces/168734/feature",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9195/440/4/61965058/feature.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305944/upto-700xauto/6af18eff/FontsInUse-Acapulko-Otriea-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305945/upto-700xauto/6ac4ea95/FontsInUse-Acapulko-Otriea-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305946/upto-700xauto/6ac4e9ec/FontsInUse-Acapulko-Otriea-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305947/upto-700xauto/6ac4e9ed/FontsInUse-Acapulko-Otriea-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305948/upto-700xauto/6ac4e9ee/FontsInUse-Acapulko-Otriea-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305949/upto-700xauto/6ac4ea67/FontsInUse-Acapulko-Otriea-6.jpeg"
+   ],
+   "excerpt": "Otriea is a skincare brand built around wild-harvested and organic oils and botanicals. Copenhagen studio Hugmun designed its identity, packaging and printed matter, using a palette of muted earth tones and a set of figurative symbols modelled like small…"
+  },
+  {
+   "id": "80479",
+   "title": "Hot Bodies poster",
+   "url": "https://fontsinuse.com/uses/80479/hot-bodies-poster",
+   "date": "2026-11-09T09:11:53.000Z",
+   "author": "Mark van Leeuwen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237769",
+     "name": "Cortese Sans",
+     "url": "https://fontsinuse.com/typefaces/237769/cortese-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14014/440/4/66f13926/cortese-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305646/upto-700xauto/6af18e66/629719490_17932833408188644_401074878188673848_n.jpeg"
+   ],
+   "excerpt": "Event poster for Hot Bodies, presented by Pioneer Works and Therme Groups in NYC. The project is introduced by Culture of Bathe-ing as follows:"
+  },
+  {
+   "id": "81240",
+   "title": "The Equator Company",
+   "url": "https://fontsinuse.com/uses/81240/the-equator-company",
+   "date": "2026-11-09T09:09:58.000Z",
+   "author": "Sergio Cameira",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7275",
+     "name": "National",
+     "url": "https://fontsinuse.com/typefaces/7275/national-klim",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/154/440/4/570e1ff6/national-klim.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309320/upto-700xauto/6ae88044/03_TheEquatorCompany_Event-screen.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309321/upto-700xauto/6ae88051/07_TheEquatorCompany-Desktop-Team.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309324/upto-700xauto/6ae88223/09_TheEquatorCompany-Signage.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309322/upto-700xauto/6ae88223/01_TheEquatorCompany_Event-Banner.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309323/upto-700xauto/6af18ddf/05_TheEquatorCompany-Logo.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309325/upto-700xauto/6ae8821a/10_TheEquatorCompany_Totebag.jpeg"
+   ],
+   "excerpt": "The Equator Company is a sustainability consultancy formed in 2025 by merging four Portuguese firms: S317 Consulting, Sair da Casca, Engidro and Factor Social. Studio Cronica created its strategy, naming and visual identity, built around the idea of…"
+  },
+  {
+   "id": "79838",
+   "title": "Olafur Eliasson: Your curious journey",
+   "url": "https://fontsinuse.com/uses/79838/olafur-eliasson-your-curious-journey",
+   "date": "2026-11-09T09:05:01.000Z",
+   "author": "F37®",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250103",
+     "name": "F37 Ramen",
+     "url": "https://fontsinuse.com/typefaces/250103/f37-ramen",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19084/440/4/6a9983e7/f37-ramen.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302472/upto-700xauto/6af18d33/AAGBESTAWARDS2025OE1-0-2344-0-1652.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302473/upto-700xauto/6a998379/AAGBESTAWARDS2025OE9-0-2344-0-1652.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302474/upto-700xauto/6a99837d/AAGBESTAWARDS2025OE7-0-2344-0-1652.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302475/upto-700xauto/6a998383/AAGBESTAWARDS2025OE4-0-2344-0-1652.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302476/upto-700xauto/6a998387/AAGBESTAWARDS2025OE3-0-2344-0-1652.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302477/upto-700xauto/6a998390/AAGBESTAWARDS2025OE8-0-2344-0-1652.jpeg"
+   ],
+   "excerpt": "Auckland Art Gallery / Toi o Tāmaki used F37 Ramen in their campaign and signage for Olafur Eliasson ’s project Your curious journey . The typeface’s geometric forms and unexpected curves complement an identity built around flow, movement and perception,…"
+  },
+  {
+   "id": "80579",
+   "title": "Little Zing",
+   "url": "https://fontsinuse.com/uses/80579/little-zing",
+   "date": "2026-11-09T08:53:33.000Z",
+   "author": "Arthur Calame",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247308",
+     "name": "Install",
+     "url": "https://fontsinuse.com/typefaces/247308/install",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17505/440/4/696f813b/install.png"
+    },
+    {
+     "id": "250439",
+     "name": "Oldport Script",
+     "url": "https://fontsinuse.com/typefaces/250439/oldport-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19348/440/4/6ac9e11b/oldport-script.png"
+    },
+    {
+     "id": "3483",
+     "name": "Neue Helvetica",
+     "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6af18a0e/neue-helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306319/upto-700xauto/6af18cd2/Product+Photography+Brief_L.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306320/upto-700xauto/6af18a1e/15.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306321/upto-700xauto/6ac8fa80/Chipotle_Lime_Nachos.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306322/upto-700xauto/6ac8fa81/Little+Zing_Final+DD-16.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306323/upto-700xauto/6ac8fa8f/Capture%20d%E2%80%99e%CC%81cran%202026-10-09%20a%CC%80%2016-26-39.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306331/upto-700xauto/6ac8fe07/Capture%20d%E2%80%99e%CC%81cran%202026-10-09%20a%CC%80%2016-45-04.png"
+   ],
+   "excerpt": "Little Zing is a Danish-style mustard born in Grandma Helle’s Copenhagen kitchen more than 100 years ago. Passed down through three generations, it’s smooth, saucy, sweet, and finished with a bold little kick."
+  },
+  {
+   "id": "79638",
+   "title": "The Salad Project",
+   "url": "https://fontsinuse.com/uses/79638/the-salad-project",
+   "date": "2026-11-09T08:53:07.000Z",
+   "author": "WELTKERN® Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "42639",
+     "name": "Twk Lausanne",
+     "url": "https://fontsinuse.com/typefaces/42639/twk-lausanne",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2947/440/4/5c123a57/twk-lausanne.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305835/upto-700xauto/6ac3e0c4/imgi_80_TSP-HOMEPAGE-2-low.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305840/upto-700xauto/6ac3e0ce/merch-low.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301385/upto-700xauto/6af189bb/Capture%20d%E2%80%99e%CC%81cran%202026-08-23%20a%CC%80%209-48-17%E2%80%AFAM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301384/upto-700xauto/6ac3e0d4/Capture%20d%E2%80%99e%CC%81cran%202026-08-23%20a%CC%80%209-48-10%E2%80%AFAM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305834/upto-700xauto/6ac3e0d5/imgi_10_TSP-MAC-IMAGE-low.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305839/upto-700xauto/6ac3e0d9/TSP-MOBILE-HAND-low.jpeg"
+   ],
+   "excerpt": "The Salad Project is a London salad bar chain founded in 2021 by Florian de Chezelles and James Dare. From a single counter in Spitalfields, it has grown to sixteen stores across the capital and, since September 2026, a first restaurant in Paris."
+  },
+  {
+   "id": "80463",
+   "title": "Venezuelan Youth by Silvana Trevale",
+   "url": "https://fontsinuse.com/uses/80463/venezuelan-youth-by-silvana-trevale",
+   "date": "2026-11-09T08:50:07.000Z",
+   "author": "Yorlmar Campos",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229972",
+     "name": "Atlante Display",
+     "url": "https://fontsinuse.com/typefaces/229972/atlante-display",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/229972/400/4/6af18940/atlante-display.png"
+    },
+    {
+     "id": "229991",
+     "name": "Atlante Text",
+     "url": "https://fontsinuse.com/typefaces/229991/atlante-text",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/229991/400/4/6af18940/atlante-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305578/upto-700xauto/6abfc998/Guest-VY-Cover-01.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305579/upto-700xauto/6abfc9c9/Guest-VY-Spreads-03.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305580/upto-700xauto/6abfc9d3/Guest-VY-Spreads-12.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305583/upto-700xauto/6abfcd77/vy-ribbon.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305581/upto-700xauto/6abfcd77/vy-spine.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305584/upto-700xauto/6abfcd77/vy-hand.jpeg"
+   ],
+   "excerpt": "Designed by Ricardo Báez , Venezuelan Youth gathers nearly a decade of work (2016-2025) by photographer Silvana Trevale . Moving away from the usual portrayals of crisis, the book offers an intimate portrait of Venezuelan identity through its children and…"
+  },
+  {
+   "id": "74464",
+   "title": "Julián Castro 2020",
+   "url": "https://fontsinuse.com/uses/74464/julia-n-castro-2020",
+   "date": "2026-11-09T08:50:00.000Z",
+   "author": "Aubrey Hays, Frere-Jones Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "40592",
+     "name": "Mallory",
+     "url": "https://fontsinuse.com/typefaces/40592/mallory",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2103/440/4/570e2141/mallory.png"
+    },
+    {
+     "id": "52",
+     "name": "Times",
+     "url": "https://fontsinuse.com/typefaces/52/times",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af18b82/times.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/278/277049/upto-700xauto/69b61775/MALLORY_Julia%CC%81n%20Castro_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/278/277050/upto-700xauto/69b61775/MALLORY_Julia%CC%81n%20Castro_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/278/277051/upto-700xauto/69b61775/MALLORY_Julia%CC%81n%20Castro_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/278/277052/upto-700xauto/69b61775/MALLORY_Julia%CC%81n%20Castro_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/278/277053/upto-700xauto/69b61775/MALLORY_Julia%CC%81n%20Castro_05.jpeg"
+   ],
+   "excerpt": "For Julián Castro ’s 2019 presidential campaign launch, “ Julián for the Future ”, Mallory by Frere-Jones Type was used for its robust and relaxed feel in the promotional merchandise and campaign signage."
+  },
+  {
+   "id": "80653",
+   "title": "Vice Magazine website, Arabic edition",
+   "url": "https://fontsinuse.com/uses/80653/vice-magazine-website-arabic-edition",
+   "date": "2026-11-09T08:48:35.000Z",
+   "author": "TypeTogether",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "10056",
+     "name": "Adelle Sans",
+     "url": "https://fontsinuse.com/typefaces/10056/adelle-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/10/10056/400/4/6af188e4/adelle-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306472/upto-700xauto/6af188f5/2020_adelle-sans-ara-vice_hor.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306473/upto-700xauto/6af185f7/2020_adelle-sans-ara-vice_04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306474/upto-700xauto/6af185fa/2020_adelle-sans-ara-vice_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306475/upto-700xauto/6af185fd/2020_adelle-sans-ara-vice_06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306476/upto-700xauto/6af18601/2020_adelle-sans-ara-vice_07.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306477/upto-700xauto/6accb124/2020_adelle-sans-ara-vice_08.jpeg"
+   ],
+   "excerpt": "VICE Media produced an Arabic edition of Vice Magazine in cooperation with the Saudi Arabia-backed media company MBC Group to create youth-focused content in food, fashion, music, and video games. This edition of the magazine used Adelle Sans Arabic…"
+  },
+  {
+   "id": "81248",
+   "title": "Pirate’s Booty 2026 rebrand",
+   "url": "https://fontsinuse.com/uses/81248/pirate-s-booty-2026-rebrand",
+   "date": "2026-11-09T06:58:00.000Z",
+   "author": "Jamie Otelsberg (OH no Type Co.)",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "85388",
+     "name": "Obviously",
+     "url": "https://fontsinuse.com/typefaces/85388/obviously",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4969/440/4/61267457/obviously.png"
+    },
+    {
+     "id": "173216",
+     "name": "Retail",
+     "url": "https://fontsinuse.com/typefaces/173216/retail",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9227/440/4/61a0aa2f/retail.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309355/upto-700xauto/6ae8b6f7/PQSJVRj4c5DH5RL26bDmQW-1200-80.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309356/upto-700xauto/6ae8b6f9/0_15665_22030_4_782_22030_006_Item_Front.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309358/upto-700xauto/6ae8b9c5/The%20crew%E2%80%99s%20favorite%20spot%20for%20a%20snack%20break.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309359/upto-700xauto/6ae8b9c8/Can%20you%20spot%20all%204.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309360/upto-700xauto/6ae8ba48/From%20boos%20to%20brrs.jpeg"
+   ],
+   "excerpt": "Pearlfisher redesigned Pirate’s Booty , the cheddar puff snack owned by Hershey, in 2026. It’s the brand’s biggest overhaul since it launched in 1987. A ultra-chunky wordmark replaces the older serif logo, and mascots Captain Bob and his parrot Crunch have…"
+  },
   {
    "id": "80573",
    "title": "“Americans will always fight for liberty” poster",
@@ -425,7 +736,7 @@
      "id": "1847",
      "name": "Microgramma",
      "url": "https://fontsinuse.com/typefaces/1847/microgramma",
-     "sample": "https://assets.fontsinuse.com/static/renders/2/1847/400/4/6af06856/microgramma.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1847/400/4/6af201fb/microgramma.png"
     }
    ],
    "images": [
@@ -445,7 +756,7 @@
      "id": "172156",
      "name": "Davison Bimbo Solid",
      "url": "https://fontsinuse.com/typefaces/172156/davison-bimbo",
-     "sample": "https://assets.fontsinuse.com/static/samples/11/10480/440/4/6333358a/davison-bimbo.png"
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10480/440/4/6af1d9a2/davison-bimbo.png"
     },
     {
      "id": "3359",
@@ -568,7 +879,7 @@
      "id": "219874",
      "name": "Antique Extended",
      "url": "https://fontsinuse.com/typefaces/219874/antique-extended-nesbitt",
-     "sample": "https://assets.fontsinuse.com/static/renders/367/219874/400/4/6af05515/antique-extended-nesbitt.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/367/219874/400/4/6af20195/antique-extended-nesbitt.png"
     },
     {
      "id": "20406",
@@ -635,7 +946,7 @@
      "id": "52",
      "name": "Times",
      "url": "https://fontsinuse.com/typefaces/52/times",
-     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6aef299d/times.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af18b82/times.png"
     }
    ],
    "images": [
@@ -6005,7 +6316,7 @@
      "id": "3483",
      "name": "Neue Helvetica",
      "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
-     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6ae0680a/neue-helvetica.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6af18a0e/neue-helvetica.png"
     }
    ],
    "images": [
