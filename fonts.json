@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-09T18:42:16.262Z",
+ "updated": "2026-11-10T16:23:28.158Z",
  "day": {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "picks": [
-   "244841",
-   "179067",
-   "168734",
-   "218410",
-   "244843",
-   "246622",
-   "7385",
-   "31548",
-   "184604"
+   "237769",
+   "13320",
+   "250679",
+   "217860",
+   "99685",
+   "237491",
+   "2509",
+   "233745",
+   "246155"
   ]
  },
  "history": [
@@ -378,9 +378,319 @@
     "31548",
     "184604"
    ]
+  },
+  {
+   "date": "2026-11-10",
+   "picks": [
+    "237769",
+    "13320",
+    "250679",
+    "217860",
+    "99685",
+    "237491",
+    "2509",
+    "233745",
+    "246155"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "77847",
+   "title": "Harper’s Bazaar Italia, issue 25: “Da Capo”",
+   "url": "https://fontsinuse.com/uses/77847/harper-s-bazaar-italia-issue-25-da-capo",
+   "date": "2026-11-10T09:14:26.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "249612",
+     "name": "Gran Bazaar",
+     "url": "https://fontsinuse.com/typefaces/249612/gran-bazaar",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18675/440/4/6a4b5c8d/gran-bazaar.png"
+    },
+    {
+     "id": "249548",
+     "name": "Ll Schema",
+     "url": "https://fontsinuse.com/typefaces/249548/ll-schema",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18605/440/4/6a42c69a/ll-schema.png"
+    },
+    {
+     "id": "229523",
+     "name": "Al Sigla",
+     "url": "https://fontsinuse.com/typefaces/229523/al-sigla",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12040/440/4/64c9f239/al-sigla.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/297/296163/upto-700xauto/6a42e525/588631303_18118856947547820_7622802063862456259_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/297/296123/upto-700xauto/6a7bb087/613585545_18122393095547820_249252523565702459_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/297/296126/upto-700xauto/6a7bb087/605170593_18120691447547820_2608880275652674214_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/297/296127/upto-700xauto/6a7bb149/609383844_18121340491547820_2846366893362693004_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/297/296129/upto-700xauto/6a7bb148/612022951_18121816267547820_8935657205304237682_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300559/upto-700xauto/6a7bb087/7584818986538355990.mp4"
+   ],
+   "excerpt": "Harper’s Bazaar , the world’s oldest fashion magazine still in publication, in its 25th issue, titled “Da Capo” (“from the beginning”), continues the visual and typographic language developed under the creative direction of M/M (Paris) , who began their…"
+  },
+  {
+   "id": "81309",
+   "title": "Made in Japan: Generations",
+   "url": "https://fontsinuse.com/uses/81309/made-in-japan-generations",
+   "date": "2026-11-10T09:14:13.000Z",
+   "author": "Daniel McQueen (TDF)",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "145055",
+     "name": "Tomato Grotesk",
+     "url": "https://fontsinuse.com/typefaces/145055/tomato-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7484/440/4/60e5d1da/tomato-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309666/upto-700xauto/6aeb9add/MadeinJapan2_01_2048x-jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309665/upto-700xauto/6aeb9add/MadeinJapan2_02_2048x-jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309673/upto-700xauto/6aeb9af0/MadeinJapan2_06_2048x-jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309672/upto-700xauto/6aeb9af1/MadeinJapan2_08_2048x-jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309671/upto-700xauto/6aeb9af1/Spread01_0045b649-d74e-48e6-b149-d2b18f3b7fd1_2048x-jpg.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309668/upto-700xauto/6aeb9af4/Spread06_60d7fa85-ac88-41a5-9679-5aeb50110714_2048x-jpg.jpeg"
+   ],
+   "excerpt": "Made in Japan: Generations was edited and published by Victionary :"
+  },
+  {
+   "id": "80753",
+   "title": "NIGO: From Japan with Love exhibition catalog",
+   "url": "https://fontsinuse.com/uses/80753/nigo-from-japan-with-love-exhibition-catalog",
+   "date": "2026-11-10T09:09:27.000Z",
+   "author": "Johannes Pejas (Kimera)",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "233306",
+     "name": "KMR Melange Grotesk",
+     "url": "https://fontsinuse.com/typefaces/233306/kmr-melange-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13077/440/4/65eaa85c/kmr-melange-grotesk.png"
+    },
+    {
+     "id": "250481",
+     "name": "Metallo",
+     "url": "https://fontsinuse.com/typefaces/250481/metallo",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19554/440/4/6aec86e4/metallo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306995/upto-700xauto/6af2df62/instagram-DXtgb8sDEGT-681368976_18371244712164291_739754296105.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306996/upto-700xauto/6aec93a3/instagram-DXtgb8sDEGT-681711658_18371244874164291_636215290196.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/307000/upto-700xauto/6aec93a3/instagram-DXtgb8sDEGT-682817413_18371244820164291_572398147420.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307001/upto-700xauto/6aec9369/instagram-DXtgb8sDEGT-683416538_18371244799164291_372868936335.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307005/upto-700xauto/6aec9369/instagram-DXtgb8sDEGT-683758802_18371244808164291_739393446956.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307002/upto-700xauto/6aec9369/instagram-DXtgb8sDEGT-683551822_18371244838164291_102147231042.jpeg"
+   ],
+   "excerpt": "Exhibition catalog for NIGO: From Japan with Love , shown at London’s Design Museum in April 2026. The publication was edited by Rachel Hajek and Esme Hawes, and designed by Daly & Lyon , who comment :"
+  },
+  {
+   "id": "80074",
+   "title": "Giulia Essyad and Thomas Kern at Fri Art exhibition posters",
+   "url": "https://fontsinuse.com/uses/80074/giulia-essyad-and-thomas-kern-at-fri-art-exhi",
+   "date": "2026-11-10T09:03:39.000Z",
+   "author": "Outline Online",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229469",
+     "name": "Oo Review Mono",
+     "url": "https://fontsinuse.com/typefaces/229469/oo-review-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12014/440/4/6acfb11b/oo-review-mono.png"
+    },
+    {
+     "id": "250679",
+     "name": "Againts",
+     "url": "https://fontsinuse.com/typefaces/250679/againts",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19592/440/4/6af2cc42/againts.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303653/upto-700xauto/6ad240b0/Insta_ReviewInUse_2_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303648/upto-700xauto/6ad23eea/IMG_9966.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303654/upto-700xauto/6ad242b7/Insta_ReviewInUse_2_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303647/upto-700xauto/6af2ddf7/IMG_0002.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303649/upto-700xauto/6ad23efc/Insta_ReviewInUse_2_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303651/upto-700xauto/6ad23eff/Insta_ReviewInUse_2_2.jpeg"
+   ],
+   "excerpt": "Designed by Wara Ugarte, the 2020/2021 posters for Giulia Essyad’s A Selene Blues and Thomas Kern’s je te regards et tu dis are two of the earlier applications of the typeface Review Mono Regular and Cursive by Sophie Wietlisbach ."
+  },
+  {
+   "id": "80709",
+   "title": "Atelier Wolff",
+   "url": "https://fontsinuse.com/uses/80709/atelier-wolff",
+   "date": "2026-11-10T09:02:56.000Z",
+   "author": "Inès Davodeau",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248734",
+     "name": "OVR Demorny",
+     "url": "https://fontsinuse.com/typefaces/248734/ovr-demorny",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18387/440/4/6a4e65fd/ovr-demorny.png"
+    },
+    {
+     "id": "42483",
+     "name": "Louize Display",
+     "url": "https://fontsinuse.com/typefaces/42483/louize-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3499/440/4/58e7dbac/louize-display.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306722/upto-700xauto/6acf5450/Capture%20d%E2%80%99e%CC%81cran%202026-10-14%20a%CC%80%2012-04-41.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306728/upto-700xauto/6acf5726/836959249_18054772151801542_5838688901955174995_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306729/upto-700xauto/6acf5726/841774097_18054772904801542_8075621187630884000_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306730/upto-700xauto/6acf5727/841436858_18054772091801542_330103552853260780_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306731/upto-700xauto/6acf5727/841815810_18054772946801542_419144422546229198_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306732/upto-700xauto/6acf575d/842101228_18054772913801542_3279697181760397788_n.jpeg"
+   ],
+   "excerpt": "OVR Demorny and Louize Display in use for the new branding and website of Atelier Wolff , a jewelry brand based in California."
+  },
+  {
+   "id": "79313",
+   "title": "The Museum Is Multiple. Van Abbemuseum 2004–24",
+   "url": "https://fontsinuse.com/uses/79313/the-museum-is-multiple-van-abbemuseum-2004-24",
+   "date": "2026-11-10T09:02:45.000Z",
+   "author": "Tüpokompanii",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "166302",
+     "name": "Black Signature",
+     "url": "https://fontsinuse.com/typefaces/166302/black-signature",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13944/440/4/66e45a3e/black-signature.png"
+    },
+    {
+     "id": "249915",
+     "name": "Vee",
+     "url": "https://fontsinuse.com/typefaces/249915/vee",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18916/440/4/6aba8023/vee.png"
+    },
+    {
+     "id": "203243",
+     "name": "Joseleen",
+     "url": "https://fontsinuse.com/typefaces/203243/jl-joseleen",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10324/440/4/62fa92ed/jl-joseleen.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/300/299914/upto-700xauto/6a70ff94/VAM_01-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299915/upto-700xauto/6a70ff7f/VAM_03-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299916/upto-700xauto/6a70ff80/VAM_08-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299917/upto-700xauto/6a70ff81/VAM_09-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299918/upto-700xauto/6a70ff82/VAM_12-scaled.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299919/upto-700xauto/6a70ff82/VAM_14-scaled.jpeg"
+   ],
+   "excerpt": "Black Signature , Vee , and Joseleen used by Laura Pappa for The Museum Is Multiple , with custom drawn initials by Pappa. The book is a case study and an illustrated archive of Charles Esche ’s directorship from 2004 to 2024 at the Van Abbemuseum ,…"
+  },
+  {
+   "id": "80703",
+   "title": "Ludii arbori",
+   "url": "https://fontsinuse.com/uses/80703/ludii-arbori",
+   "date": "2026-11-10T08:35:24.000Z",
+   "author": "Maya Strobbe",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250471",
+     "name": "Rakkas",
+     "url": "https://fontsinuse.com/typefaces/250471/rakkas",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19545/440/4/6aeb2135/rakkas.png"
+    },
+    {
+     "id": "246024",
+     "name": "Overused Grotesk",
+     "url": "https://fontsinuse.com/typefaces/246024/overused-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17055/440/4/691e4a0d/overused-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306702/upto-700xauto/6acf42a6/touw3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306703/upto-700xauto/6af2d748/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306705/upto-700xauto/6acf4319/comp4.jpeg"
+   ],
+   "excerpt": "Business cards for arborist Ludii arbori , using a modified version of Rakkas , drawn by hand for a more organic feel. The text on the back of the business cards is set in Overused Grotesk ."
+  },
+  {
+   "id": "80694",
+   "title": "FORM logo and website",
+   "url": "https://fontsinuse.com/uses/80694/form-logo-and-website",
+   "date": "2026-11-10T08:34:45.000Z",
+   "author": "boldstudio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "115954",
+     "name": "BB Noname",
+     "url": "https://fontsinuse.com/typefaces/115954/bb-noname",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19550/440/4/6aeb74e6/bb-noname.png"
+    },
+    {
+     "id": "52",
+     "name": "Times",
+     "url": "https://fontsinuse.com/typefaces/52/times",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af2d726/times.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309630/upto-700xauto/6aeb7b8a/Screenshot%202026-11-04%20at%2019-19-36%20FORM%20Form%20the%20future%20reform%20the%20past.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309629/upto-700xauto/6aeb77a0/Screenshot%202026-11-04%20at%2019-19-07%20FORM%20Form%20the%20future%20reform%20the%20past.png"
+   ],
+   "excerpt": "BB Noname is used for the logo and website of FORM . The accompanying serif is Times . From the website:"
+  },
+  {
+   "id": "80798",
+   "title": "Prostitution et Société magazine, no. 159",
+   "url": "https://fontsinuse.com/uses/80798/prostitution-et-societe-magazine-no-159",
+   "date": "2026-11-10T07:00:00.000Z",
+   "author": "PampaType Team",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "5458",
+     "name": "Quimera",
+     "url": "https://fontsinuse.com/typefaces/5458/quimera",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12650/440/4/656df200/quimera.png"
+    },
+    {
+     "id": "5444",
+     "name": "Borges",
+     "url": "https://fontsinuse.com/typefaces/5444/borges",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12645/440/4/656df017/borges.png"
+    },
+    {
+     "id": "1140",
+     "name": "Antique Olive",
+     "url": "https://fontsinuse.com/typefaces/1140/antique-olive",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1140/400/4/6af2dd1f/antique-olive.png"
+    },
+    {
+     "id": "1840",
+     "name": "ITC Machine",
+     "url": "https://fontsinuse.com/typefaces/1840/itc-machine",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1840/400/4/6ae75a9b/itc-machine.png"
+    },
+    {
+     "id": "7195",
+     "name": "Radio AM",
+     "url": "https://fontsinuse.com/typefaces/7195/radio",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/6/440/4/570e1fd5/radio.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307268/upto-700xauto/6af2dd28/DSC_0530.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307256/upto-700xauto/6ad2781f/DSC_0480.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307257/upto-700xauto/6ad2781f/DSC_0484.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307258/upto-700xauto/6ad2781f/DSC_0485.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307259/upto-700xauto/6ad2781f/DSC_0490.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307260/upto-700xauto/6ad2781f/DSC_0498.jpeg"
+   ],
+   "excerpt": "Pages from the French activist magazine Prostitution et Société (“Prostitution and society”) designed in Paris by Paule Palacios-Dalens . Issue № 159 makes use of Roger Excoffon’s Antique Olive Nord plus Quimera and Borges (both from PampaType ).…"
+  },
   {
    "id": "80544",
    "title": "Otriea skincare",
@@ -436,7 +746,7 @@
    "url": "https://fontsinuse.com/uses/80479/hot-bodies-poster",
    "date": "2026-11-09T09:11:53.000Z",
    "author": "Mark van Leeuwen",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "237769",
@@ -446,7 +756,8 @@
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/306/305646/upto-700xauto/6af18e66/629719490_17932833408188644_401074878188673848_n.jpeg"
+    "https://assets.fontsinuse.com/static/use-media-items/306/305646/upto-700xauto/6af18e66/629719490_17932833408188644_401074878188673848_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310212/upto-700xauto/6af21f72/image.webp"
    ],
    "excerpt": "Event poster for Hot Bodies, presented by Pioneer Works and Therme Groups in NYC. The project is introduced by Culture of Bathe-ing as follows:"
   },
@@ -611,7 +922,7 @@
      "id": "52",
      "name": "Times",
      "url": "https://fontsinuse.com/typefaces/52/times",
-     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af18b82/times.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af2d726/times.png"
     }
    ],
    "images": [
@@ -946,7 +1257,7 @@
      "id": "52",
      "name": "Times",
      "url": "https://fontsinuse.com/typefaces/52/times",
-     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af18b82/times.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af2d726/times.png"
     }
    ],
    "images": [
@@ -1940,7 +2251,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aedafc7/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af21f08/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -3453,7 +3764,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6aedafc7/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af21f08/neue-haas-grotesk.png"
     }
    ],
    "images": [
