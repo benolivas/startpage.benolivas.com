@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-10T16:23:28.158Z",
+ "updated": "2026-11-11T16:05:28.132Z",
  "day": {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "picks": [
-   "237769",
-   "13320",
-   "250679",
-   "217860",
-   "99685",
-   "237491",
-   "2509",
-   "233745",
-   "246155"
+   "246041",
+   "3361",
+   "250599",
+   "201779",
+   "93601",
+   "246163",
+   "7195",
+   "31705",
+   "27761"
   ]
  },
  "history": [
@@ -392,9 +392,323 @@
     "233745",
     "246155"
    ]
+  },
+  {
+   "date": "2026-11-11",
+   "picks": [
+    "246041",
+    "3361",
+    "250599",
+    "201779",
+    "93601",
+    "246163",
+    "7195",
+    "31705",
+    "27761"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80733",
+   "title": "Veintinueve Trece 2023",
+   "url": "https://fontsinuse.com/uses/80733/veintinueve-trece-2023",
+   "date": "2026-11-11T09:08:08.000Z",
+   "author": "Johannes Pejas (Kimera)",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "183841",
+     "name": "KMR Waldenburg",
+     "url": "https://fontsinuse.com/typefaces/183841/kmr-waldenburg",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9590/440/4/64007400/kmr-waldenburg.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306863/upto-700xauto/6af45069/161025_FIU_Veintinueve_Trece_Melange2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306882/upto-700xauto/6ad0a13d/161025_FIU_Veintinueve_Trece_MelangeB8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306875/upto-700xauto/6ad0a1e8/161025_FIU_Veintinueve_Trece_MelangeB.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306873/upto-700xauto/6ad0a245/161025_FIU_Veintinueve_Trece_Melange10.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306872/upto-700xauto/6ad0a245/161025_FIU_Veintinueve_Trece_Melange11.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306868/upto-700xauto/6ad0a245/161025_FIU_Veintinueve_Trece_Melange7.jpeg"
+   ],
+   "excerpt": "Barcelona-based studio León Romero used kimera ’s KMR Waldenburg Black for the exhibition branding and infographics of the 2023 edition of Veintinueve Trece ."
+  },
+  {
+   "id": "79248",
+   "title": "Covalto 2026 rebranding",
+   "url": "https://fontsinuse.com/uses/79248/covalto-2026-rebranding",
+   "date": "2026-11-11T08:52:44.000Z",
+   "author": "NaN",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "242286",
+     "name": "Nan Serf Sans",
+     "url": "https://fontsinuse.com/typefaces/242286/nan-serf-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14808/440/4/67b85e64/nan-serf-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/300/299543/upto-700xauto/6a6c66cc/Screenshot%202026-07-31%20at%2010-56-58.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307682/upto-700xauto/6ad729c6/1784313616738%202.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299544/upto-700xauto/6ad729c6/Screenshot%202026-07-31%20at%2011-03-52.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307677/upto-700xauto/6ad729c6/1773265420023.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299545/upto-700xauto/6ad729c6/Screenshot%202026-06-18%20at%2017-03-09.png",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299546/upto-700xauto/6ad729c6/Screenshot%202026-06-18%20at%2017-03-33.png"
+   ],
+   "excerpt": "Covalto is a Mexican digital banking platform founded in 2015 by David Poritz and Allan Apoj Pascal. It provides financial services and digital banking solutions designed towards businesses. At the end of 2025 it pivoted from a pure fintech company to a…"
+  },
+  {
+   "id": "81316",
+   "title": "OpenCultures",
+   "url": "https://fontsinuse.com/uses/81316/opencultures",
+   "date": "2026-11-11T08:33:24.000Z",
+   "author": "Softdrive Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250301",
+     "name": "Lingo",
+     "url": "https://fontsinuse.com/typefaces/250301/lingo",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19202/440/4/6ab641cb/lingo.png"
+    },
+    {
+     "id": "250302",
+     "name": "365 Grotesk",
+     "url": "https://fontsinuse.com/typefaces/250302/365-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19203/440/4/6abe7f8e/365-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309687/upto-700xauto/6aec8144/241029_open-cultures_magazine_V1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310356/upto-700xauto/6af4312a/Screenshot%202026-11-11%20at%2009-17-08%20OpenCultures.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309694/upto-700xauto/6af4312e/Bildschirmfoto%202026-11-05%20um%2013-59-15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309691/upto-700xauto/6af43134/Screenshot-2024-10-29-at-15-40-51.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309707/upto-700xauto/6af43134/241027_open-cultures_logo-frame-animation_06.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309690/upto-700xauto/6af43134/241016_open-cultures_deck_V1%20225.jpeg"
+   ],
+   "excerpt": "The project OpenCultures seeks to transform climate knowledge into actionable principles for sustainable living, emphasizing climate adaptation in urban development and spatial planning. By bridging the gap between scientific insights and practical…"
+  },
+  {
+   "id": "81315",
+   "title": "RUNOUT",
+   "url": "https://fontsinuse.com/uses/81315/runout",
+   "date": "2026-11-11T08:33:03.000Z",
+   "author": "Etienne Ledemay",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250255",
+     "name": "ABC Areal",
+     "url": "https://fontsinuse.com/typefaces/250255/abc-areal",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19157/440/4/6aa80c75/abc-areal.png"
+    },
+    {
+     "id": "250256",
+     "name": "ABC Areal Semi Mono",
+     "url": "https://fontsinuse.com/typefaces/250256/abc-areal-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19158/440/4/6aa80e20/abc-areal-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310396/upto-700xauto/6af45f55/BL07.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310351/upto-700xauto/6af45f45/09_color-02.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309698/upto-700xauto/6af45f45/runout-desktop.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309709/upto-700xauto/6af45f45/runout-fiu-10-map-artists.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309710/upto-700xauto/6af45f46/runout-fiu-08-detail.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310352/upto-700xauto/6af45f42/03_gothrough.mp4"
+   ],
+   "excerpt": "RUNOUT is a personal project mapping nine years of my Bandcamp purchases, 1,464 tracks and 215 labels, cross-referenced with the 57 DJ mixes I made from them. The collection can be explored through three views (mixes, artists and labels), each one a…"
+  },
+  {
+   "id": "81318",
+   "title": "Le deuil du lieu",
+   "url": "https://fontsinuse.com/uses/81318/le-deuil-du-lieu",
+   "date": "2026-11-11T08:31:43.000Z",
+   "author": "Romane Neto",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309738/upto-700xauto/6aecb4b9/post.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309733/upto-700xauto/6aecb4b9/MEMOIRE2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309734/upto-700xauto/6aecb47f/MEMOIRE3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309735/upto-700xauto/6aecb480/MEMOIRE4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309736/upto-700xauto/6aecb481/MEMOIRE5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309737/upto-700xauto/6aecb483/MEMOIRE6.jpeg"
+   ],
+   "excerpt": "How can graphic design facilitate the grieving process for places by celebrating and nurturing residents’ symbolic and emotional ties to places that are disappearing or changing in the context of urban transformation? Places have always been very important…"
+  },
+  {
+   "id": "80887",
+   "title": "Call of Duty: Modern Warfare 4 video game",
+   "url": "https://fontsinuse.com/uses/80887/call-of-duty-modern-warfare-4-video-game",
+   "date": "2026-11-11T08:01:21.000Z",
+   "author": "Alex Nguyen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "31989",
+     "name": "Bebas Neue",
+     "url": "https://fontsinuse.com/typefaces/31989/bebas-neue",
+     "sample": "https://assets.fontsinuse.com/static/renders/141/31989/400/4/6af420d2/bebas-neue.png"
+    },
+    {
+     "id": "231315",
+     "name": "Shuttleblock",
+     "url": "https://fontsinuse.com/typefaces/231315/shuttleblock",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12473/440/4/6531a1fc/shuttleblock.png"
+    },
+    {
+     "id": "250506",
+     "name": "Iosevka",
+     "url": "https://fontsinuse.com/typefaces/250506/iosevka",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19599/440/4/6af32722/iosevka.png"
+    },
+    {
+     "id": "250507",
+     "name": "pln Octagon",
+     "url": "https://fontsinuse.com/typefaces/250507/pln-octagon",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19603/440/4/6af334f4/pln-octagon.png"
+    },
+    {
+     "id": "240356",
+     "name": "Hitmarker",
+     "url": "https://fontsinuse.com/typefaces/240356/hitmarker",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18753/440/4/6a5a4c71/hitmarker.png"
+    },
+    {
+     "id": "201779",
+     "name": "The Queen Marker",
+     "url": "https://fontsinuse.com/typefaces/201779/the-queen-marker",
+     "sample": "https://assets.fontsinuse.com/static/renders/341/201779/400/4/6af420d2/the-queen-marker.png"
+    },
+    {
+     "id": "126060",
+     "name": "Biró Script",
+     "url": "https://fontsinuse.com/typefaces/126060/biro-script",
+     "sample": "https://assets.fontsinuse.com/static/renders/136/126060/400/4/6af420d2/biro-script.png"
+    },
+    {
+     "id": "10793",
+     "name": "Noto Sans",
+     "url": "https://fontsinuse.com/typefaces/10793/noto-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/598/440/4/570e2042/noto-sans.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6af420d2/futura.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308538/upto-700xauto/6ae06128/39e532d5d5a31d9113c7fa8f3e4c332af9428613efe01037.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307827/upto-700xauto/6ae0611d/Screenshot%20%28888%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307453/upto-700xauto/6aec2ed1/Screenshot%20%28856%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307456/upto-700xauto/6ae0611c/Screenshot%20%28859%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307457/upto-700xauto/6ae0611d/Screenshot%20%28860%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307763/upto-700xauto/6aec2edb/Screenshot%20%28884%29.png"
+   ],
+   "excerpt": "Call of Duty: Modern Warfare 4 is a first persion shooter game developed by Infinity Ward and published by Activision. Released on October 23rd of 2026, it is the 23rd entry in the franchise, the fourth and final entry in the rebooted Modern Warfare…"
+  },
+  {
+   "id": "80924",
+   "title": "MagnaTerra website",
+   "url": "https://fontsinuse.com/uses/80924/magnaterra-website",
+   "date": "2026-11-11T06:37:00.000Z",
+   "author": "Mude Agency",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39028",
+     "name": "Forma DJR",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    },
+    {
+     "id": "5117",
+     "name": "Times New Roman",
+     "url": "https://fontsinuse.com/typefaces/5117/times-new-roman",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/5117/400/4/6af42937/times-new-roman.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307629/upto-700xauto/6ad6bd1a/Frame%2014081.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307634/upto-700xauto/6ad6edc0/Frame%2014081.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307637/upto-700xauto/6ad6edc0/Frame%2014081.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307632/upto-700xauto/6ad6edc0/Hero.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307636/upto-700xauto/6ad6edc0/Frame%2014081.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310347/upto-700xauto/6af377f4/Screenshot%202026-11-10%20at%2021-00-07%20Who%20We%20Are.png"
+   ],
+   "excerpt": "MagnaTerra Technologies holds the CSIRO magnetic resonance licences behind two businesses: NextOre, which sorts copper ore, and MRead, a landmine detector. Mude built the parent brand identity and the website that sits above both. The site tells the…"
+  },
+  {
+   "id": "80380",
+   "title": "An Archipelagic Vision: Renewal at the National Art Gallery of The Bahamas",
+   "url": "https://fontsinuse.com/uses/80380/an-archipelagic-vision-renewal-at-the-nationa",
+   "date": "2026-11-11T06:34:00.000Z",
+   "author": "Blake Belcher",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "238081",
+     "name": "Drummond",
+     "url": "https://fontsinuse.com/typefaces/238081/drummond",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14105/440/4/670640df/drummond.png"
+    },
+    {
+     "id": "189662",
+     "name": "Peridot",
+     "url": "https://fontsinuse.com/typefaces/189662/peridot",
+     "sample": "https://assets.fontsinuse.com/static/renders/329/189662/400/4/6af428ae/peridot.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307597/upto-700xauto/6ad641a0/2026_NAGB-PELICAN_BAY-08256.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307598/upto-700xauto/6ad64a76/2026_NAGB-PELICAN_BAY-08333.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307599/upto-700xauto/6ad64a76/2026_NAGB-PELICAN_BAY-08421.jpeg"
+   ],
+   "excerpt": "In-house design for an exhibition by the National Art Gallery of The Bahamas , at its satellite space, Canal House Gallery in Freeport, The Bahamas."
+  },
+  {
+   "id": "67025",
+   "title": "Milestone Productions – Technical Memorandum",
+   "url": "https://fontsinuse.com/uses/67025/milestone-productions-technical-memorandum",
+   "date": "2026-11-11T06:09:00.000Z",
+   "author": "Andrea Ferrario",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "232952",
+     "name": "Neue Montreal Mono",
+     "url": "https://fontsinuse.com/typefaces/232952/neue-montreal-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12935/440/4/65c349b9/neue-montreal-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307848/upto-700xauto/6ad79e56/_MG_8110.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307852/upto-700xauto/6ad7a0c1/Frame%203.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307849/upto-700xauto/6ad79de0/_MG_8096.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307854/upto-700xauto/6ad7a227/Frame%204.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307850/upto-700xauto/6ad7a227/_MG_8150.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307853/upto-700xauto/6ad7a225/_MG_8104.jpeg"
+   ],
+   "excerpt": "Milestone Productions – Technical Memorandum is a thesis project developed as an in-depth study of Milestone Productions , a speculative design project that origins from the question “What if the moon landing had been staged?”"
+  },
   {
    "id": "77847",
    "title": "Harper’s Bazaar Italia, issue 25: “Da Capo”",
@@ -2251,7 +2565,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af21f08/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -3764,7 +4078,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af21f08/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
     }
    ],
    "images": [
