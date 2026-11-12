@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-11T16:05:28.132Z",
+ "updated": "2026-11-12T16:46:43.968Z",
  "day": {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "picks": [
-   "246041",
-   "3361",
-   "250599",
-   "201779",
-   "93601",
-   "246163",
-   "7195",
-   "31705",
-   "27761"
+   "48",
+   "233777",
+   "10056",
+   "235008",
+   "250452",
+   "189662",
+   "800",
+   "118336",
+   "32061"
   ]
  },
  "history": [
@@ -406,9 +406,318 @@
     "31705",
     "27761"
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "picks": [
+    "48",
+    "233777",
+    "10056",
+    "235008",
+    "250452",
+    "189662",
+    "800",
+    "118336",
+    "32061"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "79915",
+   "title": "TML 1–4, The Magic Line",
+   "url": "https://fontsinuse.com/uses/79915/tml-1-4-the-magic-line",
+   "date": "2026-11-12T09:06:38.000Z",
+   "author": "Omnitype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "218202",
+     "name": "OT Polar",
+     "url": "https://fontsinuse.com/typefaces/218202/ot-polar",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11386/440/4/641c3ced/ot-polar.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/303/302785/upto-700xauto/6aa0192d/TML_Jas-Hussein_Carrousel-IG_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302786/upto-700xauto/6aa0192e/TML_Jas-Hussein_Carrousel-IG_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302787/upto-700xauto/6aa01930/TML_Jas-Hussein_Carrousel-IG_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302788/upto-700xauto/6aa01930/TML_Jas-Hussein_Carrousel-IG_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302789/upto-700xauto/6aa01931/TML_Jas-Hussein_Carrousel-IG_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/303/302790/upto-700xauto/6aa01932/TML_Jas-Hussein_Carrousel-IG_6.jpeg"
+   ],
+   "excerpt": "Jad Hussein used OT Polar for a four-volume publication series by The Magic Line :"
+  },
+  {
+   "id": "69226",
+   "title": "Jean-Claude Götting. La couleur et le trait",
+   "url": "https://fontsinuse.com/uses/69226/jean-claude-goetting-la-couleur-et-le-trait",
+   "date": "2026-11-12T09:03:48.000Z",
+   "author": "Geoffrey Bourgeois",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "104609",
+     "name": "LL Catalogue",
+     "url": "https://fontsinuse.com/typefaces/104609/ll-catalogue",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5782/440/4/5d278862/ll-catalogue.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/260/259576/upto-700xauto/6af580ae/Untitled-48.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/260/259571/upto-700xauto/6af58461/Untitled-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/260/259572/upto-700xauto/6af58461/Untitled-42.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/260/259573/upto-700xauto/6af58461/Untitled-43.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/260/259575/upto-700xauto/6af58461/Untitled-47.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/260/259574/upto-700xauto/6af58461/Untitled-46.jpeg"
+   ],
+   "excerpt": "Published by gallery Huberty & Breyne , Jean-Claude Götting. La couleur et le trait traces the French artist ’s painting work. Without alphabetical or chronological classification, the works are organized by free association, recreating micro-stories on…"
+  },
+  {
+   "id": "60186",
+   "title": "Julie Béna – Fantasy exhibition and catalog",
+   "url": "https://fontsinuse.com/uses/60186/julie-bena-fantasy-exhibition-and-catalog",
+   "date": "2026-11-12T08:44:34.000Z",
+   "author": "Björn Giesecke",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "233777",
+     "name": "Drama",
+     "url": "https://fontsinuse.com/typefaces/233777/bg-drama",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13200/440/4/661cfb57/bg-drama.png"
+    },
+    {
+     "id": "48",
+     "name": "Tiempos",
+     "url": "https://fontsinuse.com/typefaces/48/tiempos",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/27/440/4/570e1fd7/tiempos.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307092/upto-700xauto/6ad1de7a/IMG_1282.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307093/upto-700xauto/6ad1de33/IMG_1283.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307095/upto-700xauto/6af34aea/198_r5a5930w.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307091/upto-700xauto/6af34aea/IMG_1281.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310327/upto-700xauto/6af34af0/JMMP_Julie_B%25C3%25A9na__Fantasy_10_thumb_big.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307424/upto-700xauto/6af34af0/77936372131__2CFDB222-0863-40C5-9C89-59CFF0CAC335-angleichen.jpeg"
+   ],
+   "excerpt": "The exhibition Fantasy by Julie Béna took place at PLATO in Ostrava from 23 May to 1 September 2024 and was curated by Marek Pokorný. The book Fantasy , Julie Béna's first monograph, was published by Montez Press in 2025 in an English and French edition.…"
+  },
+  {
+   "id": "80931",
+   "title": "Chelovek stanovitsya soboy by Filipp Dzyadko",
+   "url": "https://fontsinuse.com/uses/80931/chelovek-stanovitsya-soboy-by-filipp-dzyadko",
+   "date": "2026-11-12T08:42:47.000Z",
+   "author": "Adelina Shaydullina",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "242868",
+     "name": "Rr Repose",
+     "url": "https://fontsinuse.com/typefaces/242868/rr-repose",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14920/440/4/67d8558d/rr-repose.png"
+    },
+    {
+     "id": "92",
+     "name": "Lyon",
+     "url": "https://fontsinuse.com/typefaces/92/lyon",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/100/440/4/570e1fed/lyon.png"
+    },
+    {
+     "id": "231579",
+     "name": "Qommodore",
+     "url": "https://fontsinuse.com/typefaces/231579/qommodore",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12553/440/4/654a1194/qommodore.png"
+    },
+    {
+     "id": "242869",
+     "name": "Rr Opague",
+     "url": "https://fontsinuse.com/typefaces/242869/rr-opague",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14921/440/4/67d85590/rr-opague.png"
+    },
+    {
+     "id": "214029",
+     "name": "Elma Trio",
+     "url": "https://fontsinuse.com/typefaces/214029/elma-trio",
+     "sample": "https://assets.fontsinuse.com/static/renders/75/214029/400/4/6af57c08/elma-trio.png"
+    },
+    {
+     "id": "183779",
+     "name": "Grato Marker",
+     "url": "https://fontsinuse.com/typefaces/183779/grato-marker",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9533/440/4/620250c2/grato-marker.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307648/upto-700xauto/6ad70f03/preview_preview_image_en-uyG33cPF6elwHKzUuEjPaM_drtXCQoB4oA.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307658/upto-700xauto/6ad710b7/image-aqwtt4zJmpRimhawx3MdmJYGjPVaeOp21g%201.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307659/upto-700xauto/6ad710d0/image-dhSbTnw_wds3anVj9BdO36zpedvKfIQnjg%201.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307649/upto-700xauto/6ad710d0/image-9VMwnd4JvjCKenRsVoGld4dDxa9GOB3YJg.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307651/upto-700xauto/6ad710d0/image-sPe4d4YygygtFkzkX_TyY160fxfqE6Wp5Q.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307657/upto-700xauto/6ad710d0/image-Y65MZbSHc4iHN_sOdyGR_KTMra5SZMMVtw.png"
+   ],
+   "excerpt": "Человек становится собой (“How We Became Human”) is a book published by Фалькор (Falkor) , a project by FDZ Culture & History ."
+  },
+  {
+   "id": "80974",
+   "title": "Breaking the Circuit of Control by Francesco Bertocco",
+   "url": "https://fontsinuse.com/uses/80974/breaking-the-circuit-of-control-by-francesco-",
+   "date": "2026-11-12T08:40:00.000Z",
+   "author": "Andrej Sevcik",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247370",
+     "name": "Neolit",
+     "url": "https://fontsinuse.com/typefaces/247370/neolit",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17521/440/4/69734044/neolit.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307942/upto-700xauto/6ad8b763/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-ambientata.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307940/upto-700xauto/6af57d50/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307943/upto-700xauto/6af581ff/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307938/upto-700xauto/6af57d50/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307939/upto-700xauto/6af57d50/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307937/upto-700xauto/6af57d50/HU-Bertocco-Breaking-the-Circuit-of-Control-ph-%C2%A9-Francesco-Spallacci-06.jpeg"
+   ],
+   "excerpt": "Breaking the Circuit of Control is a project by Francesco Bertocco dedicated to the cultural legacy of Franco Basaglia , a key figure in the transformation of modern psychiatry and a champion of a radical critique of total institutions. At the heart of the…"
+  },
+  {
+   "id": "80216",
+   "title": "Loud & Clear festival",
+   "url": "https://fontsinuse.com/uses/80216/loud-and-clear-festival",
+   "date": "2026-11-12T08:35:02.000Z",
+   "author": "Type Mania",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246157",
+     "name": "Bootzy Condensed TM",
+     "url": "https://fontsinuse.com/typefaces/246157/bootzy-condensed-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17140/440/4/6930281f/bootzy-condensed-tm.png"
+    },
+    {
+     "id": "246209",
+     "name": "Bootzy TM",
+     "url": "https://fontsinuse.com/typefaces/246209/bootzy-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17151/440/4/693028da/bootzy-tm.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307544/upto-700xauto/6ad60f16/jjoshaitken_1789991418_3991053970309326122_6259121865%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307537/upto-700xauto/6ad60a97/jjoshaitken_1789991418_3991053897907235603_6259121865%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307536/upto-700xauto/6ad60a97/jjoshaitken_1789991418_3991053907562567917_6259121865%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307538/upto-700xauto/6ad60a95/jjoshaitken_1789991418_3991053918081853422_6259121865%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307539/upto-700xauto/6ad60a96/jjoshaitken_1789991418_3991053933114269370_6259121865%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307540/upto-700xauto/6ad60a96/jjoshaitken_1789991418_3991053945957036322_6259121865%20%281%29.jpeg"
+   ],
+   "excerpt": "Bootzy TM and Bootzy Condensed TM by Type Mania in promotional artwork for Loud & Clear , a new rock, punk, hardcore and emo festival in Liverpool, UK. Organised by Good Times and HSP Present, its first edition takes place across three venues in the Baltic…"
+  },
+  {
+   "id": "80262",
+   "title": "Unité Mobile Prévention Santé",
+   "url": "https://fontsinuse.com/uses/80262/unite-mobile-prevention-sante",
+   "date": "2026-11-12T08:34:16.000Z",
+   "author": "Oudin Romain",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "218194",
+     "name": "Ginka",
+     "url": "https://fontsinuse.com/typefaces/218194/ginka",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11376/440/4/641b5329/ginka.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304480/upto-700xauto/6ab284a7/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304481/upto-700xauto/6ab2844f/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304482/upto-700xauto/6ab2844f/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304484/upto-700xauto/6ab28470/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304483/upto-700xauto/6af57a28/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304485/upto-700xauto/6ab28452/6.jpeg"
+   ],
+   "excerpt": "The visual identity for the Unité Mobile Prévention Santé (UMPS; “Mobile Health Prevention Unit”), operated by Saverne Hospitals , was designed by Atelier Pleine Forme . This mobile initiative focuses on prevention and access to healthcare, bringing…"
+  },
+  {
+   "id": "80972",
+   "title": "Projektor – Tag der Architektur und Ingenieur­baukunst 2026",
+   "url": "https://fontsinuse.com/uses/80972/projektor-tag-der-architektur-und-ingenieur-1",
+   "date": "2026-11-12T07:48:00.000Z",
+   "author": "Farina Michelle",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "154658",
+     "name": "Rauschen Max",
+     "url": "https://fontsinuse.com/typefaces/154658/rauschen-max",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7996/440/4/605639bd/rauschen-max.png"
+    },
+    {
+     "id": "157928",
+     "name": "Bahnschrift",
+     "url": "https://fontsinuse.com/typefaces/157928/bahnschrift",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8191/440/4/608fbb3a/bahnschrift.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307913/upto-700xauto/6ad8a132/farinamichelle-projektor-2026-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307914/upto-700xauto/6ad8a0c0/farinamichelle-projektor-2026-3.jpeg"
+   ],
+   "excerpt": "The annual nationwide “ Day of Architecture and Civil Engineering ” offers a special programme for young people in Hamburg. To appeal to this target group, a poster was designed for public spaces in Hamburg and for passenger information screens on the…"
+  },
+  {
+   "id": "80959",
+   "title": "Alex/Avery Beige portfolio website",
+   "url": "https://fontsinuse.com/uses/80959/alex-avery-beige-portfolio-website",
+   "date": "2026-11-12T06:31:00.000Z",
+   "author": "A/A Beige",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "143081",
+     "name": "Almarena",
+     "url": "https://fontsinuse.com/typefaces/143081/almarena",
+     "sample": "https://assets.fontsinuse.com/static/renders/152/143081/400/4/6af57945/almarena.png"
+    },
+    {
+     "id": "234653",
+     "name": "Almarena Mono",
+     "url": "https://fontsinuse.com/typefaces/234653/almarena-mono",
+     "sample": "https://assets.fontsinuse.com/static/renders/382/234653/400/4/6af57945/almarena-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310345/upto-700xauto/6af5799b/Alex_Avery%20Beige%20Artist%20Playwright%20_%20Creative%20Technologist%20_%20Biohacker.png"
+   ],
+   "excerpt": "I’m Alex/Avery Beige , a NYC-based creative technologist, biohacker, and experimental playwright. My work focuses on the gap between being watched and being seen. For my artist portfolio, I’m using Almarena together with Almarena Mono ."
+  },
+  {
+   "id": "80067",
+   "title": "bicipr3ta, 4THEBLACK helmets",
+   "url": "https://fontsinuse.com/uses/80067/bicipr3ta-4theblack-helmets",
+   "date": "2026-11-12T06:27:00.000Z",
+   "author": "JOZÀ",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303606/upto-700xauto/6af575f6/8c30aa171608223-6510e2bc13d01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303618/upto-700xauto/6aa86b3a/7849d0171608223.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303607/upto-700xauto/6aa86b3a/448b6f171608223-6472a84cc1a91.png",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303608/upto-700xauto/6aa86c5f/561d28171608223-6510e52230ef5.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303620/upto-700xauto/6af578e1/3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303610/upto-700xauto/6aa86f21/BICINEW2026Prancheta-1.png"
+   ],
+   "excerpt": "bicipr3ta is a cycling brand and shop founded and led by Black women in Salvador, Brazil. The brand positions race, gender, representation, and accessibility as part of its approach to cycling culture, products, and communication."
+  },
   {
    "id": "80733",
    "title": "Veintinueve Trece 2023",
@@ -533,7 +842,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -2565,7 +2874,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -4078,7 +4387,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af427f0/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
     }
    ],
    "images": [
