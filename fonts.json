@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-12T16:46:43.968Z",
+ "updated": "2026-11-13T16:14:16.990Z",
  "day": {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "picks": [
-   "48",
-   "233777",
-   "10056",
-   "235008",
-   "250452",
-   "189662",
-   "800",
-   "118336",
-   "32061"
+   "250443",
+   "157447",
+   "157928",
+   "4907",
+   "173216",
+   "127861",
+   "229638",
+   "134023",
+   "121098"
   ]
  },
  "history": [
@@ -420,9 +420,416 @@
     "118336",
     "32061"
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "picks": [
+    "250443",
+    "157447",
+    "157928",
+    "4907",
+    "173216",
+    "127861",
+    "229638",
+    "134023",
+    "121098"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "79674",
+   "title": "Kings and Queens of Africa: Forms and Figures of Power exhibition catalog",
+   "url": "https://fontsinuse.com/uses/79674/kings-and-queens-of-africa-forms-and-figures-",
+   "date": "2026-11-13T08:19:27.000Z",
+   "author": "Swiss Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "46974",
+     "name": "Sangbleu Sunrise",
+     "url": "https://fontsinuse.com/typefaces/46974/sangbleu-sunrise",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3808/440/4/59b12594/sangbleu-sunrise.png"
+    },
+    {
+     "id": "217623",
+     "name": "Readex Pro",
+     "url": "https://fontsinuse.com/typefaces/217623/readex",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/12000/440/4/6af4aa51/readex.png"
+    },
+    {
+     "id": "160556",
+     "name": "Eiko",
+     "url": "https://fontsinuse.com/typefaces/160556/eiko",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8344/440/4/60c304b6/eiko.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/302/301479/upto-700xauto/6af6c8cf/483936626_122216266364236800_7958403904116588725_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301480/upto-700xauto/6a8d6a7a/484090664_122216290754236800_7803879884498939939_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301472/upto-700xauto/6a8d6a65/aH-cElGsbswqTIlx_SITE_IMAGE4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301475/upto-700xauto/6a8d6a65/Z9gcMTiBA97GijKy_POST_roisetreines4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301477/upto-700xauto/6a8d6a65/Z9gcvDiBA97GijLD_CapturedE28099C3A9cran2025-03-17C3A013.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/302/301478/upto-700xauto/6a8d6a65/Z9gdFTiBA97GijLg_CapturedE28099C3A9cran2025-03-17C3A014.jpeg"
+   ],
+   "excerpt": "Kings and Queens of Africa: Forms and Figures of Power is the catalog for the exhibition of the same name held at Louvre Abu Dhabi from 29 January to 8 June 2025, in collaboration with the Musée du quai Branly – Jacques Chirac. Designed by Paris-based…"
+  },
+  {
+   "id": "78176",
+   "title": "Golden Sardine website",
+   "url": "https://fontsinuse.com/uses/78176/golden-sardine-website",
+   "date": "2026-11-13T08:17:44.000Z",
+   "author": "Ilya Naumoff",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246047",
+     "name": "Oceanic Text Mono",
+     "url": "https://fontsinuse.com/typefaces/246047/oceanic-text-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17045/440/4/691cdd83/oceanic-text-mono.png"
+    },
+    {
+     "id": "95594",
+     "name": "Agrandir",
+     "url": "https://fontsinuse.com/typefaces/95594/agrandir",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5471/440/4/5c84823b/agrandir.png"
+    },
+    {
+     "id": "229207",
+     "name": "EK Roumald",
+     "url": "https://fontsinuse.com/typefaces/229207/ek-roumald",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12544/440/4/69b1ab47/ek-roumald.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/295/294192/upto-700xauto/6af5a31a/Sardine-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294193/upto-700xauto/6af6e7be/Sardine-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/295/294194/upto-700xauto/6af6c79f/Sardine-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310713/upto-700xauto/6af6e7b4/Screenshot%202026-11-13%20at%2011-32-28%20Poetry%20Press.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310714/upto-700xauto/6af6e778/Screenshot%202026-11-13%20at%2011-32-51%20Events.png"
+   ],
+   "excerpt": "Golden Sardine is a wine bar in San Francisco, California. Their website wad esigned by Giorgia Sage, who paired Oceanic Text Mono and Agrandir for most text, with headlines set in EK Roumald ."
+  },
+  {
+   "id": "80932",
+   "title": "Maison de la musique Nanterre wayfinding",
+   "url": "https://fontsinuse.com/uses/80932/maison-de-la-musique-nanterre-wayfinding",
+   "date": "2026-11-13T08:11:43.000Z",
+   "author": "BVH Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245394",
+     "name": "Eddi Grotesk",
+     "url": "https://fontsinuse.com/typefaces/245394/bvh-eddi-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16636/440/4/68d4ac9f/bvh-eddi-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308054/upto-700xauto/6ada3a34/IN-USE_MMN_signeltique_261022_0.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308065/upto-700xauto/6ada3ede/IN-USE_MMN_signeltique_261022-B-.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308066/upto-700xauto/6ada3ede/IN-USE_MMN_signeltique_261022-B-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308056/upto-700xauto/6ada3eda/IN-USE_MMN_signeltique_261022_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308057/upto-700xauto/6ada3eda/IN-USE_MMN_signeltique_261022_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308067/upto-700xauto/6ada3ee8/IN-USE_MMN_signeltique_261022-B-3.jpeg"
+   ],
+   "excerpt": "studio vu-huu used Eddi Grotesk , designed by b•v-h type , to create the interior signage for the Maison de la Musique in Nanterre . True to the brand identity developed since 2024 , these signs make a bold statement in a raw, 10-meter-high space. For this…"
+  },
+  {
+   "id": "81033",
+   "title": "Gibraltar Food Tours",
+   "url": "https://fontsinuse.com/uses/81033/gibraltar-food-tours",
+   "date": "2026-11-13T08:07:33.000Z",
+   "author": "Proof of Words",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235173",
+     "name": "PoW Covenant Mono",
+     "url": "https://fontsinuse.com/typefaces/235173/pow-covenant-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13545/440/4/667ac4ba/pow-covenant-mono.png"
+    },
+    {
+     "id": "243696",
+     "name": "Beth Ellen",
+     "url": "https://fontsinuse.com/typefaces/243696/beth-ellen",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15730/440/4/681da7e9/beth-ellen.png"
+    },
+    {
+     "id": "75097",
+     "name": "Pitch Sans",
+     "url": "https://fontsinuse.com/typefaces/75097/pitch-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4248/440/4/5a7c96b4/pitch-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308176/upto-700xauto/6af6c569/covenant-mono-inuse_gibraltar-food-tours_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308177/upto-700xauto/6adb52a6/covenant-mono-inuse_gibraltar-food-tours_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308178/upto-700xauto/6adb5284/covenant-mono-inuse_gibraltar-food-tours_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308179/upto-700xauto/6af6c5a9/covenant-mono-inuse_gibraltar-food-tours_05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308180/upto-700xauto/6adb5289/covenant-mono-inuse_gibraltar-food-tours_06.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308181/upto-700xauto/6adb528a/covenant-mono-inuse_gibraltar-food-tours_07.jpeg"
+   ],
+   "excerpt": "Gibraltar Food Tours is a food tourism brand identity designed by Kenshō Agency for a new tour company celebrating Gibraltar’s culinary culture and Llanito heritage. The identity pairs PoW Covenant Mono with Beth Ellen , combining a structured monospaced…"
+  },
+  {
+   "id": "81030",
+   "title": "Kunst, Design, Handwerk Markt 2026 flyer",
+   "url": "https://fontsinuse.com/uses/81030/kunst-design-handwerk-markt-2026-flyer",
+   "date": "2026-11-13T08:02:37.000Z",
+   "author": "Giulia Boggio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7713",
+     "name": "Parfumerie Script",
+     "url": "https://fontsinuse.com/typefaces/7713/parfumerie-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15574/440/4/6818a207/parfumerie-script.png"
+    },
+    {
+     "id": "243915",
+     "name": "DGM Typeset",
+     "url": "https://fontsinuse.com/typefaces/243915/dgm-typeset",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15725/440/4/681c8bac/dgm-typeset.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308158/upto-700xauto/6af6c42c/bureau-regular_De1LGIbjdFm_1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308159/upto-700xauto/6adb3633/bureau-regular_De1LGIbjdFm_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308160/upto-700xauto/6adb3635/bureau-regular_De1LGIbjdFm_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308161/upto-700xauto/6adb3636/bureau-regular_De1LGIbjdFm_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308162/upto-700xauto/6adb3637/bureau-regular_De1LGIbjdFm_5.png"
+   ],
+   "excerpt": "Flyer for this year’s edition of Kunst, Design, Handwerk Markt, an arts and crafts market at the Waisenhaus in Basel , designed by Noah Drilling ( Bureau Regular ). It is typeset in Parfumerie Script and DGM Typeset ."
+  },
+  {
+   "id": "80986",
+   "title": "Virtú",
+   "url": "https://fontsinuse.com/uses/80986/virtu",
+   "date": "2026-11-13T07:57:33.000Z",
+   "author": "Diphusa Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250646",
+     "name": "Virtuzinha",
+     "url": "https://fontsinuse.com/typefaces/250646/virtuzinha",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19614/440/4/6af595cb/virtuzinha.png"
+    },
+    {
+     "id": "82632",
+     "name": "Alte Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/82632/alte-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12024/440/4/64c7eb28/alte-haas-grotesk.png"
+    },
+    {
+     "id": "4919",
+     "name": "Courier New",
+     "url": "https://fontsinuse.com/typefaces/4919/courier-new",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4919/400/4/6af6c2ee/courier-new.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307968/upto-700xauto/6af4b4f3/FONTSINUSE-KVs-202631%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307969/upto-700xauto/6ad90728/FONTSINUSE-KVs-202630%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307971/upto-700xauto/6ad9072a/FONTSINUSE-KVs-202628%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307966/upto-700xauto/6ad9072a/FONTSINUSE-KVs-202627%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307972/upto-700xauto/6ad9072f/FONTSINUSE-KVs-202633%20Large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307970/upto-700xauto/6ad9072f/FONTSINUSE-KVs-202629%20Large.jpeg"
+   ],
+   "excerpt": "Virtú is a restaurant located in Pinheiros, São Paulo, Brazil. The identity, developed by diphusa studio , uses Alte Haas Grotesk , Courier New and a custom typeface called Virtuzinha across the brand's communications."
+  },
+  {
+   "id": "80950",
+   "title": "Good Times podcast",
+   "url": "https://fontsinuse.com/uses/80950/good-times-podcast",
+   "date": "2026-11-13T07:45:31.000Z",
+   "author": "Lorenzo Bigatti",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "231307",
+     "name": "Affigere",
+     "url": "https://fontsinuse.com/typefaces/231307/affigere",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12462/440/4/652fbe40/affigere.png"
+    },
+    {
+     "id": "45903",
+     "name": "Blitz Script",
+     "url": "https://fontsinuse.com/typefaces/45903/blitz-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4627/440/4/5b092c94/blitz-script.png"
+    },
+    {
+     "id": "210356",
+     "name": "Fragment Mono",
+     "url": "https://fontsinuse.com/typefaces/210356/fragment-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10530/440/4/633e95b1/fragment-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310674/upto-700xauto/6af6be94/Scherm%C2%ADafbeelding%202026-11-13%20om%2008-35-12.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310675/upto-700xauto/6af6c024/Scherm%C2%ADafbeelding%202026-11-13%20om%2008-34-56.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307831/upto-700xauto/6af6bec5/Frame%20348.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310673/upto-700xauto/6af6bec6/SaveInta-com_AQNcHIi5PMSBDk9cOZ9QblLY1y7Vk8sxbTPuvHjWO4azxhge7-uiIq4NoMz1_fR5ML0b3uO-4svDdzxLAXFvPjxc9ZzGxp3-JIVkooE.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307834/upto-700xauto/6af6bec4/Instagram%20post%20-%2013.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307832/upto-700xauto/6af6bec4/Instagram%20post%20-%209.png"
+   ],
+   "excerpt": "Lorenzo Bigatti Studio designed the visual identity for Good Times , a new podcast by SubDial and dedicated to watch collectors. The brief was to create a friendly, bold and playful identity that reflects the personality and spirit of the podcast."
+  },
+  {
+   "id": "80907",
+   "title": "“Télétec recrute” poster",
+   "url": "https://fontsinuse.com/uses/80907/teletec-recrute-poster",
+   "date": "2026-11-13T06:54:00.000Z",
+   "author": "Guillaume Pinatel",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "169406",
+     "name": "Chaumont Script",
+     "url": "https://fontsinuse.com/typefaces/169406/chaumont-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9003/440/4/61693fd7/chaumont-script.png"
+    },
+    {
+     "id": "186127",
+     "name": "Ft88 School",
+     "url": "https://fontsinuse.com/typefaces/186127/ft88-school",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9668/440/4/6227a399/ft88-school.png"
+    },
+    {
+     "id": "32366",
+     "name": "Jean Luc",
+     "url": "https://fontsinuse.com/typefaces/32366/jean-luc",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1265/440/4/570e20b2/jean-luc.png"
+    },
+    {
+     "id": "245709",
+     "name": "Gossip",
+     "url": "https://fontsinuse.com/typefaces/245709/gossip",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16827/440/4/68f36a5a/gossip.png"
+    },
+    {
+     "id": "219915",
+     "name": "Instrument Serif",
+     "url": "https://fontsinuse.com/typefaces/219915/instrument-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11812/440/4/648c6044/instrument-serif.png"
+    },
+    {
+     "id": "186125",
+     "name": "Ft88",
+     "url": "https://fontsinuse.com/typefaces/186125/ft88",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9670/440/4/6227a3ab/ft88.png"
+    },
+    {
+     "id": "186126",
+     "name": "Ft88 Gothique",
+     "url": "https://fontsinuse.com/typefaces/186126/ft88-gothique",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9669/440/4/6227a3a2/ft88-gothique.png"
+    },
+    {
+     "id": "40938",
+     "name": "Terminal Grotesque",
+     "url": "https://fontsinuse.com/typefaces/40938/terminal-grotesque",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2225/440/4/570e2159/terminal-grotesque.png"
+    },
+    {
+     "id": "82632",
+     "name": "Alte Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/82632/alte-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12024/440/4/64c7eb28/alte-haas-grotesk.png"
+    },
+    {
+     "id": "249995",
+     "name": "Grave Presse",
+     "url": "https://fontsinuse.com/typefaces/249995/grave-presse",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19005/440/4/6a7eb4df/grave-presse.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307676/upto-700xauto/6af6c26a/thumbnail%20poster.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307678/upto-700xauto/6ad7284d/IMG_0089%20-%20Grande.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307680/upto-700xauto/6ad72844/IMG_0096%20-%20Grande.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307681/upto-700xauto/6ad72848/IMG_0100%20-%20Grande.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307952/upto-700xauto/6ad8c547/IMG_0149%20-%20Grande.jpeg"
+   ],
+   "excerpt": "“Télétec recrute” is a poster that mocks companies that are falsely kind and dismissive towards workers. This was born from a common experience in the corporate world, where supervisors do not miss an opportunity to exploit their employees a little more.…"
+  },
+  {
+   "id": "80999",
+   "title": "In Good Taste cookbook by Kit Keenan",
+   "url": "https://fontsinuse.com/uses/80999/in-good-tasteandnbsp-cookbook-by-kit-keenan",
+   "date": "2026-11-13T06:47:00.000Z",
+   "author": "Jan Maack",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237386",
+     "name": "IvyBodoni",
+     "url": "https://fontsinuse.com/typefaces/237386/ivybodoni",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13930/440/4/66e098d8/ivybodoni.png"
+    },
+    {
+     "id": "7713",
+     "name": "Parfumerie Script",
+     "url": "https://fontsinuse.com/typefaces/7713/parfumerie-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15574/440/4/6818a207/parfumerie-script.png"
+    },
+    {
+     "id": "100",
+     "name": "Miller",
+     "url": "https://fontsinuse.com/typefaces/100/miller",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4014/440/4/59ef78b1/miller.png"
+    },
+    {
+     "id": "39028",
+     "name": "Forma DJR",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307993/upto-700xauto/6af6c0bd/in-good-taste-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307994/upto-700xauto/6ad9b256/in-good-taste-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307995/upto-700xauto/6ad9b257/in-good-taste-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307996/upto-700xauto/6ad9b258/in-good-taste-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307997/upto-700xauto/6ad9b258/in-good-taste-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307998/upto-700xauto/6ad9b259/in-good-taste-06.jpeg"
+   ],
+   "excerpt": "Kit Keenan is a content creator, entrepreneur, and emerging author blending food, fashion, and lifestyle into a distinct personal brand. In her debut cookbook , Kit Keenan shares approachable recipes for cooks of all levels. The book is set in IvyBodoni ,…"
+  },
+  {
+   "id": "81041",
+   "title": "Innerprise website",
+   "url": "https://fontsinuse.com/uses/81041/innerprise-website",
+   "date": "2026-11-13T05:25:00.000Z",
+   "author": "Oli Uygun",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229638",
+     "name": "Bricolage Grotesque",
+     "url": "https://fontsinuse.com/typefaces/229638/bricolage-grotesque",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12094/440/4/64d75b1e/bricolage-grotesque.png"
+    },
+    {
+     "id": "74743",
+     "name": "KD Nothing You Could Do",
+     "url": "https://fontsinuse.com/typefaces/74743/kd-nothing-you-could-do",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4217/440/4/6ae8c11f/kd-nothing-you-could-do.png"
+    },
+    {
+     "id": "152858",
+     "name": "Newsreader",
+     "url": "https://fontsinuse.com/typefaces/152858/newsreader",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7906/440/4/60361e6a/newsreader.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308218/upto-700xauto/6af6c9b8/innerprise-1-hero.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308219/upto-700xauto/6adbc47a/innerprise-2-fifty-shades.jpeg"
+   ],
+   "excerpt": "Innerprise is a growth partner for founders, run by Dieuwke van Woensel in Rotterdam. We gave the practice a new name, a strategy, a voice, a hand-drawn identity and a website. Headlines run in the lively Bricolage Grotesque Condensed. Newsreader , a…"
+  },
   {
    "id": "79915",
    "title": "TML 1–4, The Magic Line",
