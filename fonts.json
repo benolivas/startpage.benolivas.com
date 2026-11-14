@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-13T16:14:16.990Z",
+ "updated": "2026-11-14T14:58:59.972Z",
  "day": {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "picks": [
-   "250443",
-   "157447",
-   "157928",
-   "4907",
-   "173216",
-   "127861",
-   "229638",
-   "134023",
-   "121098"
+   "250444",
+   "93554",
+   "6393",
+   "245747",
+   "83243",
+   "248188",
+   "229129",
+   "250476",
+   "231593"
   ]
  },
  "history": [
@@ -434,9 +434,346 @@
     "134023",
     "121098"
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "picks": [
+    "250444",
+    "93554",
+    "6393",
+    "245747",
+    "83243",
+    "248188",
+    "229129",
+    "250476",
+    "231593"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81527",
+   "title": "TLC – FanMail album art",
+   "url": "https://fontsinuse.com/uses/81527/tlc-fanmail-album-art",
+   "date": "2026-11-14T12:34:35.000Z",
+   "author": "fangly",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "22966",
+     "name": "Lord Haw-Haw",
+     "url": "https://fontsinuse.com/typefaces/22966/lord-haw-haw",
+     "sample": "https://assets.fontsinuse.com/static/renders/363/22966/400/4/6af8555c/lord-haw-haw.png"
+    },
+    {
+     "id": "251",
+     "name": "Courier 10 Pitch",
+     "url": "https://fontsinuse.com/typefaces/251/courier-10-pitch",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/251/400/4/6af8625b/courier-10-pitch.png"
+    },
+    {
+     "id": "42",
+     "name": "Orator",
+     "url": "https://fontsinuse.com/typefaces/42/orator-ibm",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/42/400/4/6af8555c/orator-ibm.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310761/upto-700xauto/6af83c7c/9d81a356-3304-4fc8-ae35-846b8fbcf1f0_rw_3840.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310746/upto-700xauto/6af82fe6/mbid-56b479dc-cd7b-4dc0-8643-baca58c00b85-31383215553.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310747/upto-700xauto/6af82fe6/mbid-56b479dc-cd7b-4dc0-8643-baca58c00b85-31383240331.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310760/upto-700xauto/6af82fe6/mbid-56b479dc-cd7b-4dc0-8643-baca58c00b85-31383222311.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310745/upto-700xauto/6af82fe6/mbid-56b479dc-cd7b-4dc0-8643-baca58c00b85-31383213624.jpeg"
+   ],
+   "excerpt": "FanMail is the third studio album by American girl group TLC, released on February 23, 1999, by LaFace and Arista Records. The album title is a tribute to TLC's fans who sent them fan mail during their hiatus. FanMail debuted at number one on the US…"
+  },
+  {
+   "id": "81070",
+   "title": "ALIGHT BLIGHT mixtape",
+   "url": "https://fontsinuse.com/uses/81070/alight-blight-mixtape",
+   "date": "2026-11-14T12:10:37.000Z",
+   "author": "Thomas John",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250557",
+     "name": "Gazet Spiky",
+     "url": "https://fontsinuse.com/typefaces/250557/gazet-spiky",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19434/440/4/6af5f2f4/gazet-spiky.png"
+    },
+    {
+     "id": "248508",
+     "name": "Bobby Digital",
+     "url": "https://fontsinuse.com/typefaces/248508/bobby-digital",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18293/440/4/6a0d8c31/bobby-digital.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308326/upto-700xauto/6af84f3f/GAZET%20Cassette%20Case%20-%20Front%20Kopie.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308327/upto-700xauto/6ade4537/GAZET%20Cassette%20Case%20-%20back.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308328/upto-700xauto/6ade4539/GAZET%20Cassette%20Case%20-%20Front.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308329/upto-700xauto/6ade453a/GAZET%20Cassette%20Case%20-%20side.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308330/upto-700xauto/6ade4550/AB%20LIGHT.jpeg"
+   ],
+   "excerpt": "AL​IGHT BLIGHT is a 17-track horrorcore mixtape. The 60-minute mix brings together underground hip-hop and horrorcore on cassette."
+  },
+  {
+   "id": "81034",
+   "title": "Apple Music 404 web page",
+   "url": "https://fontsinuse.com/uses/81034/apple-music-404-web-page",
+   "date": "2026-11-14T12:06:50.000Z",
+   "author": "Choo Kwang Zhee",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7666",
+     "name": "Chicago",
+     "url": "https://fontsinuse.com/typefaces/7666/chicago",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8414/440/4/60dddf84/chicago.png"
+    },
+    {
+     "id": "4081",
+     "name": "Adobe Garamond",
+     "url": "https://fontsinuse.com/typefaces/4081/adobe-garamond",
+     "sample": "https://assets.fontsinuse.com/static/renders/45/4081/400/4/6af84edb/adobe-garamond.png"
+    },
+    {
+     "id": "39620",
+     "name": "San Francisco",
+     "url": "https://fontsinuse.com/typefaces/39620/san-francisco",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1836/440/4/570e2112/san-francisco.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308189/upto-700xauto/6af84ef6/Screenshot%202026-10-23%20at%208-55-33%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308190/upto-700xauto/6adb59bd/Screenshot%202026-10-23%20at%208-55-48%E2%80%AFPM.png"
+   ],
+   "excerpt": "To celebrate the iPod's 25th anniversary, Apple Music's 404 Not Found web page added a simulator of the first generation iPod classic."
+  },
+  {
+   "id": "81349",
+   "title": "Paper Tigers – Under the Pavement, There is a Beach EP",
+   "url": "https://fontsinuse.com/uses/81349/paper-tigers-under-the-pavement-there-is-a-be",
+   "date": "2026-11-14T12:03:40.000Z",
+   "author": "Emily Payne",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246178",
+     "name": "Disarm Tm",
+     "url": "https://fontsinuse.com/typefaces/246178/disarm-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17167/440/4/69302c6b/disarm-tm.png"
+    },
+    {
+     "id": "249931",
+     "name": "Bn Trainwreck",
+     "url": "https://fontsinuse.com/typefaces/249931/bn-trainwreck",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18927/440/4/6a735cd7/bn-trainwreck.png"
+    },
+    {
+     "id": "1160",
+     "name": "Univers",
+     "url": "https://fontsinuse.com/typefaces/1160/univers",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1160/400/4/6af84e1d/univers.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309856/upto-700xauto/6aeddec5/comp_still.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309863/upto-700xauto/6aeddecd/FRONT_BACK.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309864/upto-700xauto/6aeddef4/INSIDE.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309860/upto-700xauto/6aeddedb/back_cd.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309861/upto-700xauto/6aeddee6/cd_credits.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309862/upto-700xauto/6aeddeec/disc%20copy.png"
+   ],
+   "excerpt": "Under the Pavement, There is a Beach is the debut EP of indie-rock band Paper Tigers . Rachel Seeger writes:"
+  },
+  {
+   "id": "81214",
+   "title": "The Black Keys at Mershon Auditorium concert poster",
+   "url": "https://fontsinuse.com/uses/81214/the-black-keys-at-mershon-auditorium-concert-",
+   "date": "2026-11-14T12:01:10.000Z",
+   "author": "typeluvr04",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7357",
+     "name": "Cooper Black",
+     "url": "https://fontsinuse.com/typefaces/7357/cooper-black",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3079/440/4/68dada8c/cooper-black.png"
+    },
+    {
+     "id": "1160",
+     "name": "Univers",
+     "url": "https://fontsinuse.com/typefaces/1160/univers",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1160/400/4/6af84e1d/univers.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309116/upto-700xauto/6af84e36/685020740_18588059806030063_1740893379522543751_n.jpeg"
+   ],
+   "excerpt": "On May 4th and 5th of this year, as part of the Peaches ’n Kream tour, The Black Keys played the Mershon Auditorium at the Wexner Center for the Arts in Columbus, Ohio. Michael Carney designed the poster for the shows, using Cooper Black and Univers .…"
+  },
+  {
+   "id": "81058",
+   "title": "Talking Heads – Fear of Music album art",
+   "url": "https://fontsinuse.com/uses/81058/talking-heads-fear-of-music-album-art-1",
+   "date": "2026-11-14T11:32:12.000Z",
+   "author": "ronin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4928",
+     "name": "Artisan",
+     "url": "https://fontsinuse.com/typefaces/4928/artisan",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17740/440/4/699b655b/artisan.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308246/upto-700xauto/6addc2c4/lp_fear-of-music_talking-heads_0000.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308247/upto-700xauto/6addc2d4/lp_fear-of-music_talking-heads_0001.jpeg"
+   ],
+   "excerpt": "Fear of Music is an album of Talking Heads released in 1979 on the Sire label. It reached #21 in the US and #33 in the UK."
+  },
+  {
+   "id": "81408",
+   "title": "Kate Bush – Aerial album art and “King of the Mountain” single cover",
+   "url": "https://fontsinuse.com/uses/81408/kate-bush-aerial-album-art-and-king-of-the-mo",
+   "date": "2026-11-14T10:10:39.000Z",
+   "author": "WordsandFonts",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2181",
+     "name": "Bodega Serif",
+     "url": "https://fontsinuse.com/typefaces/2181/bodega-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8859/440/4/6155a920/bodega-serif.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310141/upto-700xauto/6af19013/Cover.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310142/upto-700xauto/6af1916d/King+Of+The+Mountain.webp"
+   ],
+   "excerpt": "The artwork for Kate Bush’s Aerial album , released in 2005, as well as for its single, “ King of the Mountain ”, features Bodega Serif (probably Bodega Serif Black) on all text."
+  },
+  {
+   "id": "80764",
+   "title": "Fredi – Elämä on ihanaa album art",
+   "url": "https://fontsinuse.com/uses/80764/fredi-elaemae-on-ihanaa-album-art",
+   "date": "2026-11-14T10:09:54.000Z",
+   "author": "Miikka Rusi",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38436",
+     "name": "Charade",
+     "url": "https://fontsinuse.com/typefaces/38436/charade",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1627/440/4/61c6c5e6/charade.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307045/upto-700xauto/6ad11f1b/fredi-elama-on-ihanaa.jpeg"
+   ],
+   "excerpt": "Fredi, whose real name was Matti Siitonen (1942–2021), was one of Finland’s most popular pop singers, particularly in the mid-1970s. He represented Finland in the Eurovision Song Contest in 1967 and 1976."
+  },
+  {
+   "id": "78602",
+   "title": "Martha Reeves & The Vandellas – Ridin’ High album art",
+   "url": "https://fontsinuse.com/uses/78602/martha-reeves-and-the-vandellas-ridin-high-al",
+   "date": "2026-11-14T10:04:11.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "237744",
+     "name": "Neo Bookman",
+     "url": "https://fontsinuse.com/typefaces/237744/neo-bookman",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14002/440/4/66efee5b/neo-bookman.png"
+    },
+    {
+     "id": "230",
+     "name": "Bookman",
+     "url": "https://fontsinuse.com/typefaces/230/bookman",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/230/400/4/6af8321c/bookman.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/297/296460/upto-700xauto/6a413b2c/lp_ridin-high_martha-reeves-the-vandellas_0000.jpeg"
+   ],
+   "excerpt": "Ridin’ High is a 1968 album released by Motown girl group Martha and the Vandellas on the Gordy ( Motown ) label. This album featured the last Top 40 pop hits scored by the group during their recording tenure, “ Love Bug Leave My Heart Alone ” and “ Honey…"
+  },
+  {
+   "id": "81130",
+   "title": "Ne’imot klasyot lektantanim album series",
+   "url": "https://fontsinuse.com/uses/81130/ne-imot-klasyot-lektantanim-albumandnbsp-seri",
+   "date": "2026-11-14T10:02:28.000Z",
+   "author": "Nostalbeep",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1603",
+     "name": "Autograph Masterfont",
+     "url": "https://fontsinuse.com/typefaces/1603/autograph-masterfont",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19616/440/4/6af5ee47/autograph-masterfont.png"
+    },
+    {
+     "id": "27386",
+     "name": "Sapir",
+     "url": "https://fontsinuse.com/typefaces/27386/sapir",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19615/440/4/6af5ee58/sapir.png"
+    },
+    {
+     "id": "19488",
+     "name": "Frank Ruhl Mf",
+     "url": "https://fontsinuse.com/typefaces/19488/frank-ruhl-mf",
+     "sample": "https://assets.fontsinuse.com/static/renders/24/19488/400/4/6af831b5/frank-ruhl-mf.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308670/upto-700xauto/6af831e3/IMG_0815.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310635/upto-700xauto/6af5f031/prodimage_4397.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310636/upto-700xauto/6af5ef3b/prodimage_4407.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310637/upto-700xauto/6af5ef64/prodimage_4396.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310638/upto-700xauto/6af5ef8c/prodimage_4408.jpeg"
+   ],
+   "excerpt": "נעימות קלאסיות לקטנטנים (“ Classical melodies for little ones ”) is a series of compilation albums with music for children, released in 2008 by NMC Music ."
+  },
+  {
+   "id": "40809",
+   "title": "Kings Road – Super Hits album series",
+   "url": "https://fontsinuse.com/uses/40809/kings-road-super-hits-album-series",
+   "date": "2026-11-14T10:01:29.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "242282",
+     "name": "Gotham",
+     "url": "https://fontsinuse.com/typefaces/242282/west-gotham",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16440/440/4/68a849a3/west-gotham.png"
+    },
+    {
+     "id": "3801",
+     "name": "Blippo",
+     "url": "https://fontsinuse.com/typefaces/3801/blippo",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7399/440/4/5f95af6b/blippo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/141/140897/upto-700xauto/6af831d5/51246541038_7101b9abc6_4k.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310779/upto-700xauto/6af82f7e/s-l1600.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310773/upto-700xauto/6af82f04/Screen%252BShot%252B2019-01-09%252Bat%252B9-52-17%252BPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310770/upto-700xauto/6af82f04/Screen%252BShot%252B2018-09-06%252Bat%252B8-16-35%252BPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/147/146839/upto-700xauto/6af82f04/51459710315_2b1cba95a8_4k.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310777/upto-700xauto/6af82f02/Super%20Hits%2010.jpeg"
+   ],
+   "excerpt": "According to Discogs, Kings Road was a “Pickwick cover band with unknown singers and performers” that recorded around 30 albums with pop music marketed as “played and sung like the original hits”."
+  },
   {
    "id": "79674",
    "title": "Kings and Queens of Africa: Forms and Figures of Power exhibition catalog",
@@ -2287,7 +2624,7 @@
      "id": "52",
      "name": "Times",
      "url": "https://fontsinuse.com/typefaces/52/times",
-     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af2d726/times.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/392/52/400/4/6af78075/times.png"
     }
    ],
    "images": [
