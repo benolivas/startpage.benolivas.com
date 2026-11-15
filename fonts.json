@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-14T14:58:59.972Z",
+ "updated": "2026-11-15T15:37:04.858Z",
  "day": {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "picks": [
-   "250444",
-   "93554",
-   "6393",
-   "245747",
-   "83243",
-   "248188",
-   "229129",
-   "250476",
-   "231593"
+   "116909",
+   "3482",
+   "113113",
+   "100785",
+   "246704",
+   "242221",
+   "250451",
+   "250335",
+   "250167"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-15",
-   "picks": [
-    "242221",
-    "116909",
-    "250451",
-    "3482",
-    "250167",
-    "100785",
-    "250335",
-    "113113",
-    "246704"
-   ]
-  },
   {
    "date": "2026-10-16",
    "picks": [
@@ -448,9 +434,79 @@
     "250476",
     "231593"
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "picks": [
+    "116909",
+    "3482",
+    "113113",
+    "100785",
+    "246704",
+    "242221",
+    "250451",
+    "250335",
+    "250167"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81462",
+   "title": "20 Great Cruisin’ Favourites of the 50’s and 60’s, Vol. 3 album art",
+   "url": "https://fontsinuse.com/uses/81462/20-great-cruisin-favourites-of-the-50-s-and-6",
+   "date": "2026-11-14T19:28:36.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "140524",
+     "name": "Lettera-Grotesk",
+     "url": "https://fontsinuse.com/typefaces/140524/lettera-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7205/440/4/5f6cb15f/lettera-grotesk.png"
+    },
+    {
+     "id": "19172",
+     "name": "Vanity",
+     "url": "https://fontsinuse.com/typefaces/19172/filmotype-vanity",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14584/440/4/677fff19/filmotype-vanity.png"
+    },
+    {
+     "id": "40164",
+     "name": "Lampoon Brush",
+     "url": "https://fontsinuse.com/typefaces/40164/lampoon-brush",
+     "sample": "https://assets.fontsinuse.com/static/renders/43/40164/400/4/6af8b665/lampoon-brush.png"
+    },
+    {
+     "id": "19139",
+     "name": "Filmotype Ginger",
+     "url": "https://fontsinuse.com/typefaces/19139/filmotype-ginger",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12987/440/4/65d1f164/filmotype-ginger.png"
+    },
+    {
+     "id": "40988",
+     "name": "Monotype Grotesque Extra Condensed",
+     "url": "https://fontsinuse.com/typefaces/40988/monotype-grotesque-extra-condensed",
+     "sample": "https://assets.fontsinuse.com/static/renders/43/40988/400/4/6af8b6bb/monotype-grotesque-extra-condensed.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    },
+    {
+     "id": "88995",
+     "name": "Abramesque",
+     "url": "https://fontsinuse.com/typefaces/88995/abramesque",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5797/440/4/5d2f0692/abramesque.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310437/upto-700xauto/6af48982/718BGyQHnxL-_AC_SL1500_.jpeg"
+   ],
+   "excerpt": "20 Great Cruisin’ Favourites of the 50’s and 60’s is a three-volume series of albums with rock’n’roll and doo wop music by the likes of Little Richard, Everly Brothers, Sam Cooke, and The Chiffons. Compiled by Ted Carroll , it was released 1987–1988 by…"
+  },
   {
    "id": "81527",
    "title": "TLC – FanMail album art",
@@ -598,7 +654,7 @@
    "title": "The Black Keys at Mershon Auditorium concert poster",
    "url": "https://fontsinuse.com/uses/81214/the-black-keys-at-mershon-auditorium-concert-",
    "date": "2026-11-14T12:01:10.000Z",
-   "author": "typeluvr04",
+   "author": "Aarya",
    "staffPick": false,
    "typefaces": [
     {
@@ -639,6 +695,34 @@
     "https://assets.fontsinuse.com/static/use-media-items/309/308247/upto-700xauto/6addc2d4/lp_fear-of-music_talking-heads_0001.jpeg"
    ],
    "excerpt": "Fear of Music is an album of Talking Heads released in 1979 on the Sire label. It reached #21 in the US and #33 in the UK."
+  },
+  {
+   "id": "81387",
+   "title": "Tony Calioli & His Band – Process 35 Percussion album art",
+   "url": "https://fontsinuse.com/uses/81387/tony-calioli-and-his-band-process-35-percussi",
+   "date": "2026-11-14T11:09:00.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250653",
+     "name": "Sands",
+     "url": "https://fontsinuse.com/typefaces/250653/sands",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19565/440/4/6aee09bf/sands.png"
+    },
+    {
+     "id": "1847",
+     "name": "Microgramma",
+     "url": "https://fontsinuse.com/typefaces/1847/microgramma",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1847/400/4/6af8998f/microgramma.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310096/upto-700xauto/6af08e09/Process%2035%20Percussion.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310800/upto-700xauto/6af899c5/Sands%20Lettergraphics.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310094/upto-700xauto/6af899c5/Process%2035%281%29.png"
+   ],
+   "excerpt": "Last week we’ve featured the album cover for Strings Alive , from the collection of Bart Solenthaler . Here’s another cover design by Sam Suliman , likewise from 1962, and likewise using Sands ."
   },
   {
    "id": "81408",
