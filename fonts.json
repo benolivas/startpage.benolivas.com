@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-15T15:37:04.858Z",
+ "updated": "2026-11-16T18:25:02.227Z",
  "day": {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "picks": [
-   "116909",
-   "3482",
-   "113113",
-   "100785",
-   "246704",
-   "242221",
-   "250451",
-   "250335",
-   "250167"
+   "159384",
+   "13630",
+   "233568",
+   "76362",
+   "1143",
+   "249633",
+   "246144",
+   "111484",
+   "74361"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-16",
-   "picks": [
-    "74361",
-    "111484",
-    "76",
-    "233568",
-    "13630",
-    "159384",
-    "75762",
-    "249633",
-    "1143"
-   ]
-  },
   {
    "date": "2026-10-17",
    "picks": [
@@ -448,9 +434,574 @@
     "250335",
     "250167"
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "picks": [
+    "159384",
+    "13630",
+    "233568",
+    "76362",
+    "1143",
+    "249633",
+    "246144",
+    "111484",
+    "74361"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81442",
+   "title": "Mythologies at Musée Bonnat-Helleu exhibition and catalog",
+   "url": "https://fontsinuse.com/uses/81442/mythologies-at-musee-bonnat-helleu-exhibition",
+   "date": "2026-11-16T10:10:00.000Z",
+   "author": "EDITO",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "246144",
+     "name": "Sirca Display",
+     "url": "https://fontsinuse.com/typefaces/246144/sirca-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17131/440/4/6a9f101a/sirca-display.png"
+    },
+    {
+     "id": "76362",
+     "name": "Merlo",
+     "url": "https://fontsinuse.com/typefaces/76362/merlo",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4426/440/4/5aac04e2/merlo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310329/upto-700xauto/6af34f39/pierrepierre-pdf_1789557966_3987419178878430878_1283585621.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310330/upto-700xauto/6afad905/pierrepierre-pdf_1789557966_3987419175690760142_1283585621.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310331/upto-700xauto/6af34c22/pierrepierre-pdf_1791382029_4002722597033943550_1283585621.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310332/upto-700xauto/6af34c2e/pierrepierre-pdf_1792674868_4013564224610566491_1283585621.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310868/upto-700xauto/6afad45f/atpp_mbh_mythologies_post_ig_catalogue_02e58-1600x-q90.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310869/upto-700xauto/6afad463/atpp_mbh_mythologies_post_ig_catalogue_02e63-2560x-q90.webp"
+   ],
+   "excerpt": "Atelier Pierre Pierre , in collaboration with Ewen Guehenneux , designed the visual identity, exhibition graphics and catalog for Mythologies at the Musée Bonnat-Helleu in Bayonne, France. Presented from July 8 to November 9, 2026, the exhibition brought…"
+  },
+  {
+   "id": "80731",
+   "title": "Wiener Schotteria",
+   "url": "https://fontsinuse.com/uses/80731/wiener-schotteria",
+   "date": "2026-11-16T10:07:43.000Z",
+   "author": "Arthur Calame",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229828",
+     "name": "Maroni",
+     "url": "https://fontsinuse.com/typefaces/229828/maroni",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12147/440/4/64eb8c2a/maroni.png"
+    },
+    {
+     "id": "186123",
+     "name": "Director Velvetyne",
+     "url": "https://fontsinuse.com/typefaces/186123/director-velvetyne",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9674/440/4/6227a470/director-velvetyne.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306847/upto-700xauto/6ad0968b/WS%200.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306848/upto-700xauto/6ad0953b/WS%201.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306854/upto-700xauto/6ad0966b/WS%209.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306849/upto-700xauto/6ad0966b/WS%203.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306850/upto-700xauto/6ad0966b/WS%205.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306851/upto-700xauto/6ad0966b/WS%206.jpeg"
+   ],
+   "excerpt": "Wiener Schotteria is a community-first gravel movement in Vienna that replaces performance with belonging, ego with kindness, and routine with exploration. It is powered by coffee, shared experiences, and a deep respect for individuality. Dirt included."
+  },
+  {
+   "id": "77293",
+   "title": "Griddle Bakery",
+   "url": "https://fontsinuse.com/uses/77293/griddle-bakery",
+   "date": "2026-11-16T10:07:31.000Z",
+   "author": "NaN",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245652",
+     "name": "Nan Superx Sans",
+     "url": "https://fontsinuse.com/typefaces/245652/nan-superx-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16786/440/4/68ee5c5a/nan-superx-sans.png"
+    },
+    {
+     "id": "95594",
+     "name": "Agrandir",
+     "url": "https://fontsinuse.com/typefaces/95594/agrandir",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5471/440/4/5c84823b/agrandir.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/291/290964/upto-700xauto/6a01f959/Griddle_Hero-Landscape-10_W-Apple-1536x864.png",
+    "https://assets.fontsinuse.com/static/use-media-items/291/290965/upto-700xauto/6ad5ff43/French_toast_no_shadow-png.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/291/290966/upto-700xauto/6ad5ff48/Screenshot%202026-01-16%20at%2014-43-04%20Griddle%20Bakery.png",
+    "https://assets.fontsinuse.com/static/use-media-items/292/291430/upto-700xauto/6ad5ff48/frozen_fresh.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/292/291425/upto-700xauto/6a0ec36c/apple_cin_fop.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/292/291426/upto-700xauto/6a0ec36c/blueberry_fop-png.webp"
+   ],
+   "excerpt": "Griddle Bakery rebranded with London studio 20(SOMETHING) to reposition frozen bakery as premium, modern and quality-driven. Originally launched as Griddle, the company expanded beyond waffles into a wider bakery range focused on convenience without…"
+  },
+  {
+   "id": "80256",
+   "title": "City of Tilburg wayfinding",
+   "url": "https://fontsinuse.com/uses/80256/city-of-tilburg-wayfinding",
+   "date": "2026-11-16T09:29:56.000Z",
+   "author": "Sander Neijnens",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "119640",
+     "name": "TilburgsAns",
+     "url": "https://fontsinuse.com/typefaces/119640/tilburgsans",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6365/440/4/6afad794/tilburgsans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/306000/upto-700xauto/6ac543b6/IMG_1910.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305998/upto-700xauto/6ac542ea/IMG_1956.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309475/upto-700xauto/6aea2bb9/IMG_1950.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309476/upto-700xauto/6aea2bbb/IMG_1952.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309484/upto-700xauto/6aea2c04/IMG_1994.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309485/upto-700xauto/6aea2c05/IMG_1996.jpeg"
+   ],
+   "excerpt": "The city of Tilburg, in the south of the Netherlands, asked Mijksenaar to develop a completely new wayfinding system. On the sign posts, all information is set in the typeface TilburgsAns , from text to some of the symbols. TilburgsAns, inspired by the…"
+  },
+  {
+   "id": "81441",
+   "title": "Chez Bobonne, Toulouse",
+   "url": "https://fontsinuse.com/uses/81441/chez-bobonne-toulouse",
+   "date": "2026-11-16T09:22:21.000Z",
+   "author": "bruno durand",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32201",
+     "name": "Eubie Script",
+     "url": "https://fontsinuse.com/typefaces/32201/eubie-script",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19611/440/4/6af456c2/eubie-script.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310322/upto-700xauto/6af34799/Capture%20d%E2%80%99e%CC%81cran%202026-11-10%20a%CC%80%2017-30-15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310324/upto-700xauto/6af3481c/Capture%20d%E2%80%99e%CC%81cran%202026-11-10%20a%CC%80%2017-35-20.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310325/upto-700xauto/6af3482f/Capture%20d%E2%80%99e%CC%81cran%202026-11-10%20a%CC%80%2017-35-36.png"
+   ],
+   "excerpt": "Chez Bobonne is a grocery and wine shop in Toulouse, France. The logo and the signs are painted by hand, with the script being based on Eubie Script ."
+  },
+  {
+   "id": "81435",
+   "title": "Les Archives racontent Suchard exhibition panels",
+   "url": "https://fontsinuse.com/uses/81435/les-archives-racontent-suchard-exhibition-pan",
+   "date": "2026-11-16T09:20:28.000Z",
+   "author": "Bolid System",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247846",
+     "name": "BS Milkshake Display",
+     "url": "https://fontsinuse.com/typefaces/247846/bs-milkshake-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17840/440/4/69b279a5/bs-milkshake-display.png"
+    },
+    {
+     "id": "247844",
+     "name": "BS Resort Sans",
+     "url": "https://fontsinuse.com/typefaces/247844/bs-resort-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17838/440/4/69b275ac/bs-resort-sans.png"
+    },
+    {
+     "id": "250634",
+     "name": "BS Milkshake Text",
+     "url": "https://fontsinuse.com/typefaces/250634/bs-milkshake-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19544/440/4/6aeb35fc/bs-milkshake-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310267/upto-700xauto/6af2f76d/suchard_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310265/upto-700xauto/6afacb02/suchard_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310266/upto-700xauto/6af2f774/suchard_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310269/upto-700xauto/6af2f779/suchard_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310268/upto-700xauto/6af2f779/suchard_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310270/upto-700xauto/6af2f6bb/suchard_8.jpeg"
+   ],
+   "excerpt": "Les Archives racontent Suchard is an outdoor exhibition marking the bicentenary of Suchard , the chocolate company Philippe Suchard founded in Neuchâtel in 1826, which soon grew into a multinational and went on to create Milka and Sugus. Produced by the…"
+  },
+  {
+   "id": "81434",
+   "title": "Camp 87 by Arne Leonhardt",
+   "url": "https://fontsinuse.com/uses/81434/camp-87-by-arne-leonhardt",
+   "date": "2026-11-16T09:15:24.000Z",
+   "author": "Ralf H.",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "41536",
+     "name": "Liberta-Antiqua",
+     "url": "https://fontsinuse.com/typefaces/41536/liberta",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2351/440/4/570e2170/liberta.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310250/upto-700xauto/6af2e8ed/camp01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310251/upto-700xauto/6af2ea87/camp02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310252/upto-700xauto/6af2ea92/camp03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310253/upto-700xauto/6af2ea9e/camp04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310254/upto-700xauto/6af2eaa6/camp05.jpeg"
+   ],
+   "excerpt": "A novel by Arne Leonhardt entirely set in Liberta-Antiqua by Herbert Thannhaeuser . The book was first published by Verlag Neues Leben, Berlin, in 1964. The images are from the second edition (1965)."
+  },
+  {
+   "id": "80963",
+   "title": "Sunstrata",
+   "url": "https://fontsinuse.com/uses/80963/sunstrata",
+   "date": "2026-11-16T08:47:00.000Z",
+   "author": "Mude Agency",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "76224",
+     "name": "TT Commons",
+     "url": "https://fontsinuse.com/typefaces/76224/tt-commons",
+     "sample": "https://assets.fontsinuse.com/static/renders/377/76224/400/4/6afac29b/tt-commons.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307876/upto-700xauto/6ad836db/Frame%2014081.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307883/upto-700xauto/6ad83a75/Sunstrata_LogoHero2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307891/upto-700xauto/6ad83a82/Solar%20Handbook.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307881/upto-700xauto/6ad83a82/Sunstrata_StyleGuide2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307882/upto-700xauto/6ad83a82/Sunstrata_billboard3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307877/upto-700xauto/6ad83a82/Sunstrate.jpeg"
+   ],
+   "excerpt": "Sunstrata is an Australian solar energy company specialising in commercial renewable energy solutions. Mude developed a new brand identity that balances technical confidence with a clean, contemporary visual language."
+  },
+  {
+   "id": "80790",
+   "title": "EVNO poetry book series",
+   "url": "https://fontsinuse.com/uses/80790/evno-poetry-book-series",
+   "date": "2026-11-16T08:46:11.000Z",
+   "author": "PampaType Team",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "25609",
+     "name": "Perec",
+     "url": "https://fontsinuse.com/typefaces/25609/perec",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12638/440/4/6567a34c/perec.png"
+    },
+    {
+     "id": "231863",
+     "name": "Perec Scripte",
+     "url": "https://fontsinuse.com/typefaces/231863/perec-scripte",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12617/440/4/656365a5/perec-scripte.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307247/upto-700xauto/6ad26bfb/4%20books.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307223/upto-700xauto/6ad26bdc/padres3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307224/upto-700xauto/6ad26bdc/padres4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307226/upto-700xauto/6ad26bdb/anicca1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307227/upto-700xauto/6ad26bdc/anicca2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307229/upto-700xauto/6ad26bdc/anicca5.jpeg"
+   ],
+   "excerpt": "These books are part of a broader collection of small-format poetry volumes written by young Argentine poets. They are edited by Ricardo Adrián Cabral in Córdoba, Argentina, under the imprint EVNO (“Esta Vida No Otra”, “This Life, No Other”) – an…"
+  },
+  {
+   "id": "80902",
+   "title": "“Bitcoin Typefaces” poster",
+   "url": "https://fontsinuse.com/uses/80902/bitcoin-typefaces-poster",
+   "date": "2026-11-16T08:12:29.000Z",
+   "author": "Jasper van de Ree",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "5086",
+     "name": "Rockwell",
+     "url": "https://fontsinuse.com/typefaces/5086/rockwell",
+     "sample": "https://assets.fontsinuse.com/static/renders/15/5086/400/4/6afabaee/rockwell.png"
+    },
+    {
+     "id": "48059",
+     "name": "IBM Plex Sans",
+     "url": "https://fontsinuse.com/typefaces/48059/ibm-plex-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4061/440/4/5a01768e/ibm-plex-sans.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307552/upto-700xauto/6ad61590/bitcoin-typefaces-2000x2824.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307564/upto-700xauto/6ad61a02/bitcoin-typefaces-inter.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307554/upto-700xauto/6afabf77/bitcoin-typefaces-preview.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307563/upto-700xauto/6ad61a08/bitcoin-typefaces-rockwell.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307561/upto-700xauto/6ad61a09/bitcoin-typefaces-study.webp"
+   ],
+   "excerpt": "Bitcoin has had its own character, ₿ , since 2017. Yet of a selection I made of of 100 well-known typefaces, only three came with one: Rockwell , IBM Plex Sans and Inter . If Bitcoin is to become widely used as a global payment system, what would the other…"
+  },
+  {
+   "id": "81111",
+   "title": "Oscar Götz – Don’t Stop Running exhibition poster",
+   "url": "https://fontsinuse.com/uses/81111/oscar-goetz-don-t-stop-running-exhibition-pos",
+   "date": "2026-11-15T17:10:33.000Z",
+   "author": "WrittenShape Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167778",
+     "name": "Gaya",
+     "url": "https://fontsinuse.com/typefaces/167778/gaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8746/440/4/6145a85d/gaya.png"
+    },
+    {
+     "id": "98128",
+     "name": "Helvetica Now",
+     "url": "https://fontsinuse.com/typefaces/98128/helvetica-now",
+     "sample": "https://assets.fontsinuse.com/static/renders/109/98128/400/4/6af9e78a/helvetica-now.png"
+    },
+    {
+     "id": "3483",
+     "name": "Neue Helvetica",
+     "url": "https://fontsinuse.com/typefaces/3483/neue-helvetica",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3483/400/4/6af9ec1b/neue-helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308550/upto-700xauto/6af9e738/Capture%20d%E2%80%99e%CC%81cran%202026-10-20%20a%CC%80%2013-11-32.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308551/upto-700xauto/6af9e6d0/Capture%20d%E2%80%99e%CC%81cran%202026-10-20%20a%CC%80%2013-11-45.png"
+   ],
+   "excerpt": "Poster for Don’t Stop Running, with Neue Helvetica for the location"
+  },
+  {
+   "id": "81160",
+   "title": "Relational Citation Style Handbook",
+   "url": "https://fontsinuse.com/uses/81160/relational-citation-style-handbook",
+   "date": "2026-11-15T16:52:41.000Z",
+   "author": "Deborah Khodanovich",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "31479",
+     "name": "EB Garamond",
+     "url": "https://fontsinuse.com/typefaces/31479/eb-garamond",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/733/440/4/570e205b/eb-garamond.png"
+    },
+    {
+     "id": "80552",
+     "name": "Arial Nova",
+     "url": "https://fontsinuse.com/typefaces/80552/arial-nova",
+     "sample": "https://assets.fontsinuse.com/static/renders/92/80552/400/4/6af9e35a/arial-nova.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308855/upto-700xauto/6ae23760/RCS-Thumbnail.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308852/upto-700xauto/6ae23770/RCS_Book_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308854/upto-700xauto/6ae2376f/RCS-Handbook-Small.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308837/upto-700xauto/6ae23770/RCS_Book_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308847/upto-700xauto/6ae23770/RCS_Book_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308839/upto-700xauto/6ae23770/RCS_Bookmark.png"
+   ],
+   "excerpt": "Have you ever wondered how to cite your friends? Your teachers? Maybe you've wondered how to cite your mother or father, or gossip you overheard?"
+  },
+  {
+   "id": "81420",
+   "title": "Quebec Writers’ Federation 2026 Awards Gala",
+   "url": "https://fontsinuse.com/uses/81420/quebec-writers-federation-2026-awards-gala",
+   "date": "2026-11-15T16:48:44.000Z",
+   "author": "Amélie Lehoux",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "1682",
+     "name": "Itc Benguiat",
+     "url": "https://fontsinuse.com/typefaces/1682/itc-benguiat",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/1682/400/4/6af9e26d/itc-benguiat.png"
+    },
+    {
+     "id": "76224",
+     "name": "Tt Commons",
+     "url": "https://fontsinuse.com/typefaces/76224/tt-commons",
+     "sample": "https://assets.fontsinuse.com/static/renders/377/76224/400/4/6afac29b/tt-commons.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310196/upto-700xauto/6af9e278/QWF_LiteraryAwardsGala_2026_Insta-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310197/upto-700xauto/6af1fe78/QWF_LiteraryAwardsGala_2026_Insta-02.jpeg"
+   ],
+   "excerpt": "Posters for the 2026 Awards Gala of the Quebec Writers’ Federation (QWF). The edition’s theme was “Fancy Schmancy”."
+  },
+  {
+   "id": "81169",
+   "title": "PIVOT 2025 calendar",
+   "url": "https://fontsinuse.com/uses/81169/pivot-2025-calendar",
+   "date": "2026-11-15T16:48:07.000Z",
+   "author": "WeType Co",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246619",
+     "name": "Stacks",
+     "url": "https://fontsinuse.com/typefaces/246619/stacks",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17327/440/4/69487695/stacks.png"
+    },
+    {
+     "id": "124736",
+     "name": "Tosh A",
+     "url": "https://fontsinuse.com/typefaces/124736/tosh-a",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14212/440/4/671b2f19/tosh-a.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308934/upto-700xauto/6ae31efb/Print-Pivot-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308937/upto-700xauto/6af9e1af/Print-Pivot-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308938/upto-700xauto/6ae31f05/Print-Pivot-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308936/upto-700xauto/6ae31d7f/Print-Pivot-1.jpeg"
+   ],
+   "excerpt": "PIVOT is KUDOS Design Collaboratory ’s 2025 calendar, created as part of the studio’s annual tradition of sharing calendars with colleagues and friends."
+  },
+  {
+   "id": "46721",
+   "title": "Pixar short films credits (1980s)",
+   "url": "https://fontsinuse.com/uses/46721/pixar-short-films-credits-1980s",
+   "date": "2026-11-15T16:25:27.000Z",
+   "author": "SynaMax",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39850",
+     "name": "Computer Modern Sans Serif",
+     "url": "https://fontsinuse.com/typefaces/39850/computer-modern-sans-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1907/440/4/570e2120/computer-modern-sans-serif.png"
+    },
+    {
+     "id": "39120",
+     "name": "Computer Modern Serif",
+     "url": "https://fontsinuse.com/typefaces/39120/computer-modern-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1904/440/4/570e211d/computer-modern-serif.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309037/upto-700xauto/6af9d8c5/pixar-luxo-disneyscreencaps-com-187.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310847/upto-700xauto/6afac03e/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310848/upto-700xauto/6afac034/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310845/upto-700xauto/6afac03a/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310846/upto-700xauto/6afac03c/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309038/upto-700xauto/6af9d8f4/andre-wally-disneyscreencaps-com-2.jpeg"
+   ],
+   "excerpt": "First seen in the opening titles and ending credits to the 1984 short film The Adventures of André & Wally B. , this typeface can also be found in the credits for every subsequent Pixar short from Luxo Jr. to Tin Toy . The same digital font can also be…"
+  },
+  {
+   "id": "80522",
+   "title": "Herrat (2025 redesign)",
+   "url": "https://fontsinuse.com/uses/80522/herrat-2025-redesign",
+   "date": "2026-11-15T15:52:50.000Z",
+   "author": "Julian Grönberg",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7273",
+     "name": "Gill Kayo",
+     "url": "https://fontsinuse.com/typefaces/7273/gill-kayo",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/7273/400/4/6af9d553/gill-kayo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310379/upto-700xauto/6af45387/Frame%208272281.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310383/upto-700xauto/6af45931/Frame%208272487.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310384/upto-700xauto/6af45935/Frame%208272488.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310397/upto-700xauto/6af46855/Frame%208272496.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310398/upto-700xauto/6af46863/Frame%208272499.png"
+   ],
+   "excerpt": "This showcase presents the redesign of Finnish musical trio Herrat , introducing a bold and playful visual identity across releases, stage visuals, merchandise and logo design."
+  },
+  {
+   "id": "80891",
+   "title": "“Anata kawariwa naidesuka?” T-shirt",
+   "url": "https://fontsinuse.com/uses/80891/anata-kawariwa-naidesuka-t-shirt",
+   "date": "2026-11-15T15:35:33.000Z",
+   "author": "Yuliadhi Wicaksono",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245150",
+     "name": "Makinas",
+     "url": "https://fontsinuse.com/typefaces/245150/makinas",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16525/440/4/68c2cd3c/makinas.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307458/upto-700xauto/6ae87044/ssrco,classic_tee,flatlay_01,fafafa_ca443f4786,front,tall_portrait,x1600-1u4.jpeg"
+   ],
+   "excerpt": "The “ 貴方變リハナイデスカ ” (“Anata kawariwa naidesuka?”, “ How are you?” in Japanese) T-shirt was designed as merchadise by GOGAQ , an online Japanese language learning service. The Japanese text uses the retro-styled (1930s Showa Era) Japanese geometric typeface…"
+  },
+  {
+   "id": "80892",
+   "title": "Ren & Stimpy DVD trailers",
+   "url": "https://fontsinuse.com/uses/80892/ren-and-stimpy-dvd-trailers",
+   "date": "2026-11-15T15:35:20.000Z",
+   "author": "Daniel Dell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250182",
+     "name": "Stimpy",
+     "url": "https://fontsinuse.com/typefaces/250182/stimpy",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19120/440/4/6aa156c8/stimpy.png"
+    },
+    {
+     "id": "19419",
+     "name": "Fortis",
+     "url": "https://fontsinuse.com/typefaces/19419/fortis",
+     "sample": "https://assets.fontsinuse.com/static/renders/365/19419/400/4/6af9d139/fortis.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307578/upto-700xauto/6ad61f45/IMG_5254.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307579/upto-700xauto/6ad61f46/IMG_5255.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307580/upto-700xauto/6ad61f4a/IMG_5256.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307581/upto-700xauto/6ad61f4b/IMG_5257.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307582/upto-700xauto/6ad61f4e/IMG_5258.png",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307583/upto-700xauto/6ad61f4f/IMG_5259.png"
+   ],
+   "excerpt": "Beginning in 2004, Paramount Home Entertainment released The Ren & Stimpy Show on DVD; digitally remastered, and supposedly uncut. This also includes the DVD release of Ren & Stimpy: “Adult Party Cartoon” . The trailers were primarily written in the font…"
+  },
+  {
+   "id": "80995",
+   "title": "The Zoogies – “The Bear Went Over the Mountain” title card",
+   "url": "https://fontsinuse.com/uses/80995/the-zoogies-the-bear-went-over-the-mountain-t",
+   "date": "2026-11-15T15:35:13.000Z",
+   "author": "Pijush Dutta",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250317",
+     "name": "PF Cereal",
+     "url": "https://fontsinuse.com/typefaces/250317/pf-cereal",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19220/440/4/6aba287c/pf-cereal.png"
+    },
+    {
+     "id": "4869",
+     "name": "Arial",
+     "url": "https://fontsinuse.com/typefaces/4869/arial",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/4869/400/4/6af9de0b/arial.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309113/upto-700xauto/6af9d15d/image.png"
+   ],
+   "excerpt": "“The Bear Went Over the Mountain” is a video by Zouzounia × Baby Walrus , a Greek channel offering nursery rhymes and kids songs on YouTube. The title uses PF Cereal . “BEAR” on the license plate is in Arial Black ."
+  },
   {
    "id": "81462",
    "title": "20 Great Cruisin’ Favourites of the 50’s and 60’s, Vol. 3 album art",
