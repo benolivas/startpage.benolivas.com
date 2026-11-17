@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-16T18:25:02.227Z",
+ "updated": "2026-11-17T17:35:07.735Z",
  "day": {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "picks": [
-   "159384",
-   "13630",
-   "233568",
-   "76362",
-   "1143",
-   "249633",
-   "246144",
-   "111484",
-   "74361"
+   "250327",
+   "75762",
+   "217362",
+   "169393",
+   "107291",
+   "76",
+   "14581",
+   "34807",
+   "250332"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-17",
-   "picks": [
-    "250332",
-    "14581",
-    "217644",
-    "217362",
-    "169393",
-    "159385",
-    "107291",
-    "34807",
-    "250327"
-   ]
-  },
   {
    "date": "2026-10-18",
    "picks": [
@@ -448,9 +434,356 @@
     "111484",
     "74361"
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "picks": [
+    "250327",
+    "75762",
+    "217362",
+    "169393",
+    "107291",
+    "76",
+    "14581",
+    "34807",
+    "250332"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81594",
+   "title": "Slanted magazine #48, “Seoul”",
+   "url": "https://fontsinuse.com/uses/81594/slanted-magazine-48-seoul-1",
+   "date": "2026-11-17T13:05:10.000Z",
+   "author": "Slanted Publishers",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250752",
+     "name": "Ag Abc Grow Hangeul",
+     "url": "https://fontsinuse.com/typefaces/250752/ag-abc-grow-hangeul",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19640/440/4/6afc4f70/ag-abc-grow-hangeul.png"
+    },
+    {
+     "id": "118357",
+     "name": "Arvana",
+     "url": "https://fontsinuse.com/typefaces/118357/arvana",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6338/440/4/5e35a7cd/arvana.png"
+    },
+    {
+     "id": "158363",
+     "name": "Neutronic",
+     "url": "https://fontsinuse.com/typefaces/158363/neutronic",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8216/440/4/609cfd1b/neutronic.png"
+    },
+    {
+     "id": "235064",
+     "name": "Ag Ahnsangsoo",
+     "url": "https://fontsinuse.com/typefaces/235064/ag-ahnsangsoo",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13514/440/4/68b01f4d/ag-ahnsangsoo.png"
+    },
+    {
+     "id": "7884",
+     "name": "Suisse Int L",
+     "url": "https://fontsinuse.com/typefaces/7884/suisse-int-l",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1811/440/4/570e210f/suisse-int-l.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311025/upto-700xauto/6afc514a/Slanted-Magazin-%2348-Seoul-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311030/upto-700xauto/6afc2ac7/Slanted-Magazin-%2348-Seoul-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311026/upto-700xauto/6afc2ac7/Slanted-Magazin-%2348-Seoul-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311027/upto-700xauto/6afc2ac7/Slanted-Magazin-%2348-Seoul-12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311028/upto-700xauto/6afc2ac7/Slanted-Magazin-%2348-Seoul-13.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311029/upto-700xauto/6afc2ac7/Slanted-Magazin-%2348-Seoul-16.jpeg"
+   ],
+   "excerpt": "Slanted magazine #48, “Seoul” offers a vivid insight into South Korea’s contemporary creative scene, exploring everything from graphic design, typography, and visual communication to architecture, product design, and digital media (with all texts in…"
+  },
+  {
+   "id": "80014",
+   "title": "Compasso d’Oro. ADI Design Museum – Historical Collection",
+   "url": "https://fontsinuse.com/uses/80014/compasso-d-oro-adi-design-museum-historical-c",
+   "date": "2026-11-17T09:49:31.000Z",
+   "author": "Omnitype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "218203",
+     "name": "Ot Marmo",
+     "url": "https://fontsinuse.com/typefaces/218203/ot-marmo",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11387/440/4/641c3d0d/ot-marmo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303314/upto-700xauto/6aa3f7ce/ADI_IG_1080x1350_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303315/upto-700xauto/6aa3f7d5/ADI_IG_1080x1350_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303316/upto-700xauto/6aa3f7dd/ADI_IG_1080x1350_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303317/upto-700xauto/6aa3f7e5/ADI_IG_1080x1350_8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303318/upto-700xauto/6aa3f7f8/ADI_IG_1080x1350_11.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303319/upto-700xauto/6aa3f803/ADI_IG_1080x1350_2.jpeg"
+   ],
+   "excerpt": "Fondazione ADI, ADI Associazione per il Disegno Industriale and ADI Design Museum present the book Compasso d’Oro. ADI Design Museum – Historical Collection , edited by Beppe Finessi and published by Treccani . A major publication comprising 1,040 pages…"
+  },
+  {
+   "id": "81066",
+   "title": "Witness. Genocide Through Children’s Eyes",
+   "url": "https://fontsinuse.com/uses/81066/witness-genocide-through-children-s-eyes",
+   "date": "2026-11-17T09:12:50.000Z",
+   "author": "Apsara Flury",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38626",
+     "name": "HS Alnada",
+     "url": "https://fontsinuse.com/typefaces/38626/hs-alnada",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19618/440/4/6af62755/hs-alnada.png"
+    },
+    {
+     "id": "89256",
+     "name": "HS Gold",
+     "url": "https://fontsinuse.com/typefaces/89256/hs-gold",
+     "sample": "https://assets.fontsinuse.com/static/renders/101/89256/400/4/6afc1a93/hs-gold.png"
+    },
+    {
+     "id": "164827",
+     "name": "Lifta",
+     "url": "https://fontsinuse.com/typefaces/164827/lifta",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11124/440/4/63dd5497/lifta.png"
+    },
+    {
+     "id": "250558",
+     "name": "Ronald",
+     "url": "https://fontsinuse.com/typefaces/250558/ronald",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19639/440/4/6afc196a/ronald.png"
+    },
+    {
+     "id": "47984",
+     "name": "Format Grotesk",
+     "url": "https://fontsinuse.com/typefaces/47984/format-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4037/440/4/65a667a3/format-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308331/upto-700xauto/6ade5d83/Apsara-Flury-Witness-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308332/upto-700xauto/6afc1b54/Apsara-Flury-Witness-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308334/upto-700xauto/6ade5d43/Apsara-Flury-Witness-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308335/upto-700xauto/6ade5d5f/Apsara-Flury-Witness-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308333/upto-700xauto/6ade5d5f/Apsara-Flury-Witness-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308337/upto-700xauto/6ade5d61/Apsara-Flury-Witness-7.jpeg"
+   ],
+   "excerpt": "Book design for a humanitarian project focused on child protection and trauma response in the context of the ongoing genocide in Gaza."
+  },
+  {
+   "id": "81006",
+   "title": "The Red Line, SAC Bucharest",
+   "url": "https://fontsinuse.com/uses/81006/the-red-line-sac-bucharest",
+   "date": "2026-11-17T08:33:44.000Z",
+   "author": "Giulia Boggio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247525",
+     "name": "DGM Gleff Mono",
+     "url": "https://fontsinuse.com/typefaces/247525/dgm-gleff-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17668/440/4/698dead5/dgm-gleff-mono.png"
+    },
+    {
+     "id": "250541",
+     "name": "Sneak Mono",
+     "url": "https://fontsinuse.com/typefaces/250541/sneak-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19559/440/4/6aecaeaf/sneak-mono.png"
+    },
+    {
+     "id": "113755",
+     "name": "VCT Martin",
+     "url": "https://fontsinuse.com/typefaces/113755/vtc-martin",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6145/440/4/5e0063e9/vtc-martin.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308023/upto-700xauto/6ad9d96b/6a0b60fdce47b6c5bd97a325_TRL%252013%2520DSCF5959%2520copy%25202.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308021/upto-700xauto/6ad9d97c/6a0b60fdab256a96ea112021_TRL%25203%2520DSCF5942%2520copy%25202.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308027/upto-700xauto/6ad9d983/6a0b6105b4639387aa493ce7_TRL%25208.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308029/upto-700xauto/6ad9d983/6a1758d771435c1aee525b31__AD_2091%2520copy%2520-%2520detaliu-p-2000.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308016/upto-700xauto/6ad9d983/6a0b60fd03b0b056b63d350f_TRL%252011.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308017/upto-700xauto/6ad9d983/6a0b60fd6c4b4da636ec2f2e_TRL%252012.webp"
+   ],
+   "excerpt": "Designed for Spațiul de Artă Contemporană (SAC ) in Bucharest, The Red Line is a publication designed by Victor Bartis documenting three back-to-back exhibitions conceived together as a manifesto on manifestos."
+  },
+  {
+   "id": "80629",
+   "title": "Village Kazakhstan",
+   "url": "https://fontsinuse.com/uses/80629/village-kazakhstan",
+   "date": "2026-11-17T08:32:26.000Z",
+   "author": "Polina Baydin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "91228",
+     "name": "CoFo Robert",
+     "url": "https://fontsinuse.com/typefaces/91228/cofo-robert",
+     "sample": "https://assets.fontsinuse.com/static/renders/74/91228/400/4/6afc111b/cofo-robert.png"
+    },
+    {
+     "id": "248193",
+     "name": "CoFo Robert Sans",
+     "url": "https://fontsinuse.com/typefaces/248193/cofo-robert-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18078/440/4/69e92415/cofo-robert-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308193/upto-700xauto/6adb63cf/22.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308192/upto-700xauto/6adb63d0/11.png",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306373/upto-700xauto/6adb63d0/1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311006/upto-700xauto/6afc1057/SaveInta-com_899463633_18451700050192612_3282626976600802315_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306375/upto-700xauto/6adb63ae/3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311007/upto-700xauto/6afc106b/SaveInta-com_899443668_18451700104192612_4488115262929890950_n.jpeg"
+   ],
+   "excerpt": "To mark its ninth anniversary, Kazakh news outlet Village introduced a new visual identity in collaboration with Paritet Design . The rebrand keeps the familiar character and tone of voice, while giving Village a new visual language. CoFo Robert and CoFo…"
+  },
+  {
+   "id": "80820",
+   "title": "Voltcore website",
+   "url": "https://fontsinuse.com/uses/80820/voltcore-website",
+   "date": "2026-11-17T08:16:50.000Z",
+   "author": "Store Norske Skriftkompani",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217860",
+     "name": "Store Norske Skandia",
+     "url": "https://fontsinuse.com/typefaces/217860/store-norske-skandia",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11235/440/4/640076d4/store-norske-skandia.png"
+    },
+    {
+     "id": "245580",
+     "name": "Store Norske Skandia Mono",
+     "url": "https://fontsinuse.com/typefaces/245580/store-norske-skandia-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16739/440/4/68e78dc3/store-norske-skandia-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308248/upto-700xauto/6adf0a83/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308249/upto-700xauto/6addcac4/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308250/upto-700xauto/6adf0a6e/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308252/upto-700xauto/6ade13ad/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308251/upto-700xauto/6ade13ad/4.jpeg"
+   ],
+   "excerpt": "Voltcore is a Finnish energy company developing and operating power generation assets across the Nordics, with an identity and website designed by Werklig . The company focuses on grid balancing, baseload generation and hybrid power projects intended to…"
+  },
+  {
+   "id": "81072",
+   "title": "SWSH brand identity and website",
+   "url": "https://fontsinuse.com/uses/81072/swsh-brand-identity-and-website",
+   "date": "2026-11-17T08:15:25.000Z",
+   "author": "Jonathan Lin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "113112",
+     "name": "Gerstner-Programm FSL",
+     "url": "https://fontsinuse.com/typefaces/113112/gerstner-programm-fsl",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6111/440/4/5dd515c7/gerstner-programm-fsl.png"
+    },
+    {
+     "id": "142814",
+     "name": "ABC Diatype Mono",
+     "url": "https://fontsinuse.com/typefaces/142814/abc-diatype-mono",
+     "sample": "https://assets.fontsinuse.com/static/renders/74/142814/400/4/6afc0d1e/abc-diatype-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308457/upto-700xauto/6aeccff4/08-laptop.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308453/upto-700xauto/6afc0d5a/01-logo-lockup.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308454/upto-700xauto/6aeccfee/05-taxi.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308455/upto-700xauto/6aeccfea/06-tri-billboard.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308456/upto-700xauto/6aeccfe8/07-ray-ban.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308458/upto-700xauto/6aeccfe4/09-rolling-loud.jpeg"
+   ],
+   "excerpt": "SWSH (Somewhere Somehow) is an app where fans and creators collect shared albums from concerts, festivals and live shows. The brand identity was designed by New Studio Partners in New York."
+  },
+  {
+   "id": "80704",
+   "title": "Placette Vintage Market 2026",
+   "url": "https://fontsinuse.com/uses/80704/placette-vintage-market-2026",
+   "date": "2026-11-17T07:43:27.000Z",
+   "author": "Benjamin Puddu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "249683",
+     "name": "Amsterdam Serif",
+     "url": "https://fontsinuse.com/typefaces/249683/amsterdam-serif",
+     "sample": "https://assets.fontsinuse.com/static/renders/395/249683/400/4/6afc05a0/amsterdam-serif.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308147/upto-700xauto/6adb35c4/2-Poster---Vintage-Market-PLACETTE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308157/upto-700xauto/6adb3b66/3-Poster---Vintage-Market-PLACETTE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308168/upto-700xauto/6adb3b66/4-Poster---Vintage-Market-PLACETTE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308148/upto-700xauto/6adb3b64/1-Poster---Vintage-Market-PLACETTE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308475/upto-700xauto/6adf73c5/VINTAGE-MARKET-PLACETTE.gif"
+   ],
+   "excerpt": "For the Vintage Market hosted by Placette , a café and community hub in Marseille’s 2nd arrondissement, I created the poster. My composition pairs oversized typography that fills the poster's frame with snapshot-style photography by Steven Mazzola . These…"
+  },
+  {
+   "id": "81073",
+   "title": "“25m Articulated Heavy-Duty Truck” video thumbnail",
+   "url": "https://fontsinuse.com/uses/81073/25m-articulated-heavy-duty-truck-video-thumbn",
+   "date": "2026-11-17T07:42:42.000Z",
+   "author": "Yuliadhi Wicaksono",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245171",
+     "name": "Meiryo",
+     "url": "https://fontsinuse.com/typefaces/245171/meiryo",
+     "sample": "https://assets.fontsinuse.com/static/renders/392/245171/400/4/6afc0573/meiryo.png"
+    },
+    {
+     "id": "245150",
+     "name": "Makinas",
+     "url": "https://fontsinuse.com/typefaces/245150/makinas",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16525/440/4/68c2cd3c/makinas.png"
+    },
+    {
+     "id": "248417",
+     "name": "VDL LineG",
+     "url": "https://fontsinuse.com/typefaces/248417/vdl-lineg",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18395/440/4/6a1d5573/vdl-lineg.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308354/upto-700xauto/6afc871a/maxresdefault.jpeg"
+   ],
+   "excerpt": "\"【道内初】全長25m!「ダブル連結トラック」走行開始 物流の効率化とドライバー不足解消の切り札なるか!?\" (Japanese for: “ [First in Hokkaido] 25 metres long! ‘Double-articulated truck’ begins operation – could this be the key to improving logistics efficiency and tackling the driver shortage!?” ) is a…"
+  },
+  {
+   "id": "81093",
+   "title": "As Within, So Without by Steve Hodel",
+   "url": "https://fontsinuse.com/uses/81093/as-within-so-without-by-steve-hodel",
+   "date": "2026-11-17T06:13:00.000Z",
+   "author": "Amr Abutalleb",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "65",
+     "name": "Adobe Caslon",
+     "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6afc0c95/adobe-caslon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308473/upto-700xauto/6afc0b92/steve-hodel-spread-title.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308469/upto-700xauto/6afc0b92/steve-hodel-spread-ch2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308470/upto-700xauto/6afc0cae/steve-hodel-feature-v2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308471/upto-700xauto/6afc0b93/steve-hodel-spread-exhibits.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308472/upto-700xauto/6afc0b93/steve-hodel-key-1-v2.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308474/upto-700xauto/6afc0b8a/steve-hodel-spread-colour.webp"
+   ],
+   "excerpt": "As Within, So Without: Man Ray, Surrealism, and the Secrets Behind the Black Dahlia Murder is the concluding work in former LAPD homicide detective and New York Times bestselling author Steve Hodel ’s more than thirty-year investigation into one of…"
+  },
   {
    "id": "81442",
    "title": "Mythologies at Musée Bonnat-Helleu exhibition and catalog",
@@ -4516,7 +4849,7 @@
      "id": "65",
      "name": "Adobe Caslon",
      "url": "https://fontsinuse.com/typefaces/65/adobe-caslon",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6aed9a17/adobe-caslon.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/65/400/4/6afc0c95/adobe-caslon.png"
     }
    ],
    "images": [
