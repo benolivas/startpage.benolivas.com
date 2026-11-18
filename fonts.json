@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-17T17:35:07.735Z",
+ "updated": "2026-11-18T17:11:57.254Z",
  "day": {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "picks": [
-   "250327",
-   "75762",
-   "217362",
-   "169393",
-   "107291",
-   "76",
-   "14581",
-   "34807",
-   "250332"
+   "121636",
+   "98241",
+   "4970",
+   "141678",
+   "250328",
+   "159385",
+   "7244",
+   "145690",
+   "217644"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-18",
-   "picks": [
-    "7251",
-    "250264",
-    "145690",
-    "4970",
-    "94693",
-    "250328",
-    "98241",
-    "7244",
-    "141678"
-   ]
-  },
   {
    "date": "2026-10-19",
    "picks": [
@@ -448,9 +434,286 @@
     "34807",
     "250332"
    ]
+  },
+  {
+   "date": "2026-11-18",
+   "picks": [
+    "121636",
+    "98241",
+    "4970",
+    "141678",
+    "250328",
+    "159385",
+    "7244",
+    "145690",
+    "217644"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "78663",
+   "title": "Dafi Kühne: Constructing Posters",
+   "url": "https://fontsinuse.com/uses/78663/dafi-kuehne-constructing-posters",
+   "date": "2026-11-18T12:17:46.000Z",
+   "author": "Dafi Kühne",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "121636",
+     "name": "Square Gothic",
+     "url": "https://fontsinuse.com/typefaces/121636/square-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6445/440/4/5e6a13b6/square-gothic.png"
+    },
+    {
+     "id": "110685",
+     "name": "Tb Gothic",
+     "url": "https://fontsinuse.com/typefaces/110685/tb-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6031/440/4/5da31507/tb-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/297/296782/upto-700xauto/6afd97b5/Constructing-Posters_70x100cm-WEB_Ra%CC%88nder-korrigiert.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308714/upto-700xauto/6ae10f10/Constructing-Posters_70x100cm-WEB_both-sizes.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308715/upto-700xauto/6ae10fdf/meccano-metallbaukasten-nr5-mit-anleitungsbuch-vintage.jpeg"
+   ],
+   "excerpt": "Constructing Posters was my own exhibition of letterpress printed posters and processes at Ginza Graphic Gallery 2026. The poster has been letterpress printed from hand-cut linoleum (black shadows), Meccano parts (silver), cast Ludlow hot metal slugs…"
+  },
+  {
+   "id": "71789",
+   "title": "Southbank Centre Membership Program",
+   "url": "https://fontsinuse.com/uses/71789/southbank-centre-membership-program",
+   "date": "2026-11-18T10:17:52.000Z",
+   "author": "Kilotype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "197070",
+     "name": "Oldschool Grotesk Condensed",
+     "url": "https://fontsinuse.com/typefaces/197070/oldschool-grotesk-condensed",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10076/440/4/675c3695/oldschool-grotesk-condensed.png"
+    },
+    {
+     "id": "31872",
+     "name": "Noe Display",
+     "url": "https://fontsinuse.com/typefaces/31872/noe-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1672/440/4/57169531/noe-display.png"
+    },
+    {
+     "id": "7282",
+     "name": "Ll Akkurat",
+     "url": "https://fontsinuse.com/typefaces/7282/ll-akkurat",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/381/440/4/6481b2ad/ll-akkurat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/267/266354/upto-700xauto/69b60e23/NB-Studio-Southbank-Centre-Membership-Brand-Identity-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/267/266355/upto-700xauto/6ae0c6cc/NB-Studio-Southbank-Centre-Membership-Brand-Identity-05.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/267/266352/upto-700xauto/6ae0c6cc/NB-Studio-Southbank-Centre-Membership-Brand-Identity-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/267/266351/upto-700xauto/6ae0c6cc/NB-Studio-Southbank-Centre-Membership-Brand-Identity-01.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/267/266357/upto-700xauto/6ae0c6cc/NB-Studio-Southbank-Centre-Membership-Brand-Identity-07.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/267/266353/upto-700xauto/6ae0c6cc/NB-Studio-Southbank-Centre-Membership-Brand-Identity-03.mp4"
+   ],
+   "excerpt": "If you ever wandered along London's South Bank, a culturally dense stretch along the River Thames, where high-ranking and renowned institutions such as the Tate Modern, the National Theatre, or the British Film Institute are lined up one after another, you…"
+  },
+  {
+   "id": "81044",
+   "title": "La Colline, Théâtre National",
+   "url": "https://fontsinuse.com/uses/81044/la-colline-theatre-national",
+   "date": "2026-11-18T10:11:30.000Z",
+   "author": "Sandrine Nugue",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247683",
+     "name": "Ocalie Display",
+     "url": "https://fontsinuse.com/typefaces/247683/ocalie-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17756/440/4/699f059a/ocalie-display.png"
+    },
+    {
+     "id": "247681",
+     "name": "Ocalie",
+     "url": "https://fontsinuse.com/typefaces/247681/ocalie",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17755/440/4/699f0584/ocalie.png"
+    },
+    {
+     "id": "247682",
+     "name": "Ocalie Mono",
+     "url": "https://fontsinuse.com/typefaces/247682/ocalie-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17757/440/4/699f05a4/ocalie-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308227/upto-700xauto/6adf7565/7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308223/upto-700xauto/6adf758b/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308222/upto-700xauto/6adf758d/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308229/upto-700xauto/6adf758d/9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308224/upto-700xauto/6adf758b/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308226/upto-700xauto/6adf758b/6.jpeg"
+   ],
+   "excerpt": "The iconic national theater La Colline , based in Paris, has a new visual identity made by Marga Berra Zubieta . The logo created by Pierre di Sciullo in 2017 is still used and accompagnied by the complete type family Ocalie (released by Lift Type )."
+  },
+  {
+   "id": "80337",
+   "title": "London Film School",
+   "url": "https://fontsinuse.com/uses/80337/london-film-school",
+   "date": "2026-11-18T09:57:16.000Z",
+   "author": "Sasha Mikhedov",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "183841",
+     "name": "KMR Waldenburg",
+     "url": "https://fontsinuse.com/typefaces/183841/kmr-waldenburg",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9590/440/4/64007400/kmr-waldenburg.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308371/upto-700xauto/6afd7691/LondonFilmSchool-2048x1375.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308387/upto-700xauto/6adf3481/1-LFS_Identity_001-2.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308388/upto-700xauto/6adf3481/LFS_stationery_set-1-2048x1467.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308389/upto-700xauto/6adf34fa/2-LFS_CourseBinders-1-2048x1238.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308378/upto-700xauto/6adf34f9/LFS-poster-series-2048x1180.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308373/upto-700xauto/6adf34f9/LFS_posterseries_gloss-2048x1040.jpeg"
+   ],
+   "excerpt": "London Film School is the oldest film school in the UK (1956), dedicated to the education of filmmakers. English design studio Rabbithole created the school’s new visual identity."
+  },
+  {
+   "id": "81067",
+   "title": "NIFFF 2000–2020: Répertoire d’ Imaginaires",
+   "url": "https://fontsinuse.com/uses/81067/nifff-2000-2020-repertoire-d-imaginaires",
+   "date": "2026-11-18T09:48:09.000Z",
+   "author": "ToStudio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "160546",
+     "name": "ToMist",
+     "url": "https://fontsinuse.com/typefaces/160546/to-mist",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8337/440/4/671ba85a/to-mist.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308310/upto-700xauto/6afd747d/NIFFF_4_alt_web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308313/upto-700xauto/6ade0faa/repro_09_11_21_52.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308311/upto-700xauto/6ade0faa/repro_09_11_21_37.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308312/upto-700xauto/6ade2419/repro_09_11_21_56.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308314/upto-700xauto/6ade2419/repro_09_11_21_63.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308309/upto-700xauto/6ade241a/REPRO_09-11-21_-70_web.jpeg"
+   ],
+   "excerpt": "Founded in 2000, the Neuchâtel International Fantastic Film Festival (NIFFF) has become a must-attend film event, primarily devoted to the Fantasy film genre, complemented by Digital creation and Asian cinema. This book was published to celebrate the 20th…"
+  },
+  {
+   "id": "81092",
+   "title": "Un opéra pour le XXIᵉ siècle",
+   "url": "https://fontsinuse.com/uses/81092/un-opera-pour-le-xxi-siecle",
+   "date": "2026-11-18T09:41:46.000Z",
+   "author": "Extraset",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "166536",
+     "name": "Es Face",
+     "url": "https://fontsinuse.com/typefaces/166536/es-face",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8650/440/4/612f9246/es-face.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308476/upto-700xauto/6afd7498/nsb-unoperapourlexxiesiecle-web2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308477/upto-700xauto/6adf761d/nsb-unoperapourlexxiesiecle-web3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308478/upto-700xauto/6adf761e/nsb-unoperapourlexxiesiecle-web4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308479/upto-700xauto/6adf761f/nsb-unoperapourlexxiesiecle-web5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308480/upto-700xauto/6adf761f/nsb-unoperapourlexxiesiecle-web6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308481/upto-700xauto/6adf7620/nsb-unoperapourlexxiesiecle-web7.jpeg"
+   ],
+   "excerpt": "Un opéra pour le XXIᵉ siècle. Le Grand Théâtre de Genève, laboratoire des enjeux lyriques contemporains (“An Opera for the 21st Century. The Grand Théâtre de Genève: A Laboratory for Contemporary Opera Challenges”) is a 320-page publication released in…"
+  },
+  {
+   "id": "81102",
+   "title": "Singapore, Limitless by Design",
+   "url": "https://fontsinuse.com/uses/81102/singapore-limitless-by-design",
+   "date": "2026-11-18T09:40:19.000Z",
+   "author": "Mark De Winne",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250173",
+     "name": "Majulah",
+     "url": "https://fontsinuse.com/typefaces/250173/majulah",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19115/440/4/6aa0dec2/majulah.png"
+    },
+    {
+     "id": "10056",
+     "name": "Adelle Sans",
+     "url": "https://fontsinuse.com/typefaces/10056/adelle-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/10/10056/400/4/6afd7284/adelle-sans.png"
+    },
+    {
+     "id": "131711",
+     "name": "Adelle Mono",
+     "url": "https://fontsinuse.com/typefaces/131711/adelle-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19552/440/4/6aec4bae/adelle-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308519/upto-700xauto/6ae0190d/D35-Dsg_Fellow-007.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308525/upto-700xauto/6ae020a7/D35-Dsg_Fellow-003.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308520/upto-700xauto/6ae020a7/D35-Dsg_Fellow-008.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308521/upto-700xauto/6ae020a7/D35-Dsg_Fellow-006.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308524/upto-700xauto/6ae020a7/D35-Dsg_Fellow-005.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308526/upto-700xauto/6afd721a/D35-Dsg_Fellow-001.jpeg"
+   ],
+   "excerpt": "Fielding a multiplicity of dreams is perhaps, where strength in complexity emerges. In recognition of this, Singapore‘s Design 2035 Masterplan positions itself as a shared space for open-ended exploration, where each individual brings their vision of the…"
+  },
+  {
+   "id": "78892",
+   "title": "ArtVerona 2026",
+   "url": "https://fontsinuse.com/uses/78892/artverona-2026",
+   "date": "2026-11-18T09:28:44.000Z",
+   "author": "Superness",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248143",
+     "name": "Superness Modulo",
+     "url": "https://fontsinuse.com/typefaces/248143/superness-modulo",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18033/440/4/69e21f02/superness-modulo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/298/297808/upto-700xauto/6a5612cb/mockup%20pagina%20pubblicitaria.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308675/upto-700xauto/6ae0c111/Ingresso%20ArtVerona%20sotto%20la%20copertura%20esagonale.png",
+    "https://assets.fontsinuse.com/static/use-media-items/298/297806/upto-700xauto/6ae0c226/mockup%20carta%20opaca.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308671/upto-700xauto/6ae0c226/cartellina.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308683/upto-700xauto/6afd6f7c/artverona_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308680/upto-700xauto/6ae0c288/Mockup%20realistico%20del%20manifesto%20ArtVerona.png"
+   ],
+   "excerpt": "ArtVerona is an Italian fair dedicated to modern and contemporary art. For its 2026 edition, the visual identity was built around the idea of the parenthesis as a space of transition: a graphic device that interrupts, connects and reframes."
+  },
+  {
+   "id": "81098",
+   "title": "Skar Autovermietung",
+   "url": "https://fontsinuse.com/uses/81098/skar-autovermietung",
+   "date": "2026-11-18T09:14:08.000Z",
+   "author": "Aleksandra Velichko",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "155454",
+     "name": "Cabinet Grotesk",
+     "url": "https://fontsinuse.com/typefaces/155454/cabinet-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8043/440/4/605df58b/cabinet-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308505/upto-700xauto/6adfab31/screencapture-kfzvermietung-2026-10-26-20_30_52.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308506/upto-700xauto/6adfae1e/Scar%20screenshot_2%20%281%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308507/upto-700xauto/6adfae33/Scar%20screenshot_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308509/upto-700xauto/6adfafd5/Scar%20screenshot_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308511/upto-700xauto/6adfb014/Scar%20screenshot_6%20%281%29.png"
+   ],
+   "excerpt": "For Skar Car Rental, Agentur für Internet developed a new brand identity and a Webflow website with an integrated online booking tool, using the Cabinet Grotesk font."
+  },
   {
    "id": "81594",
    "title": "Slanted magazine #48, “Seoul”",
