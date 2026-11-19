@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-18T17:11:57.254Z",
+ "updated": "2026-11-19T17:19:43.339Z",
  "day": {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "picks": [
-   "121636",
-   "98241",
-   "4970",
-   "141678",
-   "250328",
-   "159385",
-   "7244",
-   "145690",
-   "217644"
+   "89627",
+   "44",
+   "236081",
+   "130696",
+   "250264",
+   "94693",
+   "10139",
+   "184127",
+   "184128"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-19",
-   "picks": [
-    "184128",
-    "184127",
-    "47154",
-    "40821",
-    "143574",
-    "10139",
-    "89627",
-    "249631",
-    "44"
-   ]
-  },
   {
    "date": "2026-10-20",
    "picks": [
@@ -448,9 +434,290 @@
     "145690",
     "217644"
    ]
+  },
+  {
+   "date": "2026-11-19",
+   "picks": [
+    "89627",
+    "44",
+    "236081",
+    "130696",
+    "250264",
+    "94693",
+    "10139",
+    "184127",
+    "184128"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81060",
+   "title": "Faszination Japan / Fascination with Japan",
+   "url": "https://fontsinuse.com/uses/81060/faszination-japan-fascination-with-japan",
+   "date": "2026-11-19T10:08:59.000Z",
+   "author": "Outline Online",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "245704",
+     "name": "Oo Lyga",
+     "url": "https://fontsinuse.com/typefaces/245704/oo-lyga",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16839/440/4/68f54863/oo-lyga.png"
+    },
+    {
+     "id": "130696",
+     "name": "MZ OTR Grotesk",
+     "url": "https://fontsinuse.com/typefaces/130696/mz-otr-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6777/440/4/643a4e99/mz-otr-grotesk.png"
+    },
+    {
+     "id": "236081",
+     "name": "A1 Mincho",
+     "url": "https://fontsinuse.com/typefaces/236081/a1-mincho",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13748/440/4/66a36bd7/a1-mincho.png"
+    },
+    {
+     "id": "45275",
+     "name": "Tazugane Gothic",
+     "url": "https://fontsinuse.com/typefaces/45275/tazugane-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/55/45275/400/4/6afecfac/tazugane-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308305/upto-700xauto/6adddb4e/SnapInsta-to_813582847_18560513467073839_5472066678887681434_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308304/upto-700xauto/6adddb4d/SnapInsta-to_800565905_18560513482073839_654024487895358422_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308300/upto-700xauto/6adddc2e/SnapInsta-to_812782109_18560513500073839_3545383219284898803_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308299/upto-700xauto/6adddc2e/SnapInsta-to_813837178_18560513560073839_8125249724564531277_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308303/upto-700xauto/6adddc12/SnapInsta-to_813428773_18560513533073839_2699482163846965584_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308301/upto-700xauto/6adddc44/SnapInsta-to_812343041_18560513542073839_592360845899964409_n.jpeg"
+   ],
+   "excerpt": "The Centre Albert Anker is an artist’s house and museum dedicated to making the life and work of Swiss painter Albert Anker accessible to the public. Its 2025 temporary exhibition Fascination with Japan: The Collection of Albert Anker explored the artist’s…"
+  },
+  {
+   "id": "81166",
+   "title": "(Re)Dressing American Fashion: Wear as Witness",
+   "url": "https://fontsinuse.com/uses/81166/re-dressing-american-fashion-wear-as-witness",
+   "date": "2026-11-19T09:58:43.000Z",
+   "author": "Jocelyn Lau",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "113755",
+     "name": "Vtc Martin",
+     "url": "https://fontsinuse.com/typefaces/113755/vtc-martin",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6145/440/4/5e0063e9/vtc-martin.png"
+    },
+    {
+     "id": "50",
+     "name": "Founders Grotesk",
+     "url": "https://fontsinuse.com/typefaces/50/founders-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/393/440/4/62d98e57/founders-grotesk.png"
+    },
+    {
+     "id": "217463",
+     "name": "Sprig Sans",
+     "url": "https://fontsinuse.com/typefaces/217463/sprig-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11106/440/4/63dfdd53/sprig-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308901/upto-700xauto/6ae2ce28/RAF_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308903/upto-700xauto/6afec860/RAF_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308904/upto-700xauto/6ae35495/RAF_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308905/upto-700xauto/6ae35495/RAF_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308906/upto-700xauto/6ae35495/RAF_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308907/upto-700xauto/6ae35495/RAF_7.jpeg"
+   ],
+   "excerpt": "Expanding the history of American fashion, (Re)Dressing American Fashion: Wear as Witness highlights garments that carry material traces of everyday wearers’ bodies."
+  },
+  {
+   "id": "79423",
+   "title": "Steffani Jemison – Bound monograph",
+   "url": "https://fontsinuse.com/uses/79423/steffani-jemison-bound-monograph",
+   "date": "2026-11-19T09:51:42.000Z",
+   "author": "AllCaps",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "244618",
+     "name": "Ac Society",
+     "url": "https://fontsinuse.com/typefaces/244618/ac-society",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15959/440/4/6852ca56/ac-society.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303840/upto-700xauto/6afec697/SJ_BOUND_cover-detail.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/301/300403/upto-700xauto/6afec69b/CG_BOUND_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308802/upto-700xauto/6afec6a0/SJ_BOUND_spread_11.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303791/upto-700xauto/6afec6a1/SJ_BOUND_spread_10.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303835/upto-700xauto/6afec69b/SJ_BOUND_spread_03-detail.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303836/upto-700xauto/6afec69a/SJ_BOUND_spread_12.jpeg"
+   ],
+   "excerpt": "AC Society is in use in the catalog of the artist Steffani Jemison published by Lafayette Anticipations Paris and Centre d’Art Contemporain Genève . This monograph accompanies a body of recent works developed between Paris and Geneva, in dialogue with…"
+  },
+  {
+   "id": "81164",
+   "title": "Olive + Gourmando",
+   "url": "https://fontsinuse.com/uses/81164/olive-gourmando",
+   "date": "2026-11-19T09:48:05.000Z",
+   "author": "HAL Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "183835",
+     "name": "Hal Timezone",
+     "url": "https://fontsinuse.com/typefaces/183835/hal-timezone",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9588/440/4/62068632/hal-timezone.png"
+    },
+    {
+     "id": "231817",
+     "name": "Hal Timezone Mono",
+     "url": "https://fontsinuse.com/typefaces/231817/hal-timezone-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12597/440/4/655c9e45/hal-timezone-mono.png"
+    },
+    {
+     "id": "231236",
+     "name": "Hal Four Grotesk",
+     "url": "https://fontsinuse.com/typefaces/231236/hal-four-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12436/440/4/6527a6d9/hal-four-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308891/upto-700xauto/6ae263a3/OG_IG_8.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308883/upto-700xauto/6ae2637e/OG_SITE_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308892/upto-700xauto/6ae263af/OG_IG_10.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308877/upto-700xauto/6ae263af/OG_IG_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308878/upto-700xauto/6ae263ad/OG_IG_4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308879/upto-700xauto/6ae263ab/OG_IG_5.jpeg"
+   ],
+   "excerpt": "Since 1998, Olive + Gourmando is a culinary institution combining bakery, café, and restaurant, located in Montreal, Canada. Design studio Caserne has refreshed the brand’s identity with a flexible system, to support growth while keeping its warm,…"
+  },
+  {
+   "id": "81162",
+   "title": "RISD on Are.na Research Group",
+   "url": "https://fontsinuse.com/uses/81162/risd-on-are-na-research-group",
+   "date": "2026-11-19T09:32:15.000Z",
+   "author": "Deborah Khodanovich",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250255",
+     "name": "ABC Areal",
+     "url": "https://fontsinuse.com/typefaces/250255/abc-areal",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19157/440/4/6aa80c75/abc-areal.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308856/upto-700xauto/6afec1fd/ArenaRISD_Square.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308857/upto-700xauto/6afec243/ArenaRISD_Poster_White%20%281%29.png"
+   ],
+   "excerpt": "I, Deborah Khodanovich , designed this two-part poster series for the RISD on Are.na Research Group promoting a lecture by Charles Broskoski of Are.na and a research group kick-off with Charles Broskoski and Damon Zucconi of Are.na. Texts are set in the…"
+  },
+  {
+   "id": "81158",
+   "title": "Modern Funder",
+   "url": "https://fontsinuse.com/uses/81158/modern-funder",
+   "date": "2026-11-19T09:27:16.000Z",
+   "author": "Geovanie Radcliffe",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "324",
+     "name": "Swiss 721",
+     "url": "https://fontsinuse.com/typefaces/324/swiss-721",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/324/400/4/6afec0f5/swiss-721.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308823/upto-700xauto/6afec094/MF-Behance2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308830/upto-700xauto/6ae21b6e/MF-Behance.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308824/upto-700xauto/6ae21b6e/MF-Behance4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308825/upto-700xauto/6ae21b6e/MF-Behance33.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308826/upto-700xauto/6ae21b6e/MF-Behance42.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308827/upto-700xauto/6ae21b56/MF-Behance41%20copy.jpeg"
+   ],
+   "excerpt": "Modern Funder helps operators become deliberate philanthropists. Founded by Patrick Diamond, it grew out of his experience with running programs for large foundations at Laurel. We were commisoned to develop a brand that shows the founder’s rigor and…"
+  },
+  {
+   "id": "81131",
+   "title": "Kimihito Okuyama – Les Œuvres du temps exhibition",
+   "url": "https://fontsinuse.com/uses/81131/kimihito-okuyama-les-oeuvres-du-temps-exhibit",
+   "date": "2026-11-19T09:13:16.000Z",
+   "author": "Blaze Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246015",
+     "name": "Sola",
+     "url": "https://fontsinuse.com/typefaces/246015/sola",
+     "sample": "https://assets.fontsinuse.com/static/renders/393/246015/400/4/6afebdad/sola.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308845/upto-700xauto/6ae22e5c/%E2%8F%B1%EF%B8%8F%20Visual%20identity%20for%20the%20exhibition%20%E2%80%9CLes%20%C5%93uvres%20du%20temps%E2%80%9D,%20a%20retrospective%20of%20the%20Japanese%20art%20%283%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308843/upto-700xauto/6ae22e60/%E2%8F%B1%EF%B8%8F%20Visual%20identity%20for%20the%20exhibition%20%E2%80%9CLes%20%C5%93uvres%20du%20temps%E2%80%9D,%20a%20retrospective%20of%20the%20Japanese%20art%20%281%29%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308844/upto-700xauto/6ae22e67/Signage-for-the-exhibition-%E2%80%9CLes-%C5%93uvres-du-temps%E2%80%9D,-a-retrospective-of-the-Japanese-artist-Kimihit%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308846/upto-700xauto/6ae22e78/Signage%20for%20the%20exhibition%20%E2%80%9CLes%20%C5%93uvres%20du%20temps%E2%80%9D,%20a%20retrospective%20of%20the%20Japanese%20artist%20Kimihit%20%287%29%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308842/upto-700xauto/6ae22e78/Signage%20for%20the%20exhibition%20%E2%80%9CLes%20%C5%93uvres%20du%20temps%E2%80%9D,%20a%20retrospective%20of%20the%20Japanese%20artist%20Kimihit%20%285%29%20%281%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308840/upto-700xauto/6ae22e78/Signage%20for%20the%20exhibition%20%E2%80%9CLes%20%C5%93uvres%20du%20temps%E2%80%9D,%20a%20retrospective%20of%20the%20Japanese%20artist%20Kimihit%20%282%29%20%281%29.jpeg"
+   ],
+   "excerpt": "The visual identity and signage for the retrospective exhibition “Les œuvres du temps,” dedicated to Japanese artist Kimihito Okuyama (1946–2024) at the Roybet Fould Museum in Courbevoie, were designed by Gwennina Moigne . Scenographed by Martial Barrault…"
+  },
+  {
+   "id": "81152",
+   "title": "Ich, Gustave Courbet. Maler und Rebell.",
+   "url": "https://fontsinuse.com/uses/81152/ich-gustave-courbet-maler-und-rebell",
+   "date": "2026-11-19T09:05:26.000Z",
+   "author": "Roland Wulftange",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "12",
+     "name": "Neue Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6afebbd7/neue-haas-grotesk.png"
+    },
+    {
+     "id": "3",
+     "name": "Benton Modern",
+     "url": "https://fontsinuse.com/typefaces/3/benton-modern",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4013/440/4/59ef77e6/benton-modern.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308811/upto-700xauto/6afebbfc/vorschau-quer-courbet.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308808/upto-700xauto/6ae20c62/courbet-12.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308809/upto-700xauto/6ae20c62/courbet-15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308810/upto-700xauto/6ae20c60/courbet-19.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308812/upto-700xauto/6ae20c43/courbet-4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308813/upto-700xauto/6ae20c46/courbet-9.png"
+   ],
+   "excerpt": "Ich, Gustave Courbet. Maler und Rebell (“I, Gustave Courbet: Painter and Rebel”) is dedicated to the artist Gustave Courbet , an artist who staged his own role with the same self-assurance with which he challenged artistic and social conventions. This…"
+  },
+  {
+   "id": "81140",
+   "title": "Genesis",
+   "url": "https://fontsinuse.com/uses/81140/genesis",
+   "date": "2026-11-19T06:42:00.000Z",
+   "author": "Ali Emre Doğramacı",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "38726",
+     "name": "Ll Replica Mono",
+     "url": "https://fontsinuse.com/typefaces/38726/ll-replica-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2902/440/4/6481b4c4/ll-replica-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309071/upto-700xauto/6afec504/00.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308710/upto-700xauto/6afec4b7/02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308712/upto-700xauto/6ae0f770/03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308713/upto-700xauto/6ae31965/04.jpeg"
+   ],
+   "excerpt": "Installed in a solar-powered Bitcoin mining shed, this artwork presents a hex dump of Bitcoin’s Genesis Block as a 150×80 cm UV print on aluminum, with an orange web of connected nodes stretching across blue text."
+  },
   {
    "id": "78663",
    "title": "Dafi Kühne: Constructing Posters",
@@ -478,6 +745,43 @@
     "https://assets.fontsinuse.com/static/use-media-items/309/308715/upto-700xauto/6ae10fdf/meccano-metallbaukasten-nr5-mit-anleitungsbuch-vintage.jpeg"
    ],
    "excerpt": "Constructing Posters was my own exhibition of letterpress printed posters and processes at Ginza Graphic Gallery 2026. The poster has been letterpress printed from hand-cut linoleum (black shadows), Meccano parts (silver), cast Ludlow hot metal slugs…"
+  },
+  {
+   "id": "81116",
+   "title": "Aurélie Lloyd Talbi",
+   "url": "https://fontsinuse.com/uses/81116/aurelie-lloyd-talbi",
+   "date": "2026-11-18T10:30:00.000Z",
+   "author": "Oudin Romain",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "188437",
+     "name": "Sans Plomb",
+     "url": "https://fontsinuse.com/typefaces/188437/sans-plomb",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9763/440/4/66d8c1db/sans-plomb.png"
+    },
+    {
+     "id": "110622",
+     "name": "Romie",
+     "url": "https://fontsinuse.com/typefaces/110622/romie",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6020/440/4/640eed7d/romie.png"
+    },
+    {
+     "id": "32481",
+     "name": "Montserrat",
+     "url": "https://fontsinuse.com/typefaces/32481/montserrat",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1348/440/4/570e20c1/montserrat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308898/upto-700xauto/6ae2a82a/Aure%25CC%2581lie%252BLloyd%252BTalbi_post4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308581/upto-700xauto/6ae2a746/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308584/upto-700xauto/6ae2a741/6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308897/upto-700xauto/6ae2a741/Aure%25CC%2581lie%252BLloyd%252BTalbi_post_26.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308894/upto-700xauto/6ae2a741/Aure%25CC%2581lie%252BLloyd%252BTalbi_post3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308582/upto-700xauto/6ae2a741/4.jpeg"
+   ],
+   "excerpt": "Aurélie Lloyd-Talbi is a coach, media trainer, instructor, and speaker. She helps ambitious individuals clarify their vision, claim their place, and take action—with high standards, humor, and humanity."
   },
   {
    "id": "71789",
@@ -4849,7 +5153,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6afebbd7/neue-haas-grotesk.png"
     }
    ],
    "images": [
@@ -6362,7 +6666,7 @@
      "id": "12",
      "name": "Neue Haas Grotesk",
      "url": "https://fontsinuse.com/typefaces/12/neue-haas-grotesk",
-     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6af57887/neue-haas-grotesk.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/8/12/400/4/6afebbd7/neue-haas-grotesk.png"
     }
    ],
    "images": [
