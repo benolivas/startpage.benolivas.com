@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-19T17:19:43.339Z",
+ "updated": "2026-11-20T16:55:26.958Z",
  "day": {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "picks": [
-   "89627",
-   "44",
-   "236081",
-   "130696",
-   "250264",
-   "94693",
-   "10139",
-   "184127",
-   "184128"
+   "246160",
+   "4",
+   "39856",
+   "229523",
+   "241359",
+   "20908",
+   "7251",
+   "249631",
+   "250334"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-20",
-   "picks": [
-    "240422",
-    "109442",
-    "20908",
-    "250334",
-    "246160",
-    "39856",
-    "250473",
-    "243420",
-    "241359"
-   ]
-  },
   {
    "date": "2026-10-21",
    "picks": [
@@ -448,9 +434,289 @@
     "184127",
     "184128"
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "picks": [
+    "246160",
+    "4",
+    "39856",
+    "229523",
+    "241359",
+    "20908",
+    "7251",
+    "249631",
+    "250334"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "77846",
+   "title": "ARCH+ 263, “Stadtnatur”",
+   "url": "https://fontsinuse.com/uses/77846/arch-263-stadtnatur",
+   "date": "2026-11-20T08:58:44.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b000bc5/futura.png"
+    },
+    {
+     "id": "233945",
+     "name": "Display Grotesk",
+     "url": "https://fontsinuse.com/typefaces/233945/display-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13213/440/4/6adb2420/display-grotesk.png"
+    },
+    {
+     "id": "229523",
+     "name": "Al Sigla",
+     "url": "https://fontsinuse.com/typefaces/229523/al-sigla",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12040/440/4/64c9f239/al-sigla.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/306/305011/upto-700xauto/6b000be7/42842-Arch-Plus-263-2026_Stadtnatur-Urban-Nature-1%20copie%202%20-%20copie.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305023/upto-700xauto/6ab7296f/ARCH+_263_12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305014/upto-700xauto/6ab7296e/ARCH+_263_03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305013/upto-700xauto/6ab7296c/ARCH+_263_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305020/upto-700xauto/6ab7296c/ARCH+_263_09.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/306/305021/upto-700xauto/6ab7297f/ARCH+_263_10.jpeg"
+   ],
+   "excerpt": "No. 263, “Urban Nature” is the third issue of the architecture magazine ARCH+ that was designed by Dan Solbach . Challenging the traditional opposition between city and nature, it addresses questions of ecological justice, land use, and the role of…"
+  },
+  {
+   "id": "81223",
+   "title": "Illinois Department of Human Rights",
+   "url": "https://fontsinuse.com/uses/81223/illinois-department-of-human-rights",
+   "date": "2026-11-20T08:56:49.000Z",
+   "author": "Nick Adam",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "184618",
+     "name": "HEX Franklin",
+     "url": "https://fontsinuse.com/typefaces/184618/hex-franklin",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9647/440/4/6351bae5/hex-franklin.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309182/upto-700xauto/6b000b88/Span-IDHR-BrandIdentity-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309183/upto-700xauto/6ae7335d/Span-IDHR-BrandIdentity-2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309184/upto-700xauto/6ae73ca1/Span-IDHR-BrandIdentity-4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309185/upto-700xauto/6b000ac4/Span-IDHR-BrandIdentity-5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309186/upto-700xauto/6ae73cb8/Span-IDHR-BrandIdentity-6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309187/upto-700xauto/6ae73360/Span-IDHR-BrandIdentity-7.jpeg"
+   ],
+   "excerpt": "The Illinois Department of Human Rights was created in 1980 to give people one place to turn when they experienced discrimination. More than four decades later, the department faced an access problem. Many Illinoisans did not clearly understand what IDHR…"
+  },
+  {
+   "id": "81313",
+   "title": "I Am Working on My Novel conference poster",
+   "url": "https://fontsinuse.com/uses/81313/i-am-working-on-my-novel-conference-poster",
+   "date": "2026-11-20T08:28:48.000Z",
+   "author": "Pierre Pané-Farré",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "100118",
+     "name": "Klub",
+     "url": "https://fontsinuse.com/typefaces/100118/klub",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6128/440/4/5dda2eba/klub.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309829/upto-700xauto/6aedc1ab/I_AM_WORKING_ON_MY_NOVEL_Copyright_credits__Jan_Blessing.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309831/upto-700xauto/6aede68c/I_AM_WORKING_ON_MY_NOVEL_Copyright_credits__Jan_Blessing-Video.mp4"
+   ],
+   "excerpt": "For the I Am Working on My Novel conference poster, Book Book Studio and Jan Blessing ( Expanded Printmaking ) took Pierre Pané-Farré ’s Klub back to the press. The studio had used Klub before, including in its design for Bani Abidi: The Artist Who ,…"
+  },
+  {
+   "id": "75142",
+   "title": "Banned Books Week posters",
+   "url": "https://fontsinuse.com/uses/75142/banned-books-week-posters",
+   "date": "2026-11-20T08:24:53.000Z",
+   "author": "Aubrey Hays, Frere-Jones Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "40592",
+     "name": "Mallory",
+     "url": "https://fontsinuse.com/typefaces/40592/mallory",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2103/440/4/570e2141/mallory.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/281/280756/upto-700xauto/6b00040f/Mallory_ThoughtMatter_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280674/upto-700xauto/69b619cf/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280670/upto-700xauto/69b619cf/3.jpeg"
+   ],
+   "excerpt": "These Banned Books Week posters were designed by Thought Matter studio with Mallory created by Frere-Jones Type and printed by Kayrock Screenprinting in Brooklyn."
+  },
+  {
+   "id": "81195",
+   "title": "Número Once",
+   "url": "https://fontsinuse.com/uses/81195/numero-once",
+   "date": "2026-11-20T08:24:08.000Z",
+   "author": "Sarah Schroeder",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248188",
+     "name": "Bárur",
+     "url": "https://fontsinuse.com/typefaces/248188/barur",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18085/440/4/69ea0b3e/barur.png"
+    },
+    {
+     "id": "7828",
+     "name": "Aperçu Mono",
+     "url": "https://fontsinuse.com/typefaces/7828/apercu-mono",
+     "sample": "https://assets.fontsinuse.com/static/renders/391/7828/400/4/6b0003a9/apercu-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309019/upto-700xauto/6af5ce69/Insta-Design_2026_Mindt_01_Numero-Once_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309020/upto-700xauto/6ae4cc4e/1775558763775.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309021/upto-700xauto/6ae4cc70/1775558762496.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309022/upto-700xauto/6ae4cc7c/1776759034461.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309025/upto-700xauto/6ae4cd46/1775558763960.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309023/upto-700xauto/6ae4cd47/1775558761616.jpeg"
+   ],
+   "excerpt": "Número Once is a homeware and concept store in Níjar, a whitewashed village in Andalusia. For its rebrand, Marina Verd Studio moved the shop away from a neutral look toward a stronger, more expressive character. The goal was to make Número Once feel less…"
+  },
+  {
+   "id": "81076",
+   "title": "Museum DGI: Under Construction, ADGI Design Week 2024",
+   "url": "https://fontsinuse.com/uses/81076/museum-dgi-under-construction-adgi-design-wee",
+   "date": "2026-11-20T08:11:43.000Z",
+   "author": "Gumpita Rahayu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250563",
+     "name": "Leksikal Sans",
+     "url": "https://fontsinuse.com/typefaces/250563/leksikal-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19436/440/4/6adf17b5/leksikal-sans.png"
+    },
+    {
+     "id": "250564",
+     "name": "Leksikal Flare",
+     "url": "https://fontsinuse.com/typefaces/250564/leksikal-flare",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19437/440/4/6adf17fb/leksikal-flare.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308365/upto-700xauto/6b000112/Grafis24-88.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308741/upto-700xauto/6ae1c6f5/Grafis24-94.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308742/upto-700xauto/6ae1c704/Grafis24-127.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308743/upto-700xauto/6ae1c730/Grafis24-85.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308744/upto-700xauto/6ae1c740/Grafis24-93.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308745/upto-700xauto/6b000140/Grafis24-135.jpeg"
+   ],
+   "excerpt": "From a text by Arief Adityawan S. and Ismiaji Cahyono:"
+  },
+  {
+   "id": "81210",
+   "title": "Medido",
+   "url": "https://fontsinuse.com/uses/81210/medido",
+   "date": "2026-11-20T07:44:02.000Z",
+   "author": "debora malqui",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "126975",
+     "name": "Manrope",
+     "url": "https://fontsinuse.com/typefaces/126975/manrope",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7041/440/4/5f38054e/manrope.png"
+    },
+    {
+     "id": "156192",
+     "name": "Assistant",
+     "url": "https://fontsinuse.com/typefaces/156192/assistant",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8082/440/4/606dd5e2/assistant.png"
+    },
+    {
+     "id": "171187",
+     "name": "JetBrains Mono",
+     "url": "https://fontsinuse.com/typefaces/171187/jetbrains-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9114/440/4/6183b1c4/jetbrains-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309172/upto-700xauto/6aedb2ac/medido-fiu-01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309173/upto-700xauto/6ae71aea/medido-fiu-02.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309174/upto-700xauto/6ae71aee/medido-fiu-03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309175/upto-700xauto/6ae71af2/medido-fiu-04.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309176/upto-700xauto/6ae71b0c/medido-fiu-05.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309177/upto-700xauto/6ae71b10/medido-fiu-06.png"
+   ],
+   "excerpt": "Medido started with a question, not a logo: how do you show what was really checked, and what wasn’t? The answer was a ring, the simplest chart there is. Medido means “measured”, so the name is written with one."
+  },
+  {
+   "id": "81224",
+   "title": "Gala Femmes d’influence en sport",
+   "url": "https://fontsinuse.com/uses/81224/gala-femmes-d-influence-en-sport-1",
+   "date": "2026-11-20T06:35:00.000Z",
+   "author": "Cécile Tousignant",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32031",
+     "name": "Alverata",
+     "url": "https://fontsinuse.com/typefaces/32031/alverata",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/32031/400/4/6b00063f/alverata.png"
+    },
+    {
+     "id": "1297",
+     "name": "Aktiv Grotesk",
+     "url": "https://fontsinuse.com/typefaces/1297/aktiv-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11369/440/4/6419628c/aktiv-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309211/upto-700xauto/6ae740cb/2026-10-19_Gala%20E%CC%81A_Portfolio-01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309212/upto-700xauto/6b000672/2026-10-19_Gala%20E%CC%81A_Portfolio-02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309213/upto-700xauto/6ae740cd/2026-10-19_Gala%20E%CC%81A_Portfolio-03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309214/upto-700xauto/6ae740cf/2026-10-19_Gala%20E%CC%81A_Portfolio-04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309215/upto-700xauto/6ae740cf/2026-10-19_Gala%20E%CC%81A_Portfolio-05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309216/upto-700xauto/6ae740d0/2026-10-19_Gala%20E%CC%81A_Portfolio-06.jpeg"
+   ],
+   "excerpt": "Presented by Égale Action on May 27, 2026, the Gala Femmes d’influence en sport celebrated the women and allies shaping the future of sport. Under the theme “Her Moment, Our Movement (Son moment, notre mouvement)”, the event honoured those driving lasting…"
+  },
+  {
+   "id": "78348",
+   "title": "Hodne Media portfolio website",
+   "url": "https://fontsinuse.com/uses/78348/hodne-media-portfolio-website",
+   "date": "2026-11-20T06:17:00.000Z",
+   "author": "Faire Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245226",
+     "name": "Octave Display",
+     "url": "https://fontsinuse.com/typefaces/245226/octave-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16522/440/4/68c2a0d4/octave-display.png"
+    },
+    {
+     "id": "32481",
+     "name": "Montserrat",
+     "url": "https://fontsinuse.com/typefaces/32481/montserrat",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1348/440/4/570e20c1/montserrat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308212/upto-700xauto/6adbaf1b/Hodneupdate1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295064/upto-700xauto/6adbaf31/531701665_18526094575054415_7921984210907522311_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308214/upto-700xauto/6adbaf3d/Hodneupdate3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295065/upto-700xauto/6adbaf3d/hodne6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295061/upto-700xauto/6adbaf3d/hodne3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308217/upto-700xauto/6adbafd8/Hodneupdate6.jpeg"
+   ],
+   "excerpt": "Hodne Media is a photography and videography studio led by filmmaker and visual storyteller Sofie Hodne. Working across weddings, commercial projects, and mentorship, the studio focuses on documenting authentic moments, relationships, and human connection."
+  },
   {
    "id": "81060",
    "title": "Faszination Japan / Fascination with Japan",
@@ -609,10 +875,10 @@
     }
    ],
    "images": [
-    "https://assets.fontsinuse.com/static/use-media-items/309/308856/upto-700xauto/6afec1fd/ArenaRISD_Square.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308856/upto-700xauto/6aff63b4/ArenaRISD_Square.png",
     "https://assets.fontsinuse.com/static/use-media-items/309/308857/upto-700xauto/6afec243/ArenaRISD_Poster_White%20%281%29.png"
    ],
-   "excerpt": "I, Deborah Khodanovich , designed this two-part poster series for the RISD on Are.na Research Group promoting a lecture by Charles Broskoski of Are.na and a research group kick-off with Charles Broskoski and Damon Zucconi of Are.na. Texts are set in the…"
+   "excerpt": "Designed this two-part poster series for the RISD on Are.na Research Group promoting a lecture by Charles Broskoski of Are.na and a research group kick-off with Charles Broskoski and Damon Zucconi of Are.na. Texts are set in the Dark Mode style of ABC Areal ."
   },
   {
    "id": "81158",
