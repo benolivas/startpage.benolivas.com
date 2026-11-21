@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-20T16:55:26.958Z",
+ "updated": "2026-11-21T16:06:00.727Z",
  "day": {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "picks": [
-   "246160",
-   "4",
-   "39856",
-   "229523",
-   "241359",
-   "20908",
-   "7251",
-   "249631",
-   "250334"
+   "45733",
+   "240422",
+   "45275",
+   "243420",
+   "183841",
+   "47154",
+   "234344",
+   "40821",
+   "245704"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-21",
-   "picks": [
-    "183841",
-    "247934",
-    "227907",
-    "250331",
-    "45733",
-    "245071",
-    "234344",
-    "229542",
-    "250330"
-   ]
-  },
   {
    "date": "2026-10-22",
    "picks": [
@@ -448,9 +434,232 @@
     "249631",
     "250334"
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "picks": [
+    "45733",
+    "240422",
+    "45275",
+    "243420",
+    "183841",
+    "47154",
+    "234344",
+    "40821",
+    "245704"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81537",
+   "title": "Milt Jackson – Sunflower album art",
+   "url": "https://fontsinuse.com/uses/81537/milt-jackson-sunflower-album-art",
+   "date": "2026-11-21T15:27:34.000Z",
+   "author": "Patrick Nell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4509",
+     "name": "Stymie",
+     "url": "https://fontsinuse.com/typefaces/4509/stymie",
+     "sample": "https://assets.fontsinuse.com/static/renders/5/4509/400/4/6b01b867/stymie.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b01b867/futura.png"
+    },
+    {
+     "id": "44",
+     "name": "Helvetica",
+     "url": "https://fontsinuse.com/typefaces/44/helvetica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7433/440/4/67af27e7/helvetica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310798/upto-700xauto/6af89425/Front.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310799/upto-700xauto/6af8942d/Back.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310794/upto-700xauto/6af89433/Gatefold.png"
+   ],
+   "excerpt": "On Sunflower (1973), vibraphonist Milt Jackson , a founding member of the Modern Jazz Quartet , leads an all-star band (including Herbie Hancock , Freddie Hubbard , Ron Carter , and Billy Cobham ) through lyrical, richly orchestrated jazz with flamenco and…"
+  },
+  {
+   "id": "80215",
+   "title": "Spice99 flyers",
+   "url": "https://fontsinuse.com/uses/80215/spice99-flyers",
+   "date": "2026-11-21T15:11:18.000Z",
+   "author": "Type Mania",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246157",
+     "name": "Bootzy Condensed TM",
+     "url": "https://fontsinuse.com/typefaces/246157/bootzy-condensed-tm",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17140/440/4/6930281f/bootzy-condensed-tm.png"
+    },
+    {
+     "id": "250782",
+     "name": "Ukol",
+     "url": "https://fontsinuse.com/typefaces/250782/ukol",
+     "sample": "https://assets.fontsinuse.com/static/renders/395/250782/400/4/6b01b497/ukol.png"
+    },
+    {
+     "id": "155466",
+     "name": "Rotunda Veneta",
+     "url": "https://fontsinuse.com/typefaces/155466/rotunda-veneta",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8053/440/4/605e25cc/rotunda-veneta.png"
+    },
+    {
+     "id": "20286",
+     "name": "Gothicus",
+     "url": "https://fontsinuse.com/typefaces/20286/gothicus",
+     "sample": "https://assets.fontsinuse.com/static/renders/24/20286/400/4/6b01b497/gothicus.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304281/upto-700xauto/6af1c973/spice99_4ever_1774955507_3864929070270498155_72003256833.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304285/upto-700xauto/6ab13de8/spice_h2o_1784725770_3946884669830851058_17567694844.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304284/upto-700xauto/6ab13de7/spice99_4ever_1776080967_3874368436675866173_72003256833.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304288/upto-700xauto/6ab13e35/spice99_4ever_1784564200_3945532782418445907_72003256833.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304283/upto-700xauto/6ab13de8/spice99_4ever_1775493414_3869439236391147160_72003256833.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304286/upto-700xauto/6ab13db5/spice99_4ever_1780312606_3909865562103535722_72003256833.jpeg"
+   ],
+   "excerpt": "Spice99 is an interdisciplinary club concept from Stockholm, Sweden. They use Bootzy Condensed TM as a reliable workhorse, seasoning their designs with other typefaces that share an underground sensibility. These include a modified Rotunda Veneta for…"
+  },
+  {
+   "id": "81688",
+   "title": "Midori – “Ameyatchi (Reprise)” single cover",
+   "url": "https://fontsinuse.com/uses/81688/midori-ameyatchi-reprise-single-cover",
+   "date": "2026-11-21T14:46:34.000Z",
+   "author": "O'Plérou",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250772",
+     "name": "OS Monogaga",
+     "url": "https://fontsinuse.com/typefaces/250772/os-monogaga",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19657/440/4/6b003bfb/os-monogaga.png"
+    },
+    {
+     "id": "38786",
+     "name": "VCR OSD Mono",
+     "url": "https://fontsinuse.com/typefaces/38786/vcr-osd-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1681/440/4/570e20f6/vcr-osd-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311540/upto-700xauto/6b003c57/MIDORI-Ameyatchi-Reprise-jpg.png"
+   ],
+   "excerpt": "The artwork for the “ Ameyatchi ” single by Midori (now using the name Boni Assoh), released in 2023, features OS Monogaga for the artist’s name and song title, alongside VCR OSD Mono for the “Reprise” text. The track is a cover of Mathey’s 1996 song…"
+  },
+  {
+   "id": "66293",
+   "title": "Britney Spears – Britney album cover",
+   "url": "https://fontsinuse.com/uses/66293/britney-spears-britney-album-cover",
+   "date": "2026-11-21T08:08:18.000Z",
+   "author": "fangly",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "26553",
+     "name": "Raphael",
+     "url": "https://fontsinuse.com/typefaces/26553/raphael",
+     "sample": "https://assets.fontsinuse.com/static/renders/43/26553/400/4/6b015173/raphael.png"
+    },
+    {
+     "id": "10527",
+     "name": "Neue Helvetica Condensed",
+     "url": "https://fontsinuse.com/typefaces/10527/helvetica-condensed",
+     "sample": "https://assets.fontsinuse.com/static/renders/36/10527/400/4/6b01568b/helvetica-condensed.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311410/upto-700xauto/6afe5d25/29341703079.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311411/upto-700xauto/6afe5d5a/29341708428.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311437/upto-700xauto/6afecb5a/mbid-7ea2150f-7c49-48cd-9d69-b241c010971b-29341709216.jpeg"
+   ],
+   "excerpt": "Britney is the third studio album by American singer Britney Spears. It was released on October 31, 2001, by Jive Records. Looking to transition from the teen pop styles of her first two studio albums ...Baby One More Time (1999) and Oops!... I Did It…"
+  },
+  {
+   "id": "81668",
+   "title": "Ramones – Road to Ruin album art",
+   "url": "https://fontsinuse.com/uses/81668/ramones-road-to-ruin-album-art",
+   "date": "2026-11-21T08:06:55.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "35",
+     "name": "Franklin Gothic",
+     "url": "https://fontsinuse.com/typefaces/35/franklin-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7745/440/4/600bc9f1/franklin-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311485/upto-700xauto/6b0151a0/55660545592_e57d5aed41_4k.jpeg"
+   ],
+   "excerpt": "Road to Ruin is the fourth studio album by the American punk rock band Ramones , released on September 22, 1978, through Sire Records […] It was the first Ramones album to feature new drummer Marky Ramone , who replaced Tommy Ramone . […] The artwork’s…"
+  },
+  {
+   "id": "78603",
+   "title": "Brenda Lee – Too Many Rivers album art",
+   "url": "https://fontsinuse.com/uses/78603/brenda-lee-too-many-rivers-album-art-1",
+   "date": "2026-11-21T08:04:03.000Z",
+   "author": "Javi Gonzalez",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "161117",
+     "name": "Filmotype Omaha",
+     "url": "https://fontsinuse.com/typefaces/161117/filmotype-omaha",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11263/440/4/6403d998/filmotype-omaha.png"
+    },
+    {
+     "id": "230",
+     "name": "Bookman",
+     "url": "https://fontsinuse.com/typefaces/230/bookman",
+     "sample": "https://assets.fontsinuse.com/static/renders/12/230/400/4/6b015074/bookman.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b01b867/futura.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/297/296461/upto-700xauto/6a413c58/lp_too-many-rivers_brenda-lee_0000.jpeg"
+   ],
+   "excerpt": "Too Many Rivers is the fourteenth studio album by American singer Brenda Lee . It was released on September 2, 1965, via Decca Records and was her thirteenth studio album. The disc consisted of 12 tracks that were mostly covers of songs recorded by other…"
+  },
+  {
+   "id": "77190",
+   "title": "Barry Brown – Barry album art",
+   "url": "https://fontsinuse.com/uses/77190/barry-brown-barry-album-art",
+   "date": "2026-11-21T08:03:20.000Z",
+   "author": "The Reggae Archive",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "7322",
+     "name": "Baby Teeth",
+     "url": "https://fontsinuse.com/typefaces/7322/baby-teeth",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3999/440/4/5fb00123/baby-teeth.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/290/289949/upto-700xauto/69f365c2/12.png"
+   ],
+   "excerpt": "Barry is a 1983 reggae album by Jamaican singer-songwriter Barry Brown (1957–2004), released on Vista Sounds. The cover design by Jacqueline Rathbone-Jones features an out-of-focus portrait of Brown. While the album title is lettering, Milton Glaser ’s…"
+  },
   {
    "id": "77846",
    "title": "ARCH+ 263, “Stadtnatur”",
@@ -463,7 +672,7 @@
      "id": "4",
      "name": "Futura",
      "url": "https://fontsinuse.com/typefaces/4/futura",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b000bc5/futura.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b01b867/futura.png"
     },
     {
      "id": "233945",
@@ -684,7 +893,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/310/309215/upto-700xauto/6ae740cf/2026-10-19_Gala%20E%CC%81A_Portfolio-05.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/310/309216/upto-700xauto/6ae740d0/2026-10-19_Gala%20E%CC%81A_Portfolio-06.jpeg"
    ],
-   "excerpt": "Presented by Égale Action on May 27, 2026, the Gala Femmes d’influence en sport celebrated the women and allies shaping the future of sport. Under the theme “Her Moment, Our Movement (Son moment, notre mouvement)”, the event honoured those driving lasting…"
+   "excerpt": "Presented by Égale Action on May 27, 2026, the Gala Femmes d’influence en sport celebrated the women and allies shaping the future of sport. Under the theme “Son moment, notre mouvement” (“Her Moment, Our Movement”), the event honoured those driving…"
   },
   {
    "id": "78348",
@@ -803,7 +1012,7 @@
    "url": "https://fontsinuse.com/uses/79423/steffani-jemison-bound-monograph",
    "date": "2026-11-19T09:51:42.000Z",
    "author": "AllCaps",
-   "staffPick": false,
+   "staffPick": true,
    "typefaces": [
     {
      "id": "244618",
