@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-21T16:06:00.727Z",
+ "updated": "2026-11-22T16:13:16.432Z",
  "day": {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "picks": [
-   "45733",
-   "240422",
-   "45275",
-   "243420",
-   "183841",
-   "47154",
-   "234344",
-   "40821",
-   "245704"
+   "4376",
+   "143574",
+   "14789",
+   "250330",
+   "170074",
+   "250503",
+   "233945",
+   "170073",
+   "242569"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-22",
-   "picks": [
-    "4376",
-    "45734",
-    "14789",
-    "250333",
-    "231585",
-    "7317",
-    "250503",
-    "250474",
-    "205972"
-   ]
-  },
   {
    "date": "2026-10-23",
    "picks": [
@@ -448,9 +434,247 @@
     "40821",
     "245704"
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "picks": [
+    "4376",
+    "143574",
+    "14789",
+    "250330",
+    "170074",
+    "250503",
+    "233945",
+    "170073",
+    "242569"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81574",
+   "title": "Maison Saint-Gervais, 2025/26 and 2026/27 seasons",
+   "url": "https://fontsinuse.com/uses/81574/maison-saint-gervais-2025-26-and-2026-27-seas",
+   "date": "2026-11-22T15:38:16.000Z",
+   "author": "Mykyta Ovsiannikov",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "170074",
+     "name": "Ktf Rublena",
+     "url": "https://fontsinuse.com/typefaces/170074/ktf-rublena",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9056/440/4/617a592b/ktf-rublena.png"
+    },
+    {
+     "id": "245558",
+     "name": "KTF Tiemann",
+     "url": "https://fontsinuse.com/typefaces/245558/ktf-tiemann",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16741/440/4/68e7c012/ktf-tiemann.png"
+    },
+    {
+     "id": "242569",
+     "name": "Teletext",
+     "url": "https://fontsinuse.com/typefaces/242569/teletext-maxitype",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14854/440/4/67c55724/teletext-maxitype.png"
+    },
+    {
+     "id": "170075",
+     "name": "Ktf Jermilov",
+     "url": "https://fontsinuse.com/typefaces/170075/ktf-jermilov",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9057/440/4/617a5b41/ktf-jermilov.png"
+    },
+    {
+     "id": "245561",
+     "name": "Ktf Roman",
+     "url": "https://fontsinuse.com/typefaces/245561/ktf-roman",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16823/440/4/69baaeab/ktf-roman.png"
+    },
+    {
+     "id": "170073",
+     "name": "Ktf Compact",
+     "url": "https://fontsinuse.com/typefaces/170073/ktf-compact",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9055/440/4/617a7337/ktf-compact.png"
+    },
+    {
+     "id": "191302",
+     "name": "Selecta",
+     "url": "https://fontsinuse.com/typefaces/191302/selecta",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9814/440/4/636bc124/selecta.png"
+    },
+    {
+     "id": "236362",
+     "name": "KTF Labyrinth",
+     "url": "https://fontsinuse.com/typefaces/236362/ktf-labyrinth",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13768/440/4/66ab7f6d/ktf-labyrinth.png"
+    },
+    {
+     "id": "241223",
+     "name": "Blackletter",
+     "url": "https://fontsinuse.com/typefaces/241223/blackletter",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14571/440/4/677e4004/blackletter.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310936/upto-700xauto/6b030b5b/868056915_18639152422056082_2927399735077617815_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310932/upto-700xauto/6afb31c6/731173341_18601342330056082_5564532315646098909_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310931/upto-700xauto/6afb31c6/686079152_18584044060056082_462610424466557482_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310933/upto-700xauto/6afb31c6/734313831_18601343005056082_3883937884064620031_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310929/upto-700xauto/6afb31c6/637233638_18558983431056082_5434262132313428197_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310930/upto-700xauto/6afb31c9/671122783_18580916677056082_3716048994829135256_n.jpeg"
+   ],
+   "excerpt": "Located in the heart of the city, the Maison Saint-Gervais is a vibrant space that fosters creativity and interdisciplinary collaboration within Geneva’s urban landscape. This building, a striking example of 1960s architecture, hosts scientific research,…"
+  },
+  {
+   "id": "81614",
+   "title": "Goosebumps House of Shivers book series by R.L. Stine",
+   "url": "https://fontsinuse.com/uses/81614/goosebumps-house-of-shivers-book-series-by-r-",
+   "date": "2026-11-22T15:06:34.000Z",
+   "author": "Derek Garrett",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250755",
+     "name": "Vorvolaka",
+     "url": "https://fontsinuse.com/typefaces/250755/vorvolaka",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19642/440/4/6b02ff8d/vorvolaka.png"
+    },
+    {
+     "id": "3864",
+     "name": "Clearface Gothic",
+     "url": "https://fontsinuse.com/typefaces/3864/clearface-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/3864/400/4/6b0304fb/clearface-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311675/upto-700xauto/6b0304bc/1200.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311676/upto-700xauto/6b0301ce/1200.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311677/upto-700xauto/6b0301ce/1200.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311678/upto-700xauto/6b0301ce/1200.jpeg"
+   ],
+   "excerpt": "Goosebumps House of Shivers is a series of children’s horror books written by R.L. Stine and published by Scholastic . It was launched in September 2023 as the latest spin-off of the original Goosebumps series ."
+  },
+  {
+   "id": "81502",
+   "title": "Killer Costumes logo",
+   "url": "https://fontsinuse.com/uses/81502/killer-costumes-logo",
+   "date": "2026-11-22T13:42:00.000Z",
+   "author": "Joey Sahr",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2005",
+     "name": "Democratica",
+     "url": "https://fontsinuse.com/typefaces/2005/democratica",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19570/440/4/6aef60f3/democratica.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310654/upto-700xauto/6b02e8cc/KillerCostumesLogo_square.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310655/upto-700xauto/6b02e8c6/KillerCostumesLogo.png"
+   ],
+   "excerpt": "In the I’m Sorry Lily Torrence TikTok ARG (alternate reality game) and analog horror series, Killer Costumes is a central fictional seasonal Halloween store tied to abductions and a broader conspiracy . The logo for this in-world brand uses a slightly…"
+  },
+  {
+   "id": "81710",
+   "title": "Interstellar Travel. Past, Present, and Future by John W. Macvey",
+   "url": "https://fontsinuse.com/uses/81710/interstellar-travel-past-present-and-future-b",
+   "date": "2026-11-22T13:21:00.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "5871",
+     "name": "Aquarius",
+     "url": "https://fontsinuse.com/typefaces/5871/aquarius",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16217/440/4/688b6093/aquarius.png"
+    },
+    {
+     "id": "142281",
+     "name": "Itc Avant Garde Gothic Condensed",
+     "url": "https://fontsinuse.com/typefaces/142281/itc-avant-garde-gothic-condensed",
+     "sample": "https://assets.fontsinuse.com/static/renders/152/142281/400/4/6b030ec7/itc-avant-garde-gothic-condensed.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311623/upto-700xauto/6b030edb/55657545729_65c9250814_o.jpeg"
+   ],
+   "excerpt": "Interstellar Travel. Past, Present, and Future is a non-fiction book about space travel, written by Scottish astronomer John W. Macvey (b. 1923). First published in hardback by Stein and Day in 1977, this is the 1978 paperback edition by Avon Books , with…"
+  },
+  {
+   "id": "80331",
+   "title": "VeggieTales: Creativity City",
+   "url": "https://fontsinuse.com/uses/80331/veggietales-creativity-city",
+   "date": "2026-11-22T12:10:00.000Z",
+   "author": "Daniel Dell",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250489",
+     "name": "Veggie Marker",
+     "url": "https://fontsinuse.com/typefaces/250489/veggie-marker",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19480/440/4/6ae94a31/veggie-marker.png"
+    },
+    {
+     "id": "250490",
+     "name": "VeggieType",
+     "url": "https://fontsinuse.com/typefaces/250490/veggietype",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19481/440/4/6ae94a39/veggietype.png"
+    },
+    {
+     "id": "250629",
+     "name": "Veggie Bobble",
+     "url": "https://fontsinuse.com/typefaces/250629/veggie-bobble",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19539/440/4/6aea4ce7/veggie-bobble.png"
+    },
+    {
+     "id": "3361",
+     "name": "Palatino",
+     "url": "https://fontsinuse.com/typefaces/3361/palatino",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/3361/400/4/6b02e9bc/palatino.png"
+    },
+    {
+     "id": "2180",
+     "name": "Bodega Sans",
+     "url": "https://fontsinuse.com/typefaces/2180/bodega-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8858/440/4/6155a90d/bodega-sans.png"
+    },
+    {
+     "id": "7339",
+     "name": "House Slant",
+     "url": "https://fontsinuse.com/typefaces/7339/house-slant",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/83/440/4/570e1fed/house-slant.png"
+    },
+    {
+     "id": "32121",
+     "name": "House Casual",
+     "url": "https://fontsinuse.com/typefaces/32121/house-casual",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1131/440/4/570e209b/house-casual.png"
+    },
+    {
+     "id": "127878",
+     "name": "Filmotype Pixie",
+     "url": "https://fontsinuse.com/typefaces/127878/filmotype-pixie",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6673/440/4/5ec022b8/filmotype-pixie.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311665/upto-700xauto/6b02e648/VeggieTales.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304974/upto-700xauto/6b02e5ef/maxresdefault.jpeg"
+   ],
+   "excerpt": "“Create & Play” is in Veggie Bobble ; smaller text in Veggie Marker . It’s unclear whether “Creativity City” is based on fonts."
+  },
   {
    "id": "81537",
    "title": "Milt Jackson – Sunflower album art",
@@ -659,6 +883,79 @@
     "https://assets.fontsinuse.com/static/use-media-items/290/289949/upto-700xauto/69f365c2/12.png"
    ],
    "excerpt": "Barry is a 1983 reggae album by Jamaican singer-songwriter Barry Brown (1957–2004), released on Vista Sounds. The cover design by Jacqueline Rathbone-Jones features an out-of-focus portrait of Brown. While the album title is lettering, Milton Glaser ’s…"
+  },
+  {
+   "id": "78370",
+   "title": "The Tremeloes – Here Come the Tremeloes album art, Polskie Nagrania Muza",
+   "url": "https://fontsinuse.com/uses/78370/the-tremeloes-here-come-the-tremeloes-album-a",
+   "date": "2026-11-21T07:33:00.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "98826",
+     "name": "OP-Letter",
+     "url": "https://fontsinuse.com/typefaces/98826/op-letter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5692/440/4/5cf8f5d3/op-letter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/296/295553/upto-700xauto/6a390f5e/s-l1600.jpeg"
+   ],
+   "excerpt": "In 1971, Polskie Nagrania Muza released the 1967 album by The Tremeloes for the Polish market. The cover design by Włodzimierz Terechowicz (1933–2021) features OP-Letter in chromatic use. The shaded bold caps drawn by Walter Haettenschweiler for Lettera 3…"
+  },
+  {
+   "id": "78473",
+   "title": "The Tremeloes – Here Comes My Baby album art",
+   "url": "https://fontsinuse.com/uses/78473/the-tremeloes-here-comes-my-baby-album-art",
+   "date": "2026-11-21T06:33:00.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "138146",
+     "name": "Stromberg Graphic",
+     "url": "https://fontsinuse.com/typefaces/138146/stromberg-graphic",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11783/440/4/64885339/stromberg-graphic.png"
+    },
+    {
+     "id": "303",
+     "name": "News Gothic",
+     "url": "https://fontsinuse.com/typefaces/303/news-gothic",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/303/400/4/6b01c7cc/news-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/296/295552/upto-700xauto/6b01c296/Here%20Comes%20My%20Baby.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295551/upto-700xauto/6b01c2b8/Tremeloes.jpeg"
+   ],
+   "excerpt": "Here Come the Tremeloes is the first album recorded by the English beat group following the departure of lead singer Brian Poole . For the US release by Epic Records , the album was renamed Here Comes My Baby , after the opening track written by Cat…"
+  },
+  {
+   "id": "81540",
+   "title": "The Who – “I Can See For Miles” German single cover",
+   "url": "https://fontsinuse.com/uses/81540/the-who-i-can-see-for-miles-german-single-cov",
+   "date": "2026-11-21T05:02:00.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "213797",
+     "name": "Appalachia",
+     "url": "https://fontsinuse.com/typefaces/213797/cavanagh-appalachia",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15986/440/4/685a7264/cavanagh-appalachia.png"
+    },
+    {
+     "id": "76",
+     "name": "Akzidenz Grotesk",
+     "url": "https://fontsinuse.com/typefaces/76/akzidenz-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/894/440/4/570e2072/akzidenz-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310801/upto-700xauto/6af8b066/55639102862_68c00b6229_o.jpeg"
+   ],
+   "excerpt": "Written by guitarist Pete Townshend , “I Can See for Miles” is the only song from The Who ’s 1967 album The Who Sell Out to be released as a single. The sleeve for the German release by Polydor Records was designed by Petrus Wandrey , with an illustration…"
   },
   {
    "id": "77846",
