@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-22T16:13:16.432Z",
+ "updated": "2026-11-23T20:06:25.595Z",
  "day": {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "picks": [
-   "4376",
-   "143574",
-   "14789",
-   "250330",
-   "170074",
-   "250503",
-   "233945",
-   "170073",
-   "242569"
+   "241223",
+   "170075",
+   "303",
+   "249995",
+   "227907",
+   "247934",
+   "231585",
+   "75986",
+   "244618"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-23",
-   "picks": [
-    "48061",
-    "5203",
-    "303",
-    "237278",
-    "249995",
-    "250341",
-    "75986",
-    "156780",
-    "249052"
-   ]
-  },
   {
    "date": "2026-10-24",
    "picks": [
@@ -448,9 +434,406 @@
     "170073",
     "242569"
    ]
+  },
+  {
+   "date": "2026-11-23",
+   "picks": [
+    "241223",
+    "170075",
+    "303",
+    "249995",
+    "227907",
+    "247934",
+    "231585",
+    "75986",
+    "244618"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81059",
+   "title": "Le couloir à remonter le temps",
+   "url": "https://fontsinuse.com/uses/81059/le-couloir-a-remonter-le-temps",
+   "date": "2026-11-23T08:08:11.000Z",
+   "author": "Antonin Bertrand",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "250556",
+     "name": "Vallon",
+     "url": "https://fontsinuse.com/typefaces/250556/vallon",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19465/440/4/6ae778f7/vallon.png"
+    },
+    {
+     "id": "47197",
+     "name": "NEXT Book",
+     "url": "https://fontsinuse.com/typefaces/47197/next-book",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5543/440/4/652fb80a/next-book.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308512/upto-700xauto/6b03f665/BD-inrap-montparnasse-148.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308278/upto-700xauto/6b03f3cf/BD-inrap-montparnasse-107.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308254/upto-700xauto/6b03f3d0/BD-inrap-montparnasse-12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308280/upto-700xauto/6b03f3d0/BD-inrap-montparnasse-144.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308274/upto-700xauto/6b03f3d7/BD-inrap-montparnasse-96.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308272/upto-700xauto/6b03f3d8/BD-inrap-montparnasse-89.jpeg"
+   ],
+   "excerpt": "Le couloir à remonter le temps (“The Time-Travel Corridor”) is a project by Inrap for the RATP . Inrap is France’s National Institute of Preventive Archaeological Research."
+  },
+  {
+   "id": "79275",
+   "title": "Serapis: MOTHER TRADE and Sharjah Biennial 16",
+   "url": "https://fontsinuse.com/uses/79275/serapis-mother-trade-and-sharjah-biennial-16",
+   "date": "2026-11-23T08:00:00.000Z",
+   "author": "Alex Lescieux",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229521",
+     "name": "Milano",
+     "url": "https://fontsinuse.com/typefaces/229521/al-milano",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12042/440/4/65ae7a63/al-milano.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/300/299731/upto-700xauto/6a6e9fe7/SERAPIS-MOTHER-TRADE-23site.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299736/upto-700xauto/6acd7ee0/SERAPIS_FW25_LOOKBOOK_PAGE-3CSITE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299733/upto-700xauto/6acd91e3/FW250189sitenew-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299737/upto-700xauto/6acd91e3/SERAPIS-MOTHER-TRADE-21newSITE.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299730/upto-700xauto/6acd91e3/SERAPIS-MOTHER-TRADE-11site.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/300/299709/upto-700xauto/6acd9048/IMG_2401dimi-copy-2SITE.jpeg"
+   ],
+   "excerpt": "Serapis Maritime , a Greece-based hybrid art, design, and fashion collective led by its founding members Krini Dimopoulou , Dimitra Dimopoulou , and Manolis D. Lemos , creates work inspired by the aura of the oceans and the industries related to the sea.…"
+  },
+  {
+   "id": "80824",
+   "title": "StockmasterCo",
+   "url": "https://fontsinuse.com/uses/80824/stockmasterco",
+   "date": "2026-11-23T07:53:52.000Z",
+   "author": "Store Norske Skriftkompani",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "234332",
+     "name": "Store Norske Leif",
+     "url": "https://fontsinuse.com/typefaces/234332/store-norske-leif",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13320/440/4/6639ee54/store-norske-leif.png"
+    },
+    {
+     "id": "41429",
+     "name": "ABC Favorit",
+     "url": "https://fontsinuse.com/typefaces/41429/abc-favorit",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2330/440/4/570e216b/abc-favorit.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308152/upto-700xauto/6adb329f/4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308154/upto-700xauto/6adb345f/6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308155/upto-700xauto/6adb33e7/7.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308149/upto-700xauto/6adb33e7/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308153/upto-700xauto/6adb33e7/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308150/upto-700xauto/6adb33e5/2.jpeg"
+   ],
+   "excerpt": "StockmasterCo is a consultancy specialising in broadcast and media environments, with a website designed by A Common Thread . Led by Brian Stockmaster, the company works across owner’s representation, consulting and project management for traditional…"
+  },
+  {
+   "id": "80307",
+   "title": "Geisi",
+   "url": "https://fontsinuse.com/uses/80307/geisi",
+   "date": "2026-11-23T07:53:32.000Z",
+   "author": "Giulia Boggio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247525",
+     "name": "Gleff Mono",
+     "url": "https://fontsinuse.com/typefaces/247525/dgm-gleff-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17668/440/4/698dead5/dgm-gleff-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/305/304844/upto-700xauto/6ab4eb28/Screenshot%202026-09-24%20at%2011-10-31.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304842/upto-700xauto/6ab4eb16/Hochzeit%20Firmenfeier%20Vereinsfest%EF%BF%BD%20Passt-Egal%20was%20ansteht%20%E2%80%93%20i%20bring%20des%20mit,%20was%20an%20dem%20Tag%20passt.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304843/upto-700xauto/6ab4eb15/Screenshot%202026-09-24%20at%2011-14-52.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304845/upto-700xauto/6ab4ea56/Screenshot%202026-09-24%20at%2011-10-25.png",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304846/upto-700xauto/6ab4ea57/Firmenfeier-%20Geburtstag-%20Vereinsfest-%20Gartenfest-%20Hauptsach%E2%80%99%20es%20wird%20a%20Fest%20draus-%20i%20bin%20dabei-@.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/305/304847/upto-700xauto/6ab4ea58/Screenshot%202026-09-24%20at%2011-08-11.png"
+   ],
+   "excerpt": "Geisi is an Austrian event catering business built around a food truck and a hands-on team of hosts. The identity was designed by Oya using Gleff Mono"
+  },
+  {
+   "id": "81215",
+   "title": "The Complete Kubrick, Criterion Collection",
+   "url": "https://fontsinuse.com/uses/81215/the-complete-kubrick-criterion-collection",
+   "date": "2026-11-23T07:46:35.000Z",
+   "author": "Aarya",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "229124",
+     "name": "TT Autonomous Mono",
+     "url": "https://fontsinuse.com/typefaces/229124/tt-autonomous-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19673/440/4/6b03f2ac/tt-autonomous-mono.png"
+    },
+    {
+     "id": "20",
+     "name": "Gotham",
+     "url": "https://fontsinuse.com/typefaces/20/gotham",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/713/440/4/570e2057/gotham.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309117/upto-700xauto/6b03f2e6/DkEWk7DhlrVrMT5auXnYOWBdMRW13U_large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311706/upto-700xauto/6b03ef1e/jrqrUu4EIVTIqWhFEzKCR6zM5yhi2D_original.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309121/upto-700xauto/6ae66f53/UYPd6QLWkFTSbTOhEozWBDuN9ndss9_large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309122/upto-700xauto/6b03ef1f/lzu7T3coNH2jFgd1DlL44HixQ1IGbq_large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309123/upto-700xauto/6b03ef1f/oyDAhrCtQ0NCtfVzQlQVAG9S3Pdwq8_large.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309124/upto-700xauto/6b03ef1f/ZSrZmLwlCrTutqbfBCCYUuKgCLoCc4_large.jpeg"
+   ],
+   "excerpt": "Collected here for the first time are Kubrick’s thirteen features and three shorts, all restored in 4K, with their original soundtracks alongside the 5.1 mixes, restored and remastered; over twenty-five hours of interviews, documentaries, and…"
+  },
+  {
+   "id": "81235",
+   "title": "Villa Amore",
+   "url": "https://fontsinuse.com/uses/81235/villa-amore",
+   "date": "2026-11-23T07:42:56.000Z",
+   "author": "Dario Manzo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "241152",
+     "name": "Parking",
+     "url": "https://fontsinuse.com/typefaces/241152/parking",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14546/440/4/6ae9f725/parking.png"
+    },
+    {
+     "id": "248277",
+     "name": "Autarchist Sans",
+     "url": "https://fontsinuse.com/typefaces/248277/autarchist-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18136/440/4/6a05b6a6/autarchist-sans.png"
+    },
+    {
+     "id": "156855",
+     "name": "Altesse",
+     "url": "https://fontsinuse.com/typefaces/156855/altesse",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8112/440/4/607bf989/altesse.png"
+    },
+    {
+     "id": "250603",
+     "name": "Krona One",
+     "url": "https://fontsinuse.com/typefaces/250603/krona-one",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19534/440/4/6ae9f3f9/krona-one.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311732/upto-700xauto/6b043252/villaamore_portfolio01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309281/upto-700xauto/6b043245/02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309290/upto-700xauto/6b043245/13.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309282/upto-700xauto/6b043245/03.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309287/upto-700xauto/6b043245/10.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309283/upto-700xauto/6b043245/04.mp4"
+   ],
+   "excerpt": "Villa Amore is a concierge-serviced villa located on the Italian Riviera, overlooking the Gulf of Tigullio. Built in 1928, the residence is an example of Ligurian eclecticism, combining Neo-Gothic, Neo-Renaissance, and Baroque influences. The challenge…"
+  },
+  {
+   "id": "80985",
+   "title": "Wonder Budapest",
+   "url": "https://fontsinuse.com/uses/80985/wonder-budapest",
+   "date": "2026-11-23T07:41:52.000Z",
+   "author": "Darden Studio",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235075",
+     "name": "Gamay",
+     "url": "https://fontsinuse.com/typefaces/235075/gamay",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13524/440/4/66742008/gamay.png"
+    },
+    {
+     "id": "33721",
+     "name": "Carambola",
+     "url": "https://fontsinuse.com/typefaces/33721/carambola",
+     "sample": "https://assets.fontsinuse.com/static/renders/37/33721/400/4/6b03ee41/carambola.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309369/upto-700xauto/6ae9fbb7/Wonder%20home%202.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309368/upto-700xauto/6ae8fa5f/Wonder%20Ethos.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309364/upto-700xauto/6ae8fa5f/Wonder%20Rooms%20HU.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309363/upto-700xauto/6ae8fa5f/Wonder%20Rooms.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309367/upto-700xauto/6ae8cbdc/Wonder%20Gift.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309365/upto-700xauto/6ae8cbdc/Wonder%20Vouchers%20HU.png"
+   ],
+   "excerpt": "Gamay lends its sans-serif elegance to the website of Budapest’s Wonder hotel."
+  },
+  {
+   "id": "81232",
+   "title": "Der Raum, der bleibt by Harry Kämmerer",
+   "url": "https://fontsinuse.com/uses/81232/der-raum-der-bleibt-by-harry-kaemmerer",
+   "date": "2026-11-23T07:41:21.000Z",
+   "author": "Christian Thalmann",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "45804",
+     "name": "Cormorant",
+     "url": "https://fontsinuse.com/typefaces/45804/cormorant",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3440/440/4/6310a5d3/cormorant.png"
+    },
+    {
+     "id": "3481",
+     "name": "Frutiger",
+     "url": "https://fontsinuse.com/typefaces/3481/frutiger",
+     "sample": "https://assets.fontsinuse.com/static/renders/14/3481/400/4/6b03ee22/frutiger.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309248/upto-700xauto/6b03ee29/912nEoUGqpL-_SL1500_.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309249/upto-700xauto/6ae8554a/81QVmDSSOAL-_SL1500_.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309250/upto-700xauto/6ae8554a/61yj-cXTbDL-_SL1500_.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309251/upto-700xauto/6ae8554a/81Y4Nrg5efL-_SL1500_.jpeg"
+   ],
+   "excerpt": "The novel Der Raum, der bleibt by Harry Kämmerer uses Cormorant Garamond for its dust jacket. The sans used on the spine part of the cover appears to be Frutiger ."
+  },
+  {
+   "id": "81175",
+   "title": "Sweet Chilli campaign by Blue Dragon",
+   "url": "https://fontsinuse.com/uses/81175/sweet-chilli-campaign-by-blue-dragon",
+   "date": "2026-11-23T07:39:26.000Z",
+   "author": "Andrei Robu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250578",
+     "name": "Graf Rounded",
+     "url": "https://fontsinuse.com/typefaces/250578/graf-rounded",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19448/440/4/6aeb7dfb/graf-rounded.png"
+    },
+    {
+     "id": "38660",
+     "name": "Evenfall",
+     "url": "https://fontsinuse.com/typefaces/38660/evenfall",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15284/440/4/6818a197/evenfall.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308947/upto-700xauto/6b031657/Screenshot%202026-10-29%20at%2013-20-21.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308948/upto-700xauto/6ae33e99/Screenshot%202026-10-29%20at%2013-24-32.png"
+   ],
+   "excerpt": "To celebrate the launch of Blue Dragon ’s new squeezable bottle for it’s famous Sweet Chilli sauce, Manifest created a campaign focused on a family livening up their dinnertime with a bit of sweet heat."
+  },
+  {
+   "id": "81230",
+   "title": "Once Again",
+   "url": "https://fontsinuse.com/uses/81230/once-again",
+   "date": "2026-11-23T06:47:00.000Z",
+   "author": "ONETOO",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "79460",
+     "name": "Abc Diatype",
+     "url": "https://fontsinuse.com/typefaces/79460/abc-diatype",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4584/440/4/5ee9bf2f/abc-diatype.png"
+    },
+    {
+     "id": "188449",
+     "name": "Abc Gaisyr Mono",
+     "url": "https://fontsinuse.com/typefaces/188449/abc-gaisyr-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9775/440/4/624eb1ad/abc-gaisyr-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309229/upto-700xauto/6b03f160/OA-3Posters_16x9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309230/upto-700xauto/6ae7c80e/OA-Billboard_16x9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309231/upto-700xauto/6ae7c810/OA-ComponentsGraphic_3x4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309232/upto-700xauto/6ae7c812/OA-InfoBooklet_4x3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309233/upto-700xauto/6ae7c813/OA-Stationery_4x3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309234/upto-700xauto/6ae7c815/OA-TextInsight_4x3.jpeg"
+   ],
+   "excerpt": "Formed from what's forgotten. Made to be remembered."
+  },
+  {
+   "id": "81396",
+   "title": "Ta naše písnička česká movie poster",
+   "url": "https://fontsinuse.com/uses/81396/ta-nase-pisnicka-ceska-movie-poster",
+   "date": "2026-11-22T16:48:47.000Z",
+   "author": "Stephen Coles",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "41539",
+     "name": "Schmalfette Grotesk",
+     "url": "https://fontsinuse.com/typefaces/41539/schmalfette-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17506/440/4/696f9348/schmalfette-grotesk.png"
+    },
+    {
+     "id": "45",
+     "name": "Gill Sans",
+     "url": "https://fontsinuse.com/typefaces/45/gill-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/45/400/4/6b031cf0/gill-sans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310119/upto-700xauto/6af0e696/Jaroslav-Fiser-Good-Old-Czech-Tunes-1967.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310123/upto-700xauto/6af0e01b/Fis%CC%8Cer-Haettenschweiler-K.png"
+   ],
+   "excerpt": "Like many Czechoslovak film posters of the 1960s , this one for Ta naše písnička česká (“The Good Old Czech Tunes ”) by the prolific designer Jaroslav Fišer appears to use letters from rubdown sheets, or reproduced from published type samples rather than…"
+  },
+  {
+   "id": "81732",
+   "title": "The Avengers logo (1965–1966)",
+   "url": "https://fontsinuse.com/uses/81732/the-avengers-logo-1965-1966",
+   "date": "2026-11-22T16:48:21.000Z",
+   "author": "",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "92168",
+     "name": "Gros Titre",
+     "url": "https://fontsinuse.com/typefaces/92168/gros-titre",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5306/440/4/5c4b32f1/gros-titre.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/312/311672/upto-700xauto/6b031c9f/55665581337_1834c97fbf_k.jpeg"
+   ],
+   "excerpt": "The Avengers is a British espionage TV series that aired from 7 January 1961 to 21 April 1969. Over the years, it featured a range of different logos , starting with one in Condensed Sans Serifs No. 7 ."
+  },
+  {
+   "id": "74579",
+   "title": "All I Asking for Is My Body by Milton Murayama, University of Hawaii Press",
+   "url": "https://fontsinuse.com/uses/74579/all-i-asking-for-is-my-body-by-milton-murayam",
+   "date": "2026-11-22T16:26:00.000Z",
+   "author": "Florian Hardwig",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "152871",
+     "name": "Halbstarke Pica",
+     "url": "https://fontsinuse.com/typefaces/152871/halbstarke-pica",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7917/440/4/626ab845/halbstarke-pica.png"
+    },
+    {
+     "id": "10",
+     "name": "ITC American Typewriter",
+     "url": "https://fontsinuse.com/typefaces/10/itc-american-typewriter",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/10/400/4/6b0325cf/itc-american-typewriter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/278/277752/upto-700xauto/6b0325ba/All%20I%20asking%20for%20is%20my%20body.jpeg"
+   ],
+   "excerpt": "All I Asking for Is My Body is a novel written by Milton Murayama . It was originally published by The Supa Press in San Francisco in 1975 and rereleased by the University of Hawaii Press in 1988. […]"
+  },
   {
    "id": "81574",
    "title": "Maison Saint-Gervais, 2025/26 and 2026/27 seasons",
@@ -506,6 +889,12 @@
      "name": "KTF Labyrinth",
      "url": "https://fontsinuse.com/typefaces/236362/ktf-labyrinth",
      "sample": "https://assets.fontsinuse.com/static/samples/14/13768/440/4/66ab7f6d/ktf-labyrinth.png"
+    },
+    {
+     "id": "250788",
+     "name": "MX Claw",
+     "url": "https://fontsinuse.com/typefaces/250788/mx-claw",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19668/440/4/6b0320a0/mx-claw.png"
     },
     {
      "id": "241223",
