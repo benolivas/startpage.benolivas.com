@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-23T20:06:25.595Z",
+ "updated": "2026-11-24T19:28:29.494Z",
  "day": {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "picks": [
-   "241223",
-   "170075",
-   "303",
-   "249995",
-   "227907",
-   "247934",
-   "231585",
-   "75986",
-   "244618"
+   "57",
+   "205972",
+   "250788",
+   "245561",
+   "233292",
+   "191302",
+   "229051",
+   "250556",
+   "250341"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-24",
-   "picks": [
-    "47160",
-    "159388",
-    "233292",
-    "28860",
-    "231307",
-    "85897",
-    "242238",
-    "229051",
-    "57"
-   ]
-  },
   {
    "date": "2026-10-25",
    "picks": [
@@ -448,9 +434,340 @@
     "75986",
     "244618"
    ]
+  },
+  {
+   "date": "2026-11-24",
+   "picks": [
+    "57",
+    "205972",
+    "250788",
+    "245561",
+    "233292",
+    "191302",
+    "229051",
+    "250556",
+    "250341"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81163",
+   "title": "Kunsthalle Osnabrück – Raumordnung program booklet",
+   "url": "https://fontsinuse.com/uses/81163/kunsthalle-osnabrueck-raumordnung-program-boo",
+   "date": "2026-11-24T07:46:41.000Z",
+   "author": "HAL Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "242238",
+     "name": "Hal Gap",
+     "url": "https://fontsinuse.com/typefaces/242238/hal-gap",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14795/440/4/67b61bce/hal-gap.png"
+    },
+    {
+     "id": "133128",
+     "name": "Rand",
+     "url": "https://fontsinuse.com/typefaces/133128/rand",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6891/440/4/5f0a0777/rand.png"
+    },
+    {
+     "id": "133129",
+     "name": "Rand Mono",
+     "url": "https://fontsinuse.com/typefaces/133129/rand-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6890/440/4/5f0a0769/rand-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308860/upto-700xauto/6ae259d4/Untitled-1678.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308861/upto-700xauto/6ae256e5/Untitled-16782.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308862/upto-700xauto/6ae256e8/Untitled-16783.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308863/upto-700xauto/6ae256e9/Untitled-16784.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308864/upto-700xauto/6ae256ea/Untitled-16785.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308865/upto-700xauto/6ae256eb/Untitled-16786.png"
+   ],
+   "excerpt": "The exhibition and art education program Raumordnung (“Spatial Orders”) of the Kunsthalle Osnabrück opened on June 27th, 2026, with Part 2 taking place on November 7th, 2026. Some animated posters were also created to promote the program on social media."
+  },
+  {
+   "id": "81262",
+   "title": "Les Enchanteurs by Stéphane Lavoué",
+   "url": "https://fontsinuse.com/uses/81262/les-enchanteurs-by-stephane-lavoue",
+   "date": "2026-11-24T07:46:18.000Z",
+   "author": "Out of the Dark",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "139321",
+     "name": "Syncro",
+     "url": "https://fontsinuse.com/typefaces/139321/syncro",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7148/440/4/5f5a3812/syncro.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309405/upto-700xauto/6ae9b97a/hudsoncatty_les-enchanteurs_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309406/upto-700xauto/6ae9b97a/hudsoncatty_les-enchanteurs_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309407/upto-700xauto/6ae9b97b/hudsoncatty_les-enchanteurs_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309408/upto-700xauto/6ae9b97c/hudsoncatty_les-enchanteurs_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309409/upto-700xauto/6ae9b97c/hudsoncatty_les-enchanteurs_6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309410/upto-700xauto/6ae9b97d/hudsoncatty_les-enchanteurs_7.jpeg"
+   ],
+   "excerpt": "Les Enchanteurs is a photobook by French photographer Stéphane Lavoué, published by Éditions 77 in 2021. Living on the tip of Finistère in Brittany, Lavoué turned his camera on the people around him: fire-cutters, bonesetters, water diviners, magnetic…"
+  },
+  {
+   "id": "80975",
+   "title": "Room Service Festival 2026",
+   "url": "https://fontsinuse.com/uses/80975/room-service-festival-2026",
+   "date": "2026-11-24T07:44:21.000Z",
+   "author": "205TF",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "240352",
+     "name": "Milling",
+     "url": "https://fontsinuse.com/typefaces/240352/milling",
+     "sample": "https://assets.fontsinuse.com/static/samples/15/14317/440/4/673df149/milling.png"
+    },
+    {
+     "id": "245702",
+     "name": "Pinokio",
+     "url": "https://fontsinuse.com/typefaces/245702/pinokio",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16822/440/4/695e47a5/pinokio.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309434/upto-700xauto/6ae9f324/RS-POST-RECAP-2627-%28Sara-Thion%29_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309436/upto-700xauto/6ae9f49f/RS-POST-RECAP-26272_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309437/upto-700xauto/6ae9f49f/RS-POST-RECAP-26275_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309441/upto-700xauto/6ae9f4a4/RS%20POST%20RECAP%20262716.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309440/upto-700xauto/6ae9f4a9/RS-POST-RECAP-262711-%28Sara-Thion%29_Web.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309450/upto-700xauto/6ae9f78c/RS-POST-RECAP-262713_Web.jpeg"
+   ],
+   "excerpt": "Room Service is a festival dedicated to contemporary graphic design, bringing together exhibitions, talks, workshops, screenings and a graphic design market. In spring 2026, its second edition returned to Lyon for four days celebrating graphic design in…"
+  },
+  {
+   "id": "81141",
+   "title": "Stummfilmfestival Näfels 2026 poster",
+   "url": "https://fontsinuse.com/uses/81141/stummfilmfestival-naefels-2026-poster",
+   "date": "2026-11-24T07:36:25.000Z",
+   "author": "Dafi Kühne",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "493",
+     "name": "Recta",
+     "url": "https://fontsinuse.com/typefaces/493/recta",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/493/400/4/6b053e7a/recta.png"
+    },
+    {
+     "id": "6718",
+     "name": "Anzeigen Grotesk",
+     "url": "https://fontsinuse.com/typefaces/6718/anzeigen-grotesk-neue-aurora-ix",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7620/440/4/5fdfc98c/anzeigen-grotesk-neue-aurora-ix.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308716/upto-700xauto/6ae111aa/Stummfilm-Festival_70x100cm-WEB_%20both-sizes.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308740/upto-700xauto/6ae1c0e4/Recta-Nebitype.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308739/upto-700xauto/6ae1c104/Recta-Nebitype2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308718/upto-700xauto/6ae1c0c9/Unknown.jpeg"
+   ],
+   "excerpt": "Letterpress printed posters (43×62cm and 70×100cm) for a silent movie festival , printed with white on white from hand-cut linoleum and freshly cast Ludlow hot-metal type slugs."
+  },
+  {
+   "id": "81269",
+   "title": "Grec 50 anys / Festival de Barcelona",
+   "url": "https://fontsinuse.com/uses/81269/grec-50-anys-festival-de-barcelona",
+   "date": "2026-11-24T07:22:52.000Z",
+   "author": "Sergi Delgado",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "46584",
+     "name": "Cinzel",
+     "url": "https://fontsinuse.com/typefaces/46584/cinzel",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3655/440/4/59478e87/cinzel.png"
+    },
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b053b4d/futura.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309425/upto-700xauto/6ae9edf6/Festival-Grec-2026-50-nys-Sergi-delgado_OPtical_art_FAUNE-teatre-poster-Cartell-01.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309426/upto-700xauto/6ae9ee19/Festival-Grec-2026-50-nys-Sergi-delgado_OPtical_art_FAUNE-teatre-poster-Cartell-03.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309428/upto-700xauto/6ae9eee9/02-IMG_5314.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309429/upto-700xauto/6ae9ef12/06-IMG_4924.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309430/upto-700xauto/6ae9ef97/Untitled-21.png"
+   ],
+   "excerpt": "The visual identity and campaign for the 50th anniversary of Grec Festival de Barcelona were created by Sergi Delgado and Curated Collective."
+  },
+  {
+   "id": "81234",
+   "title": "For a Safer Quảng Trị website",
+   "url": "https://fontsinuse.com/uses/81234/for-a-safer-qu-ng-tr-website",
+   "date": "2026-11-24T07:21:18.000Z",
+   "author": "Khải Nguyễn",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "105578",
+     "name": "Crimson Pro",
+     "url": "https://fontsinuse.com/typefaces/105578/crimson-pro",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5814/440/4/5d3b52fe/crimson-pro.png"
+    },
+    {
+     "id": "250604",
+     "name": "TCA Mi-nhon",
+     "url": "https://fontsinuse.com/typefaces/250604/tca-mi-nhon",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19470/440/4/6ae87071/tca-mi-nhon.png"
+    },
+    {
+     "id": "93554",
+     "name": "Inter",
+     "url": "https://fontsinuse.com/typefaces/93554/inter",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5356/440/4/62a0fc07/inter.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309267/upto-700xauto/6ae86de7/B-00.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309268/upto-700xauto/6b053df6/B-09.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309269/upto-700xauto/6ae86de7/B-16.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309273/upto-700xauto/6ae86d6f/Frame%20115.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309274/upto-700xauto/6ae86d70/Frame%20112.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309275/upto-700xauto/6ae86d72/Frame%20113.png"
+   ],
+   "excerpt": "Vietnam marked 50 years of reunification on April 30, 2025. But in Quảng Trị , the war resists its closure. Bordering the line that once divided North and South during the Vietnam War, known locally as the Resistance War against the Americans, the province…"
+  },
+  {
+   "id": "81143",
+   "title": "Allure – Readers’ Choice Awards 2026",
+   "url": "https://fontsinuse.com/uses/81143/allure-readers-choice-awards-2026",
+   "date": "2026-11-24T07:21:14.000Z",
+   "author": "Polina Baydin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248279",
+     "name": "CoFo Raffiné",
+     "url": "https://fontsinuse.com/typefaces/248279/cofo-raffine",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18139/440/4/69f1a9ab/cofo-raffine.png"
+    },
+    {
+     "id": "137453",
+     "name": "Larken",
+     "url": "https://fontsinuse.com/typefaces/137453/larken",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15156/440/4/685bec20/larken.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308724/upto-700xauto/6b03ee5e/1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/312/311707/upto-700xauto/6b03f057/Allure-Readers%20Choice%20Awards-RCA-2026-Typography-Logo-FINAL%20LOCKUP-Animation-FINAL.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308728/upto-700xauto/6b03f057/5.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308725/upto-700xauto/6b03f057/2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308726/upto-700xauto/6b03f057/3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308727/upto-700xauto/6b03f057/4.png"
+   ],
+   "excerpt": "Allure used CoFo Raffiné for their 2026 Readers’ Choice Awards , designing the identity across the digital experience, motion, and section openers. The layouts pair Raffiné’s high vertical contrast and ligatures with still lifes photographed by Chelsea…"
+  },
+  {
+   "id": "81154",
+   "title": "Between Borders",
+   "url": "https://fontsinuse.com/uses/81154/between-borders",
+   "date": "2026-11-24T07:20:53.000Z",
+   "author": "Roland Wulftange",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "42639",
+     "name": "Twk Lausanne",
+     "url": "https://fontsinuse.com/typefaces/42639/twk-lausanne",
+     "sample": "https://assets.fontsinuse.com/static/samples/3/2947/440/4/5c123a57/twk-lausanne.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308820/upto-700xauto/6ae21019/between-borders-1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308815/upto-700xauto/6ae20f64/between-borders-3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308816/upto-700xauto/6ae20f67/between-borders-23.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308817/upto-700xauto/6ae20f69/between-borders-15.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308818/upto-700xauto/6ae20f6b/between-borders-18.png",
+    "https://assets.fontsinuse.com/static/use-media-items/309/308819/upto-700xauto/6ae20f6d/vorschau-quer-between-borders.png"
+   ],
+   "excerpt": "Between Borders explores boundaries that are not marked on any map: dividing lines in language and origin, perception and belonging. Fourteen artistic projects examine where such boundaries arise, how they become visible, and where they can be shifted. For…"
+  },
+  {
+   "id": "81268",
+   "title": "Actual Things",
+   "url": "https://fontsinuse.com/uses/81268/actual-things",
+   "date": "2026-11-24T06:32:00.000Z",
+   "author": "tom woodington",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217443",
+     "name": "Baste",
+     "url": "https://fontsinuse.com/typefaces/217443/baste",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11096/440/4/63cfa10f/baste.png"
+    },
+    {
+     "id": "164276",
+     "name": "Megazoid",
+     "url": "https://fontsinuse.com/typefaces/164276/megazoid",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8530/440/4/6106dc7e/megazoid.png"
+    },
+    {
+     "id": "32696",
+     "name": "GT Pressura",
+     "url": "https://fontsinuse.com/typefaces/32696/gt-pressura",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1482/440/4/570e20d3/gt-pressura.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309417/upto-700xauto/6ae9d37c/Screenshot%202026-11-03%20at%2012-07-09.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309418/upto-700xauto/6ae9d381/logo%20flip%20bin.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309419/upto-700xauto/6ae9d389/AT_cards.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309422/upto-700xauto/6ae9d3c6/Screenshot%202026-11-03%20at%2012-07-56.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309423/upto-700xauto/6ae9d3e2/Screenshot%202026-11-03%20at%2012-08-24.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309424/upto-700xauto/6ae9d3e8/Screenshot%202026-11-03%20at%2012-08-44.png"
+   ],
+   "excerpt": "Actual Things makes handmade record cabinets from a small workshop in Crystal Palace, South London."
+  },
+  {
+   "id": "81170",
+   "title": "Spiderhorse × Audio Reactive Type installation",
+   "url": "https://fontsinuse.com/uses/81170/spiderhorse-audio-reactive-type-installation",
+   "date": "2026-11-24T05:20:00.000Z",
+   "author": "WeType Co",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246616",
+     "name": "Spolia",
+     "url": "https://fontsinuse.com/typefaces/246616/spolia",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17325/440/4/69486ab4/spolia.png"
+    },
+    {
+     "id": "246621",
+     "name": "Travelogue",
+     "url": "https://fontsinuse.com/typefaces/246621/travelogue",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17329/440/4/69487882/travelogue.png"
+    },
+    {
+     "id": "246619",
+     "name": "Stacks",
+     "url": "https://fontsinuse.com/typefaces/246619/stacks",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17327/440/4/69487695/stacks.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/309/308939/upto-700xauto/6ae31f98/TDC-spiderhorse-jazzy.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309326/upto-700xauto/6ae884fd/SH-Project-Trimmed.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309333/upto-700xauto/6ae8866b/Project-Small-1_2.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309334/upto-700xauto/6ae886b0/Project-Small-2_1.mp4"
+   ],
+   "excerpt": "For the 2025 Members Holiday Party of The One Club for Creativity , Type Directors Club (TDC) , and Art Directors Club (ADC) , KUDOS Design Collaboratory created a live audiovisual experience combining beatboxing with generative, audio-reactive typography."
+  },
   {
    "id": "81059",
    "title": "Le couloir à remonter le temps",
@@ -1358,7 +1675,7 @@
      "id": "4",
      "name": "Futura",
      "url": "https://fontsinuse.com/typefaces/4/futura",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b01b867/futura.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b053b4d/futura.png"
     },
     {
      "id": "233945",
