@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-24T19:28:29.494Z",
+ "updated": "2026-11-25T18:37:22.813Z",
  "day": {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "picks": [
-   "57",
-   "205972",
-   "250788",
-   "245561",
-   "233292",
-   "191302",
-   "229051",
-   "250556",
-   "250341"
+   "28860",
+   "250391",
+   "250473",
+   "100795",
+   "5203",
+   "85897",
+   "47197",
+   "242238",
+   "250331"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-25",
-   "picks": [
-    "198482",
-    "229327",
-    "250336",
-    "7884",
-    "100795",
-    "7782",
-    "156779",
-    "219507",
-    "244570"
-   ]
-  },
   {
    "date": "2026-10-26",
    "picks": [
@@ -448,9 +434,342 @@
     "250556",
     "250341"
    ]
+  },
+  {
+   "date": "2026-11-25",
+   "picks": [
+    "28860",
+    "250391",
+    "250473",
+    "100795",
+    "5203",
+    "85897",
+    "47197",
+    "242238",
+    "250331"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "80065",
+   "title": "On Location in New York City",
+   "url": "https://fontsinuse.com/uses/80065/on-location-in-new-york-city",
+   "date": "2026-11-25T09:08:34.000Z",
+   "author": "Greg Gazdowicz",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "250391",
+     "name": "Avenue",
+     "url": "https://fontsinuse.com/typefaces/250391/avenue",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19300/440/4/6ac3b387/avenue.png"
+    },
+    {
+     "id": "231213",
+     "name": "Control",
+     "url": "https://fontsinuse.com/typefaces/231213/control",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12415/440/4/65224d4d/control.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310663/upto-700xauto/6af6192d/303589.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303591/upto-700xauto/6af61926/A24-OnLocation-Documentation02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303593/upto-700xauto/6af61926/A24-OnLocation-Documentation03.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303594/upto-700xauto/6af61926/A24-OnLocation-Documentation04.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303595/upto-700xauto/6af61926/A24-OnLocation-Documentation05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303596/upto-700xauto/6af61926/A24-OnLocation-Documentation07.jpeg"
+   ],
+   "excerpt": "On Location in New York City is a travel guide produced by A24 and designed by Kurt Woerpel with Adrian Tiu . It uses Control for section openers, maps, and titles. The body copy and smaller text is set in an unreleased typeface, Avenue . Avenue is Greg…"
+  },
+  {
+   "id": "80944",
+   "title": "Rocher Fatal by Philippe Jarrigeon",
+   "url": "https://fontsinuse.com/uses/80944/rocher-fatal-by-philippe-jarrigeon",
+   "date": "2026-11-25T08:55:07.000Z",
+   "author": "OTT Ornamental-&-Title-Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "244194",
+     "name": "Harker",
+     "url": "https://fontsinuse.com/typefaces/244194/harker",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15830/440/4/684127ff/harker.png"
+    },
+    {
+     "id": "93568",
+     "name": "JJannon",
+     "url": "https://fontsinuse.com/typefaces/93568/jjannon",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5375/440/4/5c5d7bed/jjannon.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/308/307774/upto-700xauto/6ae8b32f/RVB_ROCHER_FATAL_5_3024x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307775/upto-700xauto/6ad77978/RVB_ROCHER_FATAL_6_3024x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307776/upto-700xauto/6ad77978/RVB_ROCHER_FATAL_8_3024x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307777/upto-700xauto/6ad77979/RVB_ROCHER_FATAL_9_3024x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307780/upto-700xauto/6aea0481/RVB_ROCHER_FATAL_12_3024x.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/308/307787/upto-700xauto/6aea0482/RVB_ROCHER_FATAL_20_3024x.jpeg"
+   ],
+   "excerpt": "Rocher Fatal is a photography book by Philippe Jarrigeon , designed by Dual Room and published by RVB Books :"
+  },
+  {
+   "id": "81304",
+   "title": "Luppo",
+   "url": "https://fontsinuse.com/uses/81304/luppo",
+   "date": "2026-11-25T08:53:42.000Z",
+   "author": "Alt Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "245519",
+     "name": "ALT Picaro",
+     "url": "https://fontsinuse.com/typefaces/245519/alt-picaro",
+     "sample": "https://assets.fontsinuse.com/static/samples/17/16712/440/4/68e3c540/alt-picaro.png"
+    },
+    {
+     "id": "247519",
+     "name": "DGM Saffron",
+     "url": "https://fontsinuse.com/typefaces/247519/dgm-saffron",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17664/440/4/698deb2a/dgm-saffron.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309619/upto-700xauto/6aeb69d8/luppo2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309620/upto-700xauto/6b06a21c/luppo.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309615/upto-700xauto/6aeb69b8/Bez%20alkoholu-%20Z%20charakterem-Cytrusy,%20zio%C5%82a,%20chmiel%20i%20goryczka,%20kto%CC%81ra%20zostaje%20troche%CC%A8%20d%C5%82uz%CC%87ej-Luppo.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309617/upto-700xauto/6aeb6908/luppo3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309618/upto-700xauto/6aeb6907/luyppo2.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309621/upto-700xauto/6aeb69b9/luppo4.mp4"
+   ],
+   "excerpt": "Luppo is a range of sparkling non-alcoholic drinks inspired by Italian aperitivo culture. Fruit, herbs, tea and hops build bold, layered flavours with bitterness at their core. Typeset in ALT Picaro and DGM Saffron , the team of Blürbstudio describes the…"
+  },
+  {
+   "id": "81290",
+   "title": "32nd Mondial d’Impro posters",
+   "url": "https://fontsinuse.com/uses/81290/32nd-mondial-d-impro-posters",
+   "date": "2026-11-25T08:50:26.000Z",
+   "author": "Bolid System",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "247845",
+     "name": "Bs Abriko",
+     "url": "https://fontsinuse.com/typefaces/247845/bs-abriko",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17839/440/4/69b2787b/bs-abriko.png"
+    },
+    {
+     "id": "218410",
+     "name": "Bs Acapulko",
+     "url": "https://fontsinuse.com/typefaces/218410/bs-acapulko",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11478/440/4/69b2776f/bs-acapulko.png"
+    },
+    {
+     "id": "247846",
+     "name": "Bs Milkshake Display",
+     "url": "https://fontsinuse.com/typefaces/247846/bs-milkshake-display",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17840/440/4/69b279a5/bs-milkshake-display.png"
+    },
+    {
+     "id": "247847",
+     "name": "Bs Notion",
+     "url": "https://fontsinuse.com/typefaces/247847/bs-notion",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17841/440/4/69b27a19/bs-notion.png"
+    },
+    {
+     "id": "218341",
+     "name": "Bs Resort Classic",
+     "url": "https://fontsinuse.com/typefaces/218341/bs-resort-classic",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11470/440/4/69b27427/bs-resort-classic.png"
+    },
+    {
+     "id": "247844",
+     "name": "Bs Resort Sans",
+     "url": "https://fontsinuse.com/typefaces/247844/bs-resort-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17838/440/4/69b275ac/bs-resort-sans.png"
+    },
+    {
+     "id": "247842",
+     "name": "Bs Resort Serif",
+     "url": "https://fontsinuse.com/typefaces/247842/bs-resort-serif",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17837/440/4/69b274b0/bs-resort-serif.png"
+    },
+    {
+     "id": "218407",
+     "name": "Bs Staahl",
+     "url": "https://fontsinuse.com/typefaces/218407/bs-staahl",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11477/440/4/69b27617/bs-staahl.png"
+    },
+    {
+     "id": "247848",
+     "name": "Bs Synthetik",
+     "url": "https://fontsinuse.com/typefaces/247848/bs-synthetik",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17842/440/4/69b27a84/bs-synthetik.png"
+    },
+    {
+     "id": "250634",
+     "name": "Bs Milkshake Text",
+     "url": "https://fontsinuse.com/typefaces/250634/bs-milkshake-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19544/440/4/6aeb35fc/bs-milkshake-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309519/upto-700xauto/6b06a162/1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309522/upto-700xauto/6aeaffff/6.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309520/upto-700xauto/6aeaffff/2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309524/upto-700xauto/6aeafff6/3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309521/upto-700xauto/6aeafff6/5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309523/upto-700xauto/6aeafff6/11.jpeg"
+   ],
+   "excerpt": "The Mondial d’Impro is an international amateur improv theatre tournament held in Geneva every four years. Its 32nd edition, in October 2026, brought together teams from Algeria, Belgium, France, Québec and Switzerland."
+  },
+  {
+   "id": "81356",
+   "title": "Spectacular! Entertainment in Ancient Rome at Lugdunum Lyon",
+   "url": "https://fontsinuse.com/uses/81356/spectacular-entertainment-in-ancient-rome-at-",
+   "date": "2026-11-25T08:45:00.000Z",
+   "author": "Tristan Maillet",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "124735",
+     "name": "Injurial",
+     "url": "https://fontsinuse.com/typefaces/124735/injurial",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6506/440/4/5e8f0706/injurial.png"
+    },
+    {
+     "id": "23106",
+     "name": "Maax",
+     "url": "https://fontsinuse.com/typefaces/23106/maax",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3456/440/4/5e7dd7a6/maax.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309921/upto-700xauto/6aee0f9f/sci_0611phot_034.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309922/upto-700xauto/6aee0f8b/sci_0611phot_038.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309923/upto-700xauto/6aee0ddc/Spectaculaire%20SNOOPP%20HD%20%284%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309924/upto-700xauto/6aee0dde/Spectaculaire%20SNOOPP%20HD%20%285%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309925/upto-700xauto/6aee0ddf/Spectaculaire%20SNOOPP%20HD%20%287%29.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309926/upto-700xauto/6b06a85e/Spectaculaire%20SNOOPP%20HD%20%2815%29.jpeg"
+   ],
+   "excerpt": "Spectacular! Entertainment in Ancient Rome is an exhibition in Lyon’s Roman theatre, Lugdunum :"
+  },
+  {
+   "id": "81293",
+   "title": "Berlin Carousel: The Academy as Living Artistic Practice",
+   "url": "https://fontsinuse.com/uses/81293/berlin-carousel-the-academy-as-living-artisti",
+   "date": "2026-11-25T08:37:37.000Z",
+   "author": "Marco Juan Lavandier",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217028",
+     "name": "Circule",
+     "url": "https://fontsinuse.com/typefaces/217028/circule",
+     "sample": "https://assets.fontsinuse.com/static/samples/11/10975/440/4/6398687b/circule.png"
+    },
+    {
+     "id": "7282",
+     "name": "Ll Akkurat",
+     "url": "https://fontsinuse.com/typefaces/7282/ll-akkurat",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/381/440/4/6481b2ad/ll-akkurat.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309546/upto-700xauto/6aeb1293/DSC_5411_4e57d52f89dc62001fa3deff5aab68af.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309545/upto-700xauto/6aeb1298/DSC_5407_persp_4e57d52f89dc62001fa3deff5aab68af.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309543/upto-700xauto/6b069e66/DSC_5343.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309544/upto-700xauto/6aeb1295/DSC_5194_quer_4e57d52f89dc62001fa3deff5aab68af.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309547/upto-700xauto/6aeb128e/Midi_Berlin_Altonaer-Str_Akademie-der-Kuenste_Berlin-Carousel_montiert_4e57d52f89dc62001fa3deff5aab68af.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309548/upto-700xauto/6aeb1291/MM_UrbanPoster_UP-BE-26_BerlinKarussel_4e57d52f89dc62001fa3deff5aab68af.jpeg"
+   ],
+   "excerpt": "With Berlin Carousel , Arnold Dreyblatt draws on John Cage’s Theater Event No. 1 (1952), in which artists performed simultaneous actions among the audience within a set time frame. For the duration of the event, the Akadamie der Künste transforms into a…"
+  },
+  {
+   "id": "78187",
+   "title": "This Way! exhibition poster",
+   "url": "https://fontsinuse.com/uses/78187/this-way-exhibition-poster",
+   "date": "2026-11-25T08:30:23.000Z",
+   "author": "Threedotstype",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "47908",
+     "name": "Di Grotesk",
+     "url": "https://fontsinuse.com/typefaces/47908/di-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4017/440/4/59ef9317/di-grotesk.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/296/295179/upto-700xauto/6b069d97/Screenshot%202026-06-17%20at%2021-07-51.png",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295180/upto-700xauto/6a32f0b6/IMG_5066.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295181/upto-700xauto/6a32f0e4/Screenshot%202026-06-17%20at%2021-08-52.png",
+    "https://assets.fontsinuse.com/static/use-media-items/296/295182/upto-700xauto/6a32f0ec/Screenshot%202026-06-17%20at%2021-09-09.png"
+   ],
+   "excerpt": "This Way! is an exhibition presented at Weltformat Festival in Lucerne, exploring the possibilities of type and typography through three interconnected elements: a series of rotated objects, an interactive poster generator, and a printed booklet serving as…"
+  },
+  {
+   "id": "75016",
+   "title": "Building Human Relations Through Art. Škart collective (Belgrade) > from 1990 to present",
+   "url": "https://fontsinuse.com/uses/75016/building-human-relations-through-art-skart-co",
+   "date": "2026-11-25T08:29:39.000Z",
+   "author": "Rob van Leijsen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "39028",
+     "name": "Forma Djr",
+     "url": "https://fontsinuse.com/typefaces/39028/forma-djr",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1712/440/4/5d84c1a4/forma-djr.png"
+    },
+    {
+     "id": "32007",
+     "name": "Gt Sectra",
+     "url": "https://fontsinuse.com/typefaces/32007/gt-sectra",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1056/440/4/570e208b/gt-sectra.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/281/280293/upto-700xauto/69b619cf/4dc39493-6d6b-46ce-ba3a-27ba9ab2b343.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280381/upto-700xauto/6b069ddb/Skart-cover.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280375/upto-700xauto/69b619cf/187A0082.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280376/upto-700xauto/69b619cf/187A0085.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280377/upto-700xauto/69b619cf/187A0104.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/281/280380/upto-700xauto/69b619cf/187A0136.jpeg"
+   ],
+   "excerpt": "The Škart collective from Belgrade has been operating within and around existing hierarchies in the art world and everyday life, working in collaboration with marginalized groups, NGOs, and anti-war movements. Škart’s understanding of artwork is fluid and…"
+  },
+  {
+   "id": "81358",
+   "title": "Estelle",
+   "url": "https://fontsinuse.com/uses/81358/estelle",
+   "date": "2026-11-25T06:12:00.000Z",
+   "author": "Dominik Thieme",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "244172",
+     "name": "Aether",
+     "url": "https://fontsinuse.com/typefaces/244172/aether",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15803/440/4/682c2434/aether.png"
+    },
+    {
+     "id": "233303",
+     "name": "Aether Mono",
+     "url": "https://fontsinuse.com/typefaces/233303/aether-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13075/440/4/65e9f544/aether-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309954/upto-700xauto/6b06a8ac/Estelle_HayleyLim_5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309955/upto-700xauto/6aee37d5/Estelle_HayleyLim_9.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309950/upto-700xauto/6aee37d5/_MG_1194-copy-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309953/upto-700xauto/6aee37e1/Estelle_HayleyLim_3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309952/upto-700xauto/6aee37e1/Estelle_HayleyLim_2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309951/upto-700xauto/6aee37e1/_MG_1230-copy.jpeg"
+   ],
+   "excerpt": "The identity and website of Estelle Metalworks use Aether with Aether Mono . From designer Hayley Lim :"
+  },
   {
    "id": "81163",
    "title": "Kunsthalle Osnabrück – Raumordnung program booklet",
