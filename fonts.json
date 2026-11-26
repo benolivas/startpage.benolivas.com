@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-25T18:37:22.813Z",
+ "updated": "2026-11-26T18:22:40.734Z",
  "day": {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "picks": [
-   "28860",
-   "250391",
-   "250473",
-   "100795",
-   "5203",
-   "85897",
-   "47197",
-   "242238",
-   "250331"
+   "244570",
+   "249052",
+   "231213",
+   "249987",
+   "31435",
+   "219507",
+   "7782",
+   "250474",
+   "245558"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-26",
-   "picks": [
-    "240352",
-    "249987",
-    "217693",
-    "31435",
-    "44626",
-    "133120",
-    "233653",
-    "217443",
-    "35"
-   ]
-  },
   {
    "date": "2026-10-27",
    "picks": [
@@ -448,9 +434,326 @@
     "242238",
     "250331"
    ]
+  },
+  {
+   "date": "2026-11-26",
+   "picks": [
+    "244570",
+    "249052",
+    "231213",
+    "249987",
+    "31435",
+    "219507",
+    "7782",
+    "250474",
+    "245558"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81411",
+   "title": "Craeghs",
+   "url": "https://fontsinuse.com/uses/81411/craeghs",
+   "date": "2026-11-26T08:55:36.000Z",
+   "author": "Alexandre Créquer",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "235649",
+     "name": "Sagace",
+     "url": "https://fontsinuse.com/typefaces/235649/sagace",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13876/440/4/66d09af3/sagace.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310151/upto-700xauto/6af1bdcd/6a9836f1aaec67818a09e46d_Craeghs-Consultancy-grafisch-huisstijl-strepen-p-1080.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310152/upto-700xauto/6af1bd9a/6a5a21cf55355886b7e755cb_86ce909903366d6023cb322b503e1be2_Craeghs-Consultancy-logo-rebrandibg-p-2000.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310153/upto-700xauto/6af1bda7/instasave-website_AQN3o-Whx38VzyoY5CkB1pwe4JvC5q_1-VKIlUXospWCU7LeUG8eDD5jsT49rRtNL05FVfdkYdK4iPA1NG-VQnTB4Or4EI4g7F41-iQ.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310154/upto-700xauto/6af1bdd4/6a9acb20f56e3916712409f0_Craeghs-Consultancy-design-sport-shirt-company-merchandise-detail-p-1080.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310155/upto-700xauto/6af1bdf7/Enregistrement%20de%20l%E2%80%99e%CC%81cran%202026-11-09%20a%CC%80%2013-31-39.mp4",
+    "https://assets.fontsinuse.com/static/use-media-items/313/312241/upto-700xauto/6b07f3c6/Screenshot%202026-11-26%20at%2009-53-02%20Craeghs%20Grants%20%26%20Innovation%20Partner%20voor%20groei%20katalysator%20voor%20innovatie.png"
+   ],
+   "excerpt": "Craeghs is a Rotterdam-based consultancy firm specialising in grant advisory services for technological innovation."
+  },
+  {
+   "id": "81333",
+   "title": "De vorm van tekst / Shaping Text by Jan Middendorp",
+   "url": "https://fontsinuse.com/uses/81333/de-vorm-van-tekst-shaping-text-by-jan-middend",
+   "date": "2026-11-26T08:47:36.000Z",
+   "author": "Edgar Walthert",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "32806",
+     "name": "Agile",
+     "url": "https://fontsinuse.com/typefaces/32806/agile",
+     "sample": "https://assets.fontsinuse.com/static/samples/2/1565/440/4/6ac8c390/agile.png"
+    },
+    {
+     "id": "3550",
+     "name": "Rooney",
+     "url": "https://fontsinuse.com/typefaces/3550/rooney",
+     "sample": "https://assets.fontsinuse.com/static/renders/4/3550/400/4/6b07f229/rooney.png"
+    },
+    {
+     "id": "10340",
+     "name": "Shire Types",
+     "url": "https://fontsinuse.com/typefaces/10340/shire-types",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/483/440/4/570e2031/shire-types.png"
+    },
+    {
+     "id": "26503",
+     "name": "Raffia",
+     "url": "https://fontsinuse.com/typefaces/26503/raffia",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19607/440/4/6af35f2f/raffia.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309779/upto-700xauto/6aed9377/ShapingText_01-Cover.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309781/upto-700xauto/6af35de2/ShapingText_05-Spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309782/upto-700xauto/6aed940b/ShapingText_06-Spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309783/upto-700xauto/6aed9418/ShapingText_10-Spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309784/upto-700xauto/6aed9432/ShapingText_07-Spread.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309785/upto-700xauto/6aed9437/ShapingText_02-Cover.jpeg"
+   ],
+   "excerpt": "Shaping Text is a practical guide for designers, authors, publishers, editors and students – for all users of fonts and typography who want to know more about their tools. Shaping Text provides background information on reading and how content is…"
+  },
+  {
+   "id": "80121",
+   "title": "Collection du Crest",
+   "url": "https://fontsinuse.com/uses/80121/collection-du-crest",
+   "date": "2026-11-26T07:52:01.000Z",
+   "author": "BVH Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "42194",
+     "name": "BDot",
+     "url": "https://fontsinuse.com/typefaces/42194/bvh-bdot",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9175/440/4/6194e41c/bvh-bdot.png"
+    },
+    {
+     "id": "42196",
+     "name": "BLine",
+     "url": "https://fontsinuse.com/typefaces/42196/bvh-bline",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9176/440/4/6194e4eb/bvh-bline.png"
+    },
+    {
+     "id": "7251",
+     "name": "Unidentified Typeface",
+     "url": "https://fontsinuse.com/typefaces/7251/unidentified-typeface",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/591/440/4/570e2042/unidentified-typeface.png"
+    },
+    {
+     "id": "216699",
+     "name": "Dupincel",
+     "url": "https://fontsinuse.com/typefaces/216699/dupincel",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19692/440/4/6b07e725/dupincel.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/307/306093/upto-700xauto/6ac667b0/IN-USE_FMC.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306094/upto-700xauto/6ac667b1/IN-USE_FMC5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306096/upto-700xauto/6ac667bd/IN-USE_FMC2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306097/upto-700xauto/6ac667bf/IN-USE_FMC3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306098/upto-700xauto/6ac667bf/IN-USE_FMC4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/307/306100/upto-700xauto/6ac667c1/IN-USE_FMC6.jpeg"
+   ],
+   "excerpt": "We used our own BVH Type font pair BDot and BLine to create the visual identity and wayfinding for Collection du Crest , paired with a yet to be released serif. On the website, both are paired with Dupincel from Plau . The concept sets three heritages in…"
+  },
+  {
+   "id": "80107",
+   "title": "Meyer Memorial Trust",
+   "url": "https://fontsinuse.com/uses/80107/meyer-memorial-trust",
+   "date": "2026-11-26T07:43:43.000Z",
+   "author": "Faire Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "217463",
+     "name": "Sprig Sans",
+     "url": "https://fontsinuse.com/typefaces/217463/sprig-sans",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11106/440/4/63dfdd53/sprig-sans.png"
+    },
+    {
+     "id": "139906",
+     "name": "Recife Text",
+     "url": "https://fontsinuse.com/typefaces/139906/recife-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/8/7158/440/4/5f5f8138/recife-text.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/304/303724/upto-700xauto/6ac8fbc7/Screenshot%202026-09-15%20at%203-10-58%E2%80%AFPM.png",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303712/upto-700xauto/6aa99e20/meyer-memorial-trust-brand-event-photo-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303711/upto-700xauto/6ac8fb5f/meyer-memorial-trust-brand-audience-segments.png",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303713/upto-700xauto/6ac8fb9d/meyer-memorial-trust-brand-event-photo-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303716/upto-700xauto/6aa99ea2/meyer-memorial-trust-brand-reports.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/304/303717/upto-700xauto/6aa99ea2/meyer-memorial-trust-brand-stationary.jpeg"
+   ],
+   "excerpt": "Meyer Memorial Trust is Oregon’s leading philanthropic voice for equity and social justice."
+  },
+  {
+   "id": "81311",
+   "title": "Play in Type",
+   "url": "https://fontsinuse.com/uses/81311/play-in-type",
+   "date": "2026-11-26T06:43:00.000Z",
+   "author": "Gumpita Rahayu",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "104458",
+     "name": "Makro",
+     "url": "https://fontsinuse.com/typefaces/104458/makro",
+     "sample": "https://assets.fontsinuse.com/static/renders/115/104458/400/4/6b07f150/makro.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310105/upto-700xauto/6af0b329/HTSxTokotype-1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310106/upto-700xauto/6af0b08a/HTSxTokotype-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310107/upto-700xauto/6af0b0ab/HTSxTokotype-3.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310108/upto-700xauto/6af0b0fe/HTSxTokotype-4.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310109/upto-700xauto/6af0b154/HTSxTokotype-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310110/upto-700xauto/6af0b182/HTSxTokotype-6.jpeg"
+   ],
+   "excerpt": "Play in Type is a collaborative project between publisher by Half Time Speech and Tokotype exploring typography in football, and featuring interviews with the people behind the letters, including Fajar Ramadhan , Tokotype , Bagerich Type , HRF Type , Ruben…"
+  },
+  {
+   "id": "81381",
+   "title": "III Semana Internacional de Humanidades",
+   "url": "https://fontsinuse.com/uses/81381/iii-semana-internacional-de-humanidades",
+   "date": "2026-11-26T06:39:00.000Z",
+   "author": "josé djalma",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "232375",
+     "name": "Violeta Jardinera",
+     "url": "https://fontsinuse.com/typefaces/232375/violeta-jardinera",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12778/440/4/659eb4fe/violeta-jardinera.png"
+    },
+    {
+     "id": "114417",
+     "name": "Ars Nova",
+     "url": "https://fontsinuse.com/typefaces/114417/ars-nova",
+     "sample": "https://assets.fontsinuse.com/static/samples/16/15404/440/4/6818a1c2/ars-nova.png"
+    },
+    {
+     "id": "1142",
+     "name": "Arnold Böcklin",
+     "url": "https://fontsinuse.com/typefaces/1142/arnold-boecklin",
+     "sample": "https://assets.fontsinuse.com/static/renders/2/1142/400/4/6b07f02c/arnold-boecklin.png"
+    },
+    {
+     "id": "2166",
+     "name": "Anisette",
+     "url": "https://fontsinuse.com/typefaces/2166/anisette",
+     "sample": "https://assets.fontsinuse.com/static/renders/13/2166/400/4/6b07f02c/anisette.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310057/upto-700xauto/6af048f1/CARTAZ%20A3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310068/upto-700xauto/6af05cb8/FAIXA---III-SIH-ARTEFATOS.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310072/upto-700xauto/6af05cf2/CRONOGRAMA-ATUALIZADO.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310058/upto-700xauto/6b07f051/mockup%20iii%20sih.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310069/upto-700xauto/6af05cf2/IMG_20261105_0855302.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310070/upto-700xauto/6af05cf2/IMG_20261105_085530.png"
+   ],
+   "excerpt": "The III Semana Internacional de Humanidades (“3rd International Week of Humanities”) is an annual event organized by the Institute of Humanities at the University for International Integration of the Afro-Brazilian Lusophony (UNILAB) . Its program brings…"
+  },
+  {
+   "id": "81302",
+   "title": "Hampton Castle",
+   "url": "https://fontsinuse.com/uses/81302/hampton-castle",
+   "date": "2026-11-26T06:05:00.000Z",
+   "author": "Sarah Schroeder",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248188",
+     "name": "Bárur",
+     "url": "https://fontsinuse.com/typefaces/248188/barur",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18085/440/4/69ea0b3e/barur.png"
+    },
+    {
+     "id": "45",
+     "name": "Gill Sans",
+     "url": "https://fontsinuse.com/typefaces/45/gill-sans",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/45/400/4/6b07e3e8/gill-sans.png"
+    },
+    {
+     "id": "250810",
+     "name": "Maison Voyage",
+     "url": "https://fontsinuse.com/typefaces/250810/maison-voyage",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19691/440/4/6b07c5b8/maison-voyage.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309603/upto-700xauto/6b07e4ea/670880966_18350648176215044_5813209331960520930_n-webp.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309600/upto-700xauto/6b07ea65/658821777_18348469096215044_5902779628128056266_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309584/upto-700xauto/6b07e4ea/670390514_18350648200215044_2666188864704460137_n-webp.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309604/upto-700xauto/6aeb5c16/IG.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309605/upto-700xauto/6aeb5c49/673089370_18351734647215044_2355724953118815499_n.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309606/upto-700xauto/6aeb5c80/671166711_18351734656215044_8988400131168524926_n.jpeg"
+   ],
+   "excerpt": "Hampton Castle in Herefordshire is a wedding venue whose history goes back to 1427. eighteen73 designed its visual identity around an interlocking HC monogram, which also extends into an illustrated emblem. It is paired with an ornate script typeface named…"
+  },
+  {
+   "id": "81332",
+   "title": "A24 website (2026)",
+   "url": "https://fontsinuse.com/uses/81332/a24-website-2026",
+   "date": "2026-11-26T05:44:00.000Z",
+   "author": "Alex Nguyen",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "106391",
+     "name": "Neue Montreal",
+     "url": "https://fontsinuse.com/typefaces/106391/neue-montreal",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5845/440/4/5d4d32ad/neue-montreal.png"
+    },
+    {
+     "id": "232952",
+     "name": "Neue Montreal Mono",
+     "url": "https://fontsinuse.com/typefaces/232952/neue-montreal-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12935/440/4/65c349b9/neue-montreal-mono.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309786/upto-700xauto/6b07f981/Screenshot%20%283661%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309963/upto-700xauto/6af48c79/Screenshot%20%28962%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309960/upto-700xauto/6af48c7d/Screenshot%20%28959%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309962/upto-700xauto/6b07f9ae/Screenshot%20%28961%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309787/upto-700xauto/6af48c82/Screenshot%20%283662%29.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309959/upto-700xauto/6af48c85/Screenshot%20%28958%29.png"
+   ],
+   "excerpt": "Some time late October of this year, A24 updated their official website with a refreshed design. Do not fret as everything is still very much grayscale, dominated with massive images and spaced out sans-serif fonts."
+  },
+  {
+   "id": "81352",
+   "title": "paybyphone",
+   "url": "https://fontsinuse.com/uses/81352/paybyphone",
+   "date": "2026-11-26T05:33:00.000Z",
+   "author": "TypeType",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "102920",
+     "name": "Tt Hoves",
+     "url": "https://fontsinuse.com/typefaces/102920/tt-hoves",
+     "sample": "https://assets.fontsinuse.com/static/renders/114/102920/400/4/6b07e0c6/tt-hoves.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309888/upto-700xauto/6aede79c/tt_fiu_paybyphone_web_cover.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309889/upto-700xauto/6aede79d/tt_fiu_paybyphone_web_1.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309890/upto-700xauto/6b07e13b/tt_fiu_paybyphone_web_2.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309891/upto-700xauto/6aede7a1/tt_fiu_paybyphone_web_3.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309892/upto-700xauto/6aede7a2/tt_fiu_paybyphone_web_4.png",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309893/upto-700xauto/6aede7a3/tt_fiu_paybyphone_web_5.png"
+   ],
+   "excerpt": "TT Hoves Pro has become the corporate font for PayByPhone ."
+  },
   {
    "id": "80065",
    "title": "On Location in New York City",
@@ -546,8 +849,8 @@
   },
   {
    "id": "81290",
-   "title": "32nd Mondial d’Impro posters",
-   "url": "https://fontsinuse.com/uses/81290/32nd-mondial-d-impro-posters",
+   "title": "32nd Mondial d’Impro poster series",
+   "url": "https://fontsinuse.com/uses/81290/32nd-mondial-d-impro-poster-series",
    "date": "2026-11-25T08:50:26.000Z",
    "author": "Bolid System",
    "staffPick": false,
