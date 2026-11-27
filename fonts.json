@@ -1,34 +1,20 @@
 {
- "updated": "2026-11-26T18:22:40.734Z",
+ "updated": "2026-11-27T18:07:44.633Z",
  "day": {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "picks": [
-   "244570",
-   "249052",
-   "231213",
-   "249987",
-   "31435",
-   "219507",
-   "7782",
-   "250474",
-   "245558"
+   "35",
+   "48061",
+   "7317",
+   "250301",
+   "7884",
+   "240352",
+   "229327",
+   "110685",
+   "39028"
   ]
  },
  "history": [
-  {
-   "date": "2026-10-27",
-   "picks": [
-    "3483",
-    "236482",
-    "232874",
-    "81438",
-    "210409",
-    "245069",
-    "250301",
-    "39028",
-    "250302"
-   ]
-  },
   {
    "date": "2026-10-28",
    "picks": [
@@ -448,9 +434,326 @@
     "250474",
     "245558"
    ]
+  },
+  {
+   "date": "2026-11-27",
+   "picks": [
+    "35",
+    "48061",
+    "7317",
+    "250301",
+    "7884",
+    "240352",
+    "229327",
+    "110685",
+    "39028"
+   ]
   }
  ],
  "uses": [
+  {
+   "id": "81431",
+   "title": "FREOCAST",
+   "url": "https://fontsinuse.com/uses/81431/freocast",
+   "date": "2026-11-27T09:04:05.000Z",
+   "author": "Ryan Sandilands",
+   "staffPick": true,
+   "typefaces": [
+    {
+     "id": "159408",
+     "name": "ABC Gravity",
+     "url": "https://fontsinuse.com/typefaces/159408/abc-gravity",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9121/440/4/618531c8/abc-gravity.png"
+    },
+    {
+     "id": "218787",
+     "name": "Saans",
+     "url": "https://fontsinuse.com/typefaces/218787/saans",
+     "sample": "https://assets.fontsinuse.com/static/samples/12/11662/440/4/64690846/saans.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310245/upto-700xauto/6b09461a/01-car-bumper-sticker-mockup.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310239/upto-700xauto/6b0945eb/02-phone-website-black.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310240/upto-700xauto/6b0945ee/03-desktop-website-black.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310241/upto-700xauto/6b094694/04-container-signage.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310242/upto-700xauto/6b0945f9/05-dj-booth.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310243/upto-700xauto/6b0945fc/06-flat-bumper-stickers.jpeg"
+   ],
+   "excerpt": "FREOCAST is an independent, volunteer-led community radio station in Walyalup / Fremantle, Western Australia. Ryan Sandilands developed its refreshed identity and digital experience, working with developer Michael Precel on the website and app."
+  },
+  {
+   "id": "81450",
+   "title": "Dead Letters zine",
+   "url": "https://fontsinuse.com/uses/81450/dead-letters-zine",
+   "date": "2026-11-27T08:54:37.000Z",
+   "author": "Pooja Saxena",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "246634",
+     "name": "Dargon",
+     "url": "https://fontsinuse.com/typefaces/246634/dargon",
+     "sample": "https://assets.fontsinuse.com/static/samples/18/17365/440/4/69f2277a/dargon.png"
+    },
+    {
+     "id": "246632",
+     "name": "Dargon Text",
+     "url": "https://fontsinuse.com/typefaces/246632/dargon-text",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18146/440/4/69f22731/dargon-text.png"
+    },
+    {
+     "id": "162405",
+     "name": "Postea",
+     "url": "https://fontsinuse.com/typefaces/162405/postea",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8403/440/4/60daed40/postea.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310361/upto-700xauto/6af441c9/DeadLetters_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310362/upto-700xauto/6af43d56/DeadLetters_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310365/upto-700xauto/6af440da/PoojaSaxena_DeadLetters_HorizontalSpread.jpeg"
+   ],
+   "excerpt": "Dead Letters is a special issue of the India Street Lettering zine series , which highlights the letterforms on gravestones in historic cemeteries around the country. It includes photographs from South Park Street Cemetery (Kolkata), Nicholson Cemetery…"
+  },
+  {
+   "id": "81341",
+   "title": "Great Spa Times, issue 2",
+   "url": "https://fontsinuse.com/uses/81341/great-spa-times-issue-2",
+   "date": "2026-11-27T08:52:00.000Z",
+   "author": "Heavyweight",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "248759",
+     "name": "Boxi",
+     "url": "https://fontsinuse.com/typefaces/248759/boxi",
+     "sample": "https://assets.fontsinuse.com/static/samples/19/18414/440/4/6a1ec27c/boxi.png"
+    },
+    {
+     "id": "158367",
+     "name": "Mercure",
+     "url": "https://fontsinuse.com/typefaces/158367/mercure",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8219/440/4/63062123/mercure.png"
+    },
+    {
+     "id": "113132",
+     "name": "Caslon Ionic",
+     "url": "https://fontsinuse.com/typefaces/113132/caslon-ionic",
+     "sample": "https://assets.fontsinuse.com/static/samples/7/6277/440/4/5e20888f/caslon-ionic.png"
+    },
+    {
+     "id": "191301",
+     "name": "Modelo",
+     "url": "https://fontsinuse.com/typefaces/191301/modelo",
+     "sample": "https://assets.fontsinuse.com/static/samples/10/9813/440/4/6261245c/modelo.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/310/309837/upto-700xauto/6b09421b/great%20spa%20times_2026_1.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309849/upto-700xauto/6af1bfc0/great%20spa%20times_2026_15%20copy.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310156/upto-700xauto/6af1bfc0/GreatSpaTimes_noviny2.gif",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309902/upto-700xauto/6af1c814/great%20spa%20times_2026_19%20copy.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309841/upto-700xauto/6af1c817/FAK_great%20spa%20times_makro_4%20copy.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/310/309846/upto-700xauto/6b094208/great%20spa%20times_2026_22.jpeg"
+   ],
+   "excerpt": "Great Spa Times is a newspaper-style magazine, now in its second issue, released for the fifth anniversary of the inscription of the Great Spa Towns of Europe on the UNESCO World Heritage List. The project was initiated by Zuzana Stejskalová, site manager…"
+  },
+  {
+   "id": "81415",
+   "title": "Cucina di Famiglia by Denny Imbroisi",
+   "url": "https://fontsinuse.com/uses/81415/cucina-di-famiglia-by-denny-imbroisi",
+   "date": "2026-11-27T08:50:54.000Z",
+   "author": "WrittenShape Type Foundry",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "167778",
+     "name": "Gaya",
+     "url": "https://fontsinuse.com/typefaces/167778/gaya",
+     "sample": "https://assets.fontsinuse.com/static/samples/9/8746/440/4/6145a85d/gaya.png"
+    },
+    {
+     "id": "7705",
+     "name": "Pitch",
+     "url": "https://fontsinuse.com/typefaces/7705/pitch",
+     "sample": "https://assets.fontsinuse.com/static/samples/1/318/440/4/570e2012/pitch.png"
+    },
+    {
+     "id": "44132",
+     "name": "Brother 1816",
+     "url": "https://fontsinuse.com/typefaces/44132/brother-1816",
+     "sample": "https://assets.fontsinuse.com/static/renders/54/44132/400/4/6b09446f/brother-1816.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310167/upto-700xauto/6af1e0fd/01.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310168/upto-700xauto/6af1e0fd/02.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310169/upto-700xauto/6af1e0fe/03.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310170/upto-700xauto/6af1e0ff/04.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310171/upto-700xauto/6af1e100/05.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310172/upto-700xauto/6af1e100/07.webp"
+   ],
+   "excerpt": "Published in December 2025, Cucina di Famiglia is a cooking book by Denny Imbroisy, designed by Juste Ciel and Benjamin Heuzé. Benjamin used Gaya Medium Upright and Italic for titles and some texts, Pitch and some parts are set in all caps Brother 1816 ."
+  },
+  {
+   "id": "81414",
+   "title": "437",
+   "url": "https://fontsinuse.com/uses/81414/437",
+   "date": "2026-11-27T08:42:25.000Z",
+   "author": "Altiplano Typefaces",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "109459",
+     "name": "Dominicale",
+     "url": "https://fontsinuse.com/typefaces/109459/dominicale",
+     "sample": "https://assets.fontsinuse.com/static/samples/6/5960/440/4/5d849ac8/dominicale.png"
+    },
+    {
+     "id": "72780",
+     "name": "Euclid Circular B",
+     "url": "https://fontsinuse.com/typefaces/72780/euclid-circular-b",
+     "sample": "https://assets.fontsinuse.com/static/samples/5/4135/440/4/5a303902/euclid-circular-b.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/313/312349/upto-700xauto/6b09301a/image.webp",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310160/upto-700xauto/6b09301a/ALT_437_02.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310163/upto-700xauto/6b09301a/ALT_437_05.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310159/upto-700xauto/6b09301a/ALT_437_01.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310165/upto-700xauto/6b09301a/ALT_437_07.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310164/upto-700xauto/6b09301a/ALT_437_06.jpeg"
+   ],
+   "excerpt": "437 (Four Three Seven) is an activewear and swimwear brand launched in 2016 by Hyla Nayeri and Adrien Bettio. Its rebrand pairs Dominicale ( Altiplano ) with Euclid Circular B ( Swiss Typefaces )."
+  },
+  {
+   "id": "74695",
+   "title": "Ninety-Nine Glimpses of Princess Margaret by Craig Brown",
+   "url": "https://fontsinuse.com/uses/74695/ninety-nine-glimpses-of-princess-margaret-by-",
+   "date": "2026-11-27T08:41:18.000Z",
+   "author": "Aubrey Hays, Frere-Jones Type",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "2232",
+     "name": "Garage Gothic",
+     "url": "https://fontsinuse.com/typefaces/2232/garage-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/4/3064/440/4/57f6b4fd/garage-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/280/279854/upto-700xauto/6af5c038/Garage%20Gothic_Ninety%20Nine.jpeg"
+   ],
+   "excerpt": "The dust jacket for Ninety-Nine Glimpses of Princess Margaret by Craig Brown was designed by Rodrigo Corral using a photograph from Popperfoto and the Garage Gothic typeface by Frere-Jones Type ."
+  },
+  {
+   "id": "81405",
+   "title": "prau",
+   "url": "https://fontsinuse.com/uses/81405/prau",
+   "date": "2026-11-27T08:30:45.000Z",
+   "author": "Hamish Childs",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "207269",
+     "name": "TWK Burns",
+     "url": "https://fontsinuse.com/typefaces/207269/twk-burns",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12269/440/4/6502d93a/twk-burns.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310131/upto-700xauto/6af17948/hamish_childs_1727333092_3465443606872467976_3525384220.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310130/upto-700xauto/6af1793e/hamish_childs_1727333092_3465443606880939816_3525384220.jpeg"
+   ],
+   "excerpt": "Identity refresh for the talented architects of prau (Phil redmond). The business cards were masterfully printed by Jot Press , on extract shell 380gsm by GF Smith and finished with matt black foil embossing/debossing plus a matt foil on the back, applied…"
+  },
+  {
+   "id": "81382",
+   "title": "Readology app",
+   "url": "https://fontsinuse.com/uses/81382/readology-app",
+   "date": "2026-11-27T08:24:53.000Z",
+   "author": "Memouna Diallo",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "250530",
+     "name": "Aros Gothic",
+     "url": "https://fontsinuse.com/typefaces/250530/aros-gothic",
+     "sample": "https://assets.fontsinuse.com/static/samples/20/19695/440/4/6b093d89/aros-gothic.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310061/upto-700xauto/6af04bb3/2-readology-headline.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310062/upto-700xauto/6af04bb4/3-readology-same-words.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310063/upto-700xauto/6b093ddc/4-readology-four-weights.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310064/upto-700xauto/6af04bb6/5-readology-editor.png",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310065/upto-700xauto/6af04bb7/6-readology-website.png"
+   ],
+   "excerpt": "Readology is a free writing tool that formats one draft for a blog, an email, LinkedIn or Slack without changing a single word. The whole interface is set in Aros Gothic by Haus Type. Four weights each have one job: SemiBold for headers, Bold for the…"
+  },
+  {
+   "id": "81373",
+   "title": "QUACK QUACK: Loud Fantasy by Dima Nislin",
+   "url": "https://fontsinuse.com/uses/81373/quack-quack-loud-fantasy-by-dima-nislin",
+   "date": "2026-11-27T08:07:31.000Z",
+   "author": "Dima Nislin",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "4",
+     "name": "Futura",
+     "url": "https://fontsinuse.com/typefaces/4/futura",
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b093a44/futura.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310046/upto-700xauto/6aefba22/Artboard-1_1_optimized.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310033/upto-700xauto/6aefba22/Artboard-11_optimized.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310034/upto-700xauto/6aefba22/Artboard-19_optimized.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310036/upto-700xauto/6aefba22/Artboard%202_optimized.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310037/upto-700xauto/6b093ac4/Artboard%203_optimized.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310038/upto-700xauto/6aefba22/Artboard%204_optimized.jpeg"
+   ],
+   "excerpt": "QUACK QUACK: Loud Fantasy is a self-initiated zine by Moscow-based designer Dima Nislin , self-published in April 2025 as a 16-page A5 booklet with a laminated cover. It is about everyday anxiety, paranoia, and exhaustion that gradually build up over time."
+  },
+  {
+   "id": "81394",
+   "title": "SOFT RETURN – Archive of Quiet Transformations",
+   "url": "https://fontsinuse.com/uses/81394/soft-return-archive-of-quiet-transformations",
+   "date": "2026-11-27T06:27:00.000Z",
+   "author": "Johanna Schütze",
+   "staffPick": false,
+   "typefaces": [
+    {
+     "id": "82632",
+     "name": "Alte Haas Grotesk",
+     "url": "https://fontsinuse.com/typefaces/82632/alte-haas-grotesk",
+     "sample": "https://assets.fontsinuse.com/static/samples/13/12024/440/4/64c7eb28/alte-haas-grotesk.png"
+    },
+    {
+     "id": "237491",
+     "name": "Geist Mono",
+     "url": "https://fontsinuse.com/typefaces/237491/geist-mono",
+     "sample": "https://assets.fontsinuse.com/static/samples/14/13964/440/4/66e999a3/geist-mono.png"
+    },
+    {
+     "id": "168562",
+     "name": "Adobe Ming",
+     "url": "https://fontsinuse.com/typefaces/168562/adobe-ming",
+     "sample": "https://assets.fontsinuse.com/static/renders/309/168562/400/4/6b093f02/adobe-ming.png"
+    }
+   ],
+   "images": [
+    "https://assets.fontsinuse.com/static/use-media-items/311/310112/upto-700xauto/6af0d268/Soft_Return_Shooting_Print-12.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310113/upto-700xauto/6af0d261/Soft_Return_Shooting_Print-2.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310114/upto-700xauto/6b093f3b/Soft_Return_Shooting_Print-5.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310115/upto-700xauto/6af0d239/Soft_Return_Shooting_Print-10.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310116/upto-700xauto/6af0d23d/Soft_Return_Shooting_Print-25.jpeg",
+    "https://assets.fontsinuse.com/static/use-media-items/311/310117/upto-700xauto/6af0d244/Soft_Return_Shooting_Print-3.jpeg"
+   ],
+   "excerpt": "SOFT RETURN – Archive of Quiet Transformations was made as a student project at TH Nürnberg ."
+  },
   {
    "id": "81411",
    "title": "Craeghs",
@@ -560,7 +863,7 @@
     "https://assets.fontsinuse.com/static/use-media-items/307/306098/upto-700xauto/6ac667bf/IN-USE_FMC4.jpeg",
     "https://assets.fontsinuse.com/static/use-media-items/307/306100/upto-700xauto/6ac667c1/IN-USE_FMC6.jpeg"
    ],
-   "excerpt": "We used our own BVH Type font pair BDot and BLine to create the visual identity and wayfinding for Collection du Crest , paired with a yet to be released serif. On the website, both are paired with Dupincel from Plau . The concept sets three heritages in…"
+   "excerpt": "We used our own BVH Type font pair BDot and BLine to create the visual identity and wayfinding for Collection du Crest , paired with a yet to be released serif. On the website, BDot and BLine are paired with Dupincel from Plau . The concept sets three…"
   },
   {
    "id": "80107",
@@ -731,7 +1034,7 @@
   },
   {
    "id": "81352",
-   "title": "paybyphone",
+   "title": "PayByPhone",
    "url": "https://fontsinuse.com/uses/81352/paybyphone",
    "date": "2026-11-26T05:33:00.000Z",
    "author": "TypeType",
@@ -2297,7 +2600,7 @@
      "id": "4",
      "name": "Futura",
      "url": "https://fontsinuse.com/typefaces/4/futura",
-     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b053b4d/futura.png"
+     "sample": "https://assets.fontsinuse.com/static/renders/1/4/400/4/6b093a44/futura.png"
     },
     {
      "id": "233945",
